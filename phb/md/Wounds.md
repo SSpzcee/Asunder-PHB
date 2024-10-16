@@ -84,6 +84,11 @@ Critical wounds require 25 weeks to heal or 16 while in the hospital.
 
 # **Blunt**
 
+[|Minor|](#-minor)
+[|Major|](#-major)
+[|Severe|](#-severe)
+[|Critical|](#-critical)
+
 ## **Blunt (Minor)**
 
 ### **\- (1 \- 20\) Ringing Noise (Head)**
@@ -203,6 +208,11 @@ Also forget about using any Jutsu or powers that move you or allow you to move, 
 Once you've had two weeks of medical treatment and been put in a splint, you can walk. So long as you carry a crutch, cane, or walking stick (which does occupy a hand), you can move at half speed, and suffer only halve the above penalties. You can do so without out, though each time you take any action which requires you to move (including dodging), or are hit, you have a 50% chance of your leg giving out, and suffering all the regular penalties.
 
 # **Slashing**
+
+[|Minor|](#-minor)
+[|Major|](#-major)
+[|Severe|](#-severe)
+[|Critical|](#-critical)
 
 ## **Slashing (Minor)**
 
@@ -348,6 +358,11 @@ The worst part is that you really just can't move. You can't move as part of an 
 
 # **Piercing**
 
+[|Minor|](#-minor)
+[|Major|](#-major)
+[|Severe|](#-severe)
+[|Critical|](#-critical)
+
 ## **Needling**
 
 Needling is a status effect unique to Piercing Wounds. Every Piercing Wound will inflict some amount of Needling, which represents the slow, steady pain and debilitating effect of being stabbed full of holes. Needling, accordingly, fully stacks with itself. One or two you can typically bear without too much trouble (assuming they don’t go through you), but the more puncture wounds you take, the harder it becomes to have those bursts of energy that ninja depend upon to get an edge on their opponents. Needling reduces the maximum size of your AP pool by its severity (other sources of AP gain, such as Gates, are unaffected by this), and will cause you to lose any AP you might have had if your maximum AP cap is brought below your current AP. Every time you gain AP, you first reduce it by your Needling Status (Potentially to 0), then reduce your Needling Severity by the amount the AP gain was reduced by: If you had a Needling 6 status effect, and gained 8 APs, you would reduce your Needling status to 0 (returning your AP pool to its normal maximum) and then gain 2 AP (rather than 8).
@@ -468,7 +483,12 @@ At that point, you begin regaining lost maximum HP and Vitality. Every week whic
 
 # **Energy**
 
-## **Energy (Minor)**
+[|Minor|](#energy-minor)
+[|Major|](#energy-major)
+[|Severe|](#energy-severe)
+[|Critical|](#energy-critical)
+
+## **[Energy (Minor)]{#energy-minor}**
 
 ### **\- (1 \- 20\) Sun Spots (Head)**
 
