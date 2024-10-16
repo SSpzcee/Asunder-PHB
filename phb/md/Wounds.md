@@ -84,10 +84,10 @@ Critical wounds require 25 weeks to heal or 16 while in the hospital.
 
 # **Blunt**
 
-[|Minor|](#-minor)
-[|Major|](#-major)
-[|Severe|](#-severe)
-[|Critical|](#-critical)
+[|Minor|](#blunt-minor)
+[|Major|](#blunt-major)
+[|Severe|](#blunt-severe)
+[|Critical|](#blunt-critical)
 
 ## **Blunt (Minor)**
 
@@ -209,10 +209,10 @@ Once you've had two weeks of medical treatment and been put in a splint, you can
 
 # **Slashing**
 
-[|Minor|](#-minor)
-[|Major|](#-major)
-[|Severe|](#-severe)
-[|Critical|](#-critical)
+[|Minor|](#slashing-minor)
+[|Major|](#slashing-major)
+[|Severe|](#slashing-severe)
+[|Critical|](#slashing-critical)
 
 ## **Slashing (Minor)**
 
@@ -358,10 +358,10 @@ The worst part is that you really just can't move. You can't move as part of an 
 
 # **Piercing**
 
-[|Minor|](#-minor)
-[|Major|](#-major)
-[|Severe|](#-severe)
-[|Critical|](#-critical)
+[|Minor|](#piercing-minor)
+[|Major|](#piercing-major)
+[|Severe|](#piercing-severe)
+[|Critical|](#piercing-critical)
 
 ## **Needling**
 
@@ -488,7 +488,7 @@ At that point, you begin regaining lost maximum HP and Vitality. Every week whic
 [|Severe|](#energy-severe)
 [|Critical|](#energy-critical)
 
-## **[Energy (Minor)]{#energy-minor}**
+## **Energy (Minor)}**
 
 ### **\- (1 \- 20\) Sun Spots (Head)**
 
