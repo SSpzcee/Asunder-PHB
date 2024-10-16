@@ -26,17 +26,16 @@ Suffocation effects do not force you to make Stamina rolls, but still apply norm
 
 Among those who've worked alongside Henzaki for any prolonged period of time, this is probably their most envied ability. A Henzaki will heal in minutes from injuries that would take others hours to get over, and in hours will have recovered from wounds that might take days for ordinary people to recover from.
 
-Type: Ability  
-Base Cost: 2  
-Scale: 5  
-Limit: 1 \+ RES /30
+Type: Ability
+Base Cost: 2
+Scale: 5
+Limit: 1 + RES /30
 
-Effects:  
+Effects:
 You regenerate 1 point of Vitality per rank each Initiative Count, and twice that amount of HP.
+In a given day, you can only heal (rank) times half your maximums of each. Thus, at three ranks in regeneration, if you had 1000 Vitality you could only regenerate 1500 Vitality in a given day.
+Finally, you divide the total healing time necessary to recovery from any wound that doesn't involve injured bones by 1+(0.5 * rank). Medical attention cannot reduce it further; however, you can recover as if you had medical attention, even if you do not, thanks to your regeneration.
 
-In a given day, you can only heal (rank) times half your maximums of each. Thus, at two ranks in regeneration, if you had 1000 Vitality you could only regenerate 2000 Vitality in a given day.
-
-Finally, you divide the total healing time necessary to recovery from any wound that doesn't involve injured bones by 1+(0.5 \* rank). Medical attention cannot reduce it further; however, you can recover as if you had medical attention, even if you do not, thanks to your regeneration.
 
 ### **Organ Mobility**
 
