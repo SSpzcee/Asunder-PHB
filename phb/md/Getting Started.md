@@ -28,7 +28,7 @@ Choosing a clan is not mandatory, and clanless ninja have their own benefits: a 
 
 \--------------------------------------------------------------------------------------------------------
 
-# [Determine Attributes](#attributes-attributes)
+# [Determine Attributes](#attributes)
 
 Attributes (also known as Stats) represent your character’s raw capabilities. The five attributes are: Strength (STR), Resilience (RES), Chakra (CHA), Dexterity (DEX), and Agility (AGI). More information is covered in the Attributes page.
 
@@ -44,7 +44,7 @@ Your starting XP will influence other aspects of the character creation process,
 
 \--------------------------------------------------------------------------------------------------------
 
-# [Choose Skills](#skills-skills)
+# [Choose Skills](#skills)
 
 A new character typically has XP/25 Skill Points, which can be spent on any of the game's 12 skills.
 
