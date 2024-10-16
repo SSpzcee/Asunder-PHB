@@ -15,9 +15,9 @@ st.markdown("""
 
 rules, nin, tai, gen = st.tabs(["Jutsu Rules", "Ninjutsu", "Taijutsu", "Genjutsu"])
 
-rules.markdown("<a href='taijutsu'>Taijutsu</a>", unsafe_allow_html=True)
-rules.markdown("<a href='ninjutsu'>Ninjutsu</a>", unsafe_allow_html=True)
-rules.markdown("<a href='genjutsu'>Genjutsu</a>", unsafe_allow_html=True)
+rules.markdown("<a href='#taijutsu'>Taijutsu</a>", unsafe_allow_html=True)
+rules.markdown("<a href='#ninjutsu'>Ninjutsu</a>", unsafe_allow_html=True)
+rules.markdown("<a href='#genjutsu'>Genjutsu</a>", unsafe_allow_html=True)
 
 rulesj = open("phb/md/Jutsu.md", "r")
 rules.write(rulesj.read())
