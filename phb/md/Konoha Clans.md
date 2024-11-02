@@ -842,23 +842,23 @@ Once known as the Senju Clan of the Forest, and allegedly descended from the Sag
 
 The Senju bloodline, once famed for their limitless talents, have fallen far, but one trait remains--or, rather, it's the only one that can be recognized as a sign of Senju heritage. That is Mokuton, combining Water and Earth natured chakra to produce wood-related jutsu. It should be noted that this is wood, specifically, and to a lesser extent, trees--they don't have (despite what legends claim) plant empathy, the ability to restore life to wilting flowers, or anything similar. Any Suiton or Doton technique can be converted to Mokuton, with the following effects:
 
-* \+5 Chakra cost  
-* Suiton techniques that create Water Gallons instead create an equivalent amount of Seeds. Seeds can be spent for Mokuton techniques in the same manner as Gallons of Water, except you lose only half of the spent Seeds rather than all.  
-* Seeds can be targeted by any Katon attack, which lands automatically. In which case, 1 Seed is burnt and disappears for every 50 damage the Katon attack deals. Area Katon attacks do not need to specifically target the Seeds to burn them.  
-* Suiton transformed Mokuton techniques can receive double the benefits from spending Seeds. But if done so, the entire amount of Seeds used is spent, rather than half.  
-* Doton damaging attacks apply the “Sea of Thorns” environmental effect across their Area  
-* Non-Area Doton attacks gain an Area of ten and the appropriate tag, Area Doton attacks instead have their area increased by 5\.  
-* All Mokuton techniques add CHA/10, rather than DEX/10, to your Accuracy and Seal Speed reduction, if this would be preferable.   
-* Senju characters use the higher of their CHA or DEX to determine the maximum rank of the "Accurate" Ability rather than just DEX. And for Uniques such as Seal Master or Single Handed Seals, you may replace DEX with CHA where it is appropriate.  
-* The Upkeep of Mokuton techniques is reduced by CHA/30, to a minimum of half its original value. This is applied before uniques and other effects.  
-* The Chakra Exhaustion penalties incurred by using Mokuton techniques are reduced by 2, to a minimum of 1\. This is applied before uniques and other effects  
-* Mokuton is weak to Raiton, but strong against Suiton and Katon.
+* +5 Chakra cost
+* Suiton techniques that create Water Gallons instead create an equivalent amount of Seeds. Seeds can be spent for Mokuton techniques in the same manner as Gallons of Water, except you lose only half of the spent Seeds rather than all.
+* Seeds can be targeted by any Katon attack, which lands automatically. In which case, 1 Seed is burnt and disappears for every 50 damage the Katon attack deals. Area Katon attacks do not need to specifically target the Seeds to burn them.
+* Suiton transformed Mokuton techniques can receive double the benefits from spending Seeds. But if done so, the entire amount of Seeds used is spent, rather than half.
+* Doton damaging attacks apply the “Sea of Thorns” environmental effect across their Area
+* Non-Area Doton attacks gain an Area of ten and the appropriate tag, Area Doton attacks instead have their area increased by 5.
+* The Upkeep of Mokuton techniques is reduced by CHA/30, to a minimum of half its original value. This is applied before uniques and other effects.
+* The Chakra Exhaustion penalties incurred by using Mokuton techniques are reduced by 1, to a minimum of 1. This is applied after uniques and other effects.
+Mokuton is weak to Raiton, but strong against Suiton and Katon.
+
+
 
 ### **Sea of Thorns**
 
 This isn’t a Status Condition, rather the Senju creates forests of vines covered in supernaturally sharp thorns that shred through anything.
 
-Anyone inside the affected area moving by any means or dodging, takes 1D10+NDB\*(Yards moved inside the Area) Piercing Damage that cannot be mitigated or reduced in any way (Even by DR). And every cumulative 15 yards moved inside a “Sea of Thorns” area grants Immobilization 1 that stacks with Immobilization sources coming from Mokuton. Dodging counts as moving 5 yards for both damage calculations and the stacking immobilization. The area can be targeted by any form of damaging Area attack so long as it is within range, in which case, so long as the attack deals 200 damage, the Sea of Thorns within the Area of that offensive jutsu is destroyed.
+Anyone inside the affected area moving by any means or dodging, takes NDB*(Yards moved inside the Area) Piercing Damage that cannot be mitigated or reduced in any way (Even by DR). And every cumulative 15 yards moved inside a “Sea of Thorns” area grants Immobilization 1 that stacks with Immobilization sources coming from Mokuton. Dodging counts as moving 5 yards for both damage calculations and the stacking immobilization. The area can be targeted by any form of damaging Area attack so long as it is within range, in which case, so long as the attack deals CHA*4 damage but the *4 is reduced by 1 for every 10 yards the radius extends (minimum of 1), the Sea of Thorns within the Area of that offensive jutsu is destroyed. Raiton is treated as dealing twice the amount of damage.
 
 A Senju inside the area is unaffected by neither the Damage, nor the Immobilization of Sea of Thorns. And activating Mokuton Mud Wave gives CHA bonus to AGI rather than CHA/2.
 
