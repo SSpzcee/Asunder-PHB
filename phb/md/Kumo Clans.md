@@ -348,14 +348,18 @@ After (Chakra Control Ranks \* 2\) ICs, the Chakra within the weapon dissipates 
 
 ### **Onryō Ikkan-Sei No Jutsu \- Volume Coherence Technique**
 
-Type: C Rank - Shinton Ninjutsu
-Chakra: 26
-Upkeep: 8
-Area: 20 by 20 Square
-Speed: 16
+Type: C Rank \- Shinton Ninjutsu
+
+Chakra: 26 \
+Upkeep: 8 \
+Area: 20 by 20 Square \
+Speed: 16 \
 Seal Speed: 21
+
 Requires: 8 Kunai.
+
 Effects:
+
 You throw out 8 Kunai infused with low or high (chosen on use) frequency vibrations, sectioning off a 20 by 20 Yard square. This area always provides the benefits of interference. This jutsu lasts for 15 IC increasing by 10 every time a Shinton jutsu is used within it or passes through it.
 
 ## **Yurigami**
