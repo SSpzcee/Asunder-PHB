@@ -32,9 +32,10 @@ Any Raiton or Suiton Technique may be converted to Araton, with the following ef
 
 This isn't a Status Effect, rather, the Fūryosu generate highly charged and volatile dark clouds which float overhead and are always centered on you. 
 
-The Fūryosu shinobi is considered to be everywhere in the Area of the "Storm Cloud" at once for purposes of determining the range of Araton techniques and where the attack originates as they bring down thunder and lightning from above; though they are not physically occupying the entire space and may still be targeted normally. Techniques such as Rising Phoenix Blast, if used as an interrupt, cannot target a Fūryosu that performs an Araton technique in this manner as the attack does not originate from them. Though such techniques may still be used as a Ninjutsu Parry.
+The Fūryosu shinobi is considered to be everywhere in the Area of the "Storm Cloud" at once for purposes of determining the range of Araton techniques and where the attack originates as they bring down thunder and lightning from above; though they are not physically occupying the entire space and may still be targeted normally. Techniques such as Rising Phoenix Blast, if used as an interrupt, cannot target a Fūryosu that performs an Araton technique in this manner as the attack does not originate from them. Though such techniques may still be used as a Ninjutsu Parry. You have an upkeep of 0 while you have a storm cloud. If an ally enters the storm’s radius you may increase the upkeep by 1 to exclude them from the attacks below.
 
-Once every 15 ICs, everybody (Except for the Fūryosu) within a Storm Cloud Area are struck by a lightning bolt this is a speed 10 to determine defenses and cannot be AP down This can be defended against, counting as a Ninjutsu Ranged Attack with an ACC two lower than the Fūryosu's. Though any interrupts performed against this do not move the defender's IC. If a target is hit, they take (Storm Cloud Size)d6\*1d4 Energy damage.
+Once every 15 ICs, everybody (Except for the Fūryosu) within a Storm Cloud Area are struck by a lightning bolt; this is a speed 10 to determine defenses and cannot be AP down. This can be defended against, counting as a Ninjutsu Ranged Attack with the Fūryosu's current ACC-2. Though any interrupts performed against this do not move the defender's IC. If a target is hit, they take (Storm Cloud Size)d6*1d4 Energy damage.
+
 
 ### **Arashi no Kisetsu \- Storm Season**
 
@@ -93,7 +94,7 @@ Effect: Area of this technique is equal to the size of your "Storm Cloud". And f
 
 \-High Winds: The Hurricane picks up anybody within the area (With the exception of those in the eye of the storm) and hurls them around. Choose a cardinal direction for each target (N, W, S, E, NW, NE, SW, SE), they suffer a Knockback towards that direction equal to the Size of the Storm Cloud used in this Technique. This effect happens even if the targets had successfully defended against the other effects of this technique.
 
-\-Thunderstorm: Increase the Hurricane's damage dice by 6d12 \* 1d3 (rolling a total of 12d12 \* 1d6), it now applies Paralysis 4 for 50 ICs. And if it applies a Wound, it applies an additional Energy Wound of one less Severity (Minimum of a Minor)
+\-Thunderstorm: Increase the Hurricane's damage dice by 6d12 \* 1d3 (rolling a total of 12d12 \* 1d6), it now applies Paralysis 2 for 50 ICs. And if it applies a Wound, it applies an additional Energy Wound of one less Severity (Minimum of a Minor)
 
 \-Blizzard: The Hurricane flash freezes the bodies of any struck targets, reducing their current and maximum AP by (Storm Cloud Size/2) for the duration of the fight. And if it applies a Wound, it applies an additional Piercing Wound of one less Severity (Minimum of a Minor)
 
@@ -293,50 +294,45 @@ You may direct Raiton Techniques of C Rank or lower through the Lacerator toward
 ### **Shinton \- Vibration Release**
 
 Combining lightning and wind chakra results in the advanced nature of Shinton, or “Vibration Release”; a mystical and strange power even in a world full of strange powers, involving the manipulation of clouds and the weather itself to rain down thunder and hail on the enemy.
-
 Any Raiton or Fuuton Technique may be converted to Shinton, with the following effects:
 
-* \+5 Chakra Cost  
-* Shinton cannot be Blocked, ignores full DR, and ignores Armor.  
-* Shinton Techniques can be either High Frequency or Low Frequency, decided by the user at the time that the Jutsu is declared.  
-* High Frequency Shinton only deals 75% of Final Damage.  
-* High Frequency Shinton has \+CHA/30 Accuracy bonus.  
-* High Frequency Shinton Damage Dealing Techniques apply (1+Rank of Jutsu) of the Dissonance Status Effect, which stacks with itself.  
-* Dissonance has a cap of 5+CHA/8.  
-* Low Frequency Shinton Damage Dealing Techniques do not gain any bonuses to Wounding from any source. Instead, every 15% extra wounding that would have been applied adds or increases the Technique's Stun by 1\.  
-* Low Frequency Shinton Damage Dealing Techniques force the target to roll Athletics VS  (Speed of Attack \+ Dissonance Severity) TN. Failure means they fall prone.  
-* Low Frequency Shinton Techniques deal an additional amount of extra Damage equal to twice the Target’s Dissonance Severity. This extra Damage cannot Wound, is separate from the rest of the Technique, and cannot be reduced by any means. Nor is it added to the total of any normal Damage the Technique might have.  
-* Low Frequency Shinton Damage Dealing Techniques lower the target's Dissonance, if they had any, by (Rank of Jutsu). This decrease to Dissonance is applied after the target has rolled to not fall prone taken and taken Dissonance Damage.  
-* Raiton transformed Shinton Techniques cannot apply Paralysis. Instead, they apply a Stun equal to twice the Paralysis' Severity.  
+* +5 Chakra Cost
+* Shinton cannot be Blocked, ignores half DR, and ignores Armor. It also deals Blunt damage unless the technique specifies.
+* Shinton Techniques can be either High Frequency or Low Frequency, decided by the user at the time that the Jutsu is declared.
+* Shinton Techniques cannot apply Paralysis. Instead, they apply a Stun equal to twice the Paralysis' Severity.
+* Shinton Damage Dealing Techniques do not gain any bonuses to Wounding from any source. Instead, every 15% extra wounding that would have been applied adds or increases the Technique's Stun by 1.
+* High Frequency Shinton only deals 75% of Final Damage.
+* High Frequency Shinton has +CHA/30 Accuracy bonus.
+* Low Frequency Shinton Damage Dealing Techniques force the target to roll Athletics or Resistance VS your Chakra Control. Failure means they fall prone.
+* Low Frequency Shinton Techniques increase their Area by CHA/30
 * Shinton is weak to Katon, but strong against Raiton and Doton.
 
-### **Dissonance**
 
-Your Vestibular System, aka sense of balance and coordination, has been abhorrently disrupted by the vibrations currently running through your body. Until they settle down, you'll find yourself stumbling, falling, and messing up many of your actions.
+### **Resonance**
 
-Every time you perform an Action or Interrupt while standing upright, roll Athletics vs (Speed of Action+Dissonance Severity) TN before the Action is resolved or reacted against. If you fail then you fall Prone (As per the E Ranked Taijutsu "Trip). Apply the penalties of being prone to that Action or Interrupt and all subsequent Actions or Interrupts until you stand back up.
+By combining the sound waves of multiple jutsu you can combine their intensities to enhance the power of your Shinton jutsu. When you use a Shiton jutsu, the sound waves linger in its affected area (or a circle with a radius of its range if it doesn’t have an area) for IC equal to twice the speed of the jutsu. If another Shinton jutsu with a chakra cost less then or equal to the original and has the same frequency is used within that time it gains the benefits below provided it passes through the area:
 
-Furthermore, this Dissonance causes it so that any other disruptions to your ability to operate with any sort of competency become much more punishing. The maximum which Paralysis can increase an Action's Base Speed (Which is normally a max of double the base speed of said action) increases by (Dissonance/3). For example, if you had Dissonance 12, the max Paralysis cap for any Action or Interrupt becomes (Double Base Speed \+ 4). So if somebody gave you Paralysis 6 afterwards, then you attempted to Dodge another attack, your Dodge is increased by the full Paralysis 6, becoming a Base Speed 8 Interrupt.
+- High Frequency Shinton Damage Dealing Techniques apply the Ringing Noise Minor wound except it stacks separately than other versions for the purposes of determining its duration. This does not apply if the attack's damage was reduced by partial defense.
+  
+- Low Frequency Shinton Damage Dealing Techniques increase their damage by half the damage dice of the original jutsu (not accounting for any increases such as through Elemental Mastery).
 
-You decrease your Dissonance Severity by RES/30 every 20 ICs.
 
 ### **Kyōmei-Ha No Jutsu \- Resonance Blade Technique**
 
-(Flavor Text)
+"Hear the blade of song" 
 
-Type: C Rank \- Shinton Ninjutsu  
-Chakra: 22  
-Upkeep: 5  
-Speed: 9  
+Type: C Rank - Shinton Ninjutsu
+Chakra: 22
+Upkeep: 5
+Speed: 9
 Requires: A held weapon.
+Effects: You channel high intensity vibrations through your weapon, causing it to become a highly lethal tool that can crush, cut, or pierce through anything. Attacks with this weapon gain the properties of either high or low frequency (chosen on declaration). Attacks with this weapon cannot create or take advantage of interference.
 
-Effects: You channel high intensity vibrations through your weapon, causing it to become a highly lethal tool that can crush, cut, or pierce through anything. You ignore the full DR of the target, and Blocking's effectiveness is reduced by \-50% rather than the normal \-25% of weapons (Typically nullifying normal Blocks). And whenever a target attempts to Parry or Block your Weapon Attack with a weapon of their own, roll a 1d3, on a 1, their weapon breaks as its sliced cleanly through and their Defense automatically fails. Otherwise, resolve their Defense normally.
-
-Additionally, whenever you hit with your weapon, you channel highly destructive shockwaves through the target's body. Which will amplify any vibrations currently coursing through their body in a disruptive and painful spasms. The Target takes twice their Dissonance Severity as unreducible damage. And they are forced to make an Athletics Check with a TN of (Speed of your Attack \+ Their Dissonance Severity). If they fail the check, then they fall prone.
 
 ### **Chinmoku Junshu No Jutsu \- Silent Adherence Technique**
 
-Type: D Rank \- Shinton Ninjutsu  
+Type: D Rank \- Shinton Ninjutsu
+  
 Chakra: 12  
 Range: Special  
 Area: Special  
@@ -352,17 +348,15 @@ After (Chakra Control Ranks \* 2\) ICs, the Chakra within the weapon dissipates 
 
 ### **Onryō Ikkan-Sei No Jutsu \- Volume Coherence Technique**
 
-Type: C Rank \- Shinton Ninjutsu  
-Chakra: 26  
-Upkeep: 8  
-Area: 20 by 20 Square  
-Speed: 16  
-Seal Speed: 21  
+Type: C Rank - Shinton Ninjutsu
+Chakra: 26
+Upkeep: 8
+Area: 20 by 20 Square
+Speed: 16
+Seal Speed: 21
 Requires: 8 Kunai.
-
 Effects:
-
-You throw out 8 Kunai infused with low frequency vibrations, sectioning off a 20 by 20 Yard square. Anybody inside of that Area will be inundated with bone jittering sound waves which will disable their ability to perform optimally, giving them 1+(Dissonance/2) Paralysis which remains so long as they remain in the Area and you maintain the Upkeep.
+You throw out 8 Kunai infused with low or high (chosen on use) frequency vibrations, sectioning off a 20 by 20 Yard square. This area always provides the benefits of interference. This jutsu lasts for 15 IC increasing by 10 every time a Shinton jutsu is used within it or passes through it.
 
 ## **Yurigami**
 
