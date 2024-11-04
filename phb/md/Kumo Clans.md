@@ -321,10 +321,11 @@ By combining the sound waves of multiple jutsu you can combine their intensities
 
 "Hear the blade of song" 
 
-Type: C Rank - Shinton Ninjutsu
-Chakra: 22
-Upkeep: 5
-Speed: 9
+Type: C Rank - Shinton Ninjutsu \
+Chakra: 22 \
+Upkeep: 5 \
+Speed: 9 
+
 Requires: A held weapon.
 Effects: You channel high intensity vibrations through your weapon, causing it to become a highly lethal tool that can crush, cut, or pierce through anything. Attacks with this weapon gain the properties of either high or low frequency (chosen on declaration). Attacks with this weapon cannot create or take advantage of interference.
 
