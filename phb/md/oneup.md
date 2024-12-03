@@ -146,6 +146,8 @@ You have perfect time management skills and are extremely organized and orderly.
 
 You have two additional Downtime Slots.
 
+Upgrades Into: Fixer
+
 ### **Seal Master**
 
 You're really, really good with handseals. You make them fast, and mold your chakra just as rapidly. It could be natural talent... but, honestly, you know what it probably was? Probably when you were a kid you were incredibly obsessed with being a super-cool ninja, so you spent all your free time making fake handseals and pretending to shoot fireballs at your friends. 
