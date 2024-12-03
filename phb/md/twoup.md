@@ -78,7 +78,7 @@ Upgrades Into: Any 3-point unique.
 ### **Elemental Mastery**
 
 You have peerless control over elemental chakra, far beyond the realm of what's considered normal, and to a level that some would even think is impossible. Choose two elements; you can use them as if you had taken the Elemental Aptitude ability for them. Additionally, your ranks in the Elemental Affinity ability apply to all elements you can use. And your NDB increases by 0.25 for every rank in Elemental Affinity you have. This doesn't mean your personal chakra nature corresponds to all five elements, only that you're equally skilled with them all.
-Additionally, you have an Elemental Shaping pool which dictates how much you can modify any given basic Elemental Ninjutsu (advanced elements can not be shaped), with one point in it for each element you have Aptitude for, and four points for the highest ranking elemental jutsu you have you know (for a potential maximum of 24). You can use your Elemental Shaping pool to modify any Elemental Ninjutsu you perform in the following ways (which doesn’t ‘use up’ your pool; its size simply determines how much you can modify any given technique):
+Additionally, you have an Elemental Shaping pool which dictates how much you can modify any given basic Elemental Ninjutsu (advanced elements can not be shaped), with one point in it for each element you have Aptitude for, and four points for each rank of any elemental jutsu you know (for a potential maximum of 24). You can use your Elemental Shaping pool to modify any Elemental Ninjutsu you perform in the following ways (which doesn’t ‘use up’ your pool; its size simply determines how much you can modify any given technique):
 
 \> 15 points: +1 Target
 
@@ -135,14 +135,13 @@ Upgrades From: Blur
 
 You know people, and people know you. From court officials across many realms and borders sending you secrets better kept behind closed doors, to merchant caravans and sailors that bring you tidings from across all four corners of the world, and even the lowly peasants and urchins who are the real seat of power of any nation. You know things sooner than anybody else, you know things that nobody else does. And you know how to manipulate that information to always stay on top and develop connections which give you many advantages in life. You could earn good money selling the secrets that are sealed in that mind of yours, but don't do it too much\! Or else they will no longer be secrets\!
 
-Your maximum Diplomacy Ranks are increased by 3 and you have a \+3 bonus to your Diplomacy Checks.
-
+Your maximum Diplomacy Ranks are increased by 3 and you have a +3 bonus to your Diplomacy Checks.
 You have a 25% discount on any Equipment purchases and all crafting costs.
 
-Additionally, you gain the benefits of Entrepreneur.
+Additionally, you gain the benefits of Scheduled.
 
-Incompatible With: Entrepreneur  
-Upgrades From: Entrepreneur
+Incompatible With: Scheduled
+Upgrades From: Scheduled
 
 ### **Fan of Knives**
 
