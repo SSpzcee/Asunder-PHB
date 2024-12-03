@@ -108,7 +108,7 @@ If a weapon has a Delay, then any techniques using it also inherit this Delay. F
 
 ## **Stances**
 
-1. You can switch from a Non-Neutral Stance to a Neutral Stance as a Speed 8, Delay 4 Action.  
+1. You can switch from a Non-Neutral Stance to a Neutral Stance as a Speed 6, Delay 2 Action.  
 2.  Taking a Major or higher Wound while in a non-Neutral Stance will kick you back out of whatever Stance you were in and put you into a Broken Stance.  
 3.  While in a Non-Neutral stance, moving at a faster rate than half your movement speed will kick you out of your Stance and put you into a Neutral Stance  
 4.  Upkeep given by Stances cannot be reduced or mitigated in any way.  
