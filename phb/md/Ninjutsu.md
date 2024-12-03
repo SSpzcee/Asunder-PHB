@@ -170,6 +170,7 @@ A fairly simple, yet often impractically demanding technique. The user channels 
 
 Chakra: 5 \* X  
 Stamina: 5 \* X  
+Upkeep: 2 \+X
 Speed: 2
 
 Effects:  
