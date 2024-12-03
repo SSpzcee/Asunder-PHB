@@ -184,12 +184,11 @@ Requires: 80 STR
 
 Your extensive physical conditioning has given you an almost preternatural ability to shrug off damage
 
-When you block, you may choose to reduce the damage dealt by an additional 10% at the first rank, or an additional 25% at the second rank.  
-This may only be done once every 30-(RES/10) IC.  
-Base Cost: 25  
-Scale: 10  
-Limit: 2  
-Requires: 60 RES
+When you block, you may choose to reduce the damage dealt up to an additional 10% per rank.
+
+Base Cost: 15
+Scale: 10
+Limit: RES/40
 
 ### **Fortitude**
 
@@ -662,7 +661,7 @@ Base Cost: 5
 Scale: 2  
 Limit: STR /20
 
-### **Large: Momentum**
+### **Large/Extreme: Momentum**
 
 You turn one of the greatest enemies of shinobi--physics--to your own ends.
 
@@ -809,8 +808,7 @@ Requires: 5 Willpower
 Your force of will is as powerful an advantage in combat as your strength of body.
 
 Each rank of this ability increases your Willpower by 1\.  
-Base Cost: 50  
-Scale: 25  
+Base Cost: 25
 Limit: XP /1000
 
 ### **Focus**
