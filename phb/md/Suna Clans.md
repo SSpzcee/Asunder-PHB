@@ -109,13 +109,11 @@ Any Katon or Fuuton Technique may be converted to Shakuton, with the following e
 
 ### **Dehydration**
 
-This is a Status Effect. Every stack of Dehydration you have applies a \-1 to Resistance rolls, Stamina rolls, and a \-0.3 to PDB . Dehydrate stacks fully with itself; Dehydration 3 added to Dehydration 2 making a single Dehydration 5 status.
+This is a Status Effect. Every stack of Dehydration you have applies a -1 to fatigue rolls. Dehydrate stacks fully with itself; Dehydration 3 added to Dehydration 2 making a single Dehydration 5 status.
 
-You are suffering from extreme Dehydration, with the moisture literally stripped out of your cells, causing skin and bone to become brittle and sapping them of vigor. For every 3 stacks of Dehydrate, your Wounding thresholds are reduced by 5% and the amount of AP you gain every 20 ICs reduced by 1\.
+You are suffering from extreme Dehydration, with the moisture literally stripped out of your cells, causing skin and bone to become brittle and sapping them of vigor. For every 3 stacks of Dehydrate, your Wounding thresholds are reduced by 5% and the amount of AP you gain every 20 ICs reduced by 1.
 
-When you advance a fatigue level, halve your Dehydration Status (Rounding up). 
-
-Additionally, as Speed (X \* 2\) Action, you can drink X gallons of water from a container or from linking Water Creation Technique to the action (not off the battlefield; have some dignity\!), which removes X \* 2 points of Dehydration. Outside of combat, victims lose 2 Dehydrate every 10 minutes OOC (hour IC), but only so long as they drink plenty of water.
+Every 15 IC you reduce your Dehydration by 1 and when you advance a fatigue level, you halve your Dehydration Status (Rounding up). Additionally, as Speed (X * 2) Action, you can drink X gallons of water from a container or from linking Water Creation Technique to the action (not off the battlefield; have some dignity!), which removes X * 2 points of Dehydration.
 
 ### **Shrivel**
 
