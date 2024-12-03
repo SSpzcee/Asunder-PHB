@@ -18,9 +18,9 @@ A beast of a ninja you are, and you act like one too\! You get angry easily, and
 
 You add an extra STR\*2 to your Vitality, and can fight until you reach \-25% of your max HP.
 
-Whenever you take no Defensive Action (Yes, Blocking OBVIOUSLY counts as Defensive Action, stop asking that\!) in response to an enemy's attack, if their attack Wounds you, you can choose which location it hits (even if the attack is a called shot). So long as the attack does not incapacitate you, you can then immediately attack the target as an Interrupt using any taijutsu attack you know, with the following changes: The attack has a \+3 accuracy bonus, is made at half its normal Speed (to a minimum of 3), and cannot have its Speed reduced further. This attack must be directed at the person who attacked you. You cannot perform this interrupt again until a number of ICs have passed equal to the base speed of the attack you countered with.
+You may take no Defensive Action (Yes, Blocking OBVIOUSLY counts as Defensive Action, stop asking that!) in response to an enemy's attack. If their attack Wounds you, you can choose which location it hits (unless the attack is a called shot). So long as the attack does not incapacitate you, you can then immediately attack the target as an Interrupt using any taijutsu attack you know, with the following changes: The attack has a +3 accuracy bonus, is made at half its normal Speed (to a minimum of 3), and cannot have its Speed reduced further. This attack must be directed at the person who attacked you. You can only perform this interrupt once per IC.
 
-Additionally, for every 10% of your Vitality that you lose, you gain a 2% increase to all Damage.
+Additionally, for every 10% of your Vitality that you lose, you gain a 2.5% increase to all Damage.
 
 When you fall below 25% Vitality in combat, you must immediately choose whether to surrender, or to continue fighting. If you choose to continue the fight, you can only stop if you or all of your opponents have been incapacitated, not even them surrendering will placate your frenzy.
 
@@ -38,7 +38,7 @@ Throwing solid blocks, you've honed your reflexes and worked your bones and tend
 
 You can use the Block defense as a Speed 5 Interrupt. If you're Stunned when you do this, your Block reduces the incoming attack's damage by 25% less than it normally would. 
 
-You reduce the damage you take by RES/5.
+You reduce the damage you take by RES/5. Additionally anyone hitting you with a non-ranged Taijutsu attack suffers STR/2 DMG.
 
 When you Block, treat the damage as if it was 20% lower when determining what Wounds you receive. You are considered to be blocking at the Start of combat (as per Defensive Reflexes ability) without incurring any penalties for doing so.
 
@@ -71,8 +71,6 @@ You reduce all damage you take by STR/5, and treat damage as being 20% less for 
 You can ignore the effects of one wound you are suffering from; any time you're wounded you may continue to ignore the current wound, or change to the newly-inflicted one.
 
 You reduce any Stuns applied to you by 1+STR/30.
-
-Anyone hitting you with a non-ranged Taijutsu attack suffers STR/2 DMG.
 
 All your movement is reduced by 20%. This applies to your normal movement speed based on AGI, jutsu which allow you to travel (such as Vaulting Leap or Exploding Water Shockwave), and even knockback effects from your enemies.
 
@@ -144,7 +142,7 @@ On the other hand, your small stature makes you quite frail compared to the ordi
 
 While you don't excel in combat, you're able to grasp the fundamental skills and concepts important to being a ninja. 
 
-You have an extra XP/75 Skill Points to spend, and your skill maximums are increased by 3\. 
+You have an extra XP/75 Skill Points to spend, and your skill maximums are increased by 1\. 
 
 However, you have a \-1 Accuracy penalty.
 
@@ -176,8 +174,8 @@ Ninjutsu Incompetence: \-2 Ninjutsu Accuracy, \+4 Seal Speed to Ninjutsu techniq
 
 Genjutsu Specialist: \+3 to Genjutsu rolls, \-4 Seal Speed for Genjutsu techniques, \+2 Bonus to Chakra Exhaustion rolls for Genjutsu techniques 
 
-* Path of the Mindflayer: the first time a person fails a Genjutsu Defense roll against one of your Jutsu, they receive a Stun 5\. This does stack with any Stun the jutsu may already possess and it only works once per Jutsu per day per person.   
-* Path of the Steel Curtain: Whenever you roll your Genjutsu Defense, if you roll below 10, your roll is considered to be 10\.
+* Path of the Mindflayer: The first time a person fails a Genjutsu Defense roll against one of your Jutsu, they receive a Stun 3. This does stack with any Stun the jutsu may already possess and it only works once per Jutsu per day per person. 
+* Path of the Steel Curtain: Whenever you roll your Genjutsu Defense, if you roll below 5, your roll is considered to be 5.
 
 Genjutsu Incompetence: \-3 to Genjutsu rolls, \+4 Seal Speed for Genjutsu techniques and you can only learn Genjutsu Techniques of 1 Rank lower than you normally could
 
