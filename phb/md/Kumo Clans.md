@@ -144,7 +144,7 @@ Effect: You can use this immediately after someone reduces their bleed. X has a 
 
 In the eyes of the Chinoike there is little difference between water and the fresh blood of their enemies on the battlefield. While they can only sense the blood still in someone's body after it escapes the chinoike gains the ability to freely manipulate it for use in suiton techniques. In fact this is such a simple feat that any chinoike can perform it upon unlocking their Ketsuryūgan.
 
-Effect: You may use Blood on the battlefield in place of Gallons of Water to perform Suiton. Every gallon of blood is equivalent to 2 Gallons of Water. If at least half of the Gallons spent in a Suiton Jutsu are replaced by Blood, the water of the Jutsu takes on a scarlet color, becoming a Chiton Jutsu. Any jutsu that doesn’t require gallons can also be converted to Chiton by increasing its cost by 5\. Damaging jutsu also deal slashing damage
+Effect: You may use Blood on the battlefield in place of Gallons of Water to perform Suiton. Every gallon of blood is equivalent to 2 Gallons of Water. If at least half of the Gallons spent in a Suiton Jutsu are replaced by Blood, the water of the Jutsu takes on a scarlet color, becoming a Chiton Jutsu. Any Suiton jutsu that doesn’t require gallons can also be converted to Chiton by increasing its cost by 5\. Damaging jutsu also deal slashing damage
 
 Chiton Techniques always deal slashing damage and inflict bleed equal to the rank of the jutsu\*2. If they would produce gallons instead they produce half as many gallons of blood. If "Water Cutting Blade" is turned into a Chiton Jutsu, then all Swords made by the technique only deal slashing Damage and have an additional \+25% Wounding Bonus. 
 
