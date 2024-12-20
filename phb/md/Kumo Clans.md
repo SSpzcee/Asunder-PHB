@@ -174,7 +174,7 @@ Effects: X is the number of Blood Gallons used to pay for this technique. This c
 
 **\- Curse of Corrosive Blood**: You curse the target's blood so that it burns their insides like acid as it circulates through their body, the veins across the target's skin body become far more noticeable as they take on an unsettling black color. The target will suffer from Poison of a Severity equal to (BG/3).
 
-They also gain a bleed equal to BG/2 rounded up. The curse lasts until the bleed is reduced to 0\. You can only be affected by one curse at a time.
+They also gain a bleed equal to BG/2 rounded up that can not stack with other bleed sources. The curse lasts until the bleed is reduced to 0. You can only be affected by one curse at a time.
 
 ### **Blood Frenzy**
 
