@@ -122,17 +122,16 @@ However, your maximum Research Ranks are reduced by 3 and you receive a \-2 to g
 
 ### **Nimble**
 
-You are very fast, but more importantly you know how to shift your weight to make it easy to bound walls, scamper up to rooftops, weave through tree branches, and jump kick enemies.
+You have \+1 Accuracy and \+1 Dodge, as well as a \+3 bonus to Stealth and Athletics rolls. You also move 25\% faster and the reduction to your AoE penalty offered by the Nimble ability would be changed to 3 from 2.
 
-You have \+1 Accuracy and \+1 Dodge, as well as a \+3 bonus to Stealth and Athletics rolls. 
+But due to your focus on the swiftness of your blows, the damage from your attacks is reduced by 10\%
 
-You move 25% faster and the reduction to your AoE penalty offered by the Nimble ability would be changed to 3 from 2\.
 
 ### **Small**
 
 You are short, spry, and easily toppled over. The last one's not so good, but your diminutive frame makes it harder for others to keep track of you, while allowing you to squeeze into tight spaces and narrowly dodge attacks. However, this also means you are less sturdy than most.
 
-You have a \+3 bonus to dodge.
+You have a \+2 bonus to dodge.
 
 Your Dodge Interrupt’s Speed is changed to 1\. If its Speed is somehow raised (such as due to Paralysis) you may still always use it even if it would normally not count as a Valid Defense (Which, if it doesn’t, you oughta really question if your opponent is cheating). 
 
