@@ -579,17 +579,17 @@ There are three weapons that can be created with this technique. Each requires a
 
 Ultimate Spear: This creates a Large, One-Handed/Two-Handed, Piercing, Polearm Weapon
 
-Ultimate Whip: This creates a Medium, One-Handed, Slashing, Chain Weapon with a Range of 15 instead of 5 and an additional \+2 Accuracy.
+Ultimate Whip: This creates a Medium, One-Handed, Slashing, Chain Weapon with a Range of 15 instead of 5 and an additional \+1 Accuracy.
 
 Ultimate Shield: This creates a Medium, One-Handed, Blunt, Club Weapon. It can be used as a Speed 8 Interrupt to Block an attack (this speed is not modified by Skeletal Modifications). The weapon breaks if you block an attack that deals 35% of your Maximum Vitality (before reductions) while holding it.This Shield blocks 75% of Damage rather than the normal 50%, and does not get reduced when Blocking Weapons or Fuuton (Or Para-Elements based on Fuuton).
 
-Attacking with any of these weapons is a Stamina 20, Speed 16 Action. It deals 1d12 damage per Skeletal Modification you have Expended on it, and you may take the Weapon Focus ability for this weapon applying its benefit to all three versions. For each rank in certain Skeletal Modifications that had been expended on it, its effects are modified as follows:
+Attacking with any of these weapons is a Stamina 20, Speed 16, Delay 5 Action. It deals 1d12 damage per Skeletal Modification you have Expended on it, and you may take the Weapon Focus ability for this weapon applying its benefit to all three versions. For each rank in certain Skeletal Modifications that had been expended on it, its effects are modified as follows:
 
-Ossification: Ignores \-10 of Target's DR
+Ossification: Ignores \-1 Base Speed
 
 Blades: Damage is considered 5% higher for determining wounds
 
-Spurs: \-1 Base Speed
+Spurs: \+1/2 Accuracy Bonus (Rounded Up)
 
 Osteogenesis: \-2 Stamina cost
 
@@ -649,7 +649,7 @@ Small shards and lengthier spikes of bones gradually cover your body, protruding
 
 #### **Osteogenesis**
 
-The more Kaguya fights, the harder it is to keep them down as their skeletal structure grows ever more efficient in protecting against harmful effects. Every application of this Modification reduces the Severity of any Bleed, Burn, and Stun that you receive. You can apply this up to 5 times.
+The more a Kaguya fights, the easier it becomes for them to do so. Every application of this modification reduces the Chakra costs of your clan jutsu by 2. You can apply this up to 5 times.
 
 ## **Skeletal Realignment**
 
