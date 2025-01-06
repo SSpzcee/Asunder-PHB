@@ -619,12 +619,13 @@ Requires: Byakugan Active
 
 Effects:  
 
-Jyuuken uses your Ninjutsu Damage Bonus, instead of your Physical Damage Bonus. This technique reduces blocking’s effectiveness by 25%. If you strike an opponent wearing armor this attack cannot wound unless it was a called shot. Every time you hit someone with Jyuuken, you inflict Sealed Tenketsu 1\. Half of Jyuuken’s damage is dealt directly to an opponent’s HP while the rest is dealt to their vitality as normal (or hp is they run out of vitality. Jyuuken inflicts Piercing Wounds and calculates wounding by taking the total damage and comparing it to the opponents hp wounding thresholds.
+Jyuuken uses your Ninjutsu Damage Bonus, instead of your Physical Damage Bonus, but all damage dealt is reduced by 30\%. This technique reduces blocking’s effectiveness by 25\%. If you strike an opponent wearing armor this attack cannot wound unless it was a called shot. Every time you hit someone with Jyuuken, you inflict Sealed Tenketsu 1\. Half of Jyuuken’s damage is dealt directly to an opponent’s HP while the rest is dealt to their vitality as normal (or hp is they run out of vitality. Jyuuken inflicts Piercing Wounds and calculates wounding by taking the total damage and comparing it to the opponents hp wounding thresholds.
 
 Momentum: The combo jutsu gains all above effects of Jyuuken with the additions below
 
 * The Stamina Cost is replaced with a Chakra Cost, \+5 (if it has both, add them together as a singular Chakra cost, without adding the normal \+5).  
 * On hit, the Sealed Tenketsu increases by 1 per Rank of the Jutsu above E (D \= \+1, C \= \+2, etc).
+* Each damage dice of the attack is replaced with a d4.
 
 ### **Hakke Kuushou \- Eight Trigrams Empty Palm**
 
