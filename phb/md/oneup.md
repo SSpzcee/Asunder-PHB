@@ -170,10 +170,20 @@ Additionally, that ability's limit is changed to (DEX \-30)/20, maximum 4\. If y
 
 ### **Weight Trainer**
 
-You strap yourself down with weights--either from tailoring your clothes that way, or from strapping weights to your limbs--and hamper yourself constantly. All in the name of constant training and to surprise your opponents with a sudden burst of ability..
+You strap yourself down with weights--either from tailoring your clothes that way, or from strapping weights to your limbs--and hamper yourself constantly. All in the name of constant training and to surprise your opponents with a sudden burst of ability.
 
-So long as you start a fight with your Weights On (this must be declared during init), you have a special Weights Action Points Pool (WAP Pool). Any time you would acquire AP during the fight, an equal amount of AP is stored in your WAP Pool. Your WAP Pool has the same maximum as your normal AP Pool.
+So long as you start a fight with your Weights On (this must be declared during init), you have a special Weights Action Points Pool (WAP Pool). Every 20 IC when you would acquire AP during the fight, half that amount of AP is stored in your WAP Pool. Your WAP Pool has the same maximum as your normal AP Pool.
+Once per combat, as a Speed 6, Delay 6 Action that cannot be reduced further, you can shed your Weights. You do not acquire any more WAP once you do this.
 
-Once per combat, as a Speed 6, Delay 6 Action that cannot be reduced further, you can shed your Weights. At this moment you gain access to your WAP Pool and can spend AP from this pool as if it were your regular AP. You do not acquire any more WAP once you do this.
+At this moment you gain access to your WAP Pool and can spend AP from this pool as if it were your regular AP but must spend from your WAP Pool before any other AP source. 
 
-Due to the incredible amount of athleticism this lifestyle requires, your athletics skill cap is raised by 3\.
+For every 5 AP in your WAP Pool when you shed your weights you gain 1 of the following effects:
+\+1 Taijutsu Accuracy
+\+1 Dodge
+\+10% Movement Speed
+
+These effects must be chosen 1 at a time and must all be within 1 of each other, similar to the rule of three but with only 1 difference between each.
+You lose 1 WAP each initiative count until your WAP falls to 0 and for every 5 WAP you lose (from any source) one benefit from above is lost. Each choice still cannot be more than 1 apart from each other.
+
+Due to the incredible amount of athleticism this lifestyle requires, your athletics skill cap is raised by 3.
+
