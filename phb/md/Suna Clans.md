@@ -33,7 +33,7 @@ Limit: 1 + RES /30
 
 Effects:
 You regenerate 1 point of Vitality per rank each Initiative Count, and twice that amount of HP.
-In a given day, you can only heal (rank) times half your maximums of each. Thus, at three ranks in regeneration, if you had 1000 Vitality you could only regenerate 1500 Vitality in a given day.
+In a given day, you can only heal your maximums of each. Thus, if you had 1000 Vitality you could only regenerate 1000 Vitality in a given day.
 Finally, you divide the total healing time necessary to recovery from any wound that doesn't involve injured bones by 1+(0.5 * rank). Medical attention cannot reduce it further; however, you can recover as if you had medical attention, even if you do not, thanks to your regeneration.
 
 
@@ -238,13 +238,13 @@ Control Puppets: Attack Formation (Speed Variable, AP X)
 1 \+ X puppets will attack, using whatever the primary puppet is equipped with to decide what you have available. The speed of this technique is the speed of the primary puppet's choice of attack. If you spend AP to AP this down, the puppet's attack is also reduced. The attack has a \+1 bonus for every two puppets in the formation. This may be used to cause your puppet to perform any Taijutsu (Unarmed, Combo, or Grapple) you know, as well any Weapon Taijutsu you know which they have the proper weapon for. Doing this requires you to pay a Chakra cost equal to that technique's Stamina cost.
 
 Control Puppets: Defensive Formation (Speed Variable, AP X, Interrupt)  
-1 \+ X puppets will move to protect you. You may choose any defense the primary puppet is equipped to do. The speed of this is based on the speed of the defense used. If you spend AP to AP this down, the puppet's defense is also reduced.The defense has a \+1 bonus for every two puppets in the formation.
+1 \+ X puppets will move to protect a target being attacked. By default this is a Speed 5 to have your puppets perform the Take The Hit action, automatically succeeding to protect you. The main puppet may make any defensive action it is equipped to, but the speed of this is increased based on the speed of the defense used. If you spend AP to AP this down, the puppet's defense is also reduced.The defense has a \+1 bonus for every puppet in the formation past the first.
 
-Control Puppets: Dodge (Speed 2 \+ X / 2, Interrupt, AP 1 \+ X / 2\)  
+Control Puppets: Dodge (Speed 2 \+ X / 2, Interrupt, AP 2 \+ X\)  
 Up to 1 \+ X puppets dodge a technique. This may be used alongside the user defending themselves (You may dodge too\!).
 
 Control Puppets: Prepare (Speed 5\)  
-You prepare yourself to do something involving your puppets. This generates 5 AP, which does count towards your maximum but may only be used in actions taken with Kugutsu no Jutsu. This action cannot have its speed reduced.
+You prepare yourself to do something involving your puppets. This generates 5 AP, which does not count towards your maximum and is tracked separately with your primary puppet to a max of half your max AP. This AP can only be used in actions taken with Kugutsu no Jutsu and expires if you change primary puppets. This action cannot have its speed reduced.
 
 Control Puppets: Move (Speed Variable) You may move any number of puppets at once, using no AP. Every 1 AP you do choose to spend increases the Speed of their move action (but not this action, for you) by 2\.
 
@@ -321,7 +321,7 @@ In the village, puppets can be repaired or have parts swapped out between scenes
 
 Puppets are immune to genjutsu and all status effects other than immobilize and ignite. They take only half damage from ignite. Since you are controlling them, your visibility penalties apply; other status penalties on you do not.
 
-Puppets use your CHA in place of their STR, and your DEX in place of their AGI and DEX. They do not have RES or CHA. They can move (As detailed above) but cannot move more than your CHA in yards from your. Otherwise, puppets receive all your bonuses to accuracy and rolls, such as from abilities and uniques.
+Puppets use your CHA in place of their STR, and your DEX in place of their AGI and DEX. They do not have RES or CHA. Their base HP is derived through your vitality and can be increased through upgrades. They can move but cannot move more than your CHA in yards from you. Otherwise, puppets receive all your bonuses to accuracy and rolls, such as from abilities and uniques.
 
 Finally, puppets are complicated pieces of equipment. Their biggest weaknesses are their joints and other moving parts. If a puppet is suffering from an immobilization penalty of 6 or higher, it cannot act or be used with any part of Kugutsu no Jutsu.The most basic, and expensive part of the puppet. The frame of a puppet is constructed from chakra-conducive wood, and all the puppets' various parts are anchored to it. Frames are divided into several general categories, described below. Each frame has a PP capacity for action location, for example "Head: 3 PP". This means that you can fit up to 3 PP worth of upgrades in that location, if you're using that frame.
 
@@ -329,7 +329,7 @@ By default, a frame can accommodate one torso, one head, two arms, and one pair 
 
 Note: Additional legs increase movement speed by 25% per pair. Every two additional arms gives a \+3 bonus to any roll based on STR, including grapples. Despite the fact legs and arms come in pairs, cosmetically there could be more or less; a centipede puppet might be described as having dozens of legs, even if it only actually had three pairs.
 
-Puppets do not cost money. You may have one puppet, plus one more puppet for each rank in Puppet Mastery.
+Puppets do not cost money. You may have one puppet, plus one more puppet for each rank in Puppet Mastery. As a Downtime Action you may change any upgrades or decisions for one of your puppets between scenes.
 
 ### **Frame Sizes**
 
@@ -337,7 +337,7 @@ Puppets do not cost money. You may have one puppet, plus one more puppet for eac
 
 Ranging in size from a medium-sized dog to a human child, these frames have the advantage of not requiring a lot of material and being reasonably forgiving in construction. Unfortunately, this also means they're easily destroyed.
 
-HP: 200  
+HP: Vitality "/4"  
 Head: 3 PP  
 Torso: 3 PP  
 Arms: 2 PP each  
@@ -348,8 +348,8 @@ Special: You may exchange two arms for a second pair of legs, but not vice versa
 
 Generally the size of an adult human, these are the most widely-used and adaptable puppets. They have a balance of strength and speed, and can endure longer battles than more delicate models, while also retaining plenty of mobility.
 
-HP: 400  
-Damage Reduction: 10  
+HP: Vitality"/2"  
+Damage Reduction: Strength"/5"  
 Head: 5 PP  
 Torso: 6 PP  
 Arms: 3 PP each  
@@ -360,7 +360,7 @@ Special: Medium Puppets allows you to fit on another two arms or one pair of leg
 
 Somewhere between a small and medium frame, with light but sturdy materials, this frame is optimized for stealth and reconnaissance puppets.
 
-HP: 250  
+HP: Vitality"/5"  
 Head: 8 PP  
 Torso: 3 PP  
 Arms: 2 PP each  
@@ -371,8 +371,8 @@ Special: \+5 Stealth
 
 Using the medium frame as a base, these use stronger and heavier materials, reinforced joints, and armor plates. While these are exceptionally sturdy as a result, it's too compact to allow for the extensive customization most puppeteers enjoy.
 
-HP: 500  
-Damage Reduction: 75  
+HP: Vitality"/1.5"  
+Damage Reduction: Strength"/3"  
 Head: 2 PP  
 Torso: 2 PP  
 Arms: 1 PP each  
@@ -382,7 +382,8 @@ Legs: 2 PP
 
 The biggest and most expensive puppets, these tend to be built with a specific purpose in mind. They have above average durability and great storage space, but can be impractical in certain situations. The smallest of these are easily larger than a large person.
 
-HP: 350  
+HP: Vitality/3
+Damage Reduction: Strength"/8"
 Head: 5 PP  
 Torso: 10 PP  
 Arms: 4 PP each  
@@ -391,7 +392,7 @@ Special: \-5 dodge, \-5 stealth, and \-2 parrying. Large Puppets allow you to ad
 
 ### **Frame Upgrades \- Generic**
 
-Below are upgrades you can apply to your puppet's torso to make it more effective at whatever it is you want its purpose to be. Unless specified otherwise, you can apply these upgrades as many times as you have the PP for. Upgrades here do not count towards the PP capacity of any of the puppet's locations.
+Below are upgrades you can apply to your puppet's torso to make it more effective at whatever it is you want its purpose to be. Upgrades here do not count towards the PP capacity of any of the puppet's locations, but only half of a puppets total PP can be used on a single generic upgrade.
 
 *Armored*:
 
@@ -413,11 +414,11 @@ PP: 2
 
 Your puppet is especially durable. You can spend 1 PP to increase its HP by some amount, depending upon its frame size.
 
-Small: \+50  
-Medium: \+75  
-Recon: \+25  
-Reinforced: \+100  
-Large: \+75
+Small: \+25  
+Medium: \+50  
+Recon: \+15  
+Reinforced: \+75  
+Large: \+50
 
 ### **Frame Upgrades \- Head**
 
@@ -865,22 +866,23 @@ Effects: This lasts for (Chakra Control Ranks \+ Medicine Ranks) ICs. And may be
 
 (Flavor text)
 
-Cost: 2  
-Scale: 2  
-Limit: XP/1000, max of 3
+Cost: 4
+Scale: 4
+Limit: 1\+XP"/1000", max of 2
 
-Effects: When you first buy this Ability, you gain (Medicine Ranks/5) Chemistry points. Every subsequent rank in this Ability lowers the divisor by 1, so it becomes "/4" then "/3".
+Effects: When you buy this Ability, you gain (Medicine Ranks"/4") Chemistry points to craft basic chemical compounds. At the second rank you unlock Tier 2 Chemicals.
 
-You can spend a downtime action synthesizing a batch of 1 dose of a Drug by combining effects from the list of Chemicals listed below, in the same way that Poisons are made (Read the Poison Brewing section). Chemical effects may be taken more than once. Each Chemical has a Chemistry Point cost, a Ryo Cost, a Synthesis TN, and a Scale for the TN that increases it based on how many times that specific Chemical is taken past the first time. After choosing all the Chemicals to be combined into your Drug, up to a max Chemistry Cost of your Chemistry Points, combine their Synthesis TNs. This is the Total TN that you must reach by rolling Medicine, which you can roll only once per Downtime action, carrying over your previous roll's result for the next Downtime action until you have reached that TN, upon which you are considered to have successfully synthesized that batch of a Drug, and may now use it.
+You can spend a downtime action synthesizing a batch of 1 dose of a Drug by combining effects from the list of Chemicals listed below, in the same way that Poisons are made (Read the Poison Brewing section). Chemical effects may be taken more than once. Each Chemical has a Chemistry Point cost, a Ryo Cost, a Synthesis TN, and a Scale for the TN that increases it based on how many times that specific Chemical is taken past the first time. After choosing all the Chemicals to be combined into your Drug, up to a max Chemistry Cost of your Chemistry Points, combine their Synthesis TNs. This is the Total TN that you must reach by rolling Medicine, which you can roll as a Downtime action per the Crafting Rules. Carrying over your previous roll's result for the next Downtime action until you have reached that TN, upon which you are considered to have successfully synthesized that batch of a Drug, and may now use it.
 
-Each Drug applied has a Duration of 30 \+ (Medicine Ranks), and once the Duration passes, all the benefits fade away.
+Each Drug applied has a Duration of 30 \+ Medicine"/3" at the first rank and 10 \+ Medicine at the second rank. Once the Duration passes, all temporary effects fade away.. Reapplication of the same drug with stack additively but while already benefiting from a drug any additional drugs of the same type will be half as effective (though they will still give their full penalties.
+
 
 #### **Testosterone**
 
 Chemical Point Cost: 1  
 Ryo Cost: 3k Ryo  
 Chemistry TN: 10  
-Scale: 5
+Scale: 2
 
 Effects:  
 This increases PDB by \+0.5.
@@ -890,7 +892,7 @@ This increases PDB by \+0.5.
 Chemical Point Cost: 1  
 Ryo Cost: 3k Ryo  
 Chemistry TN: 10  
-Scale: 5
+Scale: 2
 
 Effects:  
 This increases NDB by \+0.5.
@@ -899,8 +901,8 @@ This increases NDB by \+0.5.
 
 Chemical Point Cost: 1  
 Ryo Cost: 2K Ryo  
-Chemistry TN: 8  
-Scale: 6
+Chemistry TN: 7  
+Scale: 4
 
 Effects:  
 This increases Movement by 10%.
@@ -909,8 +911,8 @@ This increases Movement by 10%.
 
 Chemical Point Cost: 1  
 Ryo Cost: 4k Ryo  
-Chemistry TN: 10  
-Scale: 10
+Chemistry TN: 6 
+Scale: 5
 
 Effects:  
 This reduces the damage you take by 10% for the purpose of Wounding.
@@ -920,7 +922,7 @@ This reduces the damage you take by 10% for the purpose of Wounding.
 Chemical Point Cost: 1  
 Ryo Cost: 3k Ryo  
 Chemistry TN: 8  
-Scale: 5
+Scale: 3
 
 Effects:  
 This reduces your Stamina penalty by 1\. Unlike other Chemicals, this effect is permanent.
@@ -930,7 +932,7 @@ This reduces your Stamina penalty by 1\. Unlike other Chemicals, this effect is 
 Chemical Point Cost: 1  
 Ryo Cost: 3k Ryo  
 Chemistry TN: 8  
-Scale: 5
+Scale: 3
 
 Effects:  
 This reduces your Chakra penalty by 1\. Unlike other Chemicals, this effect is permanent.
@@ -948,7 +950,7 @@ Ignore the effects of all Minor and Major Wound in the targeted body part. But g
 
 Requires: Syringe
 
-#### **Amphatamine**
+#### **Amphetamine**
 
 Chemical Point Cost: 2  
 Ryo Cost: 10k Ryo  
@@ -972,7 +974,7 @@ This makes you temporarily resistant to Genjutsu, every time you roll Genjutsu D
 Chemistry Point Cost: 2  
 Ryo Cost: 15k Ryo  
 Chemistry TN: 30  
-Scale: 15
+Scale: 5
 
 Effects:  
 The Base Speed of all your actions is reduced by 2\. Every time you perform an Action (As a reminder, Interrupts are Actions too), you take the triple Base Speed of your action as unreducible damage.
@@ -982,7 +984,7 @@ The Base Speed of all your actions is reduced by 2\. Every time you perform an A
 Chemistry Point Cost: 2  
 Ryo Cost: 7k Ryo  
 Chemistry TN: 25  
-Scale: 20
+Scale: 15
 
 Effects:  
 Choose between Strength, Agility, or Dexterity whenever you take this Chemical. That Attribute increases by 10% alongside everything based off of it up to a maximum of 50%. However, once the duration of the Drug ends, every Attribute that was increased this way, suffers a reduction equal to double the percentage it was increased by which lasts for the same duration.
@@ -1014,7 +1016,7 @@ Cost: Free
 You have learned how to efficiently use the same amount of materials to synthesize more doses of a Drug in a single batch.
 
 Cost: 10  
-Scale: 10  
+Scale: 2  
 Limit: Medicine/5
 
 Effects: By increasing the cost and TN by 25% you may make 1 extra Dose of the same Drug. You can do this up to your rank in this Ability whenever you synthesize a Batch stacking additively.
