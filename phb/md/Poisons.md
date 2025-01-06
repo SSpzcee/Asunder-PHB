@@ -77,8 +77,8 @@ All Brewed Poisons have a base foundation of Severity 2, and Duration 50 and hav
 
 Poison Point Cost: 1  
 Ryo Cost: 5k  
-Poison TN: 6  
-Scale: 4
+Poison TN: 8  
+Scale: 5
 
 Effects:  
 This increases a Poison’s Severity by \+1.
@@ -86,9 +86,9 @@ This increases a Poison’s Severity by \+1.
 ### **Festering**
 
 Poison Point Cost: 1  
-Ryo Cost: 2.5k  
-Poison TN: 5  
-Scale: 5
+Ryo Cost: 3k  
+Poison TN: 6  
+Scale: 6
 
 Effects:  
 This increases a Poison’s Duration by \+25.
@@ -96,9 +96,9 @@ This increases a Poison’s Duration by \+25.
 ### **Destabilizant** 
 
 Poison Point Cost: 1  
-Ryo Cost: 7.5k  
+Ryo Cost: 5k  
 Poison TN: 8  
-Scale: 5
+Scale: 3
 
 Effects:  
 This adds or increases a Poison’s Immobilization by \+1.
@@ -106,9 +106,9 @@ This adds or increases a Poison’s Immobilization by \+1.
 ### **Dazzler**
 
 Poison Point Cost: 1  
-Ryo Cost: 7.5k  
+Ryo Cost: 5k  
 Poison TN: 8  
-Scale: 5
+Scale: 3
 
 Effects:  
 This adds or increases a Poison’s Visibility by \+1.
@@ -116,9 +116,9 @@ This adds or increases a Poison’s Visibility by \+1.
 ### **Feverish**
 
 Poison Point Cost: 1  
-Ryo Cost: 5k  
+Ryo Cost: 4k  
 Poison TN: 8  
-Scale: 3
+Scale: 2
 
 Effects:  
 This adds or increases a Poison’s Burns by \+2.
@@ -127,8 +127,8 @@ This adds or increases a Poison’s Burns by \+2.
 
 Poison Point Cost: 1  
 Ryo Cost: 10k  
-Poison TN: 5  
-Scale: 8
+Poison TN: 1  
+Scale: 10
 
 Effects:  
 This gives all skill rolls except Resistance a \-3.
@@ -138,7 +138,7 @@ This gives all skill rolls except Resistance a \-3.
 Poison Point Cost: 2  
 Ryo Cost: 15k  
 Poison TN: 8  
-Scale: 10
+Scale: 4
 
 Effects:  
 This adds or increases a Poison’s Paralysis by \+1.
@@ -161,7 +161,7 @@ These require the Exotic Venoms Talent.
 
 Poison Point Cost: 2  
 Ryo Cost: 20k  
-Poison TN: 6  
+Poison TN: 20  
 Scale: 10
 
 Effects:  
@@ -172,7 +172,7 @@ This adds or increases a Poison’s Suffocation by \+1.
 Poison Point Cost: 2  
 Ryo Cost: 25k  
 Poison TN: 20  
-Scale: 30
+Scale: 20
 
 Effects:  
 When Victim fatigues, they only reduce Stamina and CE penalties by half rather than reset them. Buying this a second time makes Stamina and CE penalties irreducible by Fatigue.
@@ -181,8 +181,8 @@ When Victim fatigues, they only reduce Stamina and CE penalties by half rather t
 
 Poison Point Cost: 2  
 Ryo Cost: 25k  
-Poison TN: 15  
-Scale: 25
+Poison TN: 20  
+Scale: 20
 
 Effects:  
 Every time the Victim receives an increase to CE or Stamina penalties, the other increases by half and vice versa (Rounding Up). Buying this a second time makes them increase by the full amount.
@@ -191,8 +191,8 @@ Every time the Victim receives an increase to CE or Stamina penalties, the other
 
 Poison Point Cost: 2  
 Ryo Cost: 25k  
-Poison TN: 15  
-Scale: 5
+Poison TN: 25  
+Scale: 10
 
 Effects:  
 Reduces a Victim’s Attribute by 10% to a max of 50%. The Specific Attribute must be chosen during the Brewing of the Poison.
@@ -201,8 +201,8 @@ Reduces a Victim’s Attribute by 10% to a max of 50%. The Specific Attribute mu
 
 Poison Point Cost: 1  
 Ryo Cost: 20k  
-Poison TN: 5  
-Scale: 10
+Poison TN: 6  
+Scale: 5
 
 Effects:  
 Reduces the Victim’s Genjutsu Defense by \-1.
