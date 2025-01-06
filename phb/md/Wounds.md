@@ -93,11 +93,11 @@ Critical wounds require 25 weeks to heal or 16 while in the hospital.
 
 ### **\- (1 \- 20\) Ringing Noise (Head)**
 
-There's a drumming noise inside your head that starts when... ... uh, right. But, yeah, it's pretty distracting. For 25 IC you get a \-1 penalty to all d20 rolls, aside from Genjutsu defenses; it's \-2. The duration applied by this Wound increases by 5 IC per every time this Wound is applied after the first time.
+There's a drumming noise inside your head that starts when... ... uh, right. But, yeah, it's pretty distracting. For 25 IC you get a \-1 penalty to all d20 rolls, aside from Genjutsu defenses; it's \-2. Multiple applications stack and the duration applied by this Wound increases by 5 IC per every time this Wound is applied after the first time.
 
 ### **\- (21 \- 40\) Bruised Ribs (Torso)**
 
-As in the bones, not the skin over them. Truth is, ribs hurt a lot more than they have any business doing. Breathing hurts in particular, deep breathing especially so. This increases the Speed of all your actions by 1, similar to Paralysis. The next time you take the rest action instead of reducing your stamina penalties you may remove the effects of this wound.
+As in the bones, not the skin over them. Truth is, ribs hurt a lot more than they have any business doing. Breathing hurts in particular, deep breathing especially so. This increases the Speed of all your actions by 1, similar to Paralysis. This speed is increased by 1 per every time this Wound is applied after the first time. The next time you take the rest action instead of reducing your stamina penalties you may reduce the effects of this wound by the amount you would reduce your stamina penalty.
 
 ### **\- (41 \- 60\) Winded (Abdomen)**
 
@@ -105,11 +105,11 @@ A good shot to the gut hit your solar plexus or compressed your diaphragm, or bo
 
 ### **\- (61 \- 80\) Bruised (Arm)**
 
-Your arm is bruised. It hurts. This gives a \-1 Accuracy penalty (because of the pain being distracting, if you're attacking without using the arm) and increases your Seal Speeds by 1\. This penalty lasts until the next time you make an attack.
+Your arm is bruised. It hurts. This gives a \-1 Accuracy penalty (because of the pain being distracting, if you're attacking without using the arm) and increases your Seal Speeds by 1\. This penalty lasts until the next time you make an attack. Multiple applications of this wound stack and the effect lasts for 1 additional attack per every time this Wound is applied after the first time.
 
 ### **\- (81 \- 100\) Bruised (Leg)**
 
-Something hit your leg and now it hurts\! You'll feel better after you walk it off (or just sit down and let the pain fade). Until the end of battle this reduces your base movement speed by 10% and applies a \-1 penalty to dodge rolls. This penalty lasts until the next time you make a dodge roll.
+Something hit your leg and now it hurts\! You'll feel better after you walk it off (or just sit down and let the pain fade). Until the end of battle this reduces your base movement speed by 10% and applies a \-1 penalty to dodge rolls. This penalty lasts until the next time you make a dodge roll. Multiple applications of this wound stack and the effect lasts for 1 additional dodge per every time this Wound is applied after the first time.
 
 ## **Blunt (Major)**
 
@@ -117,7 +117,7 @@ Something hit your leg and now it hurts\! You'll feel better after you walk it o
 
 That one left you reeling. Once you're done seeing stars, you'll be... mostly okay. You lose any AP you currently have, and all effects with Upkeeps (other than Doujutsu) end as you lose your concentration. If you're standing on water or a wall, you'll fall, too.
 
-Everything seems just a little bit... off, about the world, though you can't quite place what. Sounds are muffled, colors muted, and things keep moving at the edge of your vision. This distraction provides a \-3 penalty to all D20 Rolls.
+Everything seems just a little bit... off, about the world, though you can't quite place what. Sounds are muffled, colors muted, and things keep moving at the edge of your vision. This distraction provides a \-2 penalty to all D20 Rolls.
 
 ### **\- (21 \- 40\) Collapsed Lung (Torso)**
 
