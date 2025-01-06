@@ -80,7 +80,7 @@ Speed: 8
 Seal Speed: 5
 
 Effects:  
-This can be done on yourself, or someone else, but you must be able to touch the other person when performing the jutsu. This allows the person it's used on to make another roll against a Genjutsu affecting them, with a bonus of X. X has a limit of (5+XP/300). You also gain an additional \+1 for every time you’ve used genjutsu kai in a row. This may also be done against area-of-effect genjutsu, in which case this technique's user makes a genjutsu roll against the original roll made by whoever put the technique in place. If successful, the technique is dispelled in its entirety.
+This can be done on yourself, or someone else, but you must be able to touch the other person when performing the jutsu. This allows the person it's used on to make another roll against a Genjutsu affecting them, with a bonus of X. X has a limit of (5+XP/300). You also gain an additional \+2 for every time you’ve used genjutsu kai in a row. This may also be done against area-of-effect genjutsu, in which case this technique's user makes a genjutsu roll against the original roll made by whoever put the technique in place. If successful, the technique is dispelled in its entirety.
 
 ### **Shunshin no Jutsu \- Body Flicker Technique**
 
@@ -145,8 +145,9 @@ Speed: 12
 Seal Speed: 13
 
 Effects:  
-This inflicts a \-1 visibility penalty which increases every 10 IC until reaching \-10; 10 IC after that, it dissipates entirely. It can be dodged.  
-The application of an area-of-effect attack will destroy the crows, if it actually hits this technique's victim.
+This inflicts a -1 visibility penalty which increases every 10 IC until reaching -10; 10 IC after that, it dissipates entirely. It can not  be dodged.
+
+The application of an area-of-effect that deals damage to the target will destroy the crows.
 
 ### **Kawara Shuriken \- Roof Tile Shuriken**
 
