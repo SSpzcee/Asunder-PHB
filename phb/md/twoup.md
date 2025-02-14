@@ -78,7 +78,8 @@ Upgrades Into: Any 3-point unique.
 ### **Elemental Mastery**
 
 You have peerless control over elemental chakra, far beyond the realm of what's considered normal, and to a level that some would even think is impossible. Choose two elements; you can use them as if you had taken the Elemental Aptitude ability for them. Additionally, your ranks in the Elemental Affinity ability apply to all elements you can use. And your NDB increases by 0.25 for every rank in Elemental Affinity you have. This doesn't mean your personal chakra nature corresponds to all five elements, only that you're equally skilled with them all.
-Additionally, you have an Elemental Shaping pool which dictates how much you can modify any given basic Elemental Ninjutsu (advanced elements can not be shaped), with one point in it for each element you have Aptitude for, and four points for each rank of any elemental jutsu you know (for a potential maximum of 24). You can use your Elemental Shaping pool to modify any Elemental Ninjutsu you perform in the following ways (which doesn’t ‘use up’ your pool; its size simply determines how much you can modify any given technique):
+
+Additionally, you have an Elemental Shaping pool which dictates how much you can modify any given basic Elemental Ninjutsu (advanced elements can not be shaped). You gain four points for each rank of any elemental jutsu you know (for a potential maximum of 24). You can use your Elemental Shaping pool to modify any Elemental Ninjutsu you perform in the following ways (which doesn’t ‘use up’ your pool; its size simply determines how much you can modify any given technique):
 
 \> 15 points: +1 Target
 
@@ -100,6 +101,7 @@ For every 4 points the cost increases by 1 Chakra.
 There are some exceptions to the above: The Damage Dice from this Unique are rolled separately from the normal damage rolls and added at the end to the final total, meaning if the damage has special functions such as Katon’s exploding dice or Raiton’s multipliers then these extra die don’t benefit from them. For jutsu which launch projectiles at targets (but are not AoE, such as Houenka), additional targets gives a single extra projectile. Area and Range increases cannot add more than half the technique’s original Area or Range, and Range cannot modify a technique whose range is Touch. Similarly, any technique which does not list Area or Range cannot have them added to it to gain those qualities. The effects added from Shaping (aside from Suiton’s, which is automatic) do not require a status roll, but do require you to hit, and accordingly do not apply to environmental effects (such as Hidden Mist, or Yomi Numa), though they can be added to techniques which already have them, so long as they’re a valid choice.
 
 Shaping does not ‘combine elements’ in any sort of way (overt or otherwise), but rather modifies one element based off of properties of another: A Suiton that burns might be described as pressurized to tear away at the skin on contact, while a Raiton that knocks back a target might actually seem to crackle through the air and strike from below to lift someone off their feet as it hits. Just take care not to describe a knockback Suiton as Hyouton, for example, or a Fuuton that burns as Scorch release: advanced elements are a true combination of two different chakra nature types, while Shaping is modifying the base element in the style of another.
+
 
 Upgrades From: Elementally Gifted
 
