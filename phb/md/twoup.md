@@ -52,7 +52,7 @@ Upgrades From: Alert
 
 You're a master manipulator, a shinobi that fully understands the human mind and how best to twist and control it. There's likely something unsettling about you.
 
-Your current and maximum Research ranks are increased by 2, and the cost of your Skill Focus ability increases by 1 every 3 ranks, rather than 1 every 2 ranks.
+Your current and maximum Diplomacy ranks are increased by 2, and the cost of your Skill Focus ability increases by 1 every 3 ranks, rather than 1 every 2 ranks.
 
 You have a \+3 bonus to all Genjutsu rolls, and reduce the base Speed of all Genjutsu by 3; additionally, your opponents must successfully use Genjutsu Kai twice to break free from your illusions, though they realize this after the first success.
 
