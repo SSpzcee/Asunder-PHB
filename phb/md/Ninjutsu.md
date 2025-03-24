@@ -439,12 +439,12 @@ The victim can be freed by anyone able to remain in melee, as a Speed 20 Delay 2
 Often stomping beforehand, you then motion forward and either shoot a narrow column or spike at your opponent, or a rock of decent size. Whichever way, this is the weakest of any Doton.
 
 Chakra: 8  
-Damage: 4d8  
+Damage: 8d6  
 Range: 6  
 Speed: 10  
 Seal Speed: 8
 
-Tags: Attack, Blunt, Projectile, Line of Sight
+Tags: Attack, Blunt, Projectile
 
 ### **Mimizu no Jutsu \- Earthworm Technique**
 
@@ -457,7 +457,7 @@ Radius: 8
 Speed: 10  
 Seal Speed: 8
 
-Tags:Attack, AoE, Environmental, Ground-Based, Utility
+Tags: Attack, AoE, Environmental, Ground-Based
 
 Effects:  
 Dodging this technique allows people to avoid its initial damage, but they are still inside the field of rock spikes. Anyone inside the affected area moving by any means other than the Move action, takes 1d4+NDB\*(Yards move inside the Area) Piercing Damage.
@@ -466,11 +466,11 @@ Dodging this technique allows people to avoid its initial damage, but they are s
 
 You inject your own chakra through your hands into a natural surface to allow it's texture to become more like mud or clay as your fingers sink into it. This can be used to all sorts of ends. Making a statue, digging a hole, climbing a wall, whatever you want\! ...As long as it has to do with rocks and stuff.
 
-\- Chakra: 10  
-\- Speed: 8  
-\- Seal Speed: 4
+Chakra: 10  
+Speed: 8  
+Seal Speed: 4
 
-Tags: Ground-Based, Utility
+Tags: Utility, Ground-Based
 
 Effects: You can shape the surface of a rock, or mold it in your hands like clay. If you use this before climbing an earthen surface (be it a cliff face or a castle wall) you gain a \+5 bonus to Athletics checks associated with climbing it, by making hand- and footholds (for yourself only). This doesn't work if you're, say, climbing up the side of a cliff face using a rope. I really shouldn't have needed to say that, but, yanno.
 
@@ -482,7 +482,7 @@ Speed: 10
 Range: 10 \+ Chakra Control skill  
 Seal Speed: 6
 
-Tag: Utility, Ground-Based, Self
+Tag: Utility, Self, Ground-Based
 
 Effects:  
 You can perform a free Search Action against anyone touching the ground or any rock surface (including worked stone, such as brick walls or tiled flooring. As well as those underground), using your Chakra Control Skill in place of your Awareness.
@@ -497,10 +497,10 @@ Chakra: \+5, \+1 per rank above E
 Speed: \+2  
 Seal Speed: \+3
 
-Tag: Ground-Based, AOE, Attack
+Tag: Attack, Link, AOE, Ground-Based
 
 Effects:  
-This technique is used in combination with a damage-dealing Doton jutsu, increasing its Seal Speed and Chakra cost accordingly. The technique has a radius of 3 yards, \+3 yards per rank above E. Notably, anyone who is actually airborne ("jumping as they dodge" doesn't count) is unaffected.  
+This technique is used in combination with a damage-dealing Doton jutsu, increasing its Seal Speed and Chakra cost accordingly. The technique has a radius of 3 yards, \+3 yards per rank above E.  
 Within this area, the shaking ground imposes a Stun 3, \+1 per rank the jutsu Shindou was used with is above E; if the technique Shindou was used with already inflicts a Stun, that Stun is increased by the jutsu's rank (instead of Shindou's normal effect). Anyone not targeted by the original attack must dodge Shindou, in which case the original technique's Accuracy bonuses or penalties are ignored.  
 This can be used on its own as Chakra 8, Speed 6, and Seal Speed 6\. In this case it's Radius 10, Stun 5, centered on (but not affecting) yourself. It does also require a Defense roll in this case.
 
@@ -511,34 +511,32 @@ This can be used on its own as Chakra 8, Speed 6, and Seal Speed 6\. In this cas
 Rock Thrust, except actually meant to do serious harm to people outside of training matches. You summon a spike of earth actually capable of skewering an enemy\! This can also be more of a solid hit, not as pointy, as to whatever degree they want, and can even look like a fist or some similar, stylized attack, but it's still just big rocks coming at you.
 
 Chakra: 16  
-Damage: 12d10\*1.25  
-Range: 12  
-Special: Stun 4  
+Damage: 12d8\*1.25  
+Range: 12   
 Speed: 14  
 Seal Speed: 12
+Special: Stun 4 
 
-Tags: Ground-Based, Line of Sight, Attack
+Tags: Attack, Piercing, Ground-Based
 
 Effects:  
-Earthen Skewer inflicts Piercing wounds, and has its damage increased by 10% when checking to see if it caused a wound.
+This technique has +10% wounding.
 
 ### **Tama no Nendo \- Clay Bullet**
 
 Pushing your chakra into the ground beneath you, you pull up a ball of earth and mud, globby and chakra filled that you then launch or literally throw sometimes at the opponent. Once on them, the mud is held semi-cohesive by the chakra lacing it, which can restrict the victim's movement.
 
-Chakra: 12  
-Damage: 5d10  
+Chakra: 13  
+Damage: 5d10\*1.25  
 Range: 6  
 Speed: 12  
 Seal Speed: 10
+Accuracy: \+2
+Special: Immobilization 3, This technique receives only half your damage bonus.
 
-Tags: Projectile, Ground-Based, Line of Sight, Attack
+Tags: Attack, Projectile, Blunt
 
-Effects: If the victim fails a status roll of your Chakra Control vs their Resistance, this inflicts a \-3 Immobilization penalty that fades by 1 every 15 initiative counts. Someone affected by this mud may make a 1d20+STR/5 (theirs) vs. 1d20+CHA/5 (yours) check to break free. This is a Speed 5 action; for every point they succeed by, the penalty is reduced by 1\. For every 5 points they succeed by, the action's Speed is reduced by 5 (potentially all the way down to 0). If you hit someone with this technique while they are still suffering from the Immobilization of a previous application, you do not reapply the penalty but extend its current penalty another 10 IC.
-
-This jutsu uses half your NDB.
-
-This jutsu carries a \+2 bonus to accuracy
+Effects: The Immobilization penalty fades by 1 every 15 initiative counts. Someone affected by this mud may make a 1d20\+STR/5 (theirs) vs. 1d20\+CHA/5 (yours) check to break free. This is a Speed 5 action; for every point they succeed by, the penalty is reduced by 1. For every 5 points they succeed by, the action's Speed is reduced by 5 (potentially all the way down to 0). If you hit someone with this technique while they are still suffering from the Immobilization of a previous application, you do not reapply the penalty but extend its current penalty another 10 IC.
 
 ### **Iwa Funsai Buin \- Rock Smashing Staff**
 
@@ -549,41 +547,41 @@ Upkeep: 1
 Speed: 8  
 Seal Speed: 10
 
-Tags: Utility, Ground-Based
+Tags: Utility, Self, Creation
 
 Effects:  
-You create a bo staff or naginata out of rocks or dense, chakra-congealed earth. When using it, you add half your ninjutsu damage bonus to your physical damage bonus, and add a Stun 4 (or increase its existing Stun by 3\) effect to it. This weapon persists until you let go of it.
+You acquire a Club from the standard Club options in the Equipment section. You may then upgrade it using Artisan points equal to your Chakra Control \- 5. You may choose to double the Base Speed and Upkeep of this Technique to create a second Club in your other hand during the activation of this Technique. Both weapons gain the dual property (for free) but the artisan points must be split between the 2 weapons.
+When using it, you add a Stun 4 (or increase its existing Stun by 3) effect to it.This Club lasts until you let go of it or end this Technique’s Upkeep. You may perform Handseals while holding Earth Clubs, but doing so increases the Seal Speed by 4 for one Club, and 6 for two Clubs.
+
 
 ### **Shinjuu Zanshu no Jutsu \- Double Suicide Decapitation Technique**
 
 After thoroughly concealing yourself, this technique allows you to move through the ground for a short amount of time, long enough to position yourself under the enemy and pull them down under the ground.
 
-\- Chakra: 18  
-\- Range: 8  
-\- Speed: 10  
-\- Seal Speed: 8
+Chakra: 14  
+Range: 8  
+Speed: 10  
+Seal Speed: 8
 
-Tags: Ground-Based, On-Contact, Melee, Attack
+Tags: Attack, Melee, Ground-Based
 
-Effects: This technique can only be used if you are hidden from your target or underground, and uses your melee Taijutsu accuracy (rather than Ninjutsu). If used when hidden (but not underground), this technique is considered a surprise attack, and you briefly submerge underground and then grab for your target to pull them into the earth as you pop up from underneath them.
-
-If you hit, you inflict them with a \-1 Immobilization Penalty per point your Accuracy beats their defense, to a maximum of \-6. They can dig themselves out from underground as a Speed 10 action which removes the penalty entirely. Until they get rid of the Immobilization penalty from this technique they can not move (as they are stuck to the spot), but can otherwise attack and defend themselves.
+Effects: This technique can only be used from stealth or underground, and uses your melee Taijutsu accuracy (rather than Ninjutsu). If you hit, you inflict them with a -1 Immobilization Penalty per point your Accuracy beats their defense, to a maximum of -6. They can dig themselves out from underground as a Speed 10 action which removes the penalty entirely. Until they get rid of the Immobilization penalty from this technique they can not move (as they are stuck to the spot), but can otherwise attack and defend themselves.
 
 ### **Doro Bunshin no Jutsu \- Mud Clone Technique**
 
 An advanced variation of Bunshin no Jutsu, this jutsu creates solid clones made from the earth beneath a shinobi's feet, which change their appearance to look like the user. They have many advantages over normal clones, but are significantly more difficult to create.
 
-Chakra: 12, \+4 per clone  
-Speed: 6, \+1 per clone  
-Seal Speed: 4, \+2 per clone  
+Chakra: 12, \+4\*X  
+Speed: 6, \+1\*X  
+Seal Speed: 4, \+2\*X  
 Requires: Bunshin no Jutsu
 
-Tags: Utility, Clone, Ground-Based
+Tags: Utility, Clone
 
 Effects:  
-These follow all the rules for regular bunshin (limitations of 3, etc), with the following exceptions.
+You create X clones. These follow all the rules for regular bunshin (limitations of 3, etc), with the following exceptions.
 
-If someone strikes a mud clone with an unarmed attack, they suffer a \-4 immobilization penalty, reduced by 1 every 10 IC. If they attack with a melee weapon, they roll 1d20+STR/10 against your 1d20+CHA/8; if they fail, the weapon is stuck in the clone (which is exposed as a clone), and retrieving it is a Speed 5 action that allows another check to pull it free with a \+2 bonus for each previous attempt.
+If someone strikes a mud clone with an unarmed attack, they suffer a \-4 immobilization penalty, reduced by 1 every 10 IC. If they attack with a melee weapon, they roll 1d20\+STR/10 against your 1d20\+CHA/8; if they fail, the weapon is stuck in the clone (which is exposed as a clone), and retrieving it is a Speed 5 action that allows another check to pull it free with a \+2 bonus for each previous attempt.
 
 Against ranged attacks, mud clones can take 50 points of damage before being destroyed (and revealed as clones).
 
@@ -595,11 +593,12 @@ Chakra: 13
 Radius: 10  
 Speed: 8  
 Seal Speed: 8
+Special: Stun 5
 
-Tags:Utility, AoE, On-Contact, Ground-Based, Attack
+Tags: Attack, Utility, AoE, Ground-Based
 
 Effects:  
-This inflicts a Stun 5 against everyone in the area if they fail to dodge it. You may immediately Hide as part of this technique.
+You may immediately Hide as part of this technique.
 
 ### **Doton: Nebaneba Shita Karada \- Earth Style: Sticky Body Technique**
 
@@ -618,54 +617,56 @@ This gives you a \+3 bonus to all your grapple rolls whilst either pinning an op
 
 ## **Doton C-rank**
 
-### **dotensho \- Split Earth Turn Around Palm**
+### **Retsudotensho \- Split Earth Turn Around Palm**
 
 This technique causes the ground surrounding the enemy to spiral inwards on itself, burying them alive or crushing them. This technique is capable of causing quite a bit of damage to the area. This technique is much more damaging if used in rocky mountainous areas, or inside a cave.
 
-Chakra: 26  
-Damage: 20d12  
+Chakra: 25  
+Damage: 12d12\*1.4  
 Range: 25  
-Area: 12  
-Special: Stun 6  
+Area: 12   
 Speed: 22  
 Seal Speed: 15
+Special: Immobility 6
 
-Tags: Blunt, Ground-Based, AoE, On-Contact, Attack
+Tags: Attack, AoE, Blunt, Ground-Based
 
 Effects:  
-If this hits and does not have its effects reduced by partial defense, it also inflicts a \-6 immobilization penalty until the victim leaves the entire affected area, as they fall into the destroyed section of ground. This occurs automatically if it's used underground, such as in a cave.
+The immobilization penalty lasts until the victim leaves the entire affected area, as they fall into the destroyed section of ground.
 
 ### **Doryuu Taiga \- Earth Flow River**
 
 You cause a long stretch of nearby ground to become mud and slide your opponents down a torrenting river of rocks and dirt, spewing them out at the end. This often leaves people hurt, and disoriented\!
 
-Chakra: 16  
-Damage: 12d4\*1  
-Range: 20, 10 Line  
+Chakra: 16 8
+Damage: 25d6  
+Line: 10, 20  
 Speed: 18  
 Seal Speed: 14
 
-Tags: Blunt, AoE, Projectile, LoS, Attack, Ground-Based
+Tags: Attack, AoE, Blunt, Ground-Based
 
 Effects:  
-This moves anyone hit by it CHA/8+5 Yards all in the direction the river 'flows' (chosen by the line). Everyone receives a Stun equal to how far they move \-5; the stun is divided by 3 if they block.  
+This moves anyone hit by it CHA/8\+5 Yards all in the direction the river 'flows' (chosen by the line). Everyone receives a Stun equal to how far they move \-5; the stun is divided by 3 if they block.  
 If this is blocked by an effect which halts its progress (such as Earth Shore Return), nobody behind that effect is affected.
 
 ### **Doroku Gaeshi \- Earth Shore Return**
 
 Slamming both hands into the ground, the user can cause a large rectangle wall of earth to pop up in front up them, covering whatever attack someone may be directing at them.
 
-Chakra: 18  
+Chakra: 16, \+6 if destroyed
 Range: 16  
 Special: Interrupt  
 Speed: 8  
 Seal Speed: 8
 
-Tags: Defensive, Ground-Based
+Tags: Interrupt, AoE
 
 Effects:  
-This creates a wall 4 yards wide and 3 yards high that takes the hit from an attack. This wall absorbs 200 \+ 10\* (Ninjutsu damage bonus) damage. If destroyed, any remaining damage carries on to you (in which case you cannot defend against it further) or whoever else you used this to protect (in which case, they can).  
+This creates a wall 4 yards wide and 3 yards high that takes the hit from an attack. This wall absorbs 200 \+ 10\* (Ninjutsu damage bonus) damage. If destroyed, any remaining damage carries on to you (in which case you cannot defend against it further) or whoever else you used this to protect (in which case, they can).
+
 As implied up there, this can be used to protect anyone in range. However, Earth Shore Return can't be used against melee attacks, or ranged attacks originating 5 yards or less away from you. After having all its HP depleted, or at the end of the IC it was used on, the wall crumbles into dirt and gravel.  
+
 This wall takes double damage from Raiton, and half  
 damage from Suiton. The Wall is considered to be Blocking for any relevant interactions (such as Fuuma Shuriken).
 
@@ -695,19 +696,19 @@ Seal Speed: 15
 Tags: Utility, Ground-Based, Self
 
 Effects:  
-You increase your AGI stat for the purposes of movement by CHA/2. You may choose to end this technique at any time, or as part of a D rank or higher damage dealing Doton jutsu. If you end it as part of a jutsu, that technique gains a Stun equal to 2+(your ninjutsu damage bonus)/3, or increases its existing Stun by that much, from absorbing the mud used in this technique.  
+You increase your AGI stat for the purposes of movement by CHA/2. You may choose to end this technique at any time, or as part of a D rank or higher damage dealing Doton jutsu. If you end it as part of a jutsu, that technique gains a Stun equal to 2+(your ninjutsu damage bonus)/3, or increases its existing Stun by that much, from absorbing the mud used in this technique.
+
 This is incompatible with effects which increase your normal movement speed--such as the Runner ability, and Racing Thunder Technique. While Mud Wave is active, you do not receive their benefits.
 
 ### **Moguragakure no Jutsu \- Hiding Like a Mole Technique**
 
 Channeling your chakra into the ground below you, you turn the dirt or earth or rock into fine sand. It effects your entire body so you simply slide down quickly, but only making a tunnel big enough for one person. After digging your way down, you can sense everything going on above still, and can even cover the hole to make it seem like you never even burrowed away.
 
-\- Chakra: 20  
-\- Special: Interrupt  
-\- Speed: 12  
-\- Seal Speed: 12
+Chakra: 18 
+Speed: 6
+Seal Speed: 12
 
-Tags: Defensive, Ground-Based, Utility
+Tags: Interrupt, Ground-Based
 
 Effects: You dive down a yard underground, but are afflicted with Stun 6\. If used as an Interrupt, this requires a dodge roll with a \+5 bonus; success, even partial, will allow you to trigger the second half of this jutsu.
 
@@ -719,11 +720,11 @@ Anyone can attack you while you are under the ground, and any defensive roll you
 
 This technique reduces the consistency of earth into less than that of fine sand by channeling chakra into it, allowing the user to dig through it with ease. This affects the entire body, and the earth returns to its normal consistency after they've passed.
 
-\- Chakra: 18  
-\- Upkeep: 4  
-\- Seal Speed: 12
+Chakra: 14
+Upkeep: 4  
+Speed: 6
 
-Tags: Utility, Ground-Based, Self
+Tags: Utility, Self, Ground-Based
 
 Effects: This may only be used while underground, such as from the effects of Moguragakure no Jutsu, to burrow through solid rock, and can be used while Stealthed without revealing you. While you maintain this technique's upkeep, you can move underground up to a yard deep (any deeper any you would begin to be crushed by the pressure of the earth around you), using CHA/2 in place of AGI for determining your movement speed.
 
@@ -735,31 +736,30 @@ Anyone can attack you while you are under the ground, and any defensive roll you
 
 Channelling chakra into your arms and the ground below you, you place your hands on the earth and lift up an incredibly large (no, really, just look at the Area on this thing\!) ball of earth and rock, which is then thrown at your enemies.
 
-Chakra: 44  
-Damage: 44d20\*1.5  
+Chakra: 38
+Damage: 18d20\*1.5  
 Range: 50  
 Area: 40  
-Special: Stun 12  
 Speed: 24, Delay 10  
 Seal Speed: 30
+Special: Stun 12
 
-Tags: Blunt, AoE, Attack, LoS, Ground-Based
+Tags: Attack, AoE, Blunt
 
 ### **Doryuukatsu \- Earth Flow Divide**
 
 Flowing your energy into special underground 'Dragon Veins' (that means chakra leylines, not a literal dragon's body--I'm talking to you, Takuto) you can literally make a tear in the earth, and create a large chasms. This is most often used as a way of breaking through a large wall, destroying an enemy camp or other barricades and such.
 
 Chakra: 35  
-Damage: 25d20  
-Range: Special  
+Damage: 80d6  
+Line: 5, Up to Chakra Control Yards  
 Speed: 24  
 Seal Speed: 18
 
-Tags: Blunt, AoE, Ground-Based, Attack, LoS
+Tags: Attack, Blunt, AoE, Ground-Based
 
 Effects:  
-Any damage from this technique is tripled against an inanimate, stationary object. Don't even ask if this tripling can be done against a player or NPC.  
-You choose the length and width of the attack and will hit anything in the area. The maximum length is your Chakra Control skill ranks in yards, and the width is 5 yards.
+Any damage from this technique is tripled against an inanimate, stationary object.
 
 ### **Doton: Dorou Domu Kekkai \- Earth Release: Earth Prison Dome of Magnificient Nothingness**
 
@@ -773,12 +773,13 @@ Seal Speed: 14
 Tags: AoE, Environmental, Ground-Based, On-Contact
 
 Effects:  
-This creates a dome of earth directly in front of you, with you at the edge of its radius. Anyone who cannot dodge is trapped inside the dome. The dome has 400 \+ (damage bonus)\*10 HP.  
+This creates a dome of earth directly in front of you, with you at the edge of its radius. Anyone who cannot dodge is trapped inside the dome. The dome has 400 \+ (damage bonus)\*10 HP.
+
 Every 5 IC which pass, the following effects occur:  
 Everyone inside the dome has their Chakra penalty increased by 1\.  
 You have your Chakra penalty reduced by 1 per person inside the dome.  
 The dome regains (damage bonus)\*5 HP, up to its maximum.  
-You must keep one hand on the dome at all times; if you break contact the above effects ends (and cannot be reestablished), but the dome retains any HP it had at that point.
+You must keep one hand on the dome at all times; if you break contact the above effects end (and cannot be reestablished), but the dome retains any HP it had at that point.
 
 ### **Doryuu Jouheki \- Earth Flow Rampart**
 
@@ -788,7 +789,7 @@ Chakra: X
 Speed: 20  
 Seal Speed: 20
 
-Tags: Utility, Environmental, Ground-Based
+Tags: Utility, Environmental
 
 Effects:  
 Create what is basically a huge wall\! It can be up to the following dimensions: Length \= X, Width \= X/4, Height \= X/2. If you use this and X is 30 or more, the area you are in counts as rocky terrain for the purposes of jutsu requirements.
@@ -807,7 +808,7 @@ Tags: Utility, Ground-Based
 Effects:  
 This allows you to enter level 3 Stealth, and gives a \+10 bonus to your stealth checks while it's maintained. However, it requires rocky terrain (such as the inside of a cave, a mountain path, the debris from a destroyed wall, or a large boulder), and you cannot move more (blinking and breathing are okay) while it's maintained.
 
-### **Doton: Domu \- Earth Release: Earth Spear**
+### **Doton: Domu \- Earth Release: Iron Skin**
 
 You direct chakra to flow through the skin over all portions of your body, increasing your body's defensive power to its utmost limit. This causes your skin to darken in response to the earth-elemented chakra, taking on a dull gray-brown, almost black color. This hardening also empowers your physical attacks, making this a useful, if draining, all-purpose technique.
 
@@ -819,7 +820,7 @@ Seal Speed: 17
 Tags: Utility, Self, Ground-Based
 
 Effects:  
-You gain (CHA) Damage Reduction, and increase your Physical Damage Bonus by half your Ninjutsu Damage Bonus. Raiton bypasses all this technique’s effects, and Suiton has its damage lowered by twice as much (a DR of CHA\*2, rather than just CHA).
+You gain (CHA/2) Damage Reduction, and increase your Physical Damage Bonus by the same amount. Raiton bypasses all this technique’s effects.
 
 ### **Doryuuheki \- Earth Style Wall**
 
@@ -833,7 +834,8 @@ Seal Speed: 24
 Tags: Defensive, Ground-Based
 
 Effects:  
-You create a wall of earth that blocks up to (50 \+ (ninjutsu damage bonus)\*2 )\*(Speed) damage. It takes 50% extra damage from Raiton, but only half damage from Suiton and Katon.  
+You create a wall of earth that blocks up to (50 \+ (ninjutsu damage bonus)\*3 )\*(Speed) damage. It takes 50% extra damage from Raiton, but only half damage from Suiton and Katon.
+
 You may use Action Points to reduce Doryuuheki's (base) Seal Speed, on a 1:1 basis, to as low as 12\. Note that if you are able to use Doryuuheki as an interrupt, you may do so without the need for a roll. Earth Style Wall can only be used against attacks which originated more than 5 yards away from you.  
 Used against area-of-effect attacks, this may protect multiple people, as long as they can all be placed behind the same 15 yard long line.
 
@@ -841,12 +843,12 @@ Used against area-of-effect attacks, this may protect multiple people, as long a
 
 You either gather animate rocks from you, or actually generate them with chakra and regurgitate a stream of stones (somehow, you're protected from a cut esophagus or chipped teeth during this process). Either way, the rocks then take on a human shape and appearance.
 
-Chakra: 10, \+6 per clone  
-Speed: 10, \+2 per clone  
-Seal Speed: 10, \+3 per clone  
+Chakra: 10, \+6\*X  
+Speed: 10, \+2\*X  
+Seal Speed: 10, \+3\*X  
 Requires: Bunshin no Jutsu
 
-Tags: Utility, Clone, Ground-Based
+Tags: Utility, Clone
 
 Effects:  
 You may create up to 3 clones that can look like yourself or anyone else present. If they look like someone else, that person may then hide amongst your clones to receive the normal benefits of having clones; these can even be added to their own clones.  
@@ -878,15 +880,14 @@ So long as this technique is maintained, your taijutsu attacks are enhanced. You
 
 A dragon-like head of rock, mud, and dirt rises up from the gound, its maw wide open. From said maw, it launches dozens of high-velocity projectiles of dense, chakra-infused earth\! While not as visually impressive as some techniques, Doryuudan is incredibly demanding upon its user--and incredibly devastating to its victims.
 
-Chakra: 60  
-Damage: 80d20  
-Range: 60  
-Accuracy: \+2  
-Special: Stun 20  
+Chakra: 50  
+Damage: 28d20\*2 
+Range: 60 
 Speed: 40  
-Seal Speed: 40
+Seal Speed: 30
+Special: Stun 20
 
-Tags: Blunt, Projectile, LoS, Attack
+Tags: Attack, Projectile, Blunt
 
 Effects:  
 Blocking reduces this technique's damage by only 25%.
@@ -896,30 +897,30 @@ Blocking reduces this technique's damage by only 25%.
 After performing the necessary seals, the user channels chakra into the rocks and stone around them. Their chakra causes large rocks to shatter into smaller ones, which are then launched as high-velocity projectiles towards potentially dozens of targets.
 
 Chakra: 48  
-Damage: 20d20  
-Accuracy: \+2  
+Damage: (5\*X)d20  
+Accuracy: \+X/5  
 Range: 7 \* (ninjutsu damage bonus)  
 Speed: 30  
 Seal Speed: 26
 
-Tags: Blunt, Projectile, LoS, Attack
+Tags: Attack, Projectile, Blunt
 
 Effects:  
-This technique may only be used in rocky terrain. You may hit up to (ninjutsu damage bonus) targets. You may target the same person multiple times, up to one quarter of your maximum. Every additional 'target' spent on them gives a \+1 bonus to Accuracy (against that target only) and increases the damage by 5d20.
+You fire up to (ninjutsu damage bonus) projectiles. You may target the same person multiple times with X being the number of projectiles at a single target.
 
 ### **Doton: Sando no Jutsu \- Earth Release: Mountain Earth Technique**
 
 The user creates two monolithic walls up from the ground, destroying the environment for several hundred yards in either direction, and sends them at one another. As they approach each other, their momentum builds, starting off slow and ending with a collision that removes the third dimension from anything unlucky enough to be caught between them.
 
 Chakra: 50  
-Damage: 50d20\*2  
+Damage: 100d6\*2  
 Accuracy: \-10  
 Range: 100  
 Area: 80  
 Speed: 30, Delay 30  
 Seal Speed: 26
 
-Tags: Blunt, AoE, Ground Based, Attack
+Tags: Attack, Blunt, AoE
 
 Effects:  
 This technique's damage is doubled for determining if it inflicts wounds. If (Heh, “If”) it does cause a wound, it also causes two wounds of the next lower severity, three of the severity below that, and so forth. And it applies them to all body parts.  
@@ -930,15 +931,13 @@ Thus, if it inflicted a Critical Wound, it would also inflict two Severes, three
 The user lowers or raises the ground in the surrounding area at high speed, creating giant depressions or spires. Despite how this might seem, it's fairly harmless to the surrounding area. People, plants, and buildings on the affected area will be largely undisturbed. The sides of the hole or spire are quite sturdy, and it's not in danger of collapsing on its own.
 
 Chakra: 30+X  
-Special: Interrupt (uh, yeah, good luck with that)  
 Speed: 28  
 Seal Speed: 30
 
 Tags: Utility, Defensive
 
 Effects:  
-This affects everything in a square of up to 50 yards on a side, centered on its user. It moves the ground in that area X\*(damage bonus) yards straight up, or straight down.  
-If you manage to use this as an interrupt, this will allow you to avoid a technique if you move yourself out of its range.
+This affects everything in a square of up to 50 yards on a side, centered on its user. It moves the ground in that area X\*(damage bonus) yards straight up, or straight down. If you manage to use this as an interrupt, this will allow you to avoid a technique if you move yourself out of its range.
 
 \--------------------------------------------------------------------------------------------------------
 
