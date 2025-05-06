@@ -949,21 +949,28 @@ This affects everything in a square of up to 50 yards on a side, centered on its
 [|B-Ranks|](#fuuton-b-rank)
 [|A-Ranks|](#fuuton-a-rank)
 
+## Wind (Fuuton)
+Blocking reduces the damage of Wind techniques by only 25%.
+Using a fan you can rapidly manipulate wind and infuse it with chakra on any technique with the fan tag. This removes the seal speed and adds a Stamina roll with a difficulty of 5 \+ (the difference between your sealing and the seal speed), made at the same time as the normal Chakra roll.
+Oh and if there’s no air or any gasses around (Even water has air in it), then you can’t use Fuuton, but… If you’re in a situation like that then you probably have bigger problems to worry about.
+
+
 ## **Fuuton E-ranks**
 
 ### **Fuusajin no Jutsu \- Dust Wind Technique**
 
 You use a burst of wind to blow dust, dirt, or other loose particles up into the air, producing an irritating cloud that briefly obscures the visions of people caught inside of it.
 
-Chakra: 6  
-Area: 4 wide, 10 long, directly in front of you  
+Chakra: 6
+Accuracy: \+2
+Line: 4 x 10 
 Speed: 6  
 Seal Speed: 8
 
-Tags: AoE, Projectile
+Tags: Attack, AoE, Fan
 
 Effects:  
-Anyone hit suffers \-4 visibility for the next 10 IC. This technique has a \+4 bonus to Accuracy.
+Anyone hit suffers \-4 visibility for the next 10 IC.
 
 ### **Soujikaze no Jutsu \- Cleansing Wind Technique**
 
@@ -975,7 +982,7 @@ Radius: 20
 Speed: 4  
 Seal Speed: 7
 
-Tags: Utility, AoE
+Tags: Utility, AoE, Fan
 
 Effects:  
 This reduces any existing visibility penalties resulting from smoke, mist, clouds of dust, or the like, by 4\. Repeated use of this jutsu will reduce them further, potentially eliminating them entirely.
@@ -987,7 +994,7 @@ This reduces any existing visibility penalties resulting from smoke, mist, cloud
 The user generates a narrow arc of wind and chakra, which is sent out to cut things like ropes, lines, and people.
 
 Chakra: 11  
-Damage: 2d4\*5  
+Damage: 4d4\*5  
 Range: 20  
 Speed: 8  
 Seal Speed: 12
@@ -995,7 +1002,7 @@ Seal Speed: 12
 Tags: Slashing, Projectile
 
 Effects:  
-This technique's damage is considered 50% higher for determining whether or not it inflicts wounds.
+This technique's damage is considered 75% higher for determining whether or not it inflicts wounds.
 
 ### **Fuuton: Fuuma Shuriken no Jutsu \- Wind Shuriken**
 
@@ -1006,7 +1013,7 @@ Upkeep: 1
 Speed: 5  
 Seal Speed: 10
 
-Tags: Weapon, Projectile
+Tags: Utility, Creation
 
 Effects:
 
@@ -1017,10 +1024,10 @@ You create a Fuuma, or up to as many small Ranged weapons (Kunai, Senbon, Shurik
 Holding their hand half-grasped, the user blows a constant stream of wind into their hand which begins to spiral around in a ball or small tornado shape. The tornado is then sent out toward the target as the hand is opened.
 
 Chakra: 14  
-Damage: 4d4\*5  
+Damage: 4d4\*7  
 Range: 10  
 Speed: 11  
-Seal Speed: 8
+Seal Speed: 13
 
 Tags: Slashing, Projectile
 
@@ -1029,9 +1036,8 @@ Tags: Slashing, Projectile
 In a fashion similar to how ninja knead chakra into their palms and feet to stick to walls and ceilings, you gather wind elemental chakra, but project and hold it just beyond your body to supplement your unarmed strikes.
 
 Chakra: 10  
-Upkeep: 4  
-Special: This technique may not have its seal speed removed with a fan  
-Speed: 0  
+Upkeep: 4    
+Speed: 2  
 Seal Speed: 12  
 Requires: Chakra Control 7
 
@@ -1045,22 +1051,21 @@ While this technique's upkeep is maintained, all your unarmed taijutsu technique
 Generally performed with a fan as a matter of practicality, this technique unleashes a burst of wind that will not only deflect projectiles, but also strip them of any chakra they may be infused with.
 
 Chakra: 11  
-Special: Interrupt  
 Speed: 4  
 Seal Speed: 12
 
-Tags: Defensive
+Tags: Interrupt, Fan
 
 Effects:  
-This is usable as an interrupt against any thrown weapon attack. Make an Accuracy roll against your attacker's; success means you deflect their attack harmlessly. However, even if you fail but Partial Defense applies, any ninjutsu effects on it (such as Housenka) are removed.
+You attempt to parry an incoming ranged taijutsu attack. Even if you fail, any ninjutsu effects on it (such as Housenka) are removed.
 
 ### **Rakuyou Buyou \- Falling Leaves Dance**
 
 Using the wind, you kick up any light debris in the area (leaves in a forest, sand in a desert, conveniently ubiquitous scraps of paper in a town) to swirl around you just long enough for you to make a sneaky, ninja-fast getaway.
 
 Chakra: 10  
-Speed: 6  
-Seal Speed: 6
+Speed: 7
+Seal Speed: 9
 
 Tags: Utility
 
@@ -1073,13 +1078,12 @@ By blowing air from your mouth, you can change direction in mid-air. This allows
 
 Chakra: 12  
 Speed: 2  
-Seal Speed: 6
+Seal Speed: 7
 
 Tags: Utility
 
 Effects:  
-As described, you can control your direction in mid air. This can also be used when falling from any height, to slow yourself sufficiently to avoid being harmed by the impact from hitting the ground.  
-This also has uses inside of a grapple to push against your opponent as they try to close in on you. Whenever you make a grapple roll, you can use this technique to give you \+3 to that grapple roll, even if it’s not your action.
+This can also be used when falling from any height, to slow yourself sufficiently to avoid being harmed by the impact from hitting the ground. Also whenever you make a grapple roll, you can use this technique to give you \+3.
 
 ### **Fuuton: Taikyaku Haretsu \- Wind Release: Bursting Retreat**
 
@@ -1087,12 +1091,28 @@ You take in a deep breath, then exhale a mixture of air and chakra with enough s
 
 Chakra: 8+X  
 Speed: \+X  
-Seal Speed: 4
+Seal Speed: 6
 
-Tags: Defensive
+Tags: Link
 
 Effects:  
-When attempting to dodge an AoE, you normally suffer a penalty to dodge if you are unable to move fast enough. This technique is used alongside a Dodge interrupt (increasing its Speed accordingly), and removes X\*2 points of the penalty.
+This technique is used alongside a Dodge interrupt and increases the yards you can move (for determining AoE penalties) by X.
+
+### **Fuuton: Kaze no Senpūki \- Wind Release: Fan of Wind**
+
+You form your wind condensing it around your hand. Not exactly a fan but this serves a similar function to one being able to reduce fuuton seal speeds and act as a fan for all intents and purposes.
+
+Chakra: 12
+Upkeep: 1
+Speed: 8
+Seal Speed: 10
+
+Tags: Utility, Self, Creation
+
+Effects:  
+You acquire a Fan from the standard Fan options in the Equipment section. You may then upgrade it using Artisan points equal to your Chakra Control \- 5. You may choose to double the Base Speed and Upkeep of this Technique to create a second Fan in your other hand during the activation of this Technique. Both weapons gain the dual property (for free) but the artisan points must be split between the 2 weapons.
+
+When using it, your weapon gains a \+25% Wounding Bonus and Fuuton jutsu cast with it have their seal speeds reduced to 0. This Fan lasts until you let go of it or end this Technique’s Upkeep. You may perform Handseals while holding Wind Fans, but doing so increases the Seal Speed by 4 for one Fan, and 6 for two Fans.
 
 ## **Fuuton C-rank**
 
@@ -1100,104 +1120,80 @@ When attempting to dodge an AoE, you normally suffer a penalty to dodge if you a
 
 This technique allows you to create and manipulate many small air currents and vacuum pockets in the form of a whirling gale, which is directed at an opponent before it dissipates. This produces injuries that resemble what one would expect to see from dozens of blades.
 
-Chakra: 18  
-Damage: 3d8\*5  
+Chakra: 19
+Damage: 4d8\*5  
 Range: 25  
 Speed: 14  
 Seal Speed: 18
 
-Tags: Slashing, Projectile
+Tags: Attack, Projectile, Slashing, Fan
 
 Effects:  
-This technique's damage is considered 50% higher for the purpose of causing wounds.
+This technique's damage is considered 100% higher for the purpose of causing wounds.
 
 ### **Fuuton: Shinkuuha \- Wind Release: Vacuum Wave**
 
 The user takes in a deep breath an spins while exhaling, forming several rotating blades of wind that cover a substantial area around them, slicing through multiple foes at once while leaving allies unharmed
 
-Chakra: 21  
-Damage: 4d6\*5  
-Area: 15 yard radius, centered around the user  
+Chakra: 24
+Damage: 5d6\*6  
+Area: 15 
 Speed: 16  
-Seal Speed: 10
+Seal Speed: 20
 
 Tags: Slashing, AoE, Projectile
 
 Effects:  
-This technique may differentiate between enemies and allies within its area of effect. It ignores armor, and its damage is considered 25% higher for the purpose of causing wounds.
+This technique may differentiate between enemies and allies within its area of effect. It ignores armor, and has \+25% wounding.
 
 ### **Fuuton: Daitoppa \- Wind Release: Great Breakthrough**
 
 A relatively simple technique which creates a sudden gust of wind. Its actual force varies wildly based upon the strength of the user. A superior shinobi will produce alarmingly destructive results, while a weaker one would be better off finding other methods to attack.
 
 Chakra: 20  
-Damage: 4d4\*5  
-Range: (Damage Bonus)\*2  
+Damage: 6d4\*5  
+Range: Damage Bonus
 Speed: 12  
 Seal Speed: 12
 
-Tags: Blunt, Projectile
+Tags: Attack, Projectile, Blunt
 
 Effects:  
-This uses double the user's normal ninjutsu damage bonus, and inflicts Blunt wounds. It also knocks the victim back a number of yards equal to twice the Speed of the attack. Partial defense reduces this knockback to the same percent it does for Damage.
-
-### **Fuuton: Reppuushou \- Wind Release: Violent Wind Palm**
-
-After finishing the seals, the user claps their palms together and compresses the air in front of them, transforming it into a powerful gale with enough force to knock over a human or redirect projectile weapons.
-
-Chakra: 14  
-Range: 20  
-Speed: 6  
-Seal Speed: 8
-
-Tags: Blunt, Projectile, Defensive
-
-Effects:  
-This can be used as an attack, as an interrupt, or in combination with a multi-throw.  
-As an attack, it does 2d6\*5 damage and, if it hits, knocks an enemy prone as if they'd been hit by the E-rank Taijutsu Trip, the defender of this technique may use CC+5 as a secondary defense vs the attack's accuracy to avoid being tripped.  
-As an interrupt, it can be used in response to a thrown weapon attack. Make an Accuracy roll against the opponent's Accuracy. If you succeed you redirect their attack at them, using its original accuracy, adding 2d4\*5 plus this technique's damage bonus times speed to their attack's normal damage.  
-Wounds inflicted are based on the thrown attack.  
-In combination with a multi-throw, this adds its Speed and modified Seal Speed to the total Speed (not factored into damage bonus calculation) of the multi-throw. The attack uses the combined range of the throw and jutsu to determine its maximum range, and adds 2d6\*5, plus (this technique's Speed)\*(ninjutsu damage bonus), to the multi-throw's damage. Wounds inflicted are based on the thrown attack.
+This uses double the user's normal ninjutsu damage bonus and knocks the victim back a number of yards equal to half the range.
 
 ### **Kazekame Kaigara no Jutsu \- Wind Turtle's Shell Technique**
 
 The technique creates a rotating dome of wind around the user, chakra-infused air moving quickly enough to blur the image of the person inside, and deflect many incoming attacks. However, the technique is a far cry from being a true absolute defense.
 
-Chakra: 14  
-Special: Interrupt  
+Chakra: 14 \+ (X \* 3)    
 Speed: 8  
 Seal Speed: 8
 
-Tags: Defensive
+Tags: Interrupt
 
 Effects:  
-This may be used against ranged ninjutsu (Ninjutsu attacks that have a range still count as being a ranged ninjutsu attack even if performed at melee range) and ranged taijutsu attacks. 
+This may be used to parry any ranged attack. X is 1 per the technique’s rank above D.
 
-If used against a technique of D-rank or below, its Chakra cost is 14\. Each rank above D increases Wind Turtle Shell's Chakra cost by 6\.
+Against Raiton and ranged taijutsu attacks, you receive a +6 bonus to your Accuracy rolls. And even if they hit, the effect of partial defense is doubled (the attack deals only 10% damage per point it hits by). 
+Against nonKaton projectile ninjutsu, your bonus is instead \+4. For all others, you receive no bonus.
 
-Make an Accuracy roll against the attack. If you succeed, the attack is avoided as if you parried it. Against Raiton and ranged taijutsu attacks, you receive a \+6 bonus to your Accuracy rolls. Against nonKaton ranged ninjutsu, your bonus is instead \+4. For Katon and area-of-effect ninjutsu, you receive no bonus.
-
-This has improved effectiveness against Raiton and ranged taijutsu: Even if they hit, the effect of partial defense is doubled (the attack deals only 10% damage per point it hits by).
-
-However, it's vulnerable to Katon. If a Katon technique bypasses Wind Turtle's Shell you receive no benefit from partial defense, and the technique has its damage (against you) increased by 25%.
+Against Katon: If a technique bypasses Wind Turtle's Shell you receive no benefit from partial defense, and the technique has its damage (against you) increased by 25%.
 
 ### **Tobu Choyaku no Jutsu \- Vaulting Leap Technique**
 
 After performing the seals for this jutsu you amass chakra in your feet, then expel it to generate a powerful burst of wind while kicking off the ground with a power leap. To the inexperienced, the results look almost like flight.
 
-Stamina: 0 \+ 10 \* Y  
-Chakra: 14 \+ X/2  
-Special: A fan may not replace this technique's seal speed.  
-Speed: 10 \+ X \* 2, Delay X \* 2  
+Chakra: 14 \+ X/2
+Speed: 10 \+ X \* 2, Delay X \* 2
 Seal Speed: 8
 
 Tags: Utility
 
 Effects:  
-When you activate this technique you can jump (STR /10 \- Y \* 2)\*(ninjutsu damage bonus) yards vertically, or half that distance horizontally.  
-Alternatively, you may choose to 'charge' your jump, gathering enough chakra at your feet to launch yourself a prodigious distance. This changes the distance moved to (X \+ STR / 10 \- Y 2)\\(ninjutsu damage bonus). If X is 5 or greater, the horizontal leap distance is not halved. X has a maximum value of 10\.  
-If you are suffering from an Immobilization penalty, the distance you're able to travel with Vaulting Leap is reduced by 5% per point of Immobilization.  
-This technique's Y value starts at 0\. Every time you use Vaulting Leap, it's increased by 1\. After you go 50 IC without using Vaulting Leap, it's reset to 0\.
+This technique's gains/increases its Stamina cost by 10 for each time you’ve used it in a fight. Y is its (Stamina / 10)
+When you activate this technique you can jump X / 2 \+ (STR / 10 \- Y \* 2)) \* Ndb. X has a maximum value of 10 and a minimum of 0.
+If you are suffering from an Immobilization penalty, the distance you're able to travel with Vaulting Leap is reduced by 5% per point of Immobilization.
+
 
 ## **Fuuton B-rank**
 
@@ -1206,16 +1202,17 @@ This technique's Y value starts at 0\. Every time you use Vaulting Leap, it's in
 The user of this technique releases a powerful burst of wind, chakra concentrating the air into several layered air streams. This creates pockets of both vacuums and high-speed air which have enough focused force behind them to cut down trees.
 
 Chakra: 28  
-Damage: 4d8\*6  
+Damage: 10d8\*5  
 Range: 25  
-Speed: 12  
+Speed: 10
 Seal Speed: 24
 
-Tags: Slashing, Projectile, Defensive
+Tags: Attack, Interrupt, Projectile, Slashing, Fan
 
 Effects:  
-This can be used as a normal action (as an attack), or an Interrupt (as a defensive against a ranged taijutsu attack). As an Interrupt, make an Accuracy roll against your opponent's Accuracy, adding your ninjutsu damage bonus; if successful, you deflect their projectiles harmlessly.  
-As an attack, it knocks its victim back (ninjutsu damage bonus) yards; the distance knocked back is reduced by partial defense.
+This can be used as an attack or a defensive against a ranged taijutsu attack:
+
+As an Interrupt, you parry the incoming attack with a +2 bonus. If you successfully defend, Great Sickle Wind Technique immediately acts as an attack at no extra cost, using the results of your parry roll as its Accuracy and its speed for both damage and legal defenses from the opponent is equal to what it was when used as a defense.
 
 ### **Shinkuu Enzan \- Decapitating Vacuum Disc**
 
@@ -1223,53 +1220,52 @@ As devastating as it is impractical, this technique earned its name for a reason
 Great for spars and parties\!
 
 Chakra: 42  
-Damage: Weapon's damage, \+(ninjutsu damage bonus) dice  
-Range: As thrown weapon, \+(ninjutsu damage bonus)\*2 yards  
+Damage: Weapon's damage, \+ Ndb dice  
+Range: As thrown weapon, \+Ndb \* 2 yards  
 Speed: 16 \+ (weapon's Speed)  
 Seal Speed: 40
 
 Tags: Slashing, Projectile
 
 Effects:  
-Choose a type of shuriken to use with this technique; you may not multi-throw with Shinkuu Enzan. Add this technique's Speed to the normal Speed of your thrown weapon attack. This is the Speed of Shinkuu Enzan (both to use it, and for damage calculations). Add your physical and ninjutsu damage bonuses together; this is your damage bonus for Shinkuu Enzan. For calculating wounds, consider Shinkuu Enzan's damage to be 100% higher. Shinkuu Enzan always deals slashing wounds.  
-Although this technique uses a thrown weapon as part of it, it is a Fuuton ninjutsu technique, not a thrown weapon technique; Weapon Focus and similar benefits (such as a Fuuma Shuriken's increased damage based on how much it hits by) do not apply to Shinkuu Enzan, nor do defenses specifically targeting thrown weapons.  
-You may not use a fan to replace Shinkuu Enzan's Seal Speed.
+You throw a single thrown weapon. Add your physical and ninjutsu damage bonuses together; this is your damage bonus for Shinkuu Enzan. For calculating wounds, consider Shinkuu Enzan's damage to be 100% higher.
+
+Although this technique uses a thrown weapon as part of it, it is a Fuuton ninjutsu technique, not a thrown weapon technique; Weapon Focus and similar benefits (such as a Fuuma Shuriken's increased damage based on how much it hits by) do not apply to Shinkuu Enzan, nor do defenses specifically targeting thrown weapons.
+
 
 ### **Fuuton: Shinkuugyoku \- Wind Release: Vacuum Sphere**
 
 The user exhales their breath as several small blasts of wind chakra, each not much larger than a marble but traveling at extreme speeds and possessing incredible penetrating power. Their small size can make them difficult to land a strong blow with, which is compensated for by dispersing them over a significant range.
 
-Chakra: 38  
+Chakra: 36
 Damage: 6d8\*8  
-Range: 30  
-Area: Special  
+Range: 30
+Line: 2, 10
 Special: A fan may not be used to remove this technique's Seal Speed.  
 Speed: 18  
-Seal Speed: 18
+Seal Speed: 16
 
-Tags: Piercing, Projectile, AoE
+Tags: Attack, AoE, Piercing
 
 Effects:  
-Shinkuugyoku targets everything in a line 10 yards wide, between you and its maximum range. You may divide the width by any whole number between 1 and 5 to multiply the length by half that much. (For example, you could reduce it to 10/5 \= 2 yards wide, and increase its range to 30\*2.5 \= 75). The Improved Area ability provides only half its normal benefit to Shinkuugyoku.  
-The effects of partial defense a doubled against this technique: for every point it hits by, it deals only 10% of its full damage. However, to determine wounds inflicted Shinkuugyoku's damage is 100% higher. Shinkuugyoku inflicts Piercing wounds.  
-If someone Takes the Hit for Shinkuugyoku, whoever they were defending will still take 75% damage, so long as the defender received a Major or greater wound.
+The effects of partial defense are doubled against this technique: for every point it hits by, it deals only 10% of its full damage. However, it gains \+100% wounding. If someone Takes the Hit for Shinkuugyoku, whoever they were defending will still take 75% damage, so long as the defender received a Major or greater wound.
 
 ### **Fuuton: Shinkuu Renpa \- Wind Release: Vacuum Serial Waves**
 
 This technique's user takes a deep breath in, and then exhales several blades of high-sped, chakra-infused wind at varying angles. This technique's power can vary greatly depending on the amount of chakra put into the formation of those wind blades, the number created, and how the user chooses to focus them.
 
-Chakra: 20 \+ 5 \* X  
-Damage: (X \*2)d10\*7  
+Chakra: 25 \+ 4 \* X  
+Damage: (X \* 2)d10\*5  
 Range: 25  
 Speed: 22  
-Seal Speed: 12 \+ X \* 2
+Seal Speed: 12 \+ X \* 3
 
-Tags: Slashing, Projectile
+Tags: Attack, Projectile, Slashing
 
 Effects:  
-X may not exceed 5\.  
-Against ninjutsu-based defenses, Shinkuu Renpa is considered one rank higher, or to deal twice as much damage, as applicable. (For example, a 200 damage Shinkuu Renpa against a 100 damage wall would destroy the wall and still deal 150 damage to whatever was behind it).  
-You may target up to X people with Shinkuu Renpa as a single action. While the base damage remains the same no matter how many targets you have, your (ninjutsu damage bonus)\*(Shinkuu Renpa's Speed) is divided by the number of targets.
+You may target up to X (max of 5) people with Shinkuu Renpa as a single action. While the base damage remains the same no matter how many targets you have, your (ninjutsu damage bonus)*(Shinkuu Renpa's Speed) is divided by the number of targets.
+
+Against ninjutsu-based defenses, Shinkuu Renpa is considered one rank higher, or to deal twice as much damage, as applicable. (For example, a 200 damage Shinkuu Renpa against a 100 damage wall would destroy the wall and still deal 150 damage to whatever was behind it).
 
 ### **Fuuton: Fuujin Kokyuu \- Wind Release: Wind God's Breath**
 
@@ -1277,12 +1273,11 @@ You unleash a wave of chakra converted into gale-force winds, knocking away ever
 
 Chakra: 32  
 Upkeep: 8  
-Range: Self  
-Radius: 50  
+Area: 50
 Speed: 15  
-Seal Speed: 14
+Seal Speed: 22
 
-Tags: Utility
+Tags: Utility, AoE, Environmental, Fan
 
 Effects:  
 Every IC, everyone in the technique's radius is pushed CHA/40 yards away from you, towards its edge. All Raiton and ranged taijutsu attacks within this area have their damage reduced by 25%. However, all Fuuton has \+3 Accuracy, and all Katon does \+15% damage. These effects apply to any jutsu originating inside, passing through or targeting someone within the area.
@@ -1296,11 +1291,12 @@ Upkeep: 5
 Speed: 8  
 Seal Speed: 16
 
-Tags: Utility, Defensive
+Tags: Utility, Self
 
 Effects:  
-Any ranged taijutsu and Raiton attacks against you with Accuracy less than (your Accuracy \+5) are automatically parried, as are any projectile-based ninjutsu techniques with an Accuracy less than (your Accuracy). You get a \+5 bonus to all grapple rolls.  
-This technique uses your base Accuracy for an B-rank Fuuton, unmodified by status, wounds, temporary bonuses, and so on, though penalties from Fatigue do apply. Because it is considered to be the technique parrying incoming attacks, and not you, you cannot modify its accuracy further (such as with Willpower or AP).
+The jutsu automatically parries any attack with the projectile tag with a \+5 bonus against raiton and ranged taijutsu. This technique uses your base Accuracy for a B-rank Fuuton, unmodified by status, wounds, temporary bonuses, and so on, though penalties from Fatigue do apply. Because it is considered to be the technique parrying incoming attacks, and not you, you cannot modify its accuracy further (such as with Willpower or AP).
+
+Additionally, you get a \+5 bonus to all grapple rolls.
 
 ### **Fuuton: Higashikaze no Me \- Wind Release: Eye of the East Wind**
 
@@ -1316,8 +1312,7 @@ Seal Speed: 22
 Tags: Utility
 
 Effects:  
-When performing a Search (in Combat \-\> Stealth) or Observe (Ninjutsu \-\> Bunshin) action, you may use your Chakra Control skill ranks in place of your Awareness skill ranks, and receive a bonus of (ninjutsu damage bonus)/3 either way.  
-Additionally, when targeted by a Surprise or Sneak Attack, you may make an Awareness roll (receiving the benefits of this technique's effects) against a Stealth roll from your opponent; if your result is higher, their attack is not considered a Surprise Attack or Sneak Attack.
+You increase your awareness rolls by your (Chakra Control / 5). Additionally, when targeted by a Surprise or Sneak Attack, you may make an Awareness roll against a Stealth roll from your opponent; if your result is higher, their attack is not considered a Surprise Attack or Sneak Attack.
 
 ## **Fuuton A-rank**
 
@@ -1326,19 +1321,20 @@ Additionally, when targeted by a Surprise or Sneak Attack, you may make an Aware
 A rarely-used technique, not because it isn't powerful but because it doesn't appeal to the sorts of shinobi able to learn it. It's a high-powered, taxing, close-ranged wind release technique; most shinobi who prefer close combat will opt for weapons or other elements, and most wind release users prefer to keep their distance. It has seen some limited popular of Sunagakure's ANBU.  
 The user emits chakra from their fingertips, forming a virtually invisible "sword" of intense, high-speed winds, which lasts just long enough to make a single attack with. This technique leaves very distinctive wounds, deep slashes with hundreds of miniscule tears at the edges.
 
-Chakra: 30, \+20 if it hits  
-Upkeep: 0  
-Damage: 5d8\*10  
-Accuracy: \+4  
-Range: Melee  
+Chakra: 35, \+15 if it hits  
+Upkeep: 0
+Damage: 5d12\*10  
+Accuracy: \+4
 Speed: 14  
 Seal Speed: 22
+Special: This technique receives only half your damage bonus.
 
-Tags: Slashing, Melee
+Tags: Attack, Melee, Slashing
 
 Effects:  
-This technique's damage cannot be blocked, and the effectiveness of an opponent's damage reduction (if any) is halved. If this technique hits, it may be used consecutively (no other non-Interrupt actions are taken between uses). If you do so, its Seal Speed is removed, and its Chakra cost is reduced to 30 whether or not it hits. However, each attack (including ones that miss) increases its Upkeep by 3\. Once you release this Upkeep, the blade dissipates.  
-Kaze no Yaiba uses only half your actual ninjutsu damage bonus to determine the damage it deals. For determining wounds, its damage is considered 50% higher.
+This technique's damage cannot be blocked, and the effectiveness of an opponent's damage reduction is halved. If this technique hits, it may be used consecutively. If you do so, its Seal Speed is removed, and its Chakra cost is reduced to 35 whether or not it hits. However, each attack increases its Upkeep by 3. Once you release this Upkeep, the blade dissipates.
+
+Kaze no Yaiba gains a \+75% wounding bonus.
 
 ### **Okamaitachi no Jutsu \- Scything Wind Technique**
 
@@ -1346,16 +1342,17 @@ Almost always used with a fan, this technique creates a vast number of heavy air
 As effective as this technique is, slicing and smashing anything short of fortified stonework, it can be somewhat unreliable, as there's an element of chance about just how many different ways a victim will be shredded.
 
 Chakra: 36  
-Damage: 4d10\*10  
+Damage: 6d10\*10  
 Range: 40  
 Speed: 24  
 Seal Speed: 42
 
-Tags: Slashing, Projectile, AoE
+Tags: Attack, Projectile, Slashing, Fan
 
 Effects:  
-This may target any number of people in front of you, so long as they are all within range, and for the purposes of evading is considered to have an Area equal to its Range.  
-Scything Wind's damage is considered 25% higher for the purposes of inflicting wounds.
+This may target any number of people within range, and for the purposes of evading is considered to have an Area equal to its Range. 
+
+Scything Wind gains a +100% wounding bonus.
 
 ### **Fuuton: Shinkuu Taigyoku \- Wind Release: Vacuum Great Sphere**
 
@@ -1363,20 +1360,17 @@ If the Vacuum Sphere technique can be considered a spray of wind-chakra bullets 
 In terms that ninja actually do understand, this creates a large sphere-shaped vacuum, which is then launched forwards. Anyone who comes in contact with the vacuum is sucked inside, and then either slammed against either the first solid object it encounters or just hit by what amounts to a wall of high-velocity air from every direction as the chakra in the technique dissipates and the technique collapses on them.
 
 Chakra: 46  
-Damage: 5d6\*10  
-Accuracy: \+3  
-Range: 20  
-Area: 10  
-Special: Stun 15  
+Damage: 6d6\*10  
+Accuracy: \+2 
+Line: 10, 30 
 Speed: 12  
 Seal Speed: 28
+Special: Stun 15
 
-Tags: Blunt, Projectile, AoE
+Tags: Attack, AoE, Blunt, Fan
 
 Effects:  
-In addition to targeting anyone in its area, anyone between the user and its eventual destination is also a target.  
-Shinkuu Taigyoku is unblockable, and enemies do not receive the benefit of partial defense against it. Anyone hit is knocked back to the far end of its range.  
-Shinkuu Taigyoku inflicts Blunt wounds, and the severity of any wounds it inflicts is increased by one category (minor to major, severe to critical, and so forth).
+Shinkuu Taigyoku is unblockable, and enemies do not receive the benefit of partial defense against it. The severity of any wounds it inflicts is increased by one category (minor to major, severe to critical, and so forth) and anyone hit is knocked back to the far end of its range.
 
 ### **Fuuton: Kitakaze \- Wind Release: The North Wind**
 
@@ -1389,13 +1383,16 @@ Seal Speed: 20
 Tags: Utility, AoE
 
 Effects:  
-All environmental effects caused by ninjutsu (such  
-as Yomi Numa, or Four Pillar Bind) end immediately, and no such techniques may be activated for double the user's ninjutsu damage bonus worth of IC; however, this cannot end or disperse B- or A-rank Katon techniques. Any Ignite status effects have their severity halved (round down), and any Immobilization with set durations (meaning, ones that fade by a certain amount every so-many IC) are removed, as is any Paralysis that was originally caused by a Raiton technique.  
-This technique can only be used outside.
+All environmental effects caused by ninjutsu (such as Yomi Numa, or Four Pillar Bind) end immediately, and no such techniques may be activated for double the user's ninjutsu damage bonus worth of IC; however, this cannot end or disperse B- or A-rank Katon techniques. Any Ignite status effects have their severity halved (round down), and any Immobilization with set durations (meaning, ones that fade by a certain amount every so-many IC) are removed, as is any Paralysis that was originally caused by a Raiton technique.
 
 \--------------------------------------------------------------------------------------------------------
 
 # **Katon**
+
+## Fire (Katon)
+
+If you ever find yourself completely submerged in water, Katon jutsu won't work. This can be done in any environment with 1k\+ Gallons, but requires a container that can retain that much (like a lake).
+
 
 [|E-Ranks|](#katon-e-rank)
 [|D-Ranks|](#katon-d-rank)
@@ -1409,13 +1406,13 @@ This technique can only be used outside.
 
 This jutsu is so weak it's considered a training exercise among academy students who're quick to grasp the basics of katon jutsu. After performing the handseals the user focuses chakra in their hand and projects it into a fist-sized ball of fire, which they can then shoot at a target.
 
-Chakra: 6  
-Damage: 2d6.extra(4)  
+Chakra: 7 
+Damage: 5d8!o>8
 Range: 10  
 Speed: 6  
 Seal Speed: 5
 
-Tags: Energy, Projectile
+Tags: Attack, Projectile, Energy
 
 ### **Asayake no Jutsu \- Morning Glow Technique**
 
@@ -1429,7 +1426,7 @@ Seal Speed: 8
 Tags: Utillity
 
 Effects:  
-The orb sheds light equivalent to a small oil lamp. This reduces darkness-based visibilty effects by 3\.
+The orb sheds light equivalent to a small oil lamp. This reduces darkness-based visibility effects by 3.
 
 ### **Enmaku no Jutsu \- Smokescreen Technique**
 
@@ -1441,8 +1438,8 @@ Seal Speed: \+4
 Tags: Link, Utility, Environmental
 
 Effects:  
-This technique is used in combination with a damage-dealing Katon jutsu, increasing its Seal Speed and Chakra cost accordingly. The technique has a radius of 5 yards, \+5 yards per rank above E.  
-The resulting smokescreen has a duration of 10 IC, \+5 IC per rank above E.  
+This technique is used in combination with a damage-dealing Katon jutsu, increasing its Seal Speed and Chakra cost accordingly. The technique has a radius of 5 yards, \+5 yards per rank above E. The resulting smokescreen has a duration of 10 IC, \+5 IC per rank above E.
+
 Within this area, the smoke imposes a \-3 visibility penalty, \+1 per rank the jutsu Enmaku was used with is above E. This technique can also be used on its own, using a person suffering from the Ignite status as its source; in this case it's Chakra 6, Speed 5, and Seal Speed 5\. Every 5 points of Ignite is equivalent to one jutsu rank (so "rank D", meaning \-4 visibility, at Ignite 10).
 
 ## **Katon D-rank**
@@ -1452,27 +1449,27 @@ Within this area, the smoke imposes a \-3 visibility penalty, \+1 per rank the j
 After completing the handseals, the user creates three balls of fire-elemented chakra: one in each palm, and one in their mouth, all three of which can be fired separately or focused on a single target.
 
 Chakra: 13  
-Damage: 6d6.extra(6), Special  
+Damage: 6d6!o>6
 Range: 15  
 Speed: 12  
 Seal Speed: 7
 
-Tags: Energy, Projectile
+Tags: Attack, Projectile, Energy
 
-Effects: This technique hits up to three separate targets, and has a \+2 bonus to accuracy. For each fireball beyond the first directed at the same target, the damage they take is increased by 3d6, and the technique has \+1 accuracy.
+Effects: This technique hits up to three separate targets. For each fireball beyond the first directed at the same target, the damage they take is increased by 3d6, and the technique has \+1 accuracy.
 
 ### **Katon: Shitai Entou \- Fire Release: Flame Tongue**
 
 Originally thought to be a technique that required a prolonged diet of special, possibly chakra-enhanced chemicals, this was later discovered to be actually a fairly simple Katon jutsu. The user breathes out a thick, nearly solid stream of fire from their mouth--typically at another person, whom they would like to injure.
 
 Chakra: 16  
-Damage: 16d8.extra(7)  
-Range: 10  
-Special: Burns 3  
+Damage: 12d8!o>7  
+Range: 10   
 Speed: 12  
 Seal Speed: 8
+Special: Burns 3
 
-Tags: Energy, Projectile
+Tags: Attack, Projectile, Energy
 
 ### **Enkounebai no Jutsu \- Sticky Fire Technique**
 
@@ -1483,10 +1480,10 @@ Range: 10
 Speed: 7  
 Seal Speed: 8
 
-Tags: Utility, Environmental, Projectile
+Tags: Attack, Projectile
 
 Effects:  
-Your opponent is covered in the flammable saliva. If they are hit by a Katon technique, the saliva ignites, applying an Ignite 5 effect to the unfortunate victim. The severity of this effect is increased by 2 for each rank the jutsu is above E (7 for a D-rank jutsu, 9 for a C-rank, and so forth).
+Your opponent is covered in the flammable saliva for 30 IC. During so, the first time they are hit by a Katon technique, the saliva ignites, applying an Ignite 5 effect to the unfortunate victim. The severity of this effect is increased by 2 for each rank the jutsu is above E (7 for a D-rank jutsu, 9 for a C-rank, and so forth).
 
 ### **Nenshou Yari no Jutsu \- Burning Spear Technique**
 
@@ -1497,11 +1494,12 @@ Upkeep: 1
 Speed: 5  
 Seal Speed: 10
 
-Tags: Energy, Weapon, Utility
+Tags: Utility, Self, Creation
 
 Effects:  
-You acquire a naginata or yari made out of fire. It uses your ninjutsu rather than physical damage bonus. This weapon persists until you let go of it. Whenever someone is struck by your weapon they must pass a status roll or suffer burns equal to half its number of rolled dice.  
-You may form handseals while holding this weapon.
+You acquire a Polearm from the standard Sword options in the Equipment section. You may then upgrade it using Artisan points equal to your Chakra Control \- 5. You may choose to double the Base Speed and Upkeep of this Technique to create a second Sword in your other hand during the activation of this Technique. Both weapons gain the dual property (for free) but the artisan points must be split between the 2 weapons. 
+
+It uses your ninjutsu rather than physical damage bonus. This weapon persists until you let go of it. Whenever someone is struck by your weapon they must pass a status roll or suffer burns equal to half its number of rolled dice. You may form handseals for Katon jutsu while holding this weapon.
 
 ### **Katon: Houyoku \- Fire Release: Phoenix Wings**
 
@@ -1509,7 +1507,7 @@ This technique wreathes part of your body--generally a
 forearm and hand, but it can vary depending on the needs of the technique--with chakra-based flames\! It's quite flashy, and could be considered low-grade nintaijutsu, as it then combined those flames with a physical attack of your choice.
 
 Chakra: 8  
-Seal Speed: 5
+Seal Speed: 7
 
 Tags: Energy, Link, Utility
 
@@ -1524,13 +1522,13 @@ Chakra: 9, \+1 per weapon thrown
 Stamina: As multi-throw  
 Range: As multi-throw  
 Speed: As multi-throw  
-Seal Speed: 7
+Seal Speed: 9
+Special: Burns X
 
-Tags: Energy, Projectile, Ranged Weapon, Multi-throw
+Tags: Attack, Projectile, Energy, Weapon, Multi-throw
 
 Effects:  
-If the attack hits, make a status roll (Chakra Control vs. the defender's Resistance). If the defender fails, they suffer an Ignite with a severity equal to however many weapons hit up to a maximum equal to the attack’s Speed.  
-The weapons used in this technique are ruined, and cannot be retrieved or reused.
+X is the number of weapons used in this technique and they are ruined, and cannot be retrieved or reused.
 
 ## **Katon C-rank**
 
@@ -1540,70 +1538,68 @@ After performing the handseals, the user exhales a cluster of small fireballs, e
 
 Chakra: 11, \+1 per 2 speed of the multi-throw  
 Stamina: As multi-throw  
-Damage: \+1d6 per weapon thrown  
+Damage: \+Xd6  
 Range: As multi-throw  
 Speed: As multi-throw  
 Seal Speed: The speed of the multi-throw.
+Special: Burns X/2
 
-Tags: Energy, Projectile, Ranged Weapon, Multi-throw
+Tags: Attack, Projectile, Energy, Weapon, Multi-throw
 
 Effects:  
-This technique benefits from your ninjutsu damage bonus, on top of the normal multi-throw damage bonus.  
-Projectiles used in this technique are rendered unusable afterwards by the intense heat.  
-This jutsu adds Burns equal to half the number of weapons thrown up to a maximum equal to the attack’s Speed.
+X is the number of weapons thrown. This technique benefits from your ninjutsu damage bonus, on top of the normal multi-throw damage bonus. Projectiles used in this technique are rendered unusable afterwards by the intense heat.
 
 ### **Goukyaku no Jutsu \- Grand Fireball Technique**
 
 Generations ago, this technique was passed down from father to son within the Uchiha clan as an informal, but sometimes very serious, rite of passage. As time passed its use spread first to other Konoha ninja, and then much further.
 
 Chakra: 20  
-Damage: 16d12.extra(9)  
+Damage: 12d12!o>9  
 Range: 30  
 Area: 15  
 Speed: 14  
-Seal Speed: 10
+Seal Speed: 13
+Special: Burns 6
 
-Tags: Energy, Projectile, AoE
-
-Effects:  
-If the victim fails a status roll this inflicts Burns 6\.
+Tags: Attack, AoE, Energy
 
 ### **Ryuuka no Jutsu \- Dragon Fire Technique**
 
 This jutsu is painfully slow and inaccurate, making its usefulness situational at best. Most users of the technique find some way to bind or disable their opponents before trying to attack with it. On the other hand, if it manages to connect it can be astonishingly devastating.
 
 Chakra: 25  
-Damage: 10d20.extra(11)  
-Accuracy: \-8  
+Damage: 10d20!o>11  
+Accuracy: \-6
 Range: 25  
 Speed: 20  
 Seal Speed: 16  
-Special: Burns 8, Ignite 10
+Special: Burns 8, Ignite 6
 
-Tags: Energy, Projectile
+Tags: Attack, Projectile, Energy
 
 Effects:  
-This technique benefits from double the user's ninjutsu damage bonus. If the opponent fails a status roll, the severity of the Burns and Ignite are both doubled.
+This technique benefits from double the user's ninjutsu damage bonus.
 
 ### **Kasumi Enbu no Jutsu \- Mist Blaze Dance Technique**
 
 Once you perform the handseals, this jutsu allows you to exhale a slightly translucent cloud of potentially flammable gas. Even so much as a spark will spell trouble for anyone unfortunate enough to be within it. As an added effect, the glass is ever-so-slightly toxic.
 
-Chakra: 14  
-Damage: 6d10.open(6)  
-Radius: 20  
-Range: 20  
-Speed: 8  
+Chakra: 14
+Upkeep: 1
+Damage: 10d10!o>(8\-X)
+Radius: 20
+Range: 20
+Speed: 8
 Seal Speed: 10
 
 Tags: Utility, AoE, Environmental
 
 Effects:  
-This technique initially does no damage. However, it detonates and does only the listed damage (6d10.open(6)) across the listed area, if a Katon jutsu contacts its area, or if a person with an Ignite status of 5 or higher is present. This explosion cannot be dodged (though the effect which triggered it, if an attack, can still be dodged or otherwise defended against normally).
+This technique initially does no damage. However, it detonates if a Katon jutsu contacts its area, or if a person with an Ignite status of 5 or higher is present. The explosion only deals the listed damage across the area with X being the rank of jutsu used or or the ignite /3  This explosion cannot be dodged (though the effect which triggered it, if an attack, can still be dodged or otherwise defended against normally).
 
 The gas is also particularly thick, and not particularly breathable. Every 10 IC that someone spends in the cloud adds a Suffocation 1 status to them.
 
-A person is never considered to be affected by more than one Mist Blaze Dance, even if the areas of the techniques overlap.
+A person is never considered to be affected by more than one Mist Blaze Dance, even if the areas of the techniques overlap. Mist Blaze Dance is removed from the battlefield after a number of IC equal to 30+ your ranks in Chakra Control or if it explodes.
 
 ### **Yoen no Jutsu \- Ember-Burning Technique**
 
@@ -1613,11 +1609,11 @@ Chakra: 22
 Speed: 5  
 Seal Speed: 16
 
-Tags: Utility
+Tags: Utility, Self
 
 Effects:  
-Removes all foreign particles and bodies (bugs, chemicals) from the user's clothes and body, stops any ongoing bleeding, and evaporates any liquids covering them (exception: this will ignite the D-rank Sticky Fire Technique).  
-It can even remove recently spilled, not-yet-dried liquids (including blood\!) from clothing. It will not, however, cure poison.  
+Removes all foreign particles and bodies (bugs, chemicals) from the user's clothes and body, stops any ongoing bleeding, and evaporates any liquids covering them (exception: this will ignite the D-rank Sticky Fire Technique). It can even remove recently spilled, not-yet-dried liquids (including blood\!) from clothing. It will not, however, cure poison.  
+
 This provides a \-10 penalty on any attempts to track the user by scent (i.e. Survival rolls), but only a \-5 penalty to find them (i.e. Awareness vs. Stealth) via scent because while their own odor is eliminated, this jutsu leaves a faint scent of smoke. In fact, a difficulty 30 Research roll can identify the use of this technique at, say, a crime scene.  
 If used to treat an injury (external injuries which have left open wounds only), this accelerates the recipient's healing time by 25%, but does not stack with the reduction from medical treatment (doctors can do much better than this improvised first aid).
 
@@ -1633,9 +1629,30 @@ Seal Speed: 14
 Tags: Utility
 
 Effects:  
-This technique alters the dice of any unarmed attacks you make, applying to Unarmed taijutsu, Combo taijutsu, and basic unarmed attacks. Its damage dice become .extra(3) for d4s, .extra(5) for d6s, .extra(6) for d8s, .extra(7) for d10s, .extra(9) for d12s, and .extra(15) for d20s. It does not apply to Grapple taijutsu.  
-For example, an attack which would normally deal 8d12 damage would be changed to deal 8d12.extra(9) damage under the effects of Blazing Fury.  
+The damage dice of all Unarmed and combo jutsu become !o>3 for d4s, !o>5 for d6s, !o>6 for d8s, !o>7 for d10s, !o>9 for d12s, and !o>15 for d20s (8d12 -> 8d12!o>9).
+
 Additionally, if an attack augmented by Blazing Fury inflicts wounds of any sort, it also causes an Energy wound of one category lower, to a minimum of minor (a punch that inflicted a Minor Blunt wound would also inflict a Minor Energy wound).
+
+### **Katon: Joushou Ootori \- Fire Release: Rising Phoenix Blast**
+
+The user gathers chakra around them--the 'rising phoenix' actually refers to the visible heat ripples and wisps of flame rising around the ninja performing it-- and unleashes a stream of dark, searingly hot fire at their opponents. The flames of this technique are hot enough to disintegrate most incoming attacks.
+
+Chakra: 20, \+4 when used as an attack
+Damage: 10d20!>16
+Range: CHA
+Speed: 8
+Seal Speed: 22
+
+Tags: Attack, Interrupt, Projectile, Energy
+
+Effects:  
+When used as an Interrupt, Rising Phoenix Blast's damage becomes 10d20!>11 and it receives double your ninjutsu damage bonus. It functions differently when used against a melee attack, or projectile ninjutsu attack, that deals damage:
+
+Against a melee attack: The user may choose to call off their attack, or press on regardless of the danger. If they do not cancel their attack each of you are automatically hit by each others attacks without a defense. If they choose to defend themselves, their attack is cancelled. They do not pay any Fatigue costs, their IC is advanced only half as much, any other spent resources are lost. Then they defend against Rising Phoenix Blast as a surprise attack, but have a \+3 bonus to any d20 rolls made as part of their defense.
+
+Against a ranged ninjutsu attack: Compare the damage of the two techniques; if the damage of theirs is higher, subtract Rising Phoenix Blast's damage from that technique's damage; that is how much you take. If your technique's damage is higher, it destroys the opponent's technique, and your enemy must defend against your Rising Phoenix Blast. 
+
+Against Fuuton jutsu you may interrupt AOE jutsu. Rising Phoenix Blast's damage is increased by 25% for elements weak to it and reduced by 25% against elements strong against it.
 
 ## **Katon B-rank**
 
@@ -1644,52 +1661,32 @@ Additionally, if an attack augmented by Blazing Fury inflicts wounds of any sort
 The shinobi gathers chakra in their mouth, before converting it to fire and shooting it out. The flame shoots out in three sections, each one taking on the appearance of a serpent which explodes on impact with its own target.
 
 Chakra: 36  
-Damage: 22d20.extra(11)  
+Damage: 20d20!o>16
 Range: 40  
-Special: Ignite 7, Burns 5  
 Speed: 22  
 Seal Speed: 22
+Special: Ignite 7, Burns 5  
 
-Tags: Energy, Projectile
+Tags: Attack, Projectile, Energy
 
 Effects:  
-This technique may target up to three separate people. You may not direct these 'extra' attacks at the same person for added damage.  
-If the victim of this technique fails a Status Check, the Status Effects are doubled.
+This technique may target up to three separate people. You may not direct these 'extra' attacks at the same person for added damage.
 
 ### **Gouryuuka no Jutsu \- Great Dragon Fire Technique**
 
 The user of this technique compresses a large amount of chakra in their body, and exhales it as a single, massive burst of fire in the shape of a dragon's head. Due to this technique's nature, enough of the chakra used in it is retained briefly in the user's body to swiftly prepare a second blast.
 
-Chakra: 32  
-Damage: 18d20.extra(11)  
-Range: 35  
-Area: 20  
-Speed: 16  
+Chakra: 40
+Damage: 42d6!o>6
+Range: 35
+Area: 20
+Speed: 22
 Seal Speed: 20
 
-Tags: Energy, Projectile, Area
+Tags: Attack, AoE, Energy
 
 Effects:  
-If this was the last jutsu you performed, its Chakra cost is reduced by 4 and its Seal Speed by 2, and it gains \+2 Accuracy. These bonuses stack, bringing it as low as Chakra 16 and Seal Speed 10, and giving up to \+8 Accuracy.
-
-### **Katon: Joushou Ootori \- Fire Release: Rising Phoenix Blast**
-
-The user gathers chakra around them--the 'rising phoenix' actually refers to the visible heat ripples and wisps of flame rising around the ninja performing it-- and unleashes a stream of dark, searingly hot fire at their opponents. The flames of this technique are hot enough to disintegrate most incoming attacks.
-
-Chakra: 24  
-Damage: 10d20.open(16)  
-Range: CHA  
-Special: Interrupt  
-Speed: 10  
-Seal Speed: 14
-
-Tags: Energy, Projectile, Defensive
-
-Effects:  
-When used as an Interrupt, Rising Phoenix Blast's damage becomes 10d20.open(11) and it receives double your ninjutsu damage bonus. It functions differently when used against a melee attack, or ranged ninjutsu attack:
-
-Against a melee action: The user may choose to call off their attack, or press on regardless of the danger. If they do not cancel their attack, they take Rising Phoenix Blast's full damage, without any defense. However, you are also hit by their attack automatically, and cannot defend against it. If they choose to defend themselves, their attack is cancelled; they do not pay any Chakra or Stamina costs, and it's considered half its actual speed for determining when their next action comes; any AP or other effects spent on it, however, are not regained. They then defend against Rising Phoenix Blast as a surprise attack, but have a \+3 bonus to any d20 rolls made as part of their defense.  
-Against a ranged ninjutsu attack: This can only be used against targeted, damage-dealing ninjutsu aimed at you, or any damage-dealing Fuuton ninjutsu which would hit you. Compare the damage of the two techniques; if the damage of theirs is higher, subtract Rising Phoenix Blast's damage from that technique's damage; that is how much you take. If your technique's damage is higher, it destroys the opponent's technique, protecting you from it, and your enemy must then defend against your Rising Phoenix Blast (which does its full damage normally). Rising Phoenix Blast's damage is raised by 50% if it interrupts (or is interrupted by) a Wind Release technique, and lowered by 50% when interrupting Water Release techniques.
+If this was the last jutsu you performed, its Chakra cost is reduced by 2 and its Seal Speed by 2, and it gains \+1 Accuracy. These bonuses stack, bringing it as low as Chakra 30 and Seal Speed 10, and giving up to \+5 Accuracy.
 
 ### **Akuchori Nabe \- Devil's Cooking Pot**
 
@@ -1704,7 +1701,8 @@ Seal Speed: 28
 Tags: Utility, AoE, Environmental
 
 Effects:  
-Any Katon jutsu of C-rank or higher will be sufficient to ignite the cloud. This increases that technique's Final Damage by 25% and changes its dice from .extra() to .open(), and everyone within the cloud's area must defend against it. If the Technique already had .open() then lower the threshold for exploding dice by 2\.  
+Any Katon jutsu of C-rank or higher will be sufficient to ignite the cloud. This increases that technique's Final Damage by 25% and changes its dice from !o> to !>, and everyone within the cloud's area must defend against it. If the Technique already had !> then lower the threshold for exploding dice by 2.
+
 If the technique also has an area of effect, add half of the lower AoE (Akuchori Nabe's or that of the technique which detonated it) to the full higher one; this is the area for the new, combined technique.
 
 ### **Jikoku Kasou no Jutsu \- Instant Cremation Technique**
@@ -1714,21 +1712,18 @@ While this does make it somewhat difficult to evade, there are several telltale 
 The area heats up rapidly, and there's a low, rising hum near the point where the flash of fire is imminent, as the chakra being directed there builds and prepares to ignite.
 
 Chakra: 20  
-Damage: 5d20.open(20 \- X)  
+Damage: Xd20!>(20 \- X) 
 Accuracy: \+4  
-Range: 25  
-Special: Ignite X/2  
+Range: 25 
 Speed: 12  
 Seal Speed: 16
+Special: Ignite X/2 
 
-Tags: Energy
+Tags: Attack, Projectile, Energy
 
 Effects:  
-After using Instant Cremation, you gain a special Upkeep.  
-Special Upkeep: As a normal Upkeep, applies a penalty of its value to all Stamina and Chakra Exhaustion rolls; you may end it as a Speed 0 action, or immediately after using Instant Cremation. However, it does not have a limit on how high it may go, and does not interact with Uniques or Wounds which affect normal Upkeeps.  
-Your special Upkeep has a value of X. X increases by 2 each time you use Instant Cremation. So long as X is 2 or greater, Instant Cremation's does not require handseals.  
-Thus, if you had used Instant Cremation three times, you would have an Upkeep 6, and your next use of it would deal 5d20.open(12) damage. Regardless of how high X goes, Instant Cremation may not deal more than 5d20.open(4) damage.  
-If you end the Upkeep, and then use Instant Cremation again, the Upkeep will begin at 0\.
+X is your Cremation upkeep and as X is 2 or greater, Instant Cremation does not require handseals. After using Instant Cremation, you gain or increase your Cremation Upkeep by 2 which you may end as a Speed 0 action, or immediately after using Instant Cremation. This Cremation Upkeep does not interact with Uniques or Wounds which affect normal Upkeeps. 
+For example, if you had used Instant Cremation three times, you would have an Upkeep 6, and your next use of it would deal 6d20.open(14) damage.
 
 ## **Katon A-rank**
 
@@ -1736,14 +1731,14 @@ If you end the Upkeep, and then use Instant Cremation again, the Upkeep will beg
 
 Generally considered to be the pinnacle of how destructive a technique can be without rendering it useless in a majority of situations, the user forms a mass of fire in the vague shape of a dragon's head in front of them, and then fires a volley of blazing projectiles at their unfortunate target of choice.
 
-Chakra: 60  
-Damage: 60d20.extra(16)  
-Accuracy: \+3  
-Range: 60  
-Speed: 30  
-Seal Speed: 30
+Chakra: 50
+Damage: 80d10!o>8
+Accuracy: \+2
+Range: 60
+Speed: 30
+Seal Speed: 27
 
-Tags: Energy, Projectile
+Tags: Attack, Projectile, Energy
 
 Effects:  
 This technique inflicts Burns of (damage dealt)/50. You may target up to three people with this technique, using the same Accuracy for each. You can not target the same person repeatedly to enhance the technique's effect.
@@ -1752,23 +1747,24 @@ This technique inflicts Burns of (damage dealt)/50. You may target up to three p
 
 The pinnacle of wide-area indiscriminate destruction. The user exhales a cloud of not-quite-invisible vapor with a metallic taste, which rapidly expands. Once they've finished, they channel just a small bit of chakra into it, turning the gas from inert to violently reactive and engulfing the area in a fireball which has no peer. The user is protected from this explosion; their friends, however, are not.
 
-Chakra: 45  
-Damage: 40d20.open(11)
+Chakra: 45
+Damage: 40d20!>11
+Range: 20
+Area: (Damage Bonus)*10
+Speed: 30, Delay 20
+Seal Speed: 30
+Special: Burns 15, Ignite 20, Stun 10
+
+Tags: Attack, AoE, Energy
 
 Effects:  
-Burns 15, Ignite 20, Stun 10  
-Range: 20  
-Area: Radius of (Damage Bonus)\*10 yards.  
-Speed: 30, Delay 20  
-Seal Speed: 22
+Every initiative counts in the delay, this technique gains 5% of its damage, radius, and effects. The use of any Katon jutsu of C-rank or above (or the presence of any person suffering from an Ignite status of 10 or greater) in this area will detonate it prematurely.
 
-Tags: Energy, Blunt, AoE, Environmental
+If an effect is used which would disperse the gas cloud (such as the A-rank Fuuton: Kitakaze) during the Delay period, its damage, range, and effects all reset to 0%; and can be built back up by continuing it.
 
-Effects:  
-Every initiative count in the delay, this technique gains 5% of its damage, radius, and effects. The use of any Katon jutsu of C-rank or above (or the presence of any person suffering from an Ignite status of 10 or greater) in this area will detonate it prematurely.  
-If an effect is used which would disperse the gas cloud (such as the A-rank Fuuton: Kitakaze) during the Delay period, its damage, range, and effects all reset to 0%; and can be built back up by continuing it.  
-You may choose to detonate this when you finish it (in which case you will probably be in the area of effect; however, you take only half damage from your own Ryuujin Bakuha), or not. If not, it'll remain until detonated by the presence of someone with an Ignite 10, or a Katon jutsu of C-rank or above.  
-Ryuujin Bakuha inflicts an Energy wound, and two Blunt wounds of the same severity. If it's used in a confined space (such as indoors, or in a cave) it does an additional 10d20.open(16) damage, and its effects are raised to Burns 25, Ignite 25, and Stun 20\.
+You may choose to detonate this when you finish it (in which case you will probably be in the area of effect; however, you take only half damage from your own Ryuujin Bakuha), or not. If not, it'll remain for 100 IC or until detonated by the presence of someone with an Ignite 10, or a Katon jutsu of C-rank or above.
+
+Ryuujin Bakuha inflicts an Energy wound, and two Blunt wounds of the same severity. If it's used in a confined space (such as indoors, or in a cave) it does an additional 10d20.open(16) damage, and its effects are raised to Burns 25, Ignite 25, and Stun 20.
 
 ### **Sunde Bakudan \- Living Bomb**
 
@@ -1777,19 +1773,19 @@ The user molds a mass of volatile fire-elemental chakra and, rather than forming
 It saw extensive use for taking out medics who'd rush to the battlefield to retrieve injured comrades, only to be killed or wounded in the ensuing explosion.
 
 Chakra: 35, raised to 50 if it hits  
-Damage: 25d20.open(11)  
+Damage: 25d20!>11  
 Range: Touch  
 Speed: 25  
 Seal Speed: 25
 
-Tags: Energy, Melee
+Tags: Attack, Melee, Energy
 
 Effects:  
-Whoever you hit with this technique becomes a living bomb\! When you place this technique, you also set a timer, between 1 and (your Chakra Control skill ranks)\*5 IC.  
-At that point, they will detonate. The initial attack itself does not deal damage.  
-You may also perform a Speed 5, Seal Speed 20 action to detonate someone immediately.  
-When a person is detonated, they make a Chakra 30 roll; whether they pass or fail has no effect on the technique, though as normal they might advance in Fatigue.  
-The explosion itself is Area 25\. The bomb themselves may not defend against it, though anyone else can. The technique's damage is considered 25% higher for the purposes of wounding the bomb.
+Whoever you hit with this technique becomes a living bomb! When you place this technique, you also set a timer, between 1 and (your Chakra Control skill ranks)*5 IC.At that point, they will detonate. The initial attack itself does not deal damage.
+
+You may also perform a Speed 5, Seal Speed 20 action to detonate someone immediately. When a person is detonated, they make a Chakra 30 roll; whether they pass or fail has no effect on the technique, though as normal they might advance in Fatigue.
+
+The explosion itself is Area 25. The bomb themselves may not defend against it, though anyone else can. The technique's damage is considered 25% higher for the purposes of wounding the bomb.
 
 ### **Maru o Moyashi no Jutsu \- Burning Circle Technique**
 
@@ -1797,7 +1793,7 @@ Popular among bounty-hunting ninja, this technique creates a circular wall of fl
 
 Chakra: 45  
 Upkeep: 8  
-Damage: 40d20.extra(6)  
+Damage: 40d20!o>6  
 Range: 40  
 Radius: Up to (ninjutsu damage bonus) \* 5  
 Speed: 30  
@@ -1806,13 +1802,17 @@ Seal Speed: 26
 Tags: Energy, Environmental
 
 Effects:  
-This creates a circular wall of flame centered on a location within range, with the listed radius. The wall itself is 1 yard thick, and (ninjutsu damage bonus) \* 3 yards tall.  
-Anyone who crosses the wall takes the listed damage, as well as an Ignite equal to the user's ninjutsu damage bonus, and a Burn equal to twice the user's ninjutsu damage bonus.  
+This creates a circular wall of flame centered on a location within range, with the listed radius. The wall itself is 1 yard thick, and (ninjutsu damage bonus) \* 3 yards tall. Anyone who crosses the wall takes the listed damage, as well as an Ignite equal to the user's ninjutsu damage bonus, and a Burn equal to twice the user's ninjutsu damage bonus.
+
 It uses the Speed it was performed at to determine the damage from its user's ninjutsu damage bonus. As it does not constitute an attack at that point, defensive Interrupts can't be used to mitigate it.
 
 \--------------------------------------------------------------------------------------------------------
 
 # **Raiton**
+
+## Lightning (Raiton)
+
+Nothing out of the ordinary here! This is chakra-based electricity, not real electricity, so it has no special ability to, say, electrocute everyone in contact with water, or anything like that (Though some specific Raiton jutsus DO have similar effects to actual electricity, that is inherent to those jutsus and not the element as a whole).
 
 [|E-Ranks|](#raiton-e-rank)
 [|D-Ranks|](#raiton-d-rank)
@@ -1840,16 +1840,16 @@ Allows a single kunai or senbon to be used as a compass for 6 hours or until use
 Holding a hand out there is a pulse of electricity. This isn't nearly enough to kill anyone, but it definitely hurts.
 
 Chakra: 10  
-Damage: 1d10\*1d4  
+Damage: 1d12\*1d4  
 Range: 10  
 Speed: 4  
 Seal Speed: 6
+Special: Paralysis 1 for 20 IC
 
-Tags: Energy, Projectile
+Tags: Attack, Projectile, Energy
 
 Effects:  
-This inflicts Paralysis 1 for 20 IC. It can target either a single person, or everyone within the range. If the latter, it does not penalize dodges as a regular area of effect technique would.  
-Shocking Burst's Speed may not be reduced below 4\.
+Shocking Burst's Speed may not be reduced below 4 and can target up to three targets in range.
 
 ### **Seiden \- Static Electricity**
 
@@ -1857,10 +1857,11 @@ A simple application of one of Raiton's basic properties. In which the user make
 
 Chakra: 7  
 Damage: 1d6\*1d6  
-Range: Touch, 5 yards  
-Speed: 1  
+Range: 5  
+Speed: 3
 Seal Speed: 1  
 Tags: Energy
+Special: Stun 1, Paralysis 1 for 1 IC
 
 Effects:
 
@@ -1874,34 +1875,33 @@ If done at range, choose an unoccupied object within range, the next person to t
 
 You gather a tiny, but wild and fluctuating marble of Raiton energy between your finger and thumb and fling it at your opponent. It's too small to do any actual damage, but the energy is so unstable that if any Raiton energy is still lingering in someone's system when they're hit by it it causes the energy to rapidly rush out of their body. Whilst on one hand this is good because the energy leaves your system faster, it also causes your muscles to freeze up whilst it does.
 
-Chakra: 12  
-Range: 20  
-Speed: 10  
+Chakra: 12
+Accuracy: \+2
+Range: 20
+Speed: 10
 Seal Speed: 8
 
 Tags: Utility, Projectile
 
 Effects:  
-The highest Raiton induced paralysis effect with an IC timer on it has the IC timer halved, but the severity of the paralysis doubled." For example: If you hit your opponent with a "Tenchu \- Wrath of Heaven" on IC 0 (How?), and your opponent was left standing after (Again, How?), they would be at Para 6 until IC 50\. If you then, on your next action at IC 30, used Mahi Kyukei, it would half the remaining duration of the paralysis of 20 to 10, and increase the severity of the paralysis to 12\. So instead of being para 5 until IC 50, they would be para 12 until IC 40\.
-
-This technique has \+2 to its accuracy.
+The highest Raiton induced paralysis effect with an IC timer on it has the IC timer halved, but the severity of the paralysis doubled." For example: If they had Para 1 for 20 IC it would turn into Para 2 for 10 IC
 
 ### **Shuurai \- Lightning Strike**
 
 You focus energy to the tips of your fingers on either hand, then point at an opponent, releasing a reasonably sized bolt of electricity. This is nothing like real lightning, but it looks similar and is just as fast\! Well… Not really, but it is really fast… Really… You have to believe me.
 
-Chakra: 16  
-Damage: 2d6\*2d4  
-Range: 20  
-Speed: 10  
-Seal Speed: 7  
-Special: \+2 Accuracy Bonus.
+Chakra: 16
+Damage: 2d6\*2d6
+Accuracy: \+2
+Range: 20
+Speed: 10
+Seal Speed: 7
+Special: Paralysis 1 for 15 IC
 
-Tags: Energy, Projectile
+Tags: Attack, Projectile, Energy
 
 Effects:
-
-This inflicts Paralysis 1 for 20 IC if its target fails a status roll. And ignores DR by 50% when dealing damage.
+This ignores DR by 50% when dealing damage.
 
 ### **Nage no Ushinawa Jutsu \- Subjugating Cattle Lasso Technique**
 
@@ -1913,57 +1913,59 @@ Speed: 9
 Seal Speed: 10  
 Special: Paralysis 2, Immobilization 2  
 Requires: 2 Kunai or Shuriken and 5 yards of Ninja Wire  
-Tags: Grab
 
-Effects: If this hits, the target becomes Grappled and is treated as if they are in a Clinch, except it is with the wire instead of you. Typically, the wire is easy to break out of for Chakra enhanced ninja. However, the addition of Raiton increases the wire's durability and disorganizes the target's musculature enough that they can't as easily summon their strength to escape. The Wire is treated as having 1d20+10+CHA/8 for Grapple Rolls to any relevant Break Clinch or Escape Grapple attempts. Anybody attempting to escape gains a cumulative \+5 to any Escape Grapple or Break Clinch actions after the first one. The Wire does not get any bonuses from a target's failed Break Clinch actions. 
+Tags: Attack, Projectile
 
-The Target gains Paralysis 1 and Immob 1 so long as they are clinched by the wire
+Effects: 
+If this hits, the target becomes Grappled and is treated as if they are in a Clinch, except it is with the wire instead of you. Typically, the wire is easy to break out of for Chakra enhanced ninja. However, the addition of Raiton increases the wire's durability and disorganizes the target's musculature enough that they can't as easily summon their strength to escape. The Wire is treated as having 1d20+10+CHA/8 for Grapple Rolls to any relevant Break Clinch or Escape Grapple attempts. Anybody attempting to escape gains a cumulative +5 to any Escape Grapple or Break Clinch actions after the first one. The Wire does not get any bonuses from a target's failed Break Clinch actions. 
+
+The Target has Paralysis 2 and Immob 2 so long as they are clinched by the wire.
 
 ### **Juude \- Electric Charge**
 
 Rubbing your hands together you create a large electrical charge, which only needs the slightest touch to be delivered, and will temporarily energize the opponent with an amount of lightning-elemental chakra.  
-Chakra: 10  
-Range: Melee  
-Speed: 6  
+
+Chakra: 10
+Accuracy: \+2
+Range: Melee
+Speed: 6
 Seal Speed: 6
 
-Tags: Utility, Melee
+Tags: Attack, Utility, Melee
 
 Effects:  
-This 'charges' an opponent, and gives the next ranged Raiton technique used against them an Accuracy bonus of \+1, plus the severity of any Paralysis they have.  
-Thus, when using Raiton against someone with Juude and Paralysis 3 you'd have a \+4 Accuracy bonus.
-
-This technique benefits from a \+2 ACC bonus.
+This 'charges' an opponent, and gives the next ranged Raiton technique used against them an Accuracy bonus of \+1, plus the severity of any Paralysis they have. Thus, when using Raiton against someone with Juude and Paralysis 3 you'd have a \+4 Accuracy bonus.
 
 ### **Jinrai no Jutsu \- Thunderclap Technique**
 
 The user puts both hands together, forming a miniature thunder bolt between his hands, splitting the air and forming an extremely loud BANG, which is rather startling when you're a few feet from it, and not expecting it. It has the added benefits of temporarily deafening the opponent.
 
 Chakra: 16  
-Area: 10 radius around user  
-Special: Stun 4  
+Area: 10 
 Speed: 14  
 Seal Speed: 9
+Special: Stun 8
 
 Tags: Utility, AoE
 
 Effects:
-
-Make opposed Initiative checks rather than ACC and defense. Anybody that fails must then roll a status check. If the target loses a status roll then the stun's severity is doubled. And for the next 30 ICs, they receive a \-5 to all Awareness checks alongside losing all their ranks in Enhanced Hearing and any other Ability that requires it. This jutsu cannot be used again for 100 IC.
+Anybody that gains stun, for the next 30 ICs, receives a -5 to all Awareness checks alongside losing all their ranks in Enhanced Hearing and any other Ability that requires it. This jutsu cannot be used again for 100 IC.
 
 ### **Shinkei Attou no Jutsu \- Nerve Overloading Technique**
 
 You send a 'spark' of chakra into an enemy, stimulating any electrical chakra already in their system and sending them into several seconds of agonizing convulsions.
 
-Chakra: 16  
-Range: 15  
-Speed: 8  
+Chakra: 16
+Accuracy: \+X
+Range: 15
+Speed: 8
 Seal Speed: 8
+Special: Stun 5 \* X
 
-Tags: Utility
+Tags: Attack, Projectile
 
 Effects:  
-This has \+3 Accuracy per level of Paralysis on the target. It ends all Raiton-induced Paralysis effects on them, and inflicts them with a Stun equal to 5 per severity of the highest Paralysis removed. Thus, someone suffering from Paralysis 4 would be Stunned for 20 IC.
+X is the level of Paralysis on the target. Thus, someone suffering from Paralysis 4 would be Stunned for 20 IC and you’d have a +4 Accuracy.
 
 ### **Kyousou Ikazuchi no Jutsu \- Racing Thunder Technique**
 
@@ -1979,7 +1981,7 @@ Tags: Utility
 Effects:  
 Your AGI is treated as 25% higher for the purposes of movement. Additionally, so long as you maintain this Technique’s Upkeep, you gain a special Movement Action called Blink.
 
-Blink: You may choose to declare a Speed X Move Action, where X has a max of AGI/10. Unlike normal movement (which is handled on an IC-by-IC basis), the movement for this action is resolved immediately. However, moving this way has a Stamina cost equal to X. You may not reduce this Action's Speed by spending AP.
+Blink: You may choose to declare a Speed X Move Action, where X has a max of AGI/5. Unlike normal movement (which is handled on an IC-by-IC basis), the movement for this action is resolved immediately. However, moving this way has a Stamina cost equal to X. You may not reduce this Action's Speed by spending AP.
 
 ### **Kaminari no Yaiba \- Lightning Blade**
 
@@ -1993,9 +1995,9 @@ Seal Speed: 10
 Tags: Energy, Weapon, Utility
 
 Effects:  
-You can create any type of weapon from the Sword category using this technique. Any bonuses to Accuracy the weapon normally has, reduces the Upkeep of this technique instead (an Upkeep of 0 is still considered an Upkeep). Any penalties to Accuracy remain and also add the same amount to the Upkeep of this technique.  
-The weapon otherwise functions in the same way as a normal weapon of its type, but it reduces any DR by 50% when dealing damage (or 100% against DR sources that are weak to Raiton).  
-You cannot use any hands occupied by the weapon you created for anything else, and you must choose how many hands you are using on this weapon when you create it (if it can be used two-handed, and this technique does not allow you to wield one-handed a weapon you couldn’t normally), this choice cannot be changed without recasting this technique. Dispelling the Jutsu does not take an action.
+You acquire a Chain from the standard Chain options in the Equipment section. You may then upgrade it using Artisan points equal to your Chakra Control \- 5. You may choose to double the Base Speed and Upkeep of this Technique to create a second Chain in your other hand during the activation of this Technique. Both weapons gain the dual property (for free) but the artisan points must be split between the 2 weapons.
+
+When using it, you reduce any DR by 50% when dealing damage (or 100% against DR sources that are weak to Raiton). This Club lasts until you let go of it or end this Technique’s Upkeep. You may perform Handseals while holding Lightning Whips, but doing so increases the Seal Speed by 4 for one Whip, and 6 for two Whips.
 
 ### **Taiyouken \- Solar Flare**
 
@@ -2009,8 +2011,7 @@ Seal Speed: 10
 Tags: Utility, AoE
 
 Effects:  
-When you use this technique, you and anyone in the Area make an opposed Initiative roll, with the victim(s) getting a \+5 bonus for each previous time this technique has been used in that combat. Whoever you beat with this roll suffers a \-4 Visibility Penalty that fades at the rate of 1 per 5 IC, anyone you don’t beat closes their eyes in time.  
-Regardless of who you beat with the roll (even if you don't beat anyone at all), you can immediately Hide as per the Hide action using all normal rules for it.
+When you use this technique, you and anyone in the Area make an opposed Initiative roll, with the victim(s) getting a \+2 bonus for each previous time this technique has been used in that combat. Whoever you beat with this roll suffers a \-4 Visibility Penalty that fades at the rate of 1 per 5 IC, anyone you don’t beat closes their eyes in time. Regardless of who you beat with the roll (even if you don't beat anyone at all), you can immediately Hide as per the Hide action using all normal rules for it.
 
 ## **Raiton C-rank**
 
@@ -2019,12 +2020,13 @@ Regardless of who you beat with the roll (even if you don't beat anyone at all),
 You focus your chakra around your extremities and transform it into an electric current that numbs whoever you pummel with your Taijutsu attacks. And bypasses any protection they may have had to directly shock their internal organs.
 
 Chakra: 15  
-Upkeep: 4    
+Upkeep: 5 
 Speed: 6  
 Seal Speed: 14  
+
 Tags: Utility
 
-As long as this technique is maintained, your Unarmed and Combo Taijutsu attacks that deal any damage inflict a Paralysis status of 1, plus 1 per severity of any wound they inflict (+1 for Minor, \+2 for Major, etc). This Paralysis fades by 1 every 10 ICs.
+As long as this technique is maintained, your Unarmed and Combo Taijutsu attacks that deal any damage inflict a Paralysis status of 1, plus 1 per severity of any wound they inflict (\+1 for Minor, \+2 for Major, etc). This Paralysis fades by 1 every 10 ICs.
 
 Your Taijutsu Attacks ignore armor and treat DR as if it is 33% lower.
 
@@ -2035,45 +2037,34 @@ Concentrating your chakra, you project an invisible, wide area dome of chakra. M
 Anyone who enters the field will instantly notice its presence--their hair will start to stand on end, and most objects will begin building a static charge.
 
 Chakra: 24
-
 Upkeep: 6
-
-Area: CHA radius centered on self
-
+Area: CHA
 Speed: 13
-
 Seal Speed: 22
 
-Tags: Utility, AoE, Environmental
+Tags: Utility, AoE, Self, Environmental
 
 Effects:  
-Using this does not break Stealth.
-
-So long as you maintain this Jutsu's upkeep, you are afflicted by Immobility 10, which can not be reduced or removed by any means.  You can not end this Jutsu like normal; you must take a Speed 10, Delay 5 action to end this Jutsu's Upkeep. No actions can be performed so long as the Upkeep is maintained. Moving somehow or Being forcibly moved causes this Jutsu to end. 
-
+So long as you maintain this Jutsu's upkeep, you are afflicted by Immobility 10, which can not be reduced or removed by any means. You can not end this Jutsu like normal; you must take a Speed 10, Delay 5 action to end this Jutsu's Upkeep. No actions can be performed so long as the Upkeep is maintained. Moving somehow or Being forcibly moved causes this Jutsu to end. 
 Within the field, all chakra-based sensing (such as Byakugan's vision, chakra-sensory ninja, and the Yurokensei technique) receive \-10 to Awareness and Chakra Control checks for the purposes of sensing. Electronic and electrical devices in this area are also useless (Including a magnetized compass made using Raiton).
 
-The dampening also interferes with other lightning-based chakra, reducing the damage of all Raiton in its range to 50%.
-
-Finally, the large amounts of ambient lightning chakra interferes with earth-based chakra. Doton techniques in this area have their damage reduced by 40%, and their Chakra costs and Upkeeps (if relevant) increased by 6\.
+The damping also interferes with other lightning-based chakra, reducing the damage of all Raiton in its range to 50%. Finally, the large amounts of ambient lightning chakra interferes with earth-based chakra. Doton techniques in this area have their damage reduced by 40%, and their Chakra costs and Upkeeps (if relevant) increased by 6.
 
 ### **Raiton: Amigumo \- Lightning Release: Spider Web**
 
 Chakra: 16  
-Damage: 2d20\*1d6  
-Area: 10 yards centered on self  
+Damage: 2d20d1*2d6  
+Area: 10
 Speed: 14  
 Seal Speed: 15  
 Special: Paralysis 2 for 20 ICs  
-Tags: Damaging, AoE, Environmental
+
+Tags: Attack, Projectile, Energy
 
 Effects:
+If this Technique is the last attack you used, and you haven't performed any hand seals since the last time you used it, it does not require handseals. Additionally, every consecutive time this Technique is performed it gains \+1 Accuracy Bonus, \+4 chakra cost, and the Severity of the Paralysis increases by 1, and its Duration increases by 10. These effects stack twice. So the second time this is used in a row, it becomes \+1 ACC, Chakra 20, Paralysis 3, Duration 30. Then \+2 ACC, Chakra 24, Para 4, Duration 40.
 
-Your movement is halved until your next action. 
-
-If this Technique is the last attack you used, and you haven't performed any hand seals since the last time you used it, it does not require handseals. Additionally, every consecutive time this Technique is performed it gains \+1 Accuracy Bonus, \+4 chakra cost, and the Severity of the Paralysis increases by 1, and its Duration increases by 10\. These effects stack twice. So the second time this is used in a row, it becomes \+1 ACC, Chakra 20, Paralysis 3, Duration 30\. Then \+2 ACC, Chakra 24, Para 4, Duration 40\.
-
-When used consecutively, add half the damage of all previous consecutive uses for the purpose of determining wounds. For example, say you dealt 60, then 40, then 50 damage with it. For determining if you wounded your opponent, the first technique would be treated as 60 damage, the second as (40 \+ 60/2) \= 70, and the third as (50 \+ 60/2 \+ 40/2) \= 100\.
+When used consecutively, add half the damage of the highest of all previous consecutive uses for the purpose of determining wounds. For example, say you dealt 60, then 40, then 50 damage with it. For determining if you wounded your opponent, the first technique would be treated as 60 damage, the second as (40 \+ 60/2) = 70, and the third as (50 \+ 60/2) = 80.
 
 ### **Kangekiha \- Wave of Inspiration**
 
@@ -2086,10 +2077,11 @@ Range: 40
 Speed: 10  
 Seal Speed: 16
 
-Tags: Energy
+Tags: Attack, Projectile, Energy
 
 Effects:  
 If this is used on a conductive surface (such as a metal pipe, or the surface of a lake) that your opponent is in contact with, its Accuracy penalty is removed and your damage bonus is doubled.  
+
 If someone was hit by a Suiton ninjutsu in the past 15 IC, this technique's Accuracy penalty is reduced to \-2, but your damage bonus is not increased.  
 For every point of Raiton Induced Paralysis a target is suffering from, this gains a \+2 Accuracy Bonus; however, if this hits their Paralysis status is ended.
 
@@ -2097,13 +2089,13 @@ For every point of Raiton Induced Paralysis a target is suffering from, this gai
 
 This generates a semi-stable mass of lightning chakra which will be released right in front of you. The mass is a bright and crackling sphere of chakra that will fly at a leisurely pace towards the closest person charged with Raiton chakra. Anyone unfortunate enough to come into contact with it will receive a dangerous shock through their system as the sphere of Lightning bursts, causing a surprising amount of destruction.
 
-Chakra: 20  
-Damage: 25\*1d8  
-Speed: 12  
-Seal Speed: 21  
+Chakra: 18
+Damage: 25*1d8
+Speed: 10
+Seal Speed: 21
 Special: Paralysis 2, for 30 IC, Stun 5
 
-Tags: Energy, Projectile, Environmental
+Tags: Utility, Creation
 
 Effects:
 
@@ -2115,33 +2107,33 @@ The sphere moves at a speed of 0.5 yards per 1 IC for every 1 Paralysis the curr
 
 After making contact with an enemy, you send a powerful pulse of electricity through their body, momentarily overstimulating their nervous system. For several seconds afterwards, the recipient of the shock will find their body sluggish and poorly responsive. While not actual harmful, this is exceptionally painful.
 
-Chakra: 16  
-Range: Touch  
+Chakra: 16
 Speed: 10  
 Seal Speed: 10
+Special: Paralysis 4 for 40 IC
 
-Tags: Utility, Melee
+Tags: Attack, Melee
 
 Effects:  
-This inflicts Paralysis 4 for 40 IC, if the target succeeds on a Status Check then it gets halved to Paralysis 2 for 20 ICs.
+Even if the target succeeds on their Status Check they gain Paralysis 2 for 20 ICs.
 
 ### **Raiton: Fukushuu Kaminarikami \- Lightning Release: Avenging Lightning God**
 
 You divert your chakra to surge across your skin, building up something akin to a strong static charge. Unlike actual static electricity, this is incredibly dangerous.
 
-Chakra: 18  
-Damage: 4d6\*4d4  
-Special: Interrupt. This technique receives only half your damage bonus.  
-Speed: 6  
-Seal Speed: 8
+Chakra: 24
+Damage: 4d6*4d4
+Speed: 8
+Seal Speed: 11
+Special: This technique receives only half your damage bonus.
 
-Tags: Energy, Defensive
+Tags: Interrupt, Energy
 
 Effects:
 
-You can use this technique as an Interrupt against any attacks made at Melee range, this extends to both Ninjutsu and Taijutsu. If you do, your opponent can immediately abort their attack, in which case they do not pay its cost and it's considered half its actual speed for determining when their next action comes. You still pay this technique’s Chakra cost and Speed. If they do not abort the attack, then you are hit automatically by their attack (taking its normal damage) and your attacker is also automatically hit by this technique (taking its normal damage). If the attacker received any damage from this technique, they suffer a Paralyze of 1 per severity of any wounds their attack inflicts, that lasts for 20 IC (i.e., if their attack inflicted a Minor and a Major wound, they would suffer Paralysis 3).
+You can use this technique as an Interrupt against any attacks made at NDB range, this extends to both Ninjutsu and Taijutsu. If you do, your opponent can immediately abort their attack, in which they still pay its cost and it's considered half its actual speed for determining when their next action comes. If they do not abort the attack, then you are hit automatically by their attack (taking its normal damage) and your attacker is also automatically hit by this technique (taking its normal damage). 
 
-Attacks immune to on-contact effects will not receive any Damage from this technique. However, any on-contact protection originating from an Element weak to Raiton will not work against this jutsu (such as Doton’s Earth Style Fist).
+If the attacker received any damage from this technique, they suffer a Paralysis of 1 per severity of any wounds their attack inflicts, that lasts for 20 IC (i.e., if their attack inflicted a Minor and a Major wound, they would suffer Paralysis 3).
 
 ## **Raiton B-rank**
 
@@ -2150,13 +2142,13 @@ Attacks immune to on-contact effects will not receive any Damage from this techn
 Charging both your hands with a powerful electric current, you slam them together and expel a creature made of pure lightning, in whatever form you choose (one of a realistic, quadripedal animal). The beast then runs at your enemy, connected to your hands by a lightning 'leash' that allows you to redirect the attack if an enemy defends against it.
 
 Chakra: 40  
-Damage: 4d10\*3d4  
+Damage: 5d10\*3d4  
 Range: 40  
-Special: Paralysis 2 for 30 IC  
-Speed: 14  
+Speed: 14
 Seal Speed: 20
+Special: Paralysis 2 for 30 IC
 
-Tags: Energy, Projectile
+Tags: Attack, Projectile, Energy
 
 Effects:  
 After seeing the result of your opponent's defense, you may choose to make them reroll it. If you do this, they keep the second result (even if it's better). If you use this option, Raijuu Hashiri's damage is halved for the purpose of determining wounds, and its Paralysis status is removed.  
@@ -2166,20 +2158,17 @@ You may also use the redirect to send the beast after a different target; it sti
 
 This technique creates a potent, not-quite-fully independent copy of yourself. They're capable of bringing substantial force to bear in combat, but lack enough physical cohesion to survive being hit in combat. Of course, striking a ball of animated lightning tends to be bad for one's health.
 
-Chakra: 15, \+5 per clone  
-Damage: 100\*1d4  
-Range: Melee  
-Special: Paralysis 4 for 30 IC  
+Chakra: 15 \+5 * X  
+Damage: 100 \* 1d4
 Speed: 8, \+4 per clone  
-Seal Speed: 12, \+4 per clone  
+Seal Speed: 12, \+4 \* X
+Special: Paralysis 4 for 30 IC  
 Requires: Bunshin no Jutsu
 
-Tags: Energy, Utility, Clone
+Tags: Utility, Energy, Clone
 
 Effects:  
-You can create up to two clones. These function like regular bunshin, but may take the actions listed below.  
-Additionally, anyone who destroys a Lightning Clone within a 1 yard range takes this technique's damage automatically.  
-Lightning Clones are all at Fatigue 0; if they ever reach Fatigue 1, they are destroyed.
+You can create up to two clones. These function like regular bunshin, but You create X clones up to a max of 2. These function like regular bunshin, but may take the actions listed below:
 
 \[X AP\] Move: Your clones can move, where X is the Speed of the Move action.  
 \[4 AP\] Basic Unarmed: A basic unarmed attack, using your attributes.  
@@ -2187,7 +2176,10 @@ Lightning Clones are all at Fatigue 0; if they ever reach Fatigue 1, they are de
 \[X AP\] Multi-Throw: Should be self-explanatory. X is half the Speed of the multi-throw.  
 \[X AP\] Raiton Ninjutsu: The clone must first perform the handseals, at the regular speed, costing AP equal to half the technique's modified Seal Speed. It then costs X AP, where X is half the technique's Speed. They cannot, however, use Raiton Bunshin.
 
-When Lightning Clones attack they use only half your damage bonus for dealing damage, and the severity of wounds they inflict is reduced by one category.  
+Anyone who destroys a Lightning Clone within a 1 yard range takes this technique's damage automatically. 
+
+Lightning Clones are all at Fatigue 0; if they ever reach Fatigue 1, they are destroyed. When Lightning Clones attack they use only half your damage bonus for dealing damage, and the severity of wounds they inflict is reduced by one category.
+
 Lightning Clones use your base Stamina and Chakra Exhaustion bonuses, as if they were a Fatigue 0 version of you without any temporary benefits (such as having eaten a Soldier Pill before creating them). If a clone fails a Fatigue roll, it vanishes just as if it had been struck.
 
 ### **Gian \- False Darkness**
@@ -2195,18 +2187,16 @@ Lightning Clones use your base Stamina and Chakra Exhaustion bonuses, as if they
 A fearsome technique made in the village of clouds during a time of international strife. It was meant not for individual duels, but for warfare, proving devastatingly effective for its intended purpose. In the last Shinobi War, few things were feared more than Kumogakure's Raiton Shinobi battalions who would all stand in a line far from any possible retaliatory strike and rain down thunder on a faraway battlefield. While the original technique's true deadliness can only be displayed with dozens of skilled Shinobi working in tandem. A modified version has been made for personal use by one of the other villages and eventually spread to the rest of the Ninja World. Holding their hands up towards the sky after completing the handseals the user can send out a burst of Lightning Chakra into the atmosphere which will multiply the energy before it fell back down into the Shinobi's grasp. The ninja then, depending on how much energy he sent into the atmosphere, forms that mass of energy into up to half a dozen large, spear shaped bolts of lightning which can then be chucked extremely long distances like a javelin. As the javelin's descend, their speed will suddenly increase tenfold, causing them to slam into the ground with the same force and ferocity of a true thunderbolt. This technique's  biggest advantage is its ability to be used in rapid succession, allowing for rapid long-range bombardment.
 
 Chakra: 32 \+ (X \* 3\)  
-Damage: 6d20 \* (1d12 \- X \* 2\)  
+Damage: 4d20 \* 1d(12 \- X \* 2\)  
 Range: 100  
 Area: 20  
 Speed: 12, Delay: X \* 3  
 Seal Speed: 26
 
-Tags: Energy, Projectile
+Tags: Attack, Projectile, Energy
 
 Effects:  
-X can’t be higher than 5\.
-
-Each X represents an attack, performing a different ACC attack and damage for each. The target only needs to declare one interrupt, moving their IC and paying any appropriate  costs only once, but they still roll to defend against each attack. Whatever interrupt the target has chosen is the one they must use to defend against all attacks. Every thunderbolt from Gian that hits applies a stacking Paralysis 1 Duration 20 that stacks only from the same instance of Gian. Speed can never be lowered below 12\.
+X can’t be higher than 5. Each X represents an attack, performing a different ACC attack and damage for each. The target only needs to declare one interrupt, moving their IC and paying any appropriate  costs only once, but they still roll to defend against each attack. Whatever interrupt the target has chosen is the one they must use to defend against all attacks. Every thunderbolt from Gian that hits applies a stacking Paralysis 1 Duration 20 that stacks only from the same instance of Gian. Speed can never be lowered below 12.
 
 ### **Raiton: Shichuu Shibari \- Lightning Release: Four Pillar Bind**
 
@@ -2214,44 +2204,32 @@ Four pillars of rock, each about twenty feet tall, are summoned around an enemy 
 
 Chakra: 36  
 Upkeep: 5  
-Range: CHA /2  
-Area: 25 x 25 square  
-Special: Paraylsis 2, Immob 4  
+Range: CHA/2  
+Line: 25, 25
 Speed: 19  
 Seal Speed: 20
+Special: Paraylsis 2, Immob 4
 
-Tags: Energy, AoE, Environmental
+Tags: Energy, AoE, Creation, Environmental
 
 Effects:
-
-Each of the Pillars has 250 HP and is situated on the four corners of the Square area.  They have a DR of 10+CHA/5.
-
-Anybody inside of the area gains Immobilization 4, and Paralysis 2 until they leave the Area of the Jutsu. In addition, they take 5 damage that cannot be mitigated every IC that passes.
-
-The Pillars can be attacked, and if one is destroyed, the Jutsu forcibly ends alongside its effects.
+Each of the Pillars has 250 HP and is situated on the four corners of the Square area. They have a DR of 10+CHA/5. Anybody inside of the area gains Immobilization 4, and Paralysis 2 until they leave the Area of the Jutsu. In addition, they take 5 damage that cannot be mitigated every IC that passes. The Pillars can be attacked, and if one is destroyed, the Jutsu forcibly ends alongside its effects.
 
 ### **Nage no Ushisekuta Jutsu \- Subjugating Cattle Field Technique**
 
 Taking the Subjugating Cattle Lasson Technique to the very extreme, this has stopped being a mere trap or trick utilized when one is desperate and has no other options. A proof that the Shinobi are masters at transforming tools used out of necessity and refining them into lethal weapons. An Experienced Ninja that has mastered Ushisekuta can become a deadly threat on a battlefield. By attaching two sets of 4 Kunai or Shuriken using Ninja Wire, the Shinobi is able to throw them with a highly concentrated current of Lightning passing through them. With 1 set sticking into the ground and the other freezing in the air dozens of meters above it, the Lightning Chakra begins to jump between the two closed circuits, creating veritable walls of electricity. And effectively closing off that entire zone from the rest of the battlefield.
 
-Chakra: 34
-
-Speed: 14
-
-Damage: 8D8\*2D4
-
+Chakra: 40
 Upkeep: 3
-
+Cube: 20
+Damage: 8d8\*2d4
+Speed: 14
 Seal Speed: 18
-
 Requires: 8 Kunai or Shuriken, 80 yards of Ninja Wire
-
-Area : 20 x 20 x 20 Cube, all of the edges must be within thrown weapons' range.
 
 Tags: Energy, AoE, Environmental
 
 Effects:
-
 This fences off a zone in the battlefield. Making a cube of Raiton walls and ceiling. Anyone attempting to enter or exit the zone will impact the barrier and take the mentioned Dice Damage without adding NDB or speed. and must roll a status check with a \+2 bonus for every time they attempt to pass the barriers after the first attempt. Anyone who fails the roll gains Stun 10 and Paralysis 3 until the end of the Stun and is pushed back 5 yards into the direction they originally came from. For example, somebody inside the zone attempting to cross out will be knocked back 5 yards into the zone. As it does not constitute an attack at that point, defensive Interrupts can't be used to mitigate it. However, If the last action you declared was Blocking, you may use Block to defend against this jutsu when passing through it. You may block as part of moving through the barrier so long as you are using normal Movement.
 
 Attacks pass normally into and out of the Cattle Field Technique’s zone.
@@ -2260,22 +2238,23 @@ If Chakra based movement such as Shunshin, Racing Thunder, Vaulting Leap, or Wat
 
 Cattle Field technique does not extend into the ground, if you manage to dig 1 yard into the earth, such as through “Hiding Like a Mole Technique” then you may pass beneath the barrier without triggering it.
 
-The Area of this Jutsu cannot be increased any further even through the Enhanced Area Ability.
+The Cube of this Jutsu cannot be increased any further even through the Enhanced Area Ability.
 
 ### **Hiyaku Raikoui \- Chain Lightning**
 
 You hold out your fingers and fire a focused bolt of lightning which then, after striking the target, goes to find a new target, then another, amplifying itself each time it passes through someone's chakra circulatory system.
 
-Chakra: 40  
-Damage: 7d6\*1d10  
-Range: 50  
-Speed: 12  
+Chakra: 38
+Damage: 6d8\*1d10
+Range: 50
+Speed: 12
 Seal Speed: 18
 
-Tags: Energy, Projectile
+Tags: Attack, Projectile, Energy
 
 Effects:  
-This has an Accuracy bonus equal to the severity of Paralysis its target is suffering from, \+1 for every previous target it hits. After hitting one person it can then 'jump' to any other target within half the original range from its most recent victim, doing 10% more damage for each target previously hit.  
+This has an Accuracy bonus equal to the severity of Paralysis its target is suffering from, \+1 for every previous target it hits. After hitting one person it can then 'jump' to any other target within half the original range from its most recent victim, doing 10% more damage for each target previously hit.
+
 Anyone struck by this technique has their Paralysis status raised by 1, and its duration increased by 5 iC. A person can only be hit by a single use of this technique once.  
 The maximum number of targets a single activation of Chain Lightnin can hit is equal to your Ninjutsu Damage Bonus.
 
@@ -2285,49 +2264,48 @@ The maximum number of targets a single activation of Chain Lightnin can hit is e
 
 Harnessing a great amount of chakra, you create a field of lightning that swirls around you and coalesces into the crackling outline of an electric dragon. From there you can keep it at the ready, or attack an unfortunate foe immediately.
 
-Chakra: 54  
-Damage: 5d8\*6d6  
-Range: 80  
-Special: Paralysis 4 for 60 ICs  
-Speed: 26  
+Chakra: 45
+Damage: 5d8\*6d6
+Range: 80
+Speed: 26
 Seal Speed: 30
+Special: Paralysis 4 for 60 IC
 
-Tags: Energy, Projectile, Environmental
+Tags: Attack, Projectile, Energy, Creation
 
 Effects:  
-When you use this technique, you may choose to lower its Chakra cost by 10\. If you do so, rather than launching at your opponents the lightning dragon takes shape coiling around you.  
-It will automatically attack the first person to move within 10 yards of you (it will not, however, trigger this effect if you move closer to them), with \+4 Accuracy. If they fail a status roll, its Paralysis effect and duration will also be doubled.  
-You may also launch the dragon at any time while it's still around, as a Chakra 35, Speed 14 action, using 14 rather than 26 as its base speed.
+When you use this technique, you may choose to lower its Chakra cost by 10. If you do so, rather than launching at your opponents the lightning dragon takes shape coiling around you.
+
+It will automatically attack the first person to move within 10 yards of you (it will not, however, trigger this effect if you move closer to them), with +4 Accuracy. You may also launch the dragon at any time while it's still around, as a Chakra 35, Speed 14 action, using 14 rather than 26 as its base speed.
 
 ### **Tenchu \- Wrath of Heaven**
 
 This technique truly earns its name. As the handseals are completed electricity will begin to arc along the user's body and wisps of dark smoke will rise from them, a result of the overwhelming, uncontainable amounts of chakra this jutsu requires.  
 That chakra is converted directly into electricity and released in a blast every bit as devastatingly powerful as a genuine bolt of lightning.
 
-Chakra: 60  
-Damage: 5d10 \* 5d8 \* 2d6.takeHighest(1)  
-Range: 100  
-Area: 5  
-Special: Paralysis 6 for 50 ICs  
-Speed: 30  
+Chakra: 50
+Damage: 2d10d1\*2d8d1\*2d6d1\*2d4d1
+Line: 30, 100
+Speed: 30
 Seal Speed: 40
+Special: Paralysis 6 for 50 ICs, This technique receives only half your damage bonus.
 
-Tags: Energy, Projectile, AoE
+Tags: Attack, Projectile, AoE, Energy
 
 Effects:  
-This hits everything in a line 30 yards across (its area), and up to one hundred yards long (i.e. anything between the user and the max range). The effectiveness of partial defense is halved against this technique: for every 1 point it misses by, it deals only 10% less damage. And anything within a range of 10 points counts as a partial defense.  
-After rolling damage for Tenchu, you may spend a point of Willpower to reroll it and take the higher of the two results.  
-This may only be done once per attack, and only if you did not spend Willpower to improve Tecnhu's Accuracy.
+The effectiveness of partial defense is halved against this technique: for every 1 point it misses by, it deals only 10% less damage.
+
+After rolling damage for Tenchu, you may spend a point of Willpower to reroll it and take the higher of the two results. This may only be done once per attack.
 
 ### **Juurokuchuu Shibari \- Sixteen Pillar Bind**
 
 Just as the four pillar bind, this surrounds the area, though this time it's a bit more solid. After creating a large, oven-like structure it then electrocutes the entire area inside, frying the contents and hopefully making it hard for them to escape.
 
-Chakra: 66  
-Upkeep: 12  
-Range: 120  
-Area: 100  
-Speed: 30  
+Chakra: 60
+Upkeep: 12
+Range: 120
+Cube: 100
+Speed: 30
 Seal Speed: 35
 
 Tags: Energy, AoE, Environmental
@@ -2335,7 +2313,7 @@ Tags: Energy, AoE, Environmental
 Effects:  
 Each Pillar has 300 HP and a DR of 20+CHA/5.
 
-This is a 25 x 25 AoE, inside a 50 x 50, inside a 75 x 75, inside a 100 x 100; thus, it's 25 yards from the edge of one layer to the next. For each layer a person is inside they suffer \-2 Immobilize and 1 Paralyze.
+This is a Cube 25, inside a Cube 50, inside a Cube 75, inside a Cube 100; thus, it's 25 yards from the edge of one layer to the next. For each layer a person is inside they suffer \-2 Immobilize and 1 Paralyze.
 
 Thus, someone at the center would be at \-8 Immobilize and Paralyze 4, until they managed to run 25 yards or destroy a pillar from one set; then they'd be at \-6 Immobilize and Paralyze 3, and so forth.
 
@@ -2348,15 +2326,16 @@ After that, they can either leave the resulting ball of chakra hovering where it
 
 Chakra: 40  
 Upkeep: 8  
-Damage: 300  
+Damage: 500  
 Range: 60  
 Speed: 50  
 Seal Speed: 25
 
-Tags: Energy, Projectile, Environmental
+Tags: Utility, Creation
 
 Effects:  
-The mine must be placed within melee range. The technique's actual range can, if you wish, be set lower than 60\. Whenever someone other than you enters this range, they immediately become the target of a Sneak Attack from this jutsu using your ranks in Stalker; the ball of lightning soars towards them without warning.  
+The mine must be placed within melee range. The technique's actual range can, if you wish, be set lower than 60\. Whenever someone other than you enters this range, they immediately become the target of a Sneak Attack from this jutsu using your ranks in Stalker; the ball of lightning soars towards them without warning.
+
 This can be left sitting in the opponent (as an effective deterrent), or submerged into any available surface (the floor, the walls). If you are within the maximum range (even if you reduced the attack range), you can prevent the ball from activating by concentrating on it (though you'd typically need line of sight to know if this is necessary).  
 If this is hidden inside some object, it cannot be detected without the use of a chakra-detecting doujutsu (such as Byakugan).
 
@@ -2364,8 +2343,16 @@ If this is hidden inside some object, it cannot be detected without the use of a
 
 # **Suiton**
 
-G=Gallons of Water used  
-Gallons Requirements means (min gallons \> max gallons) spent to use the jutsu
+## Water (Suiton)
+Water is at a disadvantage among elemental jutsu in that it requires raw material to use (earth techniques do as well, but it's rare to find oneself in a situation without ground).Unless the fight is taking place near a river (a small stream won't cut it) or a lake, or, say, on a boat, it's not going to be from the environment.
+
+Accordingly, most water jutsu tend to be very weak or have limited effectiveness unless the shinobi supplies enough “Gallons of Water”, not to mention quite costly. However, using enough gallons of water can turn an ineffectual technique into quite a fearsome force. Even water, in enough quantity, can be turned into a destructive tsunami. 
+
+Using “Gallons of Water” is quite easy, you simply mention how many Gallons you are investing into a Jutsu when you use it, and modify its “G” (Standing for, you guessed it, Water) variable according to how many Gallons you spent. Though it should be kept in mind that most Suiton Jutsus have a minimum and a maximum amount of Water you can invest into it (Typically displayed like this: 4 > 12 Gallons of Water), anything more or less and the technique breaks down. If a Technique has a Gallon requirement of 0, that means you may use it without spending any Water on it, though that also means it’ll be quite weak.
+
+There are two primary ways to bring water into a battle where there otherwise is none: the first is to physically carry it, typically in a large gourd (see the Equipment chapter). The other is the D rank Water Creation Technique, which may add Gallons of Water to the Background, making those Gallons accessible to everybody in the battlefield until the Water is used up.
+
+Used water is typically scattered across the battlefield, or evaporates back into the atmosphere as pure chakra, meaning it cannot be used in a technique again--it is lost. You can't use water someone else is carrying into battle (Like through a Container), but water in the Background or environment is fair game.
 
 [|E-Ranks|](#suiton-e-rank)
 [|D-Ranks|](#suiton-d-rank)
@@ -2379,35 +2366,34 @@ Gallons Requirements means (min gallons \> max gallons) spent to use the jutsu
 
 The user gathers the water used in this technique in front of them as they perform the handseals, and then directs it at an opponent as a high-speed projectile.
 
-Chakra: 10 \- (G \* 2\)  
-Damage: 1d8+(G \* 5\)  
-Range: 15  
-Speed: 7  
-Seal Speed: 4  
-Gallons Requirements: 0 \> 2  
-Tags: Blunt, Projectile
+Chakra: 5 \+ (G \* 2)
+Damage: 2d10\+(G \* 10)
+Range: 15
+Speed: 7
+Seal Speed: 5 \+ G
+Gallons Requirements: 0 \> 2
 
-Effects: This Attack has \+G Accuracy 
+Tags: Attack, Projectile, Blunt
 
 ### **Mizuhane \- Water Splash**
 
 You strike the ground with your foot, and cause a spray of water to splash up between you and an attacker. It's not terribly practical, but it does provide about a quarter-second of a distraction.
 
-Chakra: G \* 4  
-Special: Interrupt  
+Chakra: G \* 5 
 Speed: \+G  
 Seal Speed: G \* 2  
 Gallon Requirement: 1 \> 5  
-Tags: Link, Defensive
 
-Effects: This is used alongside a Dodge Interrupt, and provides it with a \+G bonus.
+Tags: Interrupt, Link, Self
+
+Effects: This is used alongside a Dodge Interrupt, and provides it with a +G bonus. Your dodge's final speed cannot go lower than G.
 
 ### **Haneru \- Splash**
 
 You use Splash\!
 
 Chakra: 5  
-Speed: 4  
+Speed: 1
 Seal Speed: 2
 
 Tags: Joke
@@ -2421,43 +2407,64 @@ Nothing happens\!
 
 The user kneads chakra and converts it into water inside their stomach, then spits it out in the form of a dense, chakra propelled ball. Its greatest boon to suiton users is that it can be used in an area without any preexisting water.
 
-Chakra: 12  
-Damage: 3d8+24  
+Chakra: 13
+Damage: 6d8+30 
 Range: 12  
 Speed: 10  
 Seal Speed: 9
 
-Tags: Blunt, Projectile
+Tags: Attack, Projectile, Blunt
 
 Effects:  
 This adds 3 gallons of water to the battlefield every time it's used.
+
+### **Suiton: Shigure \- Water Release: Drizzle**
+
+The user condenses the water in the air to fire multiple blasts in unison. This allows for large crowd control or by focusing them into single targets it produces a much stronger attack.
+
+Chakra: 12 \+ G
+Damage: (3d8\+20)\*1.(\X*2)
+Range: 15
+Speed: 7 \+ G
+Seal Speed: 5 \+ G
+Accuracy:  +X / 4
+Gallons Requirements: 2 \> 8
+
+Tags: Attack, Projectile, Blunt
+
+Effects:
+You fire G number of projectiles and can direct them at a single target or split them evenly between any number of targets. The X for this jutsu is determined by the number of projectiles thrown at each individual target. 
 
 ### **Takigakure Ryu, Mizukiri no Yaiba \- Hidden Waterfall Style, Water-Cutting Blade**
 
 Originally developed by the Hidden Waterfall village, this technique has since spread into wider use. The first half of the name is generally dropped, though some choose to keep it out of respect. The jutsu creates a blade out of water, kept as strong as most metals by the chakra infusing it.
 
-Chakra: 6 \+ (G \* 2\)  
+Chakra: 6 \+ G  
 Upkeep: 1  
 Speed: 4  
 Seal Speed: 8  
-Gallon Requirement: 3 \> 6  
-Tags: Weapon, Utility
+Gallon Requirement: 3 \> 6
 
-Effects: You acquire a One Handed Sword from the standard Sword options in the Equipment section. This Sword lasts until you let go of it or end this Technique’s Upkeep. You may perform Handseals while holding this Sword, but doing so increases the Seal Speed by 4, unless you can form seals one-handed. If you choose to double the Base Speed and Upkeep of this Technique, then you may create a second Sword in your other hand during the activation of this Technique. Doing so increases Seal Speed by 6 instead of 4\.
+Tags: Utility, Self, Creation
 
-Furthermore, any Swords created gain a static damage value added alongside the dice roll which is equal to (G \* 5\)
+Effects: 
+You acquire a Sword from the standard Sword options in the Equipment section. You may then upgrade it using Artisan points equal to your Chakra Control \- 5. You may choose to double the Base Speed and Upkeep of this Technique to create a second Sword in your other hand during the activation of this Technique. Both weapons gain the dual property (for free) but the artisan points must be split between the 2 weapons.
+
+Any Swords created gain a static damage value added alongside the dice roll which is equal to (G \* 5). This Sword lasts until you let go of it or end this Technique’s Upkeep. You may perform Handseals while holding water swords, but doing so increases the Seal Speed by 4 for one blade, and 6 for two blades.
 
 ### **Kirigakure no Jutsu \- Hidden Mist Technique**
 
-Chakra: 4 \+ G  
-Upkeep: 5  
-Area: G Yard Radius centered on you  
-Speed: 12  
-Seal Speed: 10  
-Gallons Requirement: 16 \> 26
+Chakra: G \* 2
+Upkeep: 3 \+ (G / 2)
+Area: 10 \+ G Yard Radius centered on you
+Speed: 6 \+ G
+Seal Speed: 11
+Gallons Requirement: 4 > 12
 
-Tags: Utility, AoE, Environmental  
-Effects: This imposes a \-(G/2) Visibility penalty to everyone in the Area as a supernaturally thick mist blankets the field. After you stop paying the upkeep, the mist's penalty fades at a rate of 1 per 5 IC. This mist is always centered on you.
+Tags: Utility, AoE, Environmental
+
+Effects: 
+This imposes a \-G Visibility penalty to everyone in the Area as a supernaturally thick mist blankets the field. After you stop paying the upkeep, the mist's penalty fades at a rate of 1 per 5 IC. This mist is always centered on you.
 
 ### **Suiton: Namerakana Amamizu \- Water Release: Rainwater Slick**
 
@@ -2469,56 +2476,41 @@ Area: 15
 Speed: 8  
 Seal Speed: 9
 
-Tags: Utility, AoE
+Tags: Utility, AoE, Environmental
 
 Effects:  
-Make a Chakra Control roll when you first lay down this technique, with a \+5 bonus.  
-Anyone who moves through any means while in this area must make an Athletics check against that number or be tripped (as per the E-rank Taijutsu move). Alternatively, they may move at half speed and bypass that. 
+Make a Chakra Control roll when you first lay down this technique, with a \+5 bonus.
 
-If anybody is targeted by an AOE attack whilst inside this Technique’s Area, they need to decide if they’re going to move at full speed or half speed before declaring  Defense. If they choose to move at full speed, they must another Athletics Check against the same TN or fall Prone. The Prone’s penalties do apply to any Defense against the Attack this was in response to.
+Anyone who moves through this area by any means must choose to halve their speed or be forced to roll an Athletics check against that number. On a failure they become prone. This extends to determining penalties for AoE attacks. If they choose to move at full speed, they must make an Athletics Check against the same TN or fall Prone (though they still move the full amount). The Prone’s penalties do apply to any Defense against the Attack this was in response to.
 
 Anybody inside the Area of Rainwater Slick suffers from Immobilization \-1, as they have to put a little more thought into all of their actions.
+
 
 ### **Mizu Souzou no Jutsu \- Water Creation Technique**
 
 You convert raw chakra into pure water. This technique is popular among serious users of suiton techniques, as it lets them avoid picking and choosing their battles so carefully, and allows them to eschew the practice of carrying around large gourds of water (which, in addition to giving away their specialty, are unpleasantly heavy).
 
-Chakra: \+X  
-Speed: 8  
-Seal Speed: X
+Chakra: 5 \+ X
+Speed: 8
+Seal Speed: 5 \+ (X / 2)
 
-Tags: Link, Utility
+Tags: Utility, Link
 
 Effects:  
-You create X gallons of water. This may be used alongside a technique, in which case its Speed and Seal Speed are added to that Technique's, and it contributes directly to that Technique's gallons requirement. But the Chakra Cost and Seal Speed is added to the jutsu it’s used with. It may also be used alone, in which case the created water is deposited on the battlefield or a container you are wearing that has the space for it.
-
-### **Gyoushuu no Tebukuro \- Gloves of Cohesion**
-
-You mold chakra around your palms to maintain a thick film of water around them, similar to how it's possible for a ninja with excellent chakra control to stand on walls, or, well, water.
-
-This uses an extension of that sort of chakra control, using the water film as a medium to latch on to other people.
-
-Chakra: 8 \+ G  
-Upkeep: 2  
-Speed: 6  
-Seal Speed: 6  
-Gallons Requirement: 2 \> 4  
-Requires: 10 Chakra Control  
-Tags: Utility
-
-Effects:This gives you a \+G bonus to all your grapple rolls inside of a clinch. This bonus does not apply to the “Escape Grapple” Jutsu or the Break Grapple Action.
+You create X gallons of water. This may be used alongside a technique, in which case its Speed and Seal Speed are added to that Technique's, and it contributes directly to that Technique's gallons requirement. But the Chakra Cost and Seal Speed (after your reduction) is added to the jutsu it’s used with. It may also be used alone, in which case the created water is deposited on the battlefield or a container you are wearing that has the space for it.
 
 ### **Mekkyaku \- Extinguishment**
 
 It was recently discovered that covering oneself in water is a highly effective countermeasure to being on fire\! Thus, this technique: An alternative to the ever-popular "stop, drop, and roll", the ninja drenches themselves or a nearby object in water.
 
-Chakra: 10  
+Chakra: 10
+Range: G
 Speed: 6  
-Seal Speed: 6  
+Seal Speed: 10
 Gallons Requirement: 1 \> X  
 Tags: Utility
 
-Effects:This reduces any Ignite penalties you are suffering from by the amount of Gallons spent on this Technique.
+Effects: This reduces any Ignite penalties you are suffering from by the amount of Gallons spent on this Technique.
 
 ## **Suiton C-rank**
 
@@ -2526,41 +2518,46 @@ Effects:This reduces any Ignite penalties you are suffering from by the amount o
 
 After creating the handseals, you launch water in projectile form at an opponent. Some ninja like to etch the outline of a shark's head into the end of this projectile; others, who believe that being a ninja is very serious business, prefer to omit that part of the technique. Experienced users can even use this to allow themselves to fly quickly through the water, while protecting themselves with the might of the tearing shark.
 
-Chakra: 5 \+ G  
-Damage: 8d12 \+ (G \* 5\)  
-Range: G \* 2  
-Speed: 13  
-Seal Speed: 12  
-Gallons Requirement: 5 \> 15  
-Tags: Blunt, Projectile, Line
+Chakra: 13 \+ G
+Damage: 8d12 \+ (G \* 8)
+Line: 3 x G \* 2
+Speed: 13
+Seal Speed: 7 \+ (G / 2)
+Gallons Requirement: 5 \> 12
 
-Effects:This Technique is a 1 Yard Wide Line Attack with a length equal to the Range of this Attack that hits everybody in that Line. You may move a number of Yards equal to the maximum range of the attack along that Line as part of this technique, unhindered by anything which would normally prevent you from moving. Though you do not ignore other Ground-Based effects during this movement. This Technique deals Piercing Damage.
+Tags: Attack, AoE, Blunt
+
+Effects:
+You may move to any location along the area of this technique, unhindered by anything which would normally prevent you from moving. You may ignore other Ground-Based effects during this movement.
 
 ### **Mizutamari no Jutsu \- Pool of Water Technique**
 
 A moderately advanced technique is the appropriately named water-walking technique; molding chakra below one's feet to 'stand' on patches of water without any actual expenditure of energy, and, once it's perfected, only minimal concentration. This technique builds upon that concept, creating a 'cushion' of static, almost-solid water beneath each foot that the ninja stands on to avoid direct contact with the ground.
 
-Chakra: 12 \+ G  
-Upkeep: 5  
-Speed: 6  
-Seal Speed: 9  
-Gallons Requirement: 0 \> 6  
-Requires: 12 Chakra Control, Water Walking Ability  
-Tags: Utility
+Chakra: 12 \+ G
+Upkeep: 5
+Speed: 6
+Seal Speed: 14
+Gallons Requirement: 0 \> 6
+Requires: Water Walking Ability
 
-Effects: You reduce any immobilization penalties due to the condition of the ground you're crossing by G, and ignore any other mechanical effects (such as damage for walking across caltrops) if they're C-rank or lower; if they're B-rank or above, you instead halve them. This does mean that you are not directly in contact with the ground (for the purposes of, say, the Doton jutsu Shindou and Yurokensei).
+Tags: Utility, Ground-Based
+
+Effects: 
+You reduce any immobilization penalties due to the condition of the ground you're crossing by G, and ignore any other mechanical effects (such as damage for walking across caltrops) if they're C\-rank or lower; if they're B-rank or above, you instead halve them. This does mean that you are not directly in contact with the ground (for the purposes of, say, the Doton jutsu Shindou and Yurokensei).
 
 ### **Suiton: Mizurappa \- Water Release: Violent Water Wave**
 
 Inhaling a large amount of air and performing the necessary seals, the user will expel a copious amount of water from his/her mouth. The wave of water produced will slam against its opponent and can then be utilized for other techniques.
 
-Chakra: 16  
-Damage: 6d10+30  
-Range: 15  
-Speed: 14  
+Chakra: 19
+Damage: 8d10\+50
+Range: 20
+Area: 15
+Speed: 14
 Seal Speed: 10
 
-Tags: Blunt, Projectile
+Tags: Blunt, Projectile, AOE
 
 Effects:  
 This technique adds 5 gallons of water to the battlefield every time it's used.
@@ -2576,7 +2573,9 @@ Seal Speed: 11
 Gallons Requirement: 6 \> 12
 
 Tags: Weapon, Utility, Chain  
-Effects: You create a whip of water, which has the following statistics:
+
+Effects: 
+You create a whip of water, which has the following statistics:
 
 (Medium, Blunt, Chain, One Handed)  
 Chakra: 10  
@@ -2610,43 +2609,42 @@ You may direct Raiton techniques of C rank or lower through the whip \- used in 
 
 The user converts chakra into water, and infuses it with enough chakra to alter its composition, making it extremely viscous. They then spit it out in a stream of sticky, highly adhesive liquid.
 
-Chakra: 15 \+ X  
+Chakra: 15 
 Upkeep: 4  
 Range: 25  
-Area: 5 \+ X  
+Area: 5  
 Speed: 20  
 Seal Speed: 20
 
-Tags: AoE, Utility, Environmental
+Tags: Utility, AoE, Environmental
 
 Effects:  
-This covers a circular area, and its cost may be increased to widen that area's radius. If a person has the ability to walk on water, they may cross this area without difficulty.  
-However, if someone is forced into it (such as by being pushed back by certain jutsu), or is already in the area (i.e. it's targeting them and they fail to dodge), they are stuck in the syrup. Anyone in the area suffers a \-4 immobilization penalty, and additionally has their movement speed halved.  
-This jutsu's effects persist even after the upkeep stops being paid. However, so long as the upkeep is maintained, the user may control the syrup enough to have it try to 'grab' anyone using water-walking to cross it unaffected; if the attack hits, the person is stuck in the syrup as if they weren't using water-walking. This is a Speed 6 action, with a Chakra cost of 10\.  
-Due to the alterations to this water to make it highly viscous, it cannot be used later to fuel other suiton techniques.
+If a person has the ability to walk on water, they may cross this area without difficulty. Anyone else in the area suffers a -4 immobilization penalty.
+
+This jutsu's effects persist for 50 IC even after you drop the upkeep. However, so long as the upkeep is maintained, you may control the syrup enough to have it try to 'grab' anyone using water-walking to cross it unaffected; if the attack hits, the person is stuck in the syrup as if they weren't using water-walking. This is a Speed 6 action, with a Chakra cost of 15.
 
 ### **Mizu Bunshin no Jutsu \- Water Clone Technique**
 
 An advanced form of the standard Bunshin no Jutsu, this creates clones out of water. Since they're solid (well, relatively) these clones can be used to perform tasks the user is unable or unwilling to do for themselves. While they're weaker than their user, they can still prove dangerous in combat.
 
-Chakra: 12 \+ G  
-Speed: 6, \+1 per clone  
-Seal Speed: 4, \+2 per clone  
-Gallons Requirement: 4 \> 12 \+ Special  
+Chakra: 10 \+ G
+Speed: 6 \+ X
+Seal Speed: 10 \+ X
+Gallons Requirement: 5 \* X
+
 Tags: Utility, Clone
 
-Effects: Each clone requires 4 Gallons of Water to be created. These function like normal clones (Limited to 3, automatically hidden amongst them, etc.), but you may direct them to take actions by spending your AP.
+Effects: 
+You create X clones. These function like normal clones (Limited to 3, automatically hidden amongst them, etc.), but you may direct them to take actions by spending your AP.
 
-A clone can be created with a Sword (From the Standard Equipment options) in hand by spending an additional 2 Gallons of Water on each clone. These clones use your regular attributes, but use your ninjutsu damage bonus as their physical damage bonus. A water clone which takes damage from any source is destroyed.
+A clone can be created with a Sword (From the Standard Equipment options) in hand by spending an additional 2 Gallons of Water on each clone. You may spend up to your Chakra Control Artisan Points on upgrading these swords, splitting it between all of your clones. These clones use your regular attributes, except for half your ninjutsu damage bonus as their physical damage bonus. A water clone which takes damage from any source is destroyed.
 
 \[1 AP\] Dodge, or Parry.  
 \[Variable AP\] Move: The clone may move around the battlefield. This costs 1 AP per 2 IC it spends moving.  
 \[Variable AP\] The clone may make any basic unarmed or weapon attack, by paying 1 AP per 2 Speed of that action.  
 \[10 AP\] The clone can use itself to create a water prison (as per Suiton: Suirou no Jutsu). This is considered a Speed 14 action, and you must pay the Chakra cost rather than the clones. These water prisons require no Gallons of Water; the clone remains present, but can take no other non-defensive actions, while maintaining them. They last for 5 \+ (your Chakra Control ranks) IC, after which the clone expires and the prison ends; if you go to the prison you can take it over (During which, the clone will be destroyed), and from then on must keep one hand in contact with it as per the normal rules for that technique. 
 
-When Water Clones attack they use only half your damage bonus for dealing damage, and the severity of wounds they inflict is reduced by one category.
-
-Water Clones use your base Stamina and Chakra Exhaustion bonuses, as if they were a Fatigue 0 version of you without any temporary benefits (such as having eaten a Soldier Pill before creating them). If a clone fails a Fatigue roll, it vanishes just as if it had been struck.
+When Water Clones attack the severity of wounds they inflict is reduced by one category. They also use your base Stamina and Chakra Exhaustion bonuses, as if they were a Fatigue 0 version of you without any temporary benefits (such as having eaten a Soldier Pill before creating them). If a clone advances a Fatigue, it vanishes just as if it had been struck.
 
 ### **Mizugakure no Jutsu \- Hidden in Water Technique**
 
@@ -2656,30 +2654,33 @@ Chakra: 18
 Upkeep: 5  
 Speed: 25  
 Seal Speed: 14  
-Requires: 20 Gallons of Water in the Background.  
-Tags: Utility
+Requires: 10 Gallons of Water on the field
 
-Effects: Performing this jutsu requires a sizable puddle (at least 20 gallons worth if you're pouring out the water, though if there was recent rainfall, it's assumed you can find such a puddle without much difficulty). 
+Tags: Utility, Ground-Based
 
-You can hide (assuming you meet one of the normal three requirements for hiding), and immediately enter Stealth 3 when hidden. If an opponent does not have a reason to suspect you're there (i.e. this isn't being done in-combat) you have a \+5 Stealth bonus. You maintain awareness of your surroundings outside of the pool as if it's a window.
+Effects: 
+You hide, and immediately enter Stealth 3. If an opponent does not have a reason to suspect you're there (i.e. this isn't being done in-combat) you have a +5 Stealth bonus. You maintain awareness of your surroundings outside of the pool as if it's a window.
 
-The puddle being destroyed, or evaporated, or used up in other Suiton Jutsus, results in you being harmlessly ejected.
+The puddle being reduced below 10 gallons results in you being harmlessly ejected.
 
 ### **Suiton: Suirou no Jutsu \- Water Release: Water Prison Technique**
 
 The user gathers the chakra around their hand, and forms the required water into a sphere which encloses its victim. Due to the density of the chakra used in this technique, the water is stronger than steel. It is not, however, airtight. Yeah, don't ask how that works. We don't know either.
 
-Chakra: 13 \+ G  
-Upkeep: 6  
-Speed: 12  
-Seal Speed: 14  
-Gallons Requirement: 8 \> 12  
-Requires: 12 Chakra Control  
-Tags: Utility, Environmental
+Chakra: 13 \+ G
+Upkeep: 6
+Speed: 12
+Seal Speed: 14
+Accuracy: \-2
+Gallons Requirement: 5 \> 12
+Requires: 12 Chakra Control
 
-Effects: If this Jutsu hits, the victim is trapped inside a sphere of water. People inside cannot take actions, but they also cannot be affected by anything outside the prison; yes, that's right, the water can even stop giant swords. It makes sense, honestly, we promise, somehow.
+Tags: Attack, Melee
 
-Anyone with a Chakra Control Rank of "G" or above is able to mold the chakra around them to allow themselves to siphon air through the prison, meaning they can still talk and breathe. Any target with less CC, however, suffers a Suffocation 1 status every 10 IC.
+Effects: 
+If this Jutsu hits, the victim is trapped inside a sphere of water. People inside cannot take actions, but they also cannot be affected by anything outside the prison; yes, that's right, the water can even stop giant swords. It makes sense, honestly, we promise, somehow.
+
+Anyone with a Chakra Control Rank of G*2 or above is able to mold the chakra around them to allow themselves to siphon air through the prison, meaning they can still talk and breathe. Any target with less CC, however, suffers a Suffocation 1 status every 10 IC. Additionally, every 5 IC this jutsu’s upkeep increases by 1.
 
 To maintain the water prison, you must keep one hand on it. Dodging requires you to end the effect; if you take damage, you must make a Chakra Control check against a TN of 5+(damage taken)/10 or the prison ends. Although you can't move, you can still take most other actions that are possible one-handed while maintaining the prison's upkeep.
 
@@ -2687,15 +2688,15 @@ To maintain the water prison, you must keep one hand on it. Dodging requires you
 
 A derivative of a more advanced technique, this was created to help teach up-and-coming suiton users the foundations of that jutsu, and help keep them alive until they were skilled enough to learn it. It creates a circular barrier of water around you, which surges up to protect you from... well, whatever convinced you that you'd need to use this technique.
 
-Chakra: 7 \+ G  
-Speed: 8  
-Seal Speed: 8  
-Gallons Requirement: 12 \> 18  
-Tags: Defensive, Interrupt
+Chakra: 6 \+ G \* 1.5
+Speed: 8
+Seal Speed: 8
+Gallons Requirement: 6 \> 12
 
-Effects: Make an Parry Defense against an incoming attack, with a Bonus of \+(G/3).
+Tags: Interrupt
 
-If you meet or exceed the Attack's accuracy, the Attack is avoided as if you parried it. This works against Katon up to A rank, Doton up to C-rank, and all other Jutsu (including Taijutsu) up to B-rank.
+Effects:
+You parry an incoming attack with a Bonus of +(G/2). This works against Katon up to A rank, Doton up to C-rank, and all other Jutsu (including Taijutsu) up to B-rank.
 
 ## **Suiton B-rank**
 
@@ -2703,80 +2704,84 @@ If you meet or exceed the Attack's accuracy, the Attack is avoided as if you par
 
 This move forms multiple pressurized, spiraling columns of water that have a drill-like ability to pierce and destroy their target. As this attack can originate from any body of water (rather than being shot directly from the attacker), in the right environments this has a 360 degree range of attack, making it incredibly difficult to defend against adequately.
 
-Chakra: G  
-Damage: 6d20+(G \* 5\)  
-Range: 35  
-Speed: 14  
-Seal Speed: 16  
-Gallons Requirement: 20 \> 30  
-Special: \+2 Accuracy  
-Tags: Piercing
+Chakra: 15 \+ G
+Damage: 8d20 \+ (G \* 10)
+Range: 35
+Speed: 14
+Seal Speed: 16
+Gallons Requirement: 6  \> 18
+Special: \+2 Accuracy
 
-Effects: If there are at least 20 Gallons of Water left in the Background after this Technique is used (or one is, say, over a lake, river, or other body of water such as Syrup Capture Field), this Technique is automatically a Surprise Attack. This Technique inflicts Piercing wounds.
+Tags: Attack, Projectile, Piercing
+
+Effects:
+If there are at least 10 Gallons of Water left in the Background after this Technique is used (or one is, say, over a lake, river, or other body of water such as Syrup Capture Field), this Technique is automatically a Surprise Attack.
 
 ### **Suiton: Suiryuudan \- Water Release: Water Dragon Blast**
 
 This technique shapes a large amount of water into a giant, dragon-shaped projectile which seeks out and crashes into whoever you direct it at. What it lacks for in complexity, it makes up for by being a highly effective tool in any Suiton using shinobi's arsenal.
 
-Chakra: 8 \+ G  
-Damage: 16d20+(G \* 10\)  
-Range: 50  
-Speed: 18  
-Seal Speed: 22  
-Gallons Requirement: 15 \> 30  
-Special: Stun 10  
-Tags: Blunt, Projectile
+Chakra: 16 \+ G
+Damage: 12d8 \+ (G \* 14)
+Range: 50
+Speed: 18
+Seal Speed: 22
+Gallons Requirement: 10 \> 20
+Special: Stun 10
+
+Tags: Attack, Blunt, Projectile
 
 ### **Sution: Suijinheki \- Water Release: Water Encampment Wall**
 
 This defensive technique creates a wall of water around you, which forms a violently churning defensive perimeter. When lacking water in the environment to use, a talented shinobi can form it in their stomach and spit it out.
 
-Chakra: 26  
-Special: Interrupt  
-Speed: 12  
-Seal Speed: 12  
-Requires: 16 gallons of water, or \+8 chakra cost without using water
+Upkeep: 6
+Chakra: 26
+Area: 5
+Speed: 12
+Seal Speed: 12
+Requires: 16 gallons of water or \+8 chakra cost
 
-Tags: Defensive, Environmental
+Tags: Interrupt, Environmental
 
 Effects:  
-If using Suijinheki as an interrupt: Make an accuracy roll against the attack's accuracy, with a \+6 bonus; if you succeed, this stops the attack entirely. This technique's Accuracy bonus can't exceed its final, modified Speed (not including any increases in Speed from the Paralysis status).  
-Once Suijinheki has been deployed, it lasts for your damage bonus in initiative counts--it stops any other incoming attacks automatically, without having to roll. You may also end it early, if you need to move or attack through it.  
-In addition to this, if the technique you're defending against was an area of effect attack, this techinque also counts as a defense for anyone within (Ninjutsu Damage Bonus) yards of you.  
-This technique protects you from any Katon up to A-rank, Doton up to B-rank, and all other techniques (including taijutsu) up to A-rank.  
-If you create the water used in Suijinheki (i.e. pay the \+8 chakra cost), then that water is added to the battlefield after its duration expires.
+If using Suijinheki as an interrupt: Make an accuracy roll against the attack's accuracy, with a \+6 bonus; if you succeed, this stops the attack entirely.
+
+Once Suijinheki has been deployed, it lasts for your damage bonus in initiative counts--it automatically defends all attacks using your initial parry roll. You may also end it early, if you need to move or attack through it.
+
+This technique protects you and anyone within its area from any Doton up to B-rank, and all other techniques (including taijutsu) up to A-rank.
 
 ### **Suiton: Bakusui Shouha \- Water Release: Exploding Water Shockwave**
 
 The user creates an enormous amount of water by spewing it from their mouth, flooding the battlefield and potentially crushing foes in its path. Best of all, they get to look awesome while doing it\! The wave rises up from beneath the user, and they can 'ride' it to its destination.
 
-Chakra: 35  
-Damage: 6d12+72  
-Area: Special   
-Speed: 16  
-Seal Speed: 30  
-Special: Stun 8  
+Area: X \* 3
+Speed: 16
+Seal Speed: 30
+Special: Stun X / 2
+
 Tags: Blunt, AoE
 
-Effects: This Technique's Speed cannot be reduced below 16 by any means. And it cannot be Dodged. This technique adds (ninjutsu damage bonus)\*4 Gallons of Water to the Background, and has an Area equivalent to the number of Gallons created in this way, centered on you. You do not take damage from this technique, but anyone else within its Area does.
+Effects: 
+The X in this jutsu is your ninjutsu damage bonus and produces that many gallons. This Technique's Speed cannot be reduced below 16 by any means and it cannot be Dodged unless you can completely escape the area.
 
-As part of this technique, you may move up to half its Area in yards, in any direction. The Area of this Technique does not move with you \- it remains centered on where your movement began.
+As part of this technique, you may move up to half its Area in yards, in any direction. The Area of this Technique does not move with you - it remains centered on where your movement began.
 
 ### **Benzaiten no Jutsu \- River Goddess Technique**
 
 Named after the deity who supposedly watches over a major river, this technique coats the user's body with a thin layer of chakra-infused water. It offers no real protection from impacts or weapons, but can be an effective supplement to one's defenses against heat and other unpleasantness.
 
-Chakra: 5 \+ G  
-Upkeep: 1 \+ (G/5)  
-Speed: 10  
-Seal Speed: 16  
-Requires: 10 \> 25  
-Special: Interrupt  
-Tags: Defensive, Utility
+Chakra: 5 \+ G
+Upkeep: 3 \+ (G / 5)
+Speed: 10
+Seal Speed: 16
+Requires: 10 \> 15
+Special: Interrupt
 
-Effects: So long as this is maintained you cannot gain any by Ignite or Burn statuses, and you take (10+G)% less damage from Katon Jutsu (applied after other reductions).
+Tags: Utility. Self
 
-Activating it will end any ongoing Ignites harmlessly, but will not cure Burns.
+Effects: 
+You end any ongoing ignites on you. So long as this is maintained you cannot gain any by Ignite or Burn statuses, and you take (10+G)% less damage from Katon Jutsu (applied after other reductions).
 
 ### **Suiton: Uramiame \- Water Release: Grudge Rain**
 
@@ -2784,12 +2789,13 @@ As a weather-manipulation jutsu, this technique is extremely taxing upon its use
 
 Chakra: 30  
 Upkeep: 6  
-Area: 30 centered on self  
+Area: 30 
 Speed: 12  
 Seal Speed: 24  
-Tags: AoE, Utility, Environmental
+Tags: Utility, AoE, Environmental
 
-Effects: Every 10 IC, everyone other than the user and up to (Chakra Control)/5 people they've designated as allies has their Chakra Exhaustion penalty increased by 1, and the user has their Chakra Exhaustion penalty decreased by 1 per person present affected by the rain. If the user moves, they may cause the mist to 'follow' them; It moves at a speed of 0.5 Yards per IC until the user is back in its center.
+Effects: 
+Every 10 IC, everyone other than the user and up to (Chakra Control)/5 people they've designated as allies has their Chakra Exhaustion penalty increased by 1, and the user has their Chakra Exhaustion penalty decreased by 1 per person present affected by the rain. If the user moves, they may cause the mist to 'follow' them; It moves at a speed of 0.5 Yards per IC until the user is back in its center.
 
 ### **Suiton: Takitsubo no Jutsu: Water Release: Waterfall Basin Technique**
 
@@ -2797,11 +2803,13 @@ This technique drills a hole with existing water to an underground source of wat
 
 Chakra: 30  
 Speed: 14  
-Seal Speed: 16  
-Gallons Requirement: 30 \> 50  
+Seal Speed: 17
+Gallons Requirement: 10 \> 25
+
 Tags: Utility, Environmental
 
-Effects: This Technique adds (G/5) Gallons of Water onto the Background every 2 IC, for a Duration of 30 ICs. It's certainly possible to have multiple instances of this jutsu running simultaneously, from multiple people, or the same person.
+Effects: 
+This Technique adds (G/5) Gallons of Water onto the Background every 5 IC, for a Duration of 50 ICs.
 
 ## **Suiton A-rank**
 
@@ -2809,16 +2817,17 @@ Effects: This Technique adds (G/5) Gallons of Water onto the Background every 2 
 
 This jutsu creates a levitating orb of water which can project numerous whips and tendrils of water. These tendrils can be guided to targets by remote manipulation of the orb's chakra, even changing direction in mid-trajectory to find their targets. On top of that, they're sharp-tipped and more than capable of perforating opponents many times over.
 
-Chakra: 20 \+ (G/5)  
+Chakra: 20 \+ (G / 5)  
 Upkeep: 10  
-Damage: 10d10+75  
-Range: 40 \+ 5 \* (ninjutsu damage bonus)  
+Damage: 10d10\+75  
+Range: 40 \+ 5 \* Ndb  
 Speed: 20  
 Seal Speed: 35  
 Gallons Requirement: 50 \> 100  
 Tags: Utility, Environmental
 
-Effects: When you first use this Technique, you create a levitating ball of water, and perform one Tendral Whipping Attack (mentioned below) for free. A So long as you maintain this technique, your pet giant levitating ball of water will fight for you\! It acts 1 IC after it's created and can take the following Actions, by spending your AP:
+Effects: 
+When you first use this Technique, you create a levitating ball of water, and perform one Tendral Whipping Attack (mentioned below) for free. A So long as you maintain this technique, your pet giant levitating ball of water will fight for you\! It acts 1 IC after it's created and can take the following Actions, by spending your AP:
 
 \[X AP, Speed X\] Move: It moves as if it had taken a Speed (X)\*5 action, using your CHA in place of its AGI. It cannot (deliberately) move outside its max range. If it does end up outside that range, it can take no actions other than moving towards you.
 
@@ -2834,32 +2843,34 @@ This is one of the most powerful water ninjutsu in existence; once the appropria
 
 Long ago, exceptionally skilled shinobi were able to fill their impromptu waterfall with all manner of weapons, which were propelled within the wave at incredible speeds. This had the effect of making it an almost unavoidably deadly technique that would leave pools of blood mixed in with the water. However, use of that aspect of the technique was forbidden due to its unbelievable power, and as peace settled across the lands the secret of how to do that was lost.
 
-Chakra: 35 \+ (G/4)  
-Damage: (G \* 10\)  
-Range: 80  
-Area: 20 wide, up to max range in length; may be used as a smaller area if you wish  
-Speed: 36  
-Seal Speed: 30  
-Special: Stun 14  
-Gallons Requirement: 40 \> 80  
+Chakra: 30 \+ (G / 2)
+Damage: (G \* 20)
+Line: 20, 80
+Speed: 36
+Seal Speed: 30
+Special: Stun 14
+Gallons Requirement: 20 \> 40
+
 Tags: Blunt, Projectile, AoE
 
-Effects: This Technique pushes any targets hit with a Knockback of (G/2)
+Effects: 
+This Technique pushes any targets hit with a Knockback of G.
 
 ### **Suiton: Daikoudan \- Water Release: Great Shark Blast**
 
 This creates an enormous shark out of water and sends it crashing across the battlefield at whichever party has offended the user sufficiently for them to feel the need to do so. Aside from impacting its primary target, the shark is massive enough to cause significant collateral damage. The technique's true secret, however, is its ability to absorb any chakra it comes in contact with and use that energy to further empower itself.
 
-Chakra: 17 \+ (G/2)  
-Damage: 15d20+(G \* 5\)  
-Range: 60  
-Area: 5 Yards Wide Line, with a length equal to its Range  
-Speed: 20  
-Seal Speed: 26  
-Gallons Requirement: 30 \> 60  
-Tags: Blunt, Projectile, AoE, Defensive, Interrupt
+Chakra: 34 \+ (G / 2)
+Damage: 15d20\+(G \* 20)
+Line: 5, 60
+Speed: 20
+Seal Speed: 26
+Gallons Requirement: 12 \> 30
 
-Effects: This may be used as an Interrupt, and you may choose to reduce this technique's Seal Speed by 10 and increase its Chakra cost by 10\. Regardless, as an interrupt, it only hits the Attacker.
+Tags: Attack, Interrupt, Projectile, Blunt, AoE
+
+Effects: 
+This may be used as an Interrupt, and you may choose to reduce this technique's Seal Speed by 10 and increase its Chakra cost by 10\. Regardless, as an interrupt, it only hits the Attacker.
 
 Daikoudan may be used to Interrupt techniques so long as its Speed is equal to or less than theirs, but can only Interrupt Projectile Attacks. The two Attacks collide, and their Damage is compared. For this comparison, treat Katon Technqiues as dealing 25% less damage, and Doton as dealing 25% more. If the incoming attack does more damage, you are hit by it, but it has its damage reduced by half. If Daikoudan's damage is greater, it becomes an attack against the opponent with \+5 Accuracy, along with any Accuracy bonuses (but not penalties) of the attack it countered. It does an additional (X \* 10\) Damage, where X is the Chakra cost of the move it countered.
 
@@ -2869,17 +2880,18 @@ Similarly, if a ninjutsu-based defense is used against Daikoudan, and fails to s
 
 A stronger but less directly offensive version of the B-rank Exploding Water Shockwave, the user spits out a truly prodigious amount of water.
 
-Chakra: 45  
-Upkeep: 6  
-Damage: 10d20+100  
-Area: 100  
-Speed: 26  
-Seal Speed: 27  
-Special: Stun 15  
-Tags: AoE, Utility, Environmental
+Chakra: 46
+Upkeep: 6
+Damage: 50d10+200
+Area: 100
+Speed: 26
+Seal Speed: 27
+Special: Stun 15
 
-Effects: This Technique uses half your NDB for Damage Calculation. This adds 100+(ninjutsu damage bonus)\*10 Gallons of Water to the Background. So long as there are at least 100 Gallons in the Background at any time while this Technique's Upkeep is maintained, any Ground-Based Techniques (Such as Earth Split Turnaround Palm or Syrup Capture Field) become impossible to use. Regardless, all Suiton Techniques treat the maximum of their Gallons Requirement as if it was 10 higher.
+Tags: Attack, AoE, Blunt, Environmental
 
+Effects: 
+This Technique uses half your NDB for Damage Calculation. This adds 30 Gallons of Water to the Background. So long as there are at least 40 Gallons in the Background at any time while this Technique's Upkeep is maintained, any Ground-Based Techniques (Such as Earth Split Turnaround Palm or Syrup Capture Field) become impossible to use. Regardless, all Suiton Techniques treat the maximum of their Gallons Requirement as if it was 5 higher.
 Additionally, anyone who is standing in its Area will begin sinking even if they have the Water Walking Ability (The currents are simply too tumultuous). They can swim at half their normal movement speed (movement-increasing jutsu typically will not work), and until they've exited the area suffer Suffocation 1 every 10 IC. Alternatively, they can take a Speed 5 action to stay at the surface for the next 15 IC.
 
 \--------------------------------------------------------------------------------------------------------
