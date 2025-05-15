@@ -24,11 +24,12 @@ The technique's Stamina and Chakra cost, respectively.
 
 ### **Upkeep**
 
-Some techniques require a constant expenditure of your energy to maintain; this is what upkeep represents. So long as you maintain these techniques (which typically can be done indefinitely) you suffer a penalty to all Stamina and Chakra Exhaustion rolls equal to that technique's Upkeep. If you're maintaining multiple techniques with Upkeeps, these penalties stack.  
-If your total Upkeep exceeds your total bonus to Chakra Exhaustion rolls (not counting any penalties), you automatically advance a Fatigue level.  
-For example, if you had a Chakra Exhaustion roll modifier of \+6+2+10-8, your total bonus would be \+18. If you had an Upkeep of 19, your Fatigue would automatically advance a category, giving you another \+5, for a total bonus of \+23.  
-You may end any Upkeeps you're sustaining at will, even when it's not your action.  
-You cannot maintain more than one of the same jutsu as a time. This applies even if you are capable of modifying the element of the jutsu.
+Some techniques require a constant expenditure of your energy to maintain; this is what upkeep represents. So long as you maintain these techniques (which typically can be done indefinitely) you suffer a penalty to all Stamina and Chakra Exhaustion rolls equal to that technique's Upkeep. If you're maintaining multiple techniques with Upkeeps, these penalties stack.
+
+If your total Upkeep/2 exceeds your bonus to Chakra Exhaustion rolls (including penalties), you automatically advance a Fatigue level. Special upkeeps are ignored for the above calculation.
+
+For example, if you had a Chakra Exhaustion roll modifier of +6+2+5-5, your total bonus would be \+8. If you had an Upkeep of 19 (/2 to 9), your Fatigue would automatically advance a category, giving you another +5, for a total bonus of \+13.
+You may end any Upkeeps you're sustaining as a Speed 0 Action.
 
 ### **Damage**
 
@@ -45,7 +46,12 @@ There's one special effect associated with Range: If a ninjutsu technique has a 
 
 ### **Area**
 
-The radius, in yards, of area-of-effect techniques. Some may not use simple circular areas, in which case more details will be provided in the description itself.
+The area of a jutsu which can come in any of 3 forms below:
+Area X: A radius plain and simple using the radius for dodge penalties
+Line X, Y: A rectangle with a width of X and a length of Y using the lower of the 2 values for dodge penalties. 
+Cube X: A square X by X yards using X for dodge penalties
+
+When dodging an AoE Jutsu you must first find out if you are fast enough to escape it. Take the speed of the attack and compare how far you could move in that IC to the Area of the jutsu. If your speed is lower then you gain a penalty of -2 per yard you fail to escape by.
 
 ### **Special**
 
@@ -62,6 +68,25 @@ The jutsu's base seal speed.
 ### **Effects**
 
 Any special characteristics of a technique which aren't covered by one of the above categories are listed here.
+
+### **Tags**
+
+At a glance of what the jutsu can achieve. Additional tags can be found for taijutsu and ninjutsu in their respective areas. Here are the following general tags and their meanings:
+
+Type of Action
+Attack | It's an attack they need to directly defend against.
+Interrupt | It can be used in response to an action, usually an attack.
+Utility | It does something useful…probably
+Link | Added on to another action increasing its speed, fatigue cost, and whatever else
+
+Range
+Melee | Must be in melee, or 1 yard. Can be increased by uniques, weapons, and so on.
+Projectile | Has a range, and you cannot target anyone you do not have direct line of sight
+AoE | Area of Effect which does its effects, you guessed it, in an area
+Self | Generally only affects you and for everything else its difficult to determine the source of
+
+Damage: Blunt, Slashing, Piercing, Energy
+This determines the type of wounds the technique deals. If it doesn’t have one, then it can’t wound even if it deals enough damage to do so.
 
 # **Taijutsu**
 
