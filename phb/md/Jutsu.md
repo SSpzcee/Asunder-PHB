@@ -55,7 +55,7 @@ When dodging an AoE Jutsu you must first find out if you are fast enough to esca
 
 ### **Special**
 
-Any special effects the technique has. If a status effect is listed here, it's inflicted automatically.
+Any special effects the technique has. If it has a status effect listed here, roll a Chakra Control roll vs their Resistance. If you win they take the status effect, otherwise they don’t. Stun and any clan/clan jutsu inflicted conditions does not require a status roll.
 
 ### **Speed**
 
