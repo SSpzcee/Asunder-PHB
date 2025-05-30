@@ -34,7 +34,7 @@ You do not get XP for RPing during events, nor do you get XP for any combat whic
 
 You may get XP in some other fashion. Usually, this will involve a GM telling you how much you got, and for what reason.
 
-## **Spending Experience Points** {#spending-experience-points}
+## **Spending Experience Points**
 
 ### **Attributes**
 
