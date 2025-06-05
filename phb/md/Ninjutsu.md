@@ -638,7 +638,7 @@ The immobilization penalty lasts until the victim leaves the entire affected are
 
 You cause a long stretch of nearby ground to become mud and slide your opponents down a torrenting river of rocks and dirt, spewing them out at the end. This often leaves people hurt, and disoriented\!
 
-Chakra: 16 8
+Chakra: 18
 Damage: 25d6  
 Line: 10, 20  
 Speed: 18  
