@@ -58,7 +58,7 @@ The term 'genius' has a different meaning to ninja than ordinary people. It's no
 
 The cost to learn jutsu is reduced by a third\! Round up the final cost if necessary.
 
-Additionally you get your first three Talents at 750, 2000, and 3750 XP (instead of 1000, 2500, and 4500), and another 1 Talent Point every 1250 XP thereafter (instead of 1500 XP, normally). 
+Additionally you unlock your Talents at 750, 2000, 3500, 4250, and 5750. Then you get another 1 Talent Point every 1250 XP thereafter (7000, 8250, etc).
 
 Finally, you become able to learn D-rank jutsu at 300 XP, C-rank jutsu at 800 XP, B-ranks at 2000, and A-ranks at 3000\. This doesn't allow you to ignore other requirements, such as Abilities or Talents. Additionally, it doesn't allow you to ignore requirements specific to individual techniques (such as the Poison Cloud or Telescope Techniques). You no longer unlock Jutsu Ranks through skills.
 
