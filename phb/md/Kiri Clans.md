@@ -527,8 +527,7 @@ Chakra: 15
 Speed: 10
 
 Effects:
-
-You can create any Small or Medium Weapon from the Equipment section of the PHB, as well as any Ammunition. If you wish, you may 'draw' these weapons as part of this action, simply discard them, or keep them partially extended from your skeleton, ready to be 'drawn' whenever you wish. If you are creating a weapon with the 'Dual' property, you can create two of them with only one use of this technique, though doing so increases its Chakra cost by 5\.
+You acquire any Small or Medium from the standard options in the Equipment section. You may then upgrade it using Artisan points equal to your ranks in Chakra Control \- 5. You may choose to double the Base Speed and Upkeep of this Technique to create a second weapon in your other hand during the activation of this Technique. Both weapons gain the dual property (for free) but the artisan points must be split between the 2 weapons.
 
 In the hands of anyone but a Kaguya these have a \-3 Accuracy penalty. Your own bone weapons have a \+2 bonus to their Accuracy when you are using them. Other Kaguya using your weapons receive no penalty or bonus.
 
