@@ -74,7 +74,7 @@ These are actions that anyone can do in combat, and the rules associated with th
 
 (Speed 8, Stamina 5\)
 
-The simplest form of attack, this is a catch all for punches, kicks, headbutts, and any other attack which uses your body to cause harm to your enemy's. This deals 2d4 damage.
+The simplest form of attack, this is a catch all for punches, kicks, headbutts, and any other attack which uses your body to cause harm to your enemy's. This deals (2\+XP/400)d4 damage.
 
 ### **Basic Attack: Weapon**
 
