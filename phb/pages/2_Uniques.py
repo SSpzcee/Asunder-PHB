@@ -22,11 +22,11 @@ Some uniques have, below their descriptions, entries such as "Upgrades Into" and
 
 You can ultimately have a maximum of 10 (11 if you’re Clanless) Unique Points, 5 at Creation and 5 from XP for a normal character. These uniques are unlocked at the following XP thresholds:
 
-2000
-3000
-4500
-6000
-7000
+\n\n2000
+\n\n3000
+\n\n4500
+\n\n6000
+\n\n7000
 """)
 
 cup, oneup, twoup, threeup = st.tabs(["Creation Uniques", "1 Point Uniques", "2 Point Uniques", "3 Point Uniques"])
