@@ -69,8 +69,8 @@ You're able to increase your chakra's density, and in turn preserve some of the 
 But all you really care about is that it makes your ninjutsu hurt more\!
 
 Each rank increases your ninjutsu damage bonus by 0.2.  
-Base Cost: 1  
-Scale: 1  
+Base Cost: 5
+Scale: 0
 Limit: CHA /10  
 Requires: 80 CHA
 
@@ -127,8 +127,8 @@ You pay lots of attention to details\! Beyond that, you're keen to pick up on th
 On the other hand, the more you know about these kinds of things, the more likely you are to get them right.
 
 Each rank gives a \+1 bonus to your genjutsu rolls.  
-Base Cost: 8  
-Scale: 3  
+Base Cost: 86 
+Scale: 1
 Limit: Research /5
 
 ### **Genjutsu Awareness**
@@ -136,8 +136,8 @@ Limit: Research /5
 You're good at picking up little details in your environment that aren't quite what they should be. Maybe it's that the ringing noise in your head isn't reverberating right, maybe it's that whoever constructed an illusion around you forgot to put door handles on all the doors.
 
 Whatever it is, it gives you a \+1 bonus to defensive Genjutsu rolls per rank.  
-Base Cost: 10  
-Scale: 5  
+Base Cost: 18
+Scale: 2
 Limit: Lower of your Enhanced Hearing or Enhanced Sight ranks
 
 ### **Genjutsu Competence**
@@ -145,7 +145,7 @@ Limit: Lower of your Enhanced Hearing or Enhanced Sight ranks
 Genjutsu is notoriously difficult; very few ninja are able to just 'pick it up' without difficulty. Even being mediocre with genjutsu requires a significant amount of training and practice--which this ability represents.
 
 Each rank gives you a \+1 bonus to your offensive Genjutsu rolls.  
-Base Cost: 2  
+Base Cost: 3
 Scale: 0  
 Limit: (Diplomacy/2) \- 2
 
@@ -175,8 +175,8 @@ Requires: Know at least one C-rank Genjutsu.
 You're good at... well, exactly what it sounds like: applying a lot of force all at once. It might be sheer physical strength, or you could just know how to strike properly.
 
 Each rank increases your physical damage bonus by 0.2.  
-Base Cost: 1  
-Scale: 1  
+Base Cost: 5 
+Scale: 0
 Limit: STR /10  
 Requires: 80 STR
 
@@ -234,8 +234,26 @@ You put extra force behind your unarmed strikes, turning your feeble punches int
 
 Each rank allows you to increase the Stamina cost, and die size, of your basic unarmed attack by 2\. So at rank 1, you could deal 2d6 damage for 7 Stamina; and at rank 4, you could deal 2d12 damage for 13 Stamina.  
 Base Cost: 4  
-Scale: 4  
-Limit: STR /20, max 4
+Scale: 2
+Limit: (STR\-30)/15, max 8
+
+### **Pressure**
+
+You know just how to hold a person so they’re holding your weight through the hard, hurty, parts of your body into the squishy, vulnerable parts of their body.
+
+Each rank gives you \+1 to your Grapple TNs and Grapple Rolls.  
+Base Cost: 3 
+Scale: 0  
+Limit: (Resistance\/2)\-2
+
+### **Grip Fighting**
+
+You’re fast with your hands blocking opponents' attempts to gain control while forcing your own.
+
+Every time you would gain AP, increase your control by 1 per rank.
+Base Cost: 8
+Scale: 1
+Limit: DEX \/20
 
 ### **Pressure**
 
@@ -246,14 +264,14 @@ Base Cost: 2
 Scale: 0  
 Limit: STR /10
 
-### **Rigorous Training**
+### **Escape Artist**
 
-You've spent time training in, or just being exposed to, extreme conditions; sitting under waterfalls, trudging through sand dunes, or enduring intense cold without the proper clothing are all examples of how this might come about.
+You know just how to hold a person so they’re holding your weight through the hard, hurty, parts of your body into the squishy, vulnerable parts of their body.
 
-You have a \+1 bonus to Resistance rolls per rank.  
-Base Cost: 2  
-Scale: 2  
-Limit: RES /20
+Each rank gives you \+1 to your Grapple Defense.
+Base Cost: 6
+Scale: 1
+Limit: Survival \/5
 
 ### **Unarmed Focus**
 
