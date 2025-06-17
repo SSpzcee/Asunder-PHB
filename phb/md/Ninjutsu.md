@@ -2423,11 +2423,11 @@ This adds 3 gallons of water to the battlefield every time it's used.
 The user condenses the water in the air to fire multiple blasts in unison. This allows for large crowd control or by focusing them into single targets it produces a much stronger attack.
 
 Chakra: 12 \+ G
-Damage: (3d8\+20)\*1.(\X*2)
+Damage: (3d8\+20)\*(1\+0.2\*X)
 Range: 15
 Speed: 7 \+ G
 Seal Speed: 5 \+ G
-Accuracy:  +X / 4
+Accuracy:  +X /4
 Gallons Requirements: 2 \> 8
 
 Tags: Attack, Projectile, Blunt
