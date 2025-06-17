@@ -2497,7 +2497,7 @@ Seal Speed: 5 \+ (X / 2)
 Tags: Utility, Link
 
 Effects:  
-You create X gallons of water. This may be used alongside a technique, in which case its Speed and Seal Speed are added to that Technique's, and it contributes directly to that Technique's gallons requirement. But the Chakra Cost and Seal Speed (after your reduction) is added to the jutsu it’s used with. It may also be used alone, in which case the created water is deposited on the battlefield or a container you are wearing that has the space for it.
+You create X gallons of water. This may be used alongside a jutsu with a gallon cost, in which case its Speed and Seal Speed are used to pay for that technique. It may also be used alone, in which case the created water is deposited on the battlefield or a container you are wearing that has the space for it.
 
 ### **Mekkyaku \- Extinguishment**
 
