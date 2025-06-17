@@ -76,24 +76,6 @@ Paper balls small enough to be easily held in one hand, when thrown at the groun
 
 Cost: 3k Ryo
 
-### **Custom Smoke Bombs**
-
-Once someone's a Chuunin, they have enough pull to get these: smoke bombs designed to your own specifications\! Very nice, and such. For pricing, first determine the 'level' of smoke bomb you want, which starts at 0 and is modified by...
-
-Visibility Penalty: \-4 (+0), \-6 (+2), or \-8 (+3)  
-Duration: 15 IC (+1), 20 IC (+2), 25 IC (+3), or 30 IC (+5)  
-Radius: 5 yards (+1), 10 yards (+2), or 25 yards (+3)  
-Range: STR/5 yards (+0), STR/4 yards (+1), or STR/3 yards (+2)
-
-Requires: Chunnin Rank  
-Cost: Level\*1k Ryo
-
-### **Poison Smoke Bomb**
-
-Sturdier than regular smoke bombs, and much more dangerous, these are filled with some manner of poisonous vapor. They're used like regular smoke bombs, but have a 10 yard radius, a \-4 visibility penalty, and persist for 25 IC. When you buy a poison smoke bomb, select a poison (from the Poisons section) which has Inhalation as one of its possible vectors of delivery. When you throw the smoke bomb, make a Toxicology roll. Anyone who passes through the area must make a Resistance roll against that Toxicology result, or be poisoned.
-
-Cost: 10k Ryo \+ Dose of Poison
-
 ### **Soldier Pill**
 
 The proper name is 'military ration pills', but the term soldier pill is more commonly used among shinobi. They're less rations than fast-acting performance-enhancing drugs. Though every village has a slightly different recipe, the pills are all marble-sized and black or dark brown. When eaten, they have the approximate flavor and texture of sawdust.
