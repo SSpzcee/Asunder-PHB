@@ -659,3 +659,88 @@ Special: This Shot applies Bleeding 6 to any target hit. Any DR or Armor that th
 Tags: Projectile, Slashing  
 Cost: 10k Ryo
 
+## **Namikaze**
+
+A recently founded clan created through research into the mechanics of summoning jutsu by a genius chakra researcher Kospre Namikaze. The techniques could theoretically be taught to any shinobi but understanding the complexities of the chakra control has proven too difficult for any that have tried. Curiously, the children of its progenitor seem to have inherited a knack for it growing more accustomed to picking it up with each passing generation. Due to the recency of when it was formed it is barely counted as a clan but the members are known for being quick on their feet. Besides the creator, there are no notable members of this clan.
+
+### **Yellow Flash**
+
+You are quick, painfully so - and most around you struggle to keep up. Some theorize your research into space manipulation causes a mild distortion effect while traveling at high speeds. Others think you’re just born fast.
+
+Type: Ability
+Cost: 5
+Scale: 2
+Limit: DEX/20, max of 10
+
+Effects: 
+Whenever you take the move action or spend AP to move using Shushin, you may move an additional IC of movement for every 10 IC/AP declared. Every rank reduces the IC/AP required by 1 (to 9 at 2, 8 at 3, and so on).
+
+### **Jutsu-Shiki - Technique Mark**
+
+A simple sealing jutsu so subtle that most people won’t even notice when it’s been applied. They usually suspect the hit merely grazed them or that they dodged. It can be placed on clothing, skin, or even more exotic surfaces like fur or bone. Alone, this doesn’t achieve much but it is integral to future jutsu.
+
+Type: E Rank - Sealing Ninjutsu
+Chakra: 5
+Accuracy: \+2
+Upkeep: 1
+Speed: 6
+
+Effects:
+Make a Taijutsu ACC attack, should the hit land, the mark is planted on the person and will disappear after 100 IC. Then they are allowed an Awareness check against your Espionage to realize they’ve been marked.
+
+### **Hiraishin no Jutsu - Flying Thunder God**
+
+An ingenious reverse engineering of the summoning technique. Instead of displacing a chakra beast to bring them to you, the seals are set to your specific chakra signature to bring you to wherever your mark was placed.
+
+Type: D Rank \- Sealing Ninjutsu
+Chakra: 5\*X
+Speed: \+5, Delay 5
+
+Effects:
+This must be used against a target marked by your Technique Mark with X being the rank of the jutsu (with basic attack counting as 1). You immediately teleport within 1 yard of them and use any melee-range Taijutsu Attack you know against them. This increases that action's Speed by 5, but does not increase its speed for the purposes of calculating damage. If the CE roll is a success, the Taijutsu becomes a surprise attack. On a failure, it is not. (And your Fatigue increases, as per normal). Regardless, the mark disappears after use.
+
+Alternatively, while a target is marked by your Technique Mark you may take the Prepare Sneak Attack action. Then, following all relevant rules, you may instead turn the attack into a Sneak Attack using an espionage roll in place of stealth. This cannot be used with Flying Raijin.
+
+### **Hiraishin Ni no Dan - Flying Raijin**
+
+Instead of placing seals on your targets mid-fight you prepare special kunai already imbued with your chakra to teleport to at will. This allows you to teleport instantaneously without having to get close and placing your mark beforehand, but it’s a bit more obvious.
+
+Type: C Rank - Sealing Ninjutsu
+Chakra: 15\+X
+Stamina: As weapon thrown
+Range: As weapon thrown
+Speed: As weapon thrown
+Seal Speed: 7
+
+Tags: Energy, Projectile, Ranged Weapon
+
+Effects:
+This must be used alongside a basic weapon throw using a Flying Thunder God Kunai. You first make your ranged attack as normal and the kunai is treated as being in the same space as the target. Whether it hits or not, set a delay of 15 \+ or \- X. After this delay you are instantly teleported to the location of the kunai and your next Taijutsu attack within the 10 IC gains the effects of Flying Thunder God.
+
+### **Flying Thunder God Kunai**
+
+A kunai but cooler. Not only does it have a slicker design but the fancy seals attached to the blade allow you to teleport to it through Flying Raijin. Doesn’t have much use for any non-Namikaze though…
+
+Type: Gear
+Cost: 4k Ryo
+Requires: Technique Mark
+
+### **Jikūkan Kekkai - Flying Thunder God: Guiding Thunder**
+
+You erect a barrier space capable of warping away anything that comes into contact with it. The subject of the technique is then directed to another location mostly randomly. Better hope it’s an empty field somewhere.
+
+Type: B Rank - Sealing Ninjutsu
+Chakra: 26
+Special: Interrupt
+Speed: 12
+Seal Speed: 16
+Upkeep: 10
+
+Tags: Defensive, Barrier
+Effects:
+This technique can be used as an interrupt or a regular action. If using Jikūkan Kekkai as an interrupt: Make an accuracy roll against the attack's accuracy, with a \+6 bonus; if you succeed, this stops the attack entirely.
+
+Once Jikūkan Kekkai has been deployed, it lasts for your damage bonus in initiative counts--it parries any other incoming attacks, using your ninjutsu parry at the time of casting \+6. You may also end it early, if you need to move or attack through it.
+
+In addition to this, if the technique you're defending against was an area of effect attack, this technique also counts as a defense for anyone within (Ninjutsu Damage Bonus) yards of you.
+This technique protects you from any Jutsu up to A\-rank.
