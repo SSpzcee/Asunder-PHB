@@ -20,7 +20,7 @@ Some effects may lower an Action's Speed. No matter how many such effects are ap
 
 Actions used as Interrupts are an exception to this, and may have their Base Speed lowered to less than 3\. Action Points can be used to reduce an Interrupt's final speed (before para) to less than 3 (normally, an Action with a Base Speed of 3 or lower cannot have its Speed reduced further).
 
-Every 100 ICs during combat, 10 seconds have passed.
+Every 100 ICs during combat, 30 seconds have passed.
 
 ## **Simultaneous Actions**
 
