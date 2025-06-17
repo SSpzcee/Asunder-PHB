@@ -469,7 +469,6 @@ Scale: 4
 
 Limit: CHA /40
 
- 
 
 # **Subtlety**
 
@@ -494,10 +493,10 @@ Requires: 20 Espionage
 
 Somewhere along the way you picked up the unpleasant, but highly effective talent of being able to follow people for prolonged periods of time without being noticed.
 
-Each rank gives you \+1 to your Stealth TN once you're already hidden. The odd ranks (1, 3, and 5\) each give \+1 to your Accuracy with Sneak Attacks made from stealth.  
-Base Cost: 6  
-Scale: 3  
-Limit: DEX /20, max 5
+Each rank increases your Stealth TN by 1. You also gain \+1 to your Accuracy with Sneak Attacks and half as much (rounded down) to surprise attacks.
+Base Cost: 8
+Scale: 2
+Limit: DEX /25, max 5
 
 ### **Subterfuge**
 
