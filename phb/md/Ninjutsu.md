@@ -441,7 +441,7 @@ Often stomping beforehand, you then motion forward and either shoot a narrow col
 Chakra: 8  
 Damage: 8d6  
 Range: 6  
-Speed: 10  
+Speed: 8 
 Seal Speed: 8
 
 Tags: Attack, Blunt, Projectile
