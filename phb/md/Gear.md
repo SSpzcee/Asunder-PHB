@@ -86,16 +86,6 @@ Cost: 25k Ryo
 
 ## **Survival**
 
-### **Antidote**
-
-Antidotes to several of the more popular and lethal poisons which shinobi use are widely available, for somewhat obvious reasons. A single dose of an antidote costs half the amount for a single dose of a poison; multiple doses cost half as much as the first.
-
-For the purposes of Shadow Snake Hands from the Snake Contract, you may assume the first dose of Antidote for each poison to be 7.5k ryo.
-
-Taking a dose of an antidote is a Speed 6 action, and immediately cures you of the poison in question and all its lingering effects. Antidotes that act quickly enough to be useful in emergencies, such as combat, aren't gentle on the body, applying a \-2 penalty to your Accuracy and all d20 rolls for 100 IC. However, for that duration you are immune to the poison in question. Antidotes used in succession do not stack the penalties, but they do refresh the duration.
-
-Cost: Varies
-
 ### **Compass**
 
 A small, typically handheld device that has a needle inside a metal case (with a glass cover, so it can be seen) that points, approximately, to magnetic north when held level. These aren't exactly precise, but they're good enough most of the time. Notably, they can have trouble working underground or if they get zapped by a lightning jutsu. When trying to navigate the wilderness, having a compass gives a \+2 bonus to any Survival rolls. If you also have a map of the country you're in, this is raised to \+4. 
