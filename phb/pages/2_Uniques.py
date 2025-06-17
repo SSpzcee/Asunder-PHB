@@ -14,10 +14,16 @@ st.markdown("""
 </style>""", unsafe_allow_html=True)
 
 st.write("""
-	Uniques are one of the many ways in which you can customize your character, giving you effects and capabilities that typically cannot be acquired otherwise. You gain five Unique Points to spend at character creation. Uniques are grouped by cost, with Creation Uniques all costing 1 point each
-\n\nHowever, you may save your unique points for later, if you want. As your character reaches certain EXP thresholds, they'll gain more unique points. You can either save these for later, spend them to acquire new uniques, or use them to upgrade existing ones. Regardless, you may only take a single unique once; you cannot, for example, take Endless Energy twice to get double its bonuses.
-\n\nSome uniques have, below their descriptions, entries such as "Upgrades Into" and "Upgrades From." To upgrade a unique, you need to pay the difference between the cost of your current unique and the cost of the unique you will be upgrading it to. When you do this, you remove the old unique and replace it with the new one. This does mean that you might lose some effects entirely in the process.
-\n\nYou can ultimately have a maximum of 9 (10 if you’re Clanless) Uniques, 5 at Creation and 4 from EXP.
+	Uniques are one of the many ways in which you can customize your character, giving you effects and capabilities that typically cannot be acquired otherwise. You gain five Unique Points to spend at character creation. Uniques are grouped by cost, with Creation Uniques all costing 1 point each. You can only have a maximum of 2 Creation Uniques.
+However, you may save your unique points for later, if you want. As your character reaches certain EXP thresholds, they'll gain more unique points. You can either save these for later, spend them to acquire new uniques, or use them to upgrade existing ones. Regardless, you may only take a single unique once; you cannot, for example, take Endless Energy twice to get double its bonuses.
+Some uniques have, below their descriptions, entries such as "Upgrades Into" and "Upgrades From." To upgrade a unique, you need to pay the difference between the cost of your current unique and the cost of the unique you will be upgrading it to. When you do this, you remove the old unique and replace it with the new one. This does mean that you might lose some effects entirely in the process.
+You can ultimately have a maximum of 10 (11 if you’re Clanless) Unique Points, 5 at Creation and 5 from XP for a normal character. These uniques are unlocked at the following XP thresholds:
+
+2000
+3000
+4500
+6000
+7000
 """)
 
 cup, oneup, twoup, threeup = st.tabs(["Creation Uniques", "1 Point Uniques", "2 Point Uniques", "3 Point Uniques"])
