@@ -6,21 +6,24 @@
 [|B-Ranks|](#unarmed-b-rank)
 [|A-Ranks|](#unarmed-a-rank)
 
+Not much to say here. You hit people with your fists, feet, and in all manner of other creative ways. These techniques can stand on their own but contains integral pieces for Combo and Grapple jutsu.
+
 ## **Unarmed E-Rank**
 
-### **Trip**
+### **Deashi Harai: Foot Sweep**
 
 You cause an opponent to fall down by knocking their legs out from under them. Calling it a 'technique' is misleading, but there's more to unbalancing a ninja than just wanting to; it does take at least a little bit of training.
 
 Stamina: 8  
 Speed: 4  
 Special: \+2 Accuracy
+Special: Prone
+
+Tags: 1 Leg
 
 Effects:
 
-If this hits, your opponent is allowed an Athletics skill as a secondary defense against your Accuracy. This Athletics roll has a \+3 bonus for every time that battle they've had to make such a roll to avoid being tripped. If they pass, their next action is delayed by 1 but they suffer no other downsides.
-
-If they fail, they are left prone on the ground. A prone person has \-3 Accuracy, \-2 to defensive actions, and moves at half speed. Standing back up is a Speed 2 action.
+If used while in a grapple it gains the following: Takedown, Control 5.
 
 ### **Feint**
 
@@ -34,6 +37,20 @@ Effect:
 This is used alongside any other melee-range Unarmed or Combo Attack, and increases that action's Stamina and Speed by 2 each. Make an opposed Espionage roll; if you beat their result, you've tricked them with your feint. If successful, this triples the Speed of their defensive action for the purpose of determining when they'll act next.
 
 This doesn't prevent it from being a valid Interrupt against your attack.
+
+### **Headbutt**
+
+You use your head to hit someone else's head. Really, honestly, it's a highly technical process. You just don't understand because you're not a ninja.
+
+Stamina: 6
+Damage: STR
+Speed: 7
+Accuracy: \-1
+Special: Control 1
+
+Effect:
+
+If this is used while in a pin it automatically hits. This always deals a head wound and you must take the final wounding damage, if that would cause you a wound then you gain a head wound of that severity.
 
 ## **Unarmed D-rank**
 
@@ -108,6 +125,22 @@ Speed: 12
 Effects:
 
 This knocks the victim back (your RES)/10 yards.
+
+### **Throw**
+
+You use leverage, brute force, or a combination of the two to physically throw an enemy, either by flipping them over you, hurling them into a nearby object, slamming them to the ground, or something similar.
+
+Stamina: 14
+Damage: (STR/3)d6
+Speed: 8
+Accuracy: \-2
+Special: Stun 4
+
+Tags: 2 Arms
+
+Effect:
+
+If used while in a grapple it gains the following: Takedown, Control 8
 
 ## **Unarmed C-rank**
 
