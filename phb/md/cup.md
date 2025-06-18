@@ -46,7 +46,7 @@ When you Block, treat the damage as if it was 20% lower when determining what Wo
 
 Running, jumping, swimming, fighting; none of it seems to tire you out. Eventually you'll wear down, but not until long after your friends are left staggering around and panting for breath. On the other hand, it's hard to sit still and focus, let alone study, when you're more or less hyperactive. 
 
-Your Maximum Ranks in Athletics are increased by 3\.
+Your Maximum Ranks in Athletics are increased by 2\.
 
 You have 6 levels of Fatigue instead of the usual 5, and suffer Fatigue penalties (-1 Accuracy, \-2 defenses, and so on) as if you were one Fatigue category lower, while retaining the regular benefits. Additionally, the Rest Action reduces your Stamina penalty by double the value it normally would.
 
@@ -110,7 +110,7 @@ When you have no rerolls left, you take a \-2 penalty to Accuracy and d20 rolls.
 
 You are at one with nature\! Animals like you more, you understand nature like one of them, and your energy is naturally powerful. You also can forage well, notice slight differences in the environment to follow footprints, or even see the handwork ninja leave with their traps\! Perhaps it's because of your attunement, or that you are tempted by your primal urges, either way you are still a great asset. You can use your knowledge of nature to replace most lessons learned in books, however, your attunement leaves you more vulnerable to sense manipulation.
 
-Your Maximum Ranks in Survival are increased by 3, and you gain a \+3 bonus to detect, disarm, or avoid any part of a trap. 
+Your Maximum Ranks in Survival are increased by 1, and you gain a \+3 bonus to detect, disarm, or avoid any part of a trap. 
 
 Your ninjutsu damage bonus is CHA/12, rather than CHA/15. 
 
@@ -124,7 +124,7 @@ However, your maximum Research Ranks are reduced by 3 and you receive a \-2 to g
 
 You have \+1 Accuracy and \+1 Dodge, as well as a \+3 bonus to Stealth and Athletics rolls. You also move 25\% faster and the reduction to your AoE penalty offered by the Nimble ability would be changed to 3 from 2.
 
-But due to your focus on the swiftness of your blows, the damage from your attacks is reduced by 10\%
+You use /18, rather than /15, to calculate your damage bonus. In the case of other changes to damage bonus (like Large) calculation it increases the divider by 3.
 
 
 ### **Small**
