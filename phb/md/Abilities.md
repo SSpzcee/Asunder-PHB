@@ -905,7 +905,7 @@ You practice extensively with a chosen skill, so that even while you may still m
 You may take this ability multiple times. Each time you take it, it applies to a different skill.
 
 Cost: 10
-Requires: At least 5 ranks in each skill it's applied to.
+Requires: At least 15 ranks in each skill it's applied to.
 
 ## **Development**
 
