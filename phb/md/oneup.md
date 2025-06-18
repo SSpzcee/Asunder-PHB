@@ -14,7 +14,7 @@ Upgrades Into: Chakra Sensor
 
 Where others use talent, you rely on practical application of your (probably vast) knowledge to guide you. It's all well and good for someone to be able to spot the vague outline of a hidden opponent, but you, on the other hand, notice the way the bush they're hiding behind has been shifted, as you know that plant only grows facing west. You also know that the plant's name is Rhaphiolepis, a shrubbery that's typically grown for the pink flowers that it blooms. And you know those flowers are great for making tea. And that they're- Yeah.... You're probably kind of a nerd, to be honest. 
 
-You increase the max rank of all non-Research skills by your (Research Ranks)/5. Furthermore, all this attention to detail has the added benefit of making you pretty good at crafting realistic Genjutsu with consistent details. The duration’s multiplier for when somebody realizes they’re trapped in a genjutsu is increased by 2\. For example, if they normally realize it within X\*3 ICs, it becomes X\*5 ICs.
+You increase the max rank of all non-Research skills by 2. Furthermore, all this attention to detail has the added benefit of making you pretty good at crafting realistic Genjutsu with consistent details. The duration’s multiplier for when somebody realizes they’re trapped in a genjutsu is increased by 2\. For example, if they normally realize it within X\*3 ICs, it becomes X\*5 ICs.
 
 Upgrades Into: Cunning
 
@@ -185,5 +185,5 @@ For every 5 AP in your WAP Pool when you shed your weights you gain 1 of the fol
 These effects must be chosen 1 at a time and must all be within 1 of each other, similar to the rule of three but with only 1 difference between each.
 You lose 1 WAP each initiative count until your WAP falls to 0 and for every 5 WAP you lose (from any source) one benefit from above is lost. Each choice still cannot be more than 1 apart from each other.
 
-Due to the incredible amount of athleticism this lifestyle requires, your athletics skill cap is raised by 3.
+Due to the incredible amount of athleticism this lifestyle requires, your athletics skill cap is raised by 1.
 
