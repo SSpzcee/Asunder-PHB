@@ -83,7 +83,7 @@ You have a \+1 bonus to Stamina rolls per rank.
 
 Cost: 5
 Scale: 1
-Limit: Athletics /5, max 10
+Limit: Athletics /5
 
 ### **Power Attack**
 You put extra force behind your unarmed strikes, turning your feeble punches into fearsome punches! Or... something like that.
@@ -297,7 +297,7 @@ Requires: 15 Chakra Control, Wall Walking
 You've mastered the art of... yeah, okay, no. You are able to use entry-level Genjutsu techniques. It's not much, but it's a start.
 
 Cost: 20
-Requires: Research 4
+Requires: Diplomacy or Research 4
 
 ### **Attentive**
 You pay lots of attention to details! Beyond that, you're keen to pick up on things that other people wouldn't. Maybe that species of deer isn't native to this area, or the wood of an illusory wall is a type that isn't found in this part of the world. On the other hand, the more you know about these kinds of things, the more likely you are to get them right.
@@ -313,8 +313,8 @@ You're good at picking up little details in your environment that aren't quite w
 
 Whatever it is, it gives you a \+1 bonus to defensive Genjutsu rolls per rank.
 
-Cost: 7
-Scale: 2
+Cost: 6
+Scale: 1
 Limit: Combined Enhanced Hearing or Enhanced Sight ranks
 
 ### **Genjutsu Competence**
@@ -386,7 +386,7 @@ Scale: 1
 Limit: CHA /20, max 4
 
 Special: The two "Enhanced (Sense)" abilities share a Scale.
-That is, if you already had four ranks of Enhanced Sight, the first rank of Enhanced Hearing would cost (4\+(3\*4) = ) 16 XP.
+That is, if you already had four ranks of Enhanced Sight, the first rank of Enhanced Hearing would cost (9\+(1\*4) = ) 13 XP.
 
 ### **Enhanced Sight**
 You're very good with attention to detail. You notice things that other people overlook, and as it turns you, that's a pretty useful job-related talent for a ninja.
@@ -398,7 +398,7 @@ Scale: 1
 Limit: (CHA - 10) /20, max 4
 
 Special: The two "Enhanced (Sense)" abilities share a Scale.
-That is, if you already had four ranks of Enhanced Sight, the first rank of Enhanced Hearing would cost (4\+(3\*4) = ) 16 XP.
+That is, if you already had four ranks of Enhanced Sight, the first rank of Enhanced Hearing would cost (9\+(1\*4) = ) 13 XP.
 
 ### **Blind Fighting**
 Between smoke bombs, stealth missions at night, and hostile ninjutsu, shinobi often find themselves operating with their vision impaired. This ability represents training to fight while relying on your other senses.
@@ -449,15 +449,7 @@ Each rank gives a \+1 bonus to dodge and Survival rolls.
 Cost: 5
 Scale: 1 
 Limit: (DEX \- 50) /10, max 10
-Requires: Basic Survival Tactics 5, Survival 20
-
-## **Total Defense**
-You abandon all forms of attack and focus on staying alive.
-
-This is a variable Speed Defensive Basic Action. Until your next non-interrupt action, your Dodge action becomes a Speed 0 Interrupt and has a \+3 bonus.
-
-Cost: 20
-Requires: 45 AGI
+Requires: Basic Survival Tactics 5
 
 ### **Defensive Formation**
 You take up a position protecting someone from harm. Very useful on escort missions when you have to keep some blubbering civilian safe!
@@ -467,6 +459,14 @@ This is a variable Speed Action, you designate one or more (up to 1 \+ XP /1000)
 The designated targets must be within AGI /20 of you for this ability to take effect. They can move out and back in at will. Designating new targets requires another use of this Action.
 
 Cost: 25
+
+## **Total Defense**
+You abandon all forms of attack and focus on staying alive.
+
+This is a variable Speed Defensive Basic Action. Until your next non-interrupt action, your Dodge action becomes a Speed 0 Interrupt and has a \+3 bonus.
+
+Cost: 20
+Requires: 45 AGI
 
 ### **Guard**
 You ready yourself for an impending attack.
@@ -623,20 +623,11 @@ Requires: Determination 3
 Through sheer determination you force yourself to perform above your own capabilities. Once per day, per rank, you may Willpower a roll but instead of expending a Willpower you immediately proceed to the next Fatigue category. You may only use Limit Break once per action but you may use a Willpower normally in the same action.
 
 Cost: 20
-Limit: XP /1000
+Limit: Determination
 
 # **Equipment**
 
 ## **Ninja Tools**
-
-### **Icha Icha Novels**
-Icha Icha is a series of best-selling novels written by the legendary ninja sage Jiraiya. They are comedic (and adult) recounts of Jiraiya's experiences in love. The titles include Icha Icha Paradise, Icha Icha Violence, Icha Icha Tactics, and Icha Icha Utopia. They are intended only for audiences over 18 years of age, and managing to acquire and read them in secret is a challenge countless young ninja strive to overcome. Indeed, it's how many shinobi (though most kunoichi would never admit it) hone their abilities of stealth and deception. For every rank, you have read one of the Icha Icha novels.
-
-Every novel you've read gives you a \+1 bonus to your Espionage rolls.
-
-Cost: 6
-Scale: 4
-Limit: 4
 
 ### **Tag Concealment**
 Ninjas do love their explosions. However, they also like being sneaky and unseen; this combines the two!
@@ -648,7 +639,44 @@ Once a tag has begun its countdown to detonation they start to sizzle and spark,
 
 Cost: 10
 
+### **Explosive Tag Connection**
+As a Speed 10 \+ 5 \* X action, you can attach X tags to a kunai's hilt or an arrow, and prime them. These can be attached pre-battle as a matter of convenience, but the action to prime them is still necessary. You can have up to (Chakra Control) /5 tags primed this way at once.
+
+Each item (kunai or arrow) may only have a single tag attached to it. You can trigger these tags as part of a multi throw, or do so later (such as by the Remote Detonation technique). When the kunai is thrown (or arrow shot) the tag(s) will detonate 15 IC after impact (with the target, or the ground at the target's feet on a miss).
+
+When used as a multi-throw, each tagged kunai counts as two weapons for the purpose of determining multi-throwing limits. You can include up to one tag per rank in this ability in a single throw.
+
+If a target is struck by the arrow or kunai, they're assumed to pull it out as a non-action and can try to escape the area. Justu including exploding tags that cause them to explode on contact supersede these rules.
+
+Cost: 5
+Scale: 3
+Limit: Chakra Control /5
+
+### **Icha Icha Novels**
+Icha Icha is a series of best-selling novels written by the legendary ninja sage Jiraiya. They are comedic (and adult) recounts of Jiraiya's experiences in love. The titles include Icha Icha Paradise, Icha Icha Violence, Icha Icha Tactics, and Icha Icha Utopia. They are intended only for audiences over 18 years of age, and managing to acquire and read them in secret is a challenge countless young ninja strive to overcome. Indeed, it's how many shinobi (though most kunoichi would never admit it) hone their abilities of stealth and deception. For every rank, you have read one of the Icha Icha novels.
+
+Every novel you've read gives you a +1 bonus to your Espionage and Diplomacy rolls.
+
+Cost: 6
+Scale: 4
+Limit: Diplomacy or Research /5, max 4
+
 ## **Weapons, Melee**
+
+### **Quick Draw**
+The speed of your Draw Weapon is reduced by 1 per rank, to a minimum of 0.
+
+Cost: 7
+Scale: 1
+Limit: DEX /30
+
+### **En-Guard**
+Heightening your reflexes with weaponry you’re now able to prepare your battle stance at a moment's notice.
+
+After gaining this Ability, whenever you start or enter a Combat encounter, you may choose to start in either the Heaven, Earth, or Void Stances instead of the Neutral Stance.
+
+Cost: 15
+Requires: Athletics 15
 
 ### **Ambidextrous**
 You've trained yourself to use your off-hand just as well as your dominant one, or you really are naturally ambidextrous.
@@ -658,14 +686,6 @@ Each rank reduces the Accuracy penalty for the Dual Wield Attack action (see bel
 Cost: 5
 Scale: 2
 Limit: DEX /20, max 5
-
-### **En-Guard**
-Heightening your reflexes with weaponry you’re now able to prepare your battle stance at a moment's notice.
-
-After gaining this Ability, whenever you start or enter a Combat encounter, you may choose to start in either the Heaven, Earth, or Void Stances instead of the Neutral Stance.
-
-Cost: 15
-Requires: Athletics 15
 
 ### **Dual Wielding**
 You attack with a weapon in each hand! Impractical, but awesome. As might be expected, this allows you to make a basic weapon attack with both weapons simultaneously (or three if you have the capacity to do so). Halve the speed of the weapons you're using (rounding up, as usual). Add those numbers together to get the speed of your "Dual Wield Attack" action. This can't be done with two-handed weapons.
@@ -688,13 +708,6 @@ At the second rank you can, if you have the Dual Wield ability, even dual wield 
 Cost: 30
 Scale: 10
 Limit: STR /50, max 2
-
-### **Quick Draw**
-The speed of your Draw Weapon is reduced by 1 per rank, to a minimum of 0.
-
-Cost: 7
-Scale: 1
-Limit: DEX /30
 
 ### **Weapon Focus: (Weapon)**
 You’ve trained yourself specifically with a single type of weapon. Choose one of the weapon shapes from the Equipment chapter (such as Sword, or Club). You have \+1 Accuracy and \+1 to your damage bonus when using that weapon to make an attack, per rank. Weapon focus cannot be applied to defensive rolls, nor to any other use that have no associated stamina cost. You may take this ability for different weapons, counting as a different ability (with a separate cost, number of ranks, etc.) each time. Any attack which benefits from your Weapon Focus has its Stamina cost increased by 3 per rank; you may choose to use less than your full ranks of Weapon Focus on a given attack if you wish.
@@ -720,22 +733,22 @@ Cost: 4
 Scale: 2
 Limit: STR /20, max 5
 
+### **Slashing: Perfect Cut**
+Normally, when partial defense applies you would deal 20\% of your attack's damage per point you hit by. With this ability you do 25\% per point you hit by, up to full damage if you hit by 4 points.
+
+Cost: 20
+Requires: 50 DEX
+
 ### **Piercing: Penetrate**
 Your piercing weapons gain 'Ignore Armor' which allow them to bypass any armor your opponent is wearing!
 
 Cost: 20
-Requires: 35 STR
+Requires: 50 STR
 
 ### **Polearm: Trip**
 You sweep with the blunt end (or one of the blunt ends) of your weapon, knocking your opponent's feet out from beneath them. This allows you to use Trip (the E-rank Unarmed Taijutsu technique) as a Weapon Taijutsu, as long as you know it.
 
 Cost: 10
-
-### **Slashing: Perfect Cut**
-Normally, when partial defense applies you would deal 20\% of your attack's damage per point you hit by. With this ability you do 25\% per point you hit by, up to full damage if you hit by 4 points.
-
-Cost: 20
-Requires: 40 DEX
 
 ### **Small: Flurry**
 Most of the small weapons rely on something other than overpowering force to deal their damage; accordingly, a dozen quick strikes is often preferable to six slow, powerful ones.
@@ -752,42 +765,9 @@ Limit: DEX /20
 If you attack with a sword you have to draw (meaning it hasn't been used for parries or jutsu since it was sheathed or hasn't been used in combat yet) the attack's Speed is halved, though for the purpose of damage calculations it's treated as its regular speed. This may only be done once per battle, even if you have more than one sword.
 
 Cost: 20
-Requires: 50 DEX, 40 AGI
+Requires: 80 DEX, 70 AGI
 
 ## **Weapons, Ranged**
-
-### **Assassin's Eye**
-You've got a good eye for causing bodily harm to people from a distance. In any other job, this would just make you kind of scary. As a ninja, it looks good on your resume!
-
-Each rank of this ability reduces the penalty for called shots with ranged weapons by 1.
-
-Cost: 6
-Scale: 4
-Limit: DEX /30, max 3
-Requires: Enhanced Sight 3
-
-### **Combat Acupuncture**
-You can throw senbon to target vital points on an opponent's body. Whenever making a called shot with senbon, if you deal damage you inflict a \-1 immobilization penalty on your foe.
-
-Using this on somebody already suffering from it increases the Immobilization penalty by 1 each time. Its effects end entirely 20 IC after the last time you hit with a senbon called shot. The maximum penalty is your ranks in Combat Acupuncture.
-
-Cost: 2
-Scale: 2
-Limit: DEX /10, Medicine /2, Max 10
-Requires: Doctor 1, Medical Training Talent
-
-### **Explosive Tag Connection**
-As a Speed 10 \+ 5 \* X action, you can attach X tags to a kunai's hilt or an arrow, and prime them. These can be attached pre-battle as a matter of convenience, but the action to prime them is still necessary. You can have up to (Chakra Control) /5 tags primed this way at once.
-
-Each item (kunai or arrow) may only have a single tag attached to it. You can trigger these tags as part of a multi throw, or do so later (such as by the Remote Detonation technique). When the kunai is thrown (or arrow shot) the tag(s) will detonate 15 IC after impact (with the target, or the ground at the target's feet on a miss).
-
-When used as a multi-throw, each tagged kunai counts as two weapons for the purpose of determining multi-throwing limits. You can include up to one tag per rank in this ability in a single throw.
-
-If a target is struck by the arrow or kunai, they're assumed to pull it out as a non-action and can try to escape the area. Justu including exploding tags that cause them to explode on contact supersede these rules.
-
-Cost: 5
-Scale: 3
-Limit: Chakra Control /5
 
 ### **Improved Range**
 You can throw weapons farther than other people! It's useful, honest!... Kind of. Sometimes.
@@ -814,11 +794,17 @@ Cost: 5
 Scale: 1
 Limiting Attribute: DEX /20
 
-### **Senbon Multi\-Throw**
-You can multi-throw needles, just like you can normally multi-throw shuriken and kunai.
+### **Assassin's Eye**
+You've got a good eye for causing bodily harm to people from a distance. In any other job, this would just make you kind of scary. As a ninja, it looks good on your resume!
 
-Cost: 15
-Requires: 30 DEX, Athletics 5
+Each rank of this ability reduces the penalty for called shots with ranged weapons by 1.
+
+Cost: 6
+Scale: 4
+Limit: DEX /30, max 3
+Requires: Enhanced Sight 3
+
+## **Senbon**
 
 ### **Senbon User**
 You're a person who uses senbon in combat. This is rare, but not unheard of; it takes a lot of effort to get results out of them, but a weapon that allows the degree of precision they do can certainly be rewarding.
@@ -826,7 +812,23 @@ You're a person who uses senbon in combat. This is rare, but not unheard of; it 
 This ability removes their inherent \-2 Accuracy penalty, and allows you to use your DEX, rather than STR, to determine your damage bonus with senbon. Finally, damage dealt by senbon is increased by 200\% for the purposes of calculating wounds.
 
 Cost: 15
-Requires: 25 DEX, Medicine 5
+Requires: 45 DEX, Medicine 5
+
+### **Senbon Multi\-Throw**
+You can multi-throw needles, just like you can normally multi-throw shuriken and kunai.
+
+Cost: 15
+Requires: 60 DEX, Athletics 10
+
+### **Combat Acupuncture**
+You can throw senbon to target vital points on an opponent's body. Whenever making a called shot with senbon, if you deal damage you inflict a \-1 immobilization penalty on your foe.
+
+Using this on somebody already suffering from it increases the Immobilization penalty by 1 each time. Its effects end entirely 20 IC after the last time you hit with a senbon called shot. The maximum penalty is your ranks in Combat Acupuncture.
+
+Cost: 2
+Scale: 2
+Limit: DEX /10, Medicine /2, Max 10
+Requires: Doctor 1, Medical Training Talent
 
 ### **Surgical Precision**
 When you wound an enemy with a senbon attack, you have a 10\% chance per rank for the wound to be upgraded to the next-highest rank. If you don't wound them, this is replaced by a 10\% chance per rank to cause a minor wound, so long as your attack did any damage. Every rank of this ability also raises the attack's Stamina cost by 1; you can choose whether or not to use it, and to what extent, when you attack.
@@ -883,7 +885,7 @@ As in sealing techniques, not handseals! This allows you to learn the most advan
 
 This ability allows you to learn A-rank Sealing Ninjutsu.
 
-Cost: 25
+Cost: 40
 Requires: Seal Training talent, Skill Focus: Research 5
 
 # **Skill**
