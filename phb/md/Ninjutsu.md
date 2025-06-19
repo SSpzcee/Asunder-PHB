@@ -1722,7 +1722,7 @@ Special: Ignite X/2
 Tags: Attack, Projectile, Energy
 
 Effects:  
-X is your Cremation upkeep and as X is 2 or greater, Instant Cremation does not require handseals. After using Instant Cremation, you gain or increase your Cremation Upkeep by 2 which you may end as a Speed 0 action, or immediately after using Instant Cremation. This Cremation Upkeep does not interact with Uniques or Wounds which affect normal Upkeeps. 
+X is your Cremation upkeep which has a max of 16. As X is 2 or greater, Instant Cremation does not require handseals. After using Instant Cremation, you gain or increase your Cremation Upkeep by 2 which you may end as a Speed 0 action, or immediately after using Instant Cremation. This Cremation Upkeep does not interact with Uniques or Wounds which affect normal Upkeeps. X is your Cremation upkeep and as X is 2 or greater, Instant Cremation does not require handseals. After using Instant Cremation, you gain or increase your Cremation Upkeep by 2 which you may end as a Speed 0 action, or immediately after using Instant Cremation. This Cremation Upkeep does not interact with Uniques or Wounds which affect normal Upkeeps. 
 For example, if you had used Instant Cremation three times, you would have an Upkeep 6, and your next use of it would deal 6d20.open(14) damage.
 
 ## **Katon A-rank**
