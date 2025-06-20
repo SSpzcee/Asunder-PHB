@@ -391,7 +391,7 @@ That is, if you already had four ranks of Enhanced Sight, the first rank of Enha
 ### **Enhanced Sight**
 You're very good with attention to detail. You notice things that other people overlook, and as it turns you, that's a pretty useful job-related talent for a ninja.
 
-You get \+1 Awareness per rank.
+This gives you a +1 bonus to Awareness rolls per rank.
 
 Cost: 9
 Scale: 1
