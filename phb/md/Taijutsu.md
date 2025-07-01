@@ -1348,7 +1348,7 @@ Escape Pin (Stamina 7, Speed 5, Control 0) You make a Grapple Defense roll versu
 
 ## **Grapple-Related Tags (also this)**
 
-Trapping X: Requires you to be in a clinch or pin, make a grapple roll and on a success reduce the target’s control by X on top of any additional effects provided by the technique.
+Trapping X: Requires you to be in a clinch, make a grapple roll and on a success reduce the target’s control by X on top of any additional effects provided by the technique.
 
 Takedown: Requires you to be in a clinch, make a grapple roll and on a success you and your target are transferred to a pin on top of any additional effects provided by the technique.
 
