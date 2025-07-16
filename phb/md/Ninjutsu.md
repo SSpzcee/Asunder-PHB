@@ -2520,7 +2520,7 @@ After creating the handseals, you launch water in projectile form at an opponent
 
 Chakra: 13 \+ G
 Damage: 8d12 \+ (G \* 8)
-Line: 3 x G \* 2
+Line: 3, G \* 2
 Speed: 13
 Seal Speed: 7 \+ (G / 2)
 Gallons Requirement: 5 \> 12
