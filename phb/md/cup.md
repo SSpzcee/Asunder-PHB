@@ -16,21 +16,14 @@ You take a \-5 to initiative rolls, as you need to take a moment to get an under
 
 A beast of a ninja you are, and you act like one too\! You get angry easily, and often make rash, terrible decisions out of being bull-headed. At least you're hard to take down when things come to combat (as they often do).
 
-You add an extra STR\*2 to your Vitality, and can fight until you reach \-25% of your max HP.
+You add an extra STR\*2 to your Vitality, and can fight until you reach \-25\% of your max HP. Additionally, for every 10\% of your Vitality that you lose, you gain a 2.5\% increase to all Damage.
 
-You may take no Defensive Action (Yes, Blocking OBVIOUSLY counts as Defensive Action, stop asking that!) in response to an enemy's attack. If their attack Wounds you, you can choose which location it hits (unless the attack is a called shot). So long as the attack does not incapacitate you, you can then immediately attack the target as an Interrupt using any taijutsu attack you know, with the following changes: The attack has a +3 accuracy bonus, is made at half its normal Speed (to a minimum of 3), and cannot have its Speed reduced further. This attack must be directed at the person who attacked you. You can only perform this interrupt once per IC.
+When you fall below 25\% Vitality in combat, you must immediately choose whether to surrender, or to continue fighting. If you choose to continue the fight, you can only stop if you or all of your opponents have been incapacitated, not even them surrendering will placate your frenzy.
 
-Additionally, for every 10% of your Vitality that you lose, you gain a 2.5% increase to all Damage.
+You have access to the following action:
 
-When you fall below 25% Vitality in combat, you must immediately choose whether to surrender, or to continue fighting. If you choose to continue the fight, you can only stop if you or all of your opponents have been incapacitated, not even them surrendering will placate your frenzy.
-
-### **Competitive**
-
-You always want to win every race, hit the bull's-eye first, and beat everyone in every game you play. In fights, winning is your everything and you are constantly measuring yourself up to your opponent; that can be good, since losing a fight as a ninja may have fatal consequences.
-
-You gain 3 bonus XP for every spar or fight you participate in (Missions do not count)
-
-Whenever you miss with an attack, you become increasingly frustrated and driven to land a solid blow on your enemy. This gives you a \-1 penalty to all your d20 rolls, but also a \+1 bonus to Accuracy, up to a maximum of \-5 and \+5 respectively (attacks with accuracy rolls use the accuracy bonus, not the d20 roll penalty). These both reset to 0 when you hit someone. Additionally whenever you advance a fatigue level you gain 5 AP and \+5 to your next fatigue roll.
+Berserk Counter (Speed 0, Interrupt)
+You are automatically hit by the attack as if you had taken no defensive action and if their attack Wounds you, you can choose which location it hits (unless the attack is a called shot). After all effects of their attack have been resolved, you may target the attacker with any taijutsu attack you know with the following changes: The attack has a \+3 accuracy bonus, is made at half its normal Speed (to a minimum of 3), and cannot have its Speed reduced further.
 
 ### **Defender**
 
