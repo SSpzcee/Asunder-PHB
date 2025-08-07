@@ -369,120 +369,120 @@ You throw out 8 Kunai infused with low or high (chosen on use) frequency vibrati
 
 ### **Paper Control**
 
-The most basic and important ability of the Yurigami. Allowing them to control paper in many forms and for countless applications. (Extra Flavor Text)
+The most basic and important ability of the Yurigami. Allowing them to control paper in many forms and for countless applications. (Extra Flavor Text)  
 
-Cost: 10  
-Scale: 5  
-Limit: (CHA+RES)/60, Limit 4\.
+Cost: 30  
+Limit: 1  
 
-Effects: You can spend up to CHA/8 Sheets of Paper on any single Action or Yurigami Technique per rank bought in this ability. You also start the day with RES/2 sheets of Shikigami Paper which come from your body. Shikigami paper counts as 2 sheets of paper for everything except determining the maximum sheets spent at one time. Paper, both normal and Shikigami variety, is considered perishable: that is, once used in a Technique, it is simply gone.
-
-### **Chakra Infused Paper**
-
-Specially processed chakra infused paper made within the Yurigami clan. This is useful for when the Yurigami has run out of Shikigami Paper, or does not want to use it.
-
-Type: Gear  
-Cost: 100 Ryo per sheet of Paper
-
-Effects: This can be used in Yurigami Techniques. Due to the encumbrance of carrying so much paper, you can only have a max of 100+(XP/10) Paper on you at any given moment. And because of their special nature, you can never store them within a Sealing Scroll.
+Effects: You start the day with RES/3 sheets of Shikigami Paper which come from your body. This is the maximum amount if Shikigami Paper you can have at any time.
+You may expend X Shikigami paper alongside any Fuuton jutsu increasing its Chakra by X/3, Speed and Seal Speed by X/2, and Damage by Xd6. X has a maximum of CHA / 10.
 
 ### **Rice Paper Creation**
 
-As they progress in their abilities, the Yurigami develop the ability to turn their body into paper. What makes this so unusual is that it's not a transformation technique, such as Henge; physically, they become paper, yet still function fully.  Though it'll require far more practice to utilize this unique nature of theirs in more offensive ways, they're still able to shed portions of their paper-like body without appreciable harm, arming themselves with paper even when none is available.
+As they progress in their abilities, the Yurigami develop the ability to turn their body into paper. What makes this so unusual is that it's not a transformation technique, such as Henge; physically, they become paper, yet still function fully.  Though it'll require far more practice to utilize this unique nature of theirs in more offensive ways, they're still able to shed portions of their paper-like body without appreciable harm, arming themselves with paper even when none is available.  
 
-Base Cost: 2  
-Scale: 2  
-Limit: 1+CHA/20
+Type: E Rank - Fuuton Ninjutsu  
+Chakra: 5 /+ X / 2  
+Speed: X / 2 (Rounded Up)  
+Seal Speed: X  
+Special: Utility, Link  
 
-Effects:  Each Rank allows 20 Vitality (Or HP if Vitality is at 0\) to be converted to 5 sheets of Shikigami Paper as a Speed 6 Action, to a maximum of 20 Vitality per Action, per Rank. You cannot have more Shikigami Papers through this Ability than the amount you normally start the day with through "Paper Control". Any excess Shikigami Paper is considered to be lost.
+Effects: You create X pieces of Shikigami Paper up to a max of CHA / 10 and take X /* 3 irreducible damage. This may be used alongside a Yurigami jutsu using the paper from this technique in which case its speed, seals, and chakra cost are added to the techniques.
+
+### **Oritaishi No Jutsu \- Folded Parchments Technique**
+
+The Yurigami strengthens several pieces of paper, using them as a physical barrier against attacks. This can be done any number of ways, from a levitating cloud of folded papers, to parrying a blade with a stack held in one hand, to hardening and then flaking off the paper making up the Yurigami's body.  
+
+Type: D Rank \- Fuuton Ninjutsu  
+Chakra: 13  
+Special Upkeep: X  
+Speed: 2 \+ X/2  
+Special: Utility, Interrupt  
+Paper 1 \> 10  
+
+Effects: This Technique may be used on your turn, as an interrupt, or after a failed defense. if used after a defense, combine their Speeds together to determine if it’s a valid Interrupt. You may maintain this jutsu as a Speed Variable action similar to regular blocking (Including to Block as a Speed 0 Interrupt) as long as you have the upkeep.  
+
+This Technique counts as a Block, but starts at a base 0\% for reducing damage that cannot be increased except through the method below. Every sheet of Paper spent on this Technique increases Blocking's effectiveness by 5\%.
+
+### **Shihyaku No Kirikami \- Death of A Hundred Papercuts**
+
+The Yurigami folds their paper into any number of shapes, typically chakrams, that are razor sharp and extremely deadly.  
+
+Type: D Rank - Fuuton Ninjutsu  
+Chakra: 8 \+ X/2  
+Special Upkeep: X / 2  
+Damage: Xd8  
+Range: 5\+CHA/4  
+Speed: 3\+X/2  
+Special: Bleed X/2  
+Paper: X  
+
+Effects: X is the number of Paper Projectiles thrown and has a maximum of your multi-throw maximum. While you maintain the upkeep on this jutsu you can recast this jutsu without having to pay the Paper cost, but taking any action other than Shihyaku No Kirikami - Death of A Hundred Papercuts gains a additional cost of Chakra 10 cost as you have to maintain control over your swarm of projectiles.
+
+This jutsu gains a stacking 5\% wounding increase every consecutive attack without taking a non-interrupt action in between uses.
 
 ### **Origami Dōka No Jutsu \- Origami Paper Assimilation Technique**
 
 As they are able to split portions of their body off into paper, the Yurigami can similarly reintegrate that same paper to themselves to patch up any serious injuries they've attained. Still, there is a difference between mere paper, and paper which is 'them'; regrettably, being in a library does not make them near-immortal.
 
-Type: C Rank \- General Ninjutsu  
-Chakra: 10+X  
+Type: C Rank - General Ninjutsu  
+Chakra: 10\+X  
 Speed: 14  
 Seal Speed: 10  
-Requires: Sheets of Paper.
+Paper X  
 
-Effects: X is the amount of Shikigami Paper spent on this Technique. You may negate a wound that you are suffering from by absorbing 10 Shikigami Papers into your body per Severity of the Wound (10 for Minors, 20 for Majors, 30 for Severes, 40 for Criticals). This does not actually heal the wound, it is still there and will heal normally, you simply do not suffer its effects for the duration that it remains.
-
-### **Oritaishi No Jutsu \- Folded Parchments Technique**
-
-The Yurigami strengthens several pieces of paper, using them as a physical barrier against attacks. This can be done any number of ways, from a levitating cloud of folded papers, to parrying a blade with a stack held in one hand, to hardening and then flaking off the paper making up the Yurigami's body.
-
-Type: D Rank \- General Ninjutsu  
-Chakra: 13  
-Speed: 8  
-Seal Speed: 7  
-Special: Interrupt, Link  
-Requires: Sheets of Paper.
-
-Effects: This Technique counts as a Block, but this special Block has a base 0% for reducing damage. Every sheet of Paper spent on this Technique increases Blocking's effectiveness by 3%. Shikigami Paper spent this way increases Blocking's effectiveness by 5% instead. You are still limited by the cap of paper spent from Paper Control.
-
-This Technique may also be used after a failed defense, combining their Speeds together. So long as it is still a valid Interrupt. Used this way, it can only be performed with Shikigami Paper.
-
-### **Shihyaku No Kirikami \- Death of A Hundred Papercuts**
-
-The Yurigami folds their paper into any number of shapes, typically chakrams, that are razor sharp and extremely deadly.
-
-Type: D Rank \- General Ninjutsu  
-Chakra: 5+X/2  
-Damage: Xd6  
-Range: 5+CHA/4  
-Speed: 3+X/2  
-Special: \+1 Accuracy, Bleed X/2.  
-Requires: Sheets of Paper.
-
-Effects: X is the number of Paper Projectiles thrown. This Technique functions as a multi-throw, following its normal rules (Minimum 5 speed, extra DB per thrown weapon, Wounding reduced by 1 Step to a minimum of Minors, etc...), but for every 3 Papers that you spend, you may throw 1 Paper Projectile, minimum of 2 Projectiles.  Additionally, if you throw 10 or more Paper Projectiles, then the multi-throw gains an Area equal to (Paper Projectiles/2). You use your NDB in place of PDB.
-
-This can be modified, or used in conjunction, with anything that applies to Non-Senbon Thrown Weapons (Uniques, Abilities, Jutsus, etc...), but anything that increases the number of weapons you throw does not apply that effect.
+Effects: For the next hour you may negate any piercing wound that you are suffering from by absorbing 10 Shikigami Papers into your body per Severity of the Wound (10 for Minors, 20 for Majors, 30 for Severes, 40 for Criticals). This does not actually heal the wound, it is still there and will heal normally, you simply do not suffer its effects for the duration.
 
 ### **Kami Bunshin No Jutsu \- Paper Clone Technique**
 
-Using the Yurigami's control of paper, they modify the shape and color of their paper in order to create physical duplicates of themselves.
+Type: C Rank - General Ninjutsu
+Cost: 14 + 3 * X
+Speed: 10 + 2 * X
+Seal Speed: 6 + 1 * X
+Paper: 8 * X
+Effects: You create one or more Paper Clones which follow the normal rules for Clones, to a maximum of 3. Unlike normal clones, these Paper Clones do not immediately disappear upon being hit, and instead have an HP pool equal to your CHA / 4 and begin at Fatigue 1. If their HP pool reaches 0 or they gain a level of fatigue, they are destroyed. You may spend additional paper to increase each individual clone's HP by 5 per Shikigami Paper spent.
 
-Type: C Rank \- General Ninjutsu  
-Cost: 14 \+ 3 per Clone  
-Speed: 10 \+ 2 per Clone  
-Seal Speed: 6 \+ 1 per Clone  
-Requires: Sheets of Paper
+You may direct them to take actions by spending AP:
+These clones may use basic attacks, dodge, parry, move costing 1 AP per 3 speed of the Action or Interrupt they perform. They may also use Shihyaku No Kirikami - Death of A Hundred Papercuts where X is the clones remaining HP. If used in this way the clone becomes the storm and can no longer take any actions besides Shihyaku No Kirikami - Death of A Hundred Papercuts.
 
-Effects: You create one or more Paper Clones which follow the normal rules for Clones, to a maximum of 3\. Each clone requires a minimum of 10 Sheets of Paper to be created, though you may choose to spend more than 10 on each individual clone. Unlike normal clones, these Paper Clones do not immediately disappear upon being hit, and instead have an HP pool equal to 5 times the amount of Paper spent on that individual clone. If their HP pool reaches 0, they are destroyed. By default, you are considered hidden among your clones when you create them. You may direct them to take actions by spending AP.
-
-These clones may use basic attacks, dodge, parry, move, and the "Shihyaku No Kirikami" and "Oritaishi No Jutsu" Techniques. Costing 1 AP per 3 speed of the Action or Interrupt they perform. However, they do not spend any Paper for their Yurigami Techniques, instead always counting as having used an amount of Paper equal to the amount spent on the creation of that specific Clone.
 
 ### **Chiharetsu No Jutsu \- Bursting Knowledge Technique**
 
 Type: C Rank \- General Ninjutsu  
 Chakra: 5 \* X  
 Speed: 2 \* X  
+Delay: 10  
 Special: Link  
-Requires: Shikigami Paper, Chakra Control 15\.
+Requires: Shikigami Paper, Chakra Control 15  
 
-Effects: X is the number of Explosive Tags created. You create a Tier 1 Explosive Tag for every 5 Shikigami Paper spent on this Technique. And may use them normally as per the Explosive Tags rules. If you possess a Chakra Control Rank of 20 or higher, then you may spend 10 Shikigami Papers to instead create Tier 2 Explosive Tags, these count as 2 Explosive Tags for the purpose of X calculations. All Explosive Tags created by this Jutsu last for (Chakra Control Ranks) amount of Hours, after that, the paper becomes a dud and turns into ash.
+Effects: You end any jutsu currently active that you used Shikigami paper to activate. Any paper spent on the jutsu turns into that many /2 exploding tags with the Area changing depending on the jutsu used:  
 
-Additionally, you may also use this as a Link to your "Shihyaku No Kirikami" multi-throw attack, mixing in explosively charged papers amongst the thrown projectiles. Paying the Chakra Cost of each separately and combining their Speed for the purpose of Defense Validation and how much your IC is moved. The Explosive Tags are automatically applied to any target you hit, and will explode within 15 ICs. When this happens, the target and anybody else in the battlefield is allowed an Awareness Check vs your Espionage to notice the Tag, if they do, they may destroy all tags applied to themselves or somebody within Melee range as a Speed 2 \* X Action, nullifying the explosion. If your attack misses, the Explosive Tags still get placed on the ground. And others must still roll to notice them. If "Shihyaku No Kirikami" has an Area, then you must choose how to divide the Explosive Tags between the targets struck, you may also choose to instead place the Explosive Tags in any spot within the multi-throw's Area, and can mix and match between these options.
+Oritaishi No Jutsu - Folded Parchments Technique | The area if the exploding tags becomes a semi-circle with the same radius as normal with the number of exploding tags that you choose which direction to orient it. The explosion is centered on you but does not affect you.  
+
+Shihyaku No Kirikami - Death of A Hundred Papercuts | You send the swarm of projectiles to any location within range of the technique and explode it using the normal Exploding Tag rules.  
+
+Origami Dōka No Jutsu - Origami Paper Assimilation Technique | Not a recommended use of this technique, exploding paper currently patching a hole in your body but has its uses. This explodes using the normal rules of exploding tags centered on you, except the following changes: It’s treated as a surprise attack, the delay of the jutsu is removed, and you automatically take double the normal amount of damage from the Exploding Tags.  
+
+Kami Bunshin No Jutsu - Paper Clone Technique | You can explode any number of clones on the field with each one being treated as having exploding tags equal to the paper you spent on that individual clone. Overlapping radius’s don’t increase the amount of damage a target takes but increases the Area of the largest one by half if each smaller area that a target is within. 
+
+Shikigami No Odori - Dance of the Shikigami | The ultimate Kamikaze technique that takes you out of the fight but takes your opponent with you. You explode every Shikigami Paper currently in your possession with a number of Exploding Tags equal to twice that amount. The explosion follows normal Exploding tag rules with the following changes.
 
 ### **Shikigami No Odori \- Dance of the Shikigami**
 
-The pinnacle of development of the Yurigami's abilities, with this ability not only can they turn themselves completely into paper, they no longer need to maintain their body's physical cohesion; they are every bit as self-aware as a cloud of flying sheets of paper as in a true 'human' form. Whether or not a Yurigami capable of performing this technique can even be considered fully human any more is up for debate.
+The pinnacle of development of the Yurigami's abilities, with this ability not only can they turn themselves completely into paper, they no longer need to maintain their body's physical cohesion; they are every bit as self-aware as a cloud of flying sheets of paper as in a true 'human' form. Whether or not a Yurigami capable of performing this technique can even be considered fully human any more is up for debate.  
 
-Type: B Rank \- General Ninjutsu  
-Chakra: 31  
-Upkeep: 8  
+Type: B Rank - General Ninjutsu  
+Chakra: 30  
+Special Upkeep: 8  
 Speed: 17  
 Seal Speed: 22  
-Requires: 1 Willpower.
+Requires: 1 Willpower  
 
-Effects: You turn your body into a mass of rapidly expanding paper after spending 1 Willpower. In this form you start generating 5 Shikigami Papers every 10 ICs at no extra cost to you. Though you are still limited by the normal maximum of Shikigami Papers held.
+Effects: You turn your body into a mass of rapidly expanding paper after spending 1 Willpower. In this form you start generating 1 Shikigami Paper every 5 ICs at no extra cost to you and have DR equal to the amount of Shikigami Paper you have.
+You take 25\% less Damage from Blunt and Piercing Damage Types. Are immune to Bleeds, Burns, and Poisons and end any such statuses immediately. Doujutsus or any other forms of sensory powers (Even Natural Chakra's) cannot automatically distinguish you from your Paper Clones, and may not use any benefits they give to discover you (Such as the Scan Action).  You cannot be directly targeted by Genjutsu (though Area Genjutsu will affect you normally). And any non-Area Ranged Attacks receive a \-4 Accuracy against you.  
 
-You take 25% less Damage from Blunt and Piercing Damage Types. Are immune to Bleeds, Burns, and Poisons and end any such statuses immediately. Doujutsus or any other forms of sensory powers (Even Natural Chakra's) cannot automatically distinguish you from your Paper Clones, and may not use any benefits they give to discover you (Such as the Scan Action).  You cannot be directly targeted by Genjutsu (though Area Genjutsu will affect you normally). And any non-Area Ranged Attacks receive a \-4 Accuracy against you.
-
-However, You cannot perform any non-Yurigami Jutsu while maintaining this Technique. Take \+25% Damage from Energy Damage Type. Any Ignite you gain counts as double its Severity. And you have a \-4 to Dodge any Techniques with an Area.
-
-You can use this form to travel through tight spaces. And even possess the ability of flight. When flying, your movement speed is halved, though you ignore any ground based effects. And you may fly upwards, up to a maximum height in Yards equal to (Chakra Control Ranks/2). You may not be hit by Melee Attacks unless they can perform a "Move with an Attack" maneuver equal to your elevation (By jumping\!).
+However, you gain the following penalties: Cannot perform any non-Yurigami Jutsu, take \+25\% Damage from Energy Damage Type, Any Ignite you gain counts as double its Severity, You have a \-4 to Dodge any Techniques with an Area.
+You can use this form to travel through tight spaces. And even possess the ability of flight. When flying, your movement speed is halved, though you ignore any ground based effects. And you may fly upwards, up to a maximum height in Yards equal to (Chakra Control Ranks/2). You may not be hit by Melee Attacks unless they can perform a "Move with an Attack" maneuver equal to your elevation (By jumping).
 
 ## **TARO**
 
