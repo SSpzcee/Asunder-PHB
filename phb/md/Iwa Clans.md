@@ -330,69 +330,77 @@ The Tesso are relatively new to the village; they have already learned how to ge
 
 ### **Earthbound**
 
-(Flavor Text)
+You were practically born underground (or maybe literally for some) and thus have a lot of experience doing things while 6ft under. So maneuvering while underground is slightly less debilitating for you and sensing opponents through the earth is practically child's play.  
 
 Type: Ability  
 Cost: 5  
 Scale: 2  
-Limit: XP/500, max 5
+Limit: XP/500, max 5  
 
-Effect: When you gain this Ability, you halve the Immobilization and Visibility Status penalties (Rounding Down) provided by the Buried Status or from any Doton sources, and no longer receive Damage or Suffocation when you have  Buried of 5 or higher.   
-Additionally, using Tremorsense no longer has a Chakra Cost for you nor a Seal Speed requirement, and you gain a \-1 Reduction to the Base Speed of Tremorsense and a \+1 to its Search roll per Rank in this Ability.
+When you gain this Ability, you halve the Immobilization and Visibility Status penalties (Rounding Down) provided by the Buried Status or from any Doton sources, and gain a bonus to stealth TNs equal to your Buried Status \* 2.  
+
+Additionally, using Tremorsense no longer has a Chakra Cost for you nor a Seal Speed requirement, and you gain a \-1 Reduction to the Base Speed of Tremorsense and a \+1 to its Search roll per Rank in this Ability.  
 
 ### **Badgering Gouge**
 
-(Flavor Text)
+Your hands are tipped with extremely thick, very flat, and terrifyingly sharp claws similar to that of a mole. You can also use these claws to dig through the earth at a rate of about five times faster than somebody with tools can. Though this is unfortunately not fast enough to be relevant in a fight.  
 
 Type: Ability  
 Cost: 2  
 Scale: 2  
 Limit: STR/20
 
-Effects: Your hands are tipped with extremely thick, very flat, and terrifyingly sharp claws similar to that of a mole. When you gain this Ability, your Unarmed and Combo Taijutsu become able to ignore Armor and may deal Slashing damage if you so choose. Additionally for every Rank you have in this Ability, your Unarmed and Combo Attacks gain a \+3% Bonus to Damage so long as they use hands to hit.  
-You can also use these claws to dig through the earth at a rate of about five times faster than somebody with tools can. Though this is unfortunately not fast enough to be relevant in a fight. 
+Effects: 
+You may choose to have your Taijutsu attacks deal slashing damage.  
+
+Additionally as long as you have any Buried Status for every Rank you have in this Ability your Basic Attacks and Taijutsu attacks with the Arm tag deal an extra die of damage and reduce the effectiveness of armor by 5\%. So 3 ranks would provide 3 extra dice and reduce armor by 25\%.  
 
 ### **Moguhonmono No Jutsu \- Tunnel Burrowing Rodent Technique**
 
-(Flavor Text)
+You begin effortlessly burrowing into the ground with your extremely hard and flat claws and you are still aware of everything that is happening on the surface thanks to your honed tactile senses able to detect even the faintest of vibrations.  
 
-Type: D Rank \- Doton Ninjutsu  
-Stamina: 10+X  
-Chakra: 12+X  
-Upkeep: 1+X  
-Speed: 4+X 
+Type: D Rank - Doton Ninjutsu  
+Chakra: 12 \+ X  
+Special Upkeep: 1 \+ X  
+Speed: 3 \+ X\*2  
 
-Effect: X has a maximum of 5\. And this Technique can never take you more than 5 Yards below the surface. You begin effortlessly burrowing into the ground with your extremely hard and flat claws , descending X Yards deep below the surface of the earth. You take a Buried Status Condition equal to the number of Yards you are below the surface. And then you Hide for free, with your Stealth level counting as Level 1 if you have Buried 1 or 2, Level 2 for Buried 3 or 4, and Level 3 for Buried 5\. You are immune to all Ground-Based and Environmental Effects that don't explicitly extend to underground. And you are still aware of everything that is happening on the surface thanks to your honed tactile senses able to detect even the faintest of vibrations.  
-So long as you maintain the Upkeep for this Technique, you may then begin moving underground by tunneling through dirt, rocks, or even worked stone (Though cannot descend or ascend through this movement), using your STR instead of AGI to determine your movement speed. You cannot use any form of movement option other than the Move Action, which does not break your Stealth regardless of Stealth Level. And nor can you target anybody else that doesn't have the same Buried Severity as you with any Attack or Jutsu, with the exception of Doton Jutsus which do not break your Stealth but instead lower your TN by 5\. You can ascend or descend Y Yards as a Speed 3+Y, Stamina 5+Y Yards, where Y is the difference between your current depth and your desired depth. If you end the Upkeep of this Technique, you ascend back up to the nearest unoccupied spot on the surface.  
-You cannot be revealed from Stealth through the "Point Out" Action. Anyone who has discovered you can Attack you while you are under the ground. Though the Attack still has to hit you, which you may only Dodge, not Parry. An attack which hits you and deals at least (Your Buried Severity \* 40\) Damage will break through the surface of the earth above you, ending this Jutsu forcibly. But the actual damage dealt to you will be reduced by half (after seeing if it does enough to break the earth above you). The Damage of Raiton Attacks is doubled before all calculations when targeting you in this manner. And the Damage of Suiton is halved. If an Attack towards you fails to meet that Damage threshold (Including non-Damage Dealing Jutsus), then it automatically misses.
+Tags: Utility, Self, Ground-Based  
+
+Effect:  
+You descend X Yards below the surface of the earth and gain Buried X to a maximum of 5. You may hide for free as part of this jutsu and for the duration of that Stealth Doton Jutsus do not break your Stealth but instead lower your TN by 5.  
+
+While you maintain the Upkeep for this Technique, you are immune to all Ground-Based and Environmental Effects that don't explicitly extend to underground. You cannot move in any way besides the Move Action, which uses your STR instead of AGI. You can ascend or descend Y Yards as a Speed 3 \+ Y, Stamina 8 \+ Y Yards, where Y is the difference between your current depth and your desired depth.  
+
+If you end the Upkeep of this Technique, you ascend back up to the nearest unoccupied spot on the surface. The technique also ends if the durability of the ground above you is reduced to 0.  
 
 ### **Hōkai Meikai No Jutsu \- Collapsing to the Underworld Technique**
 
-(Flavor Text)
+You cause the ground beneath the Target to collapse into a tunnel trapping them below the surface with you.  
 
 Type: C Rank \- Doton Ninjutsu  
-Stamina: 16  
-Chakra: 19  
-Range: Special  
-Speed: 10
+Chakra: 20  
+Speed: 14  
+Special: Stun 5  
 
-Effect: This is an automatic Sneak Attack. You can only use this Jutsu to target somebody that is directly above you while you are underground. You cause the ground beneath the Target to collapse into a tunnel that leads to you. This cannot be Parried or Blocked, only Dodged. If the Target fails, then they are dragged into the tunnel and gain the same amount of Buried Severity as you alongside a Stun of 5\. You may then perform a free Grab (As per the Jutsu) on the Target with an extra \+2 Accuracy bonus. Both you and your Target are now able to target each other.  
-Anybody else on the surface can Attack you while the two of you are under the ground. Any attack which deals at least (Your Buried Severity \* 40\) Damage will break through the surface of the earth above you, ending this Jutsu forcibly and kicking both of you back to the nearest unoccupied space on the surface. But the actual damage dealt to you will be reduced by half (after seeing if it does enough to break the earth above you). The Damage of Raiton Attacks is doubled before all calculations when targeting either of you in this manner.
+Effect:  
+This is an automatic Sneak Attack. You can only use this Jutsu to target somebody that is directly above you while you are underground. This cannot be Parried or Blocked, only Dodged. If the Target fails, they gain the same amount of Buried Severity as you and you are Clinching your opponent.  
+
+When the grapple ends the opponent may immediately escape through the tunnel and end their buried status.  
 
 ### **Yōshoku Damu No Jutsu \- Cultivating Dam Technique**
 
-(Flavor Text)
+You create a giant bowl-like Dam of rock which gradually collects huge boulders inside of it before shattering to cause an avalanche on the poor fools nearby. As more boulders are gathered the bowl grows in size pushing everything in its way except for extremely heavy objects.  
 
 Type: B Rank \- Doton Ninjutsu  
 Chakra: 22  
-Damage: Special  
 Range: 15  
-Area: 10, Special  
+Cube: X  
 Speed: 10  
-Seal Speed: 13
+Seal Speed: 24  
 
-Effect: You create a 10x10 Yards giant bowl-like Dam of rock in an unoccupied space that'll last for 50 ICs, nobody can cross that space while the Dam is around. The Dam is empty and can hold up to (CHA/2) Clods of earth, which is an arbitrary unit that represents how much of the Dam's volume is filled up. While you are underground and proceed to dig through the earth through Techniques such as "Moving Underground as if Swimming" or "Tunnel Burrowing Rodent Technique", every 1 Yard of earth that you dig through to move is mystically transported as 1 Clod into the Dam, filling it up.  
-Once 30 ICs have passed or the Dam is completely filled up, the Dam's walls will begin to crack before quickly crumbling apart, causing all of the Clods stored within to descend onto the battlefield in a destructive avalanche of dirt and stone. This is an Area (Clods/2) Attack centered on spot the Dam was created that deals (Clods)D20 Blunt Damage, using your Ninjutsu Accuracy at the time that the Dam was originally created, and does not deal any additional (Speed \* DB) Damage. It cannot be Parried even by Nin Parries due to the sheer mass of the avalanche of rock. Anybody that has something which allows them to ignore Ground-Based Conditions except for "Pool of Water Technique" automatically avoids this Attack. Anybody that is hit by this Attack takes the Buried Status of a Severity of (Clods/5)
+Effect:  
+Anything currently present in the Area is shifted to the outer edge of it, but anything weighing over 1 ton prevents this jutsu from being cast in (or extended to) that location. The Dam is empty and can hold up to (CHA\/2) rocks. X begins at 1 and is equal to your Rocks.  
 
-## 
+While you are underground and proceed to dig through the earth through Techniques such as Moving Underground as if Swimming or Tunnel Burrowing Rodent Technique, every 1 Yard of earth that you dig through to move is mystically transported as 1 Rock into the Dam, filling it up.  
 
+Once 30 ICs have passed or the Dam is completely filled up, the Dam's walls crack before quickly crumbling apart, causing all Rocks stored within to descend onto the battlefield in a destructive avalanche. This attack uses your Ninjutsu Accuracy at the time that the Dam was originally created, has an area of Cube: X \+ 10, deals Xd20 damage, and does not deal any additional (Speed \* DB) Damage. It cannot be Parried even by Nin Parries due to the sheer mass of the avalanche of rock. Anybody that has something which allows them to ignore Ground-Based Conditions automatically avoids this Attack. Anybody that is hit by this Attack takes the Buried Status of a Severity of X\/5.
