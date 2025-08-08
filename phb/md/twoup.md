@@ -85,7 +85,7 @@ Additionally, you have an Elemental Shaping pool which dictates how much you can
 
 \> 8 points: +1 Accuracy
 
-\> 6 points: Add an Elemental Effect Paralysis: Stun 1 (Doton), Burns 1 (Katon), Para 1 (Raiton), -1 Chakra Cost (Suiton), Knockback 1 yard (Fuuton)
+\> 6 points: Add an Elemental Effect: Immobility +1 (Doton), Burns +1 (Katon), Paralysis +1 for 10 IC (Raiton), Stun +2 (Suiton), Knockback +4 yard (Fuuton)
 
 \> 5 points: +1 Area/Radius
 
@@ -95,8 +95,7 @@ Additionally, you have an Elemental Shaping pool which dictates how much you can
 
 \> 1 points: +1 Range
 
-For every 4 points the cost increases by 1 Chakra.
-
+For every 3 points (rounded down) the cost of the jutsu increases by 1 Chakra.  
 
 There are some exceptions to the above: The Damage Dice from this Unique are rolled separately from the normal damage rolls and added at the end to the final total, meaning if the damage has special functions such as Katon’s exploding dice or Raiton’s multipliers then these extra die don’t benefit from them. For jutsu which launch projectiles at targets (but are not AoE, such as Houenka), additional targets gives a single extra projectile. Area and Range increases cannot add more than half the technique’s original Area or Range, and Range cannot modify a technique whose range is Touch. Similarly, any technique which does not list Area or Range cannot have them added to it to gain those qualities. The effects added from Shaping (aside from Suiton’s, which is automatic) do not require a status roll, but do require you to hit, and accordingly do not apply to environmental effects (such as Hidden Mist, or Yomi Numa), though they can be added to techniques which already have them, so long as they’re a valid choice.
 
