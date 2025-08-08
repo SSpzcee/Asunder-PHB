@@ -116,8 +116,8 @@ Limit: STR \/ 40
 ### **Evasive**
 You're big on not being around when people try to violently end your life. Every rank gives you a \+1 bonus to dodge, it's awesome!
 
-Cost: 4  
-Scale: 2  
+Cost: 6 
+Scale: 1  
 Limit: AGI /20, max 10  
 
 ### **Swift**
@@ -368,8 +368,8 @@ Requires: Genjutsu Mastery 3
 ### **Accurate**
 You've got good hand-eye coordination, which lends itself towards hitting with your attacks. You have a \+1 bonus per rank to your Accuracy.
 
-Cost: 4 
-Scale: 2 
+Cost: 6
+Scale: 1 
 Limit: DEX /20, max 10
 
 ### **Instinct**
@@ -377,7 +377,7 @@ You've learned to rely on your instincts to guide you in battle, helping to impr
 
 Each rank gives a \+1 bonus to dodge.
 
-Cost: 8
+Cost: 6
 Scale: 2
 Limit: Survival /5
 
@@ -401,7 +401,7 @@ This gives you a \+1 bonus to Awareness rolls per rank.
 
 Cost: 9
 Scale: 1
-Limit: CHA /20, max 4
+Limit: CHA /25, max 4
 
 Special: The two "Enhanced (Sense)" abilities share a Scale.
 That is, if you already had four ranks of Enhanced Sight, the first rank of Enhanced Hearing would cost (9\+(1\*4) = ) 13 XP.
@@ -413,7 +413,7 @@ This gives you a +1 bonus to Awareness rolls per rank.
 
 Cost: 9
 Scale: 1
-Limit: (CHA - 10) /20, max 4
+Limit: (CHA - 10) /25, max 4
 
 Special: The two "Enhanced (Sense)" abilities share a Scale.
 That is, if you already had four ranks of Enhanced Sight, the first rank of Enhanced Hearing would cost (9\+(1\*4) = ) 13 XP.
@@ -509,7 +509,7 @@ You're an expert at misdirection; you know the signs people look for and pick up
 
 This gives you a \+1 bonus to Accuracy per rank.
 
-Cost: 8
+Cost: 6
 Scale: 2
 Limit: Espionage /5
 
@@ -554,7 +554,7 @@ You have excellent twitch reflexes. Mostly, this comes in handy for a ninja; you
 
 Each rank gives you \+1 Initiative and each even rank gives a +1 Athletics bonus.
 
-Cost: 8
+Cost: 7
 Limit: AGI /10, Max 20
 
 ### **Rush**
