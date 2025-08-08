@@ -104,12 +104,21 @@ Limit: (STR \- 20) /10
 
 ## **Mobility**
 
+### **Taijutsu Expertise**
+You have chosen the path of taijutsu, the superior method of fighting. Through training you've developed enough tricks to improve your ability to land these types of attacks.  
+
+This gives you a \+1 bonus to Taijutsu Accuracy per rank.  
+
+Cost: 5  
+Scale: 2  
+Limit: STR \/ 40  
+
 ### **Evasive**
 You're big on not being around when people try to violently end your life. Every rank gives you a \+1 bonus to dodge, it's awesome!
 
-Cost: 4
-Scale: 2
-Limit: AGI /20, max 10
+Cost: 4  
+Scale: 2  
+Limit: AGI /20, max 10  
 
 ### **Swift**
 Swift, adjective; happening quickly or promptly. Your swiftness allows you to react faster, and makes it harder for your opponents to keep up with you. Each rank gives you \+1 to Accuracy.
@@ -267,6 +276,15 @@ Limit: CHA /10
 Requires: 80 CHA
 
 ## **Chakra Control**
+
+### **Ninjutsu Expertise**
+You have chosen the path of ninjutsu, the superior method of fighting. Through training you've developed tricks to improve your ability to land these types of attacks.  
+
+This gives you a \+1 bonus to Ninjutsu Accuracy per rank.  
+
+Cost: 5  
+Scale: 2  
+Limit: CHA \/ 40  
 
 ### **Refined Chakra Control**
 Your precise control of chakra allows you to spend it more efficiently, wasting less and getting more out of what you do spend.
