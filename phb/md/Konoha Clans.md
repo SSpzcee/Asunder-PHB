@@ -34,7 +34,29 @@ Aburame gain access to the following actions to utilize their Kikaichu:
 
 *\[AP X or Speed X\] Move \-* The Swarm Moves up to CHA/30 Yards every IC for the next X IC. The swarm can slip through tiny cracks and fly.
 
- 
+### **Kikaichu Trainer**
+
+In the beginning, the Aburame’s relationship with their Kikaichu is one of the Host tapping into the Kikaichu’s natural instinct: follow chakra, sate your hunger, protect your home. Through discipline, an Aburame can train their Kikaichu to perform more nuanced actions.
+
+Cost: 15  
+Limit: 1  
+Effects:
+
+The Aburame may now use their bugs to make skill checks through their Kikaichu at range. The normal rules for communicating with Kikaichu and how long they can survive apart from the Host apply. Although the duration is increased to a week. Storytellers may apply a penalty of up to \-10 on checks Kikaichu are ill suited for, or even disallow checks that Kikaichu simply could not do. The Aburame still performs any relevant actions and pays any associated cost. Many Aburame make Awareness, Stealth and/or Survival checks to spy, sneak a bug in, or track people. This does not meaningfully deplete the Aburame's Swarm, and Kikaichu no Jutsu does not need to be active to do this. A single Kikaichu can be trivially crushed by anyone who spots it.
+
+### **Crouching Mantis, Hidden Centipede**
+
+Discipline has evolved into ingenuity. Your Kikaichu are capable of more subtle approaches.  
+Cost: 20  
+Limit: 1  
+Requires: Kikaichu Training
+
+Effects:  
+The Aburame’s Kikaichu Swarm is now considered a separate character for the purposes of Stealth. Clan Ninjutsu no longer end the Aburame’s Stealth, but will end the Swarm’s. If the Aburame is in Stealth when they use Kikaichu no Jutsu, the Swarm is created with the same Stealth TN. If the Swarm triggers a Chakra roll, its Stealth ends. The Aburame may have Hide and Improve Hiding affect their Swarm instead of themselves.
+Additionally, the Aburame gets access to the following actions: 
+
+[Speed \+10, Delay 10] Secrete Bugs - This action modifies Kikaichu no Jutsu while the Aburame is not in Stealth. The Swarm is created in Stealth 2.  
+[Speed 0 Interrupt] Wait - You may declare a Kikaichu Swarm in Stealth is waiting. While waiting, the Kikaichu Swarm passively and discretely crawls on opponents, waiting to bite all at once. While the Swarm remains in stealth it adds 1 Female Insect every 25 IC (10 Minutes out of Combat). Out of combat, this increases Bugs to a maximum of 10. Out of combat this prompts an Awareness roll from anyone who gets Bugs.
 
 ### **Hijutsu: Mushiyose \- Secret Technique: Bug Gathering**
 
@@ -48,138 +70,78 @@ Seal Speed: 12
 Effect:   
 This grants the Aburame a \+5 bonus on relevant Survival, Awareness, and Research rolls, or \+20 when the roll directly relates to finding or understanding insects. The Aburame may be able to get information not normally available, but there is no guarantee a bug's perspective will be useful.
 
- 
-
 ### **Hijutsu: Konchū no Bōdō \- Hidden Technique: Insect Insurrection**
 
-By instinct, Kikaichu adopt greedy and highly aggressive tactics against opponents. When a threat to the hive is detected, they swarm and drain as much Chakra as possible, gorging themselves and either warding off the predator or killing them. Trained and focused Aburame can use the chaos of battle to allow some bugs to nest themselves on or in an opponent.
+By instinct, Kikaichu adopt greedy and highly aggressive tactics against opponents. When a threat to the hive is detected, they swarm and drain as much Chakra as possible, gorging themselves and either warding off the predator or killing them. Trained and focused Aburame can use the chaos of battle to allow some bugs to nest themselves on or in an opponent.  
 
 Type: Ninjutsu, Rank E  
-Cost: 3 AP  
-Speed: \+5  
-Delay: \+5
+Speed: \+2  
+Delay: 5  
+Tags: Link  
 
-Effects:  
-This add on modifies any attack that needs to hit an opponent. If the attack hits an opponent within a Swarm or within 2 Yards of the Aburame, then the Aburame places 1 "Bugs" on the opponent, an arbitrary measurement of how many insects are hidden on the opponent's person. Bugs apply twice their rating as a bonus on Awareness and Survival rolls against the opponent.
-
-The Bugs are considered to be in Stealth 3\. They use the Aburame's Stealth as though they rolled a 10\. This isn't affected by and doesn’t contribute to the penalties for attempting Stealth multiple times per combat. If the person with the Bugs spots the Bugs, those Bugs are immediately removed but the afflicted person receives Stun 2 per Bugs on them. This does not help with further applications of Bugs, which must be found separately. As a Speed 12 action you can have the Bugs reveal themselves.
-
- 
+Effects:    
+This add-on modifies any jutsu with the attack tag increasing to Speed 5 if the jutsu has an Area. If the attack hits, the Aburame places a female insect on the opponent after the delay ends. They are hidden with a Stealth TN of 25 \+ your stealth bonus. This isn't affected by and doesn’t contribute to the penalties for attempting Stealth multiple times per combat. If the person with the Bugs spots them, they may remove them with a Speed 5 action increased by 1 per every extra female insect currently on them.  
 
 ### **Hijutsu: Kikaichu Mushikui \- Hidden Technique: Destruction Bug Bite**
 
-Your Kikaichu smarm an individual target, tearing away a chunk of their Chakra and leaving unpleasant bites.
+Your Kikaichu smarm an individual target, tearing away a chunk of their Chakra and leaving unpleasant bites.  
 
 Type: Ninjutsu, Rank D  
-Chakra: 20  
-Speed: 12  
-Range: 2
+Chakra: 15  
+Area: As Parasitic Destruction Insect Technique - Kikaichu no Jutsu  
+Speed: 8  
+Accuracy: \+X\/4  
+Tags: Attack, Self  
 
-Effects:   
-This attack may target someone in a Kikaichu Swarm, ignoring range. Although it only targets a single individual, calculate Dodge penalties based on the Swarm’s area. The target gains Bleed 5+X/2 and then must make a Chakra 15+X roll, where X is the number of Bugs on the opponent.
-
- 
-
-### **Hijutsu: Mushimayu \- Hidden Technique: Bug Cocoon**
-
-This unique technique allows the user to accelerate the growth of their insects. As the user's body is already a hive of sorts for the insects, the user will encase themselves in an actual cocoon of chakra to further aid the insects. 
-
-Type: Ninjutsu, Rank D  
-Chakra: 10+X  
-Speed: Variable  
-Seal Speed: 25
-
-Effects:   
-The value of X is determined, and the Chakra cost paid, after this Jutsu ends. While active, the Aburame’s Swarm replenishes CHA/5 VitalityChakra per IC. X is equal to the number of IC this Jutsu was maintained. While active, this Jutsu can be disrupted by damage as though it were the Perform Hand-Seals action. Using this Jutsu does not end Stealth for Host or Swarm.
-
- 
+Effects:  
+X is the number of female insects on a target. The target must make a Chakra 8 \+ X \* 3 (To a max of 10 \+ your Chakra Control) roll and take irreducible damage equal to triple the chakra cost. This damage is tripled again if the target fails the chakra roll. Any female insects on the target increase their Stealth Level by 1 to a max of 3.  
 
 ### **Hijutsu: Mushidama \- Hidden Technique: Bug Sphere**
 
-The user sends their kikaichū to spread over a wide range, and the moment they locate the target, the insects gather at once, forming a sphere around the target. Even if the target manages to escape, the insects will immediately follow.
+The user sends their kikaichū to spread over a wide range, and the moment they locate the target, the insects gather at once, forming a sphere around the target. Even if the target manages to escape, the insects will immediately follow.  
 
 Type: Ninjutsu, Rank C  
-Chakra: 26  
+Chakra: 24  
 Upkeep: 4  
-Speed: 16
-
-Requires: Kikaichu no Jutsu active, Hijutsu: Konchū no Bōdō known
-
+Speed: 16  
+Accuracy: \+X\/3  
 Effect:  
-Target one person inside a Swarm but calculate their Dodge penalties based on the Swarm’s area. If this attack hits, a Swarm the opponent is in converges and envelops them. Its Area of Effect is reduced to 1 Yard, centered on the target. If the opponent moves, the Swarm will automatically chase them at a rate of CHA/30 Yards per IC. While in the Swarm,. the opponent gains a \-2 Immobilization penalty. Every 10 IC spent in the Swarm applies 1 Bugs and increases the penalty by 1\. Leaving the area and then returning resets the penalty.
+X is the number of female insects on a target. Target one person inside your Swarm but calculate their Dodge penalties based on the Swarm’s area. If it hits, the Swarm surrounds the target (losing its Area) and cannot be used for anything besides Hijutsu: Kikaichu Mushikui - Hidden Technique: Destruction Bug Bite targeting only the one surrounded. While in the Swarm, the opponent gains a -2 Immobilization penalty. Every 10 IC spent in the Swarm applies another female insect to the target. If the opponent moves, the Swarm will automatically chase them at a rate of CHA/30 Yards per IC.  
 
- 
+You may end this jutsu with a Return action either reverting the swarm back to normal or returning them to your body as usual.  
 
 ### **Mushi Bunshin no Jutsu \- Bug Clone Technique**
 
-An Aburame has thousands of their kikaichū gather together until they've taken on the size and appearance of the Aburame, to be used either as a decoy or a diversion. The insect clone can be created anywhere that the kikaichū are positioned or sent to.
+An Aburame has thousands of their kikaichū gather together until they've taken on the size and appearance of the Aburame, to be used either as a decoy or a diversion. The insect clone can be created anywhere that the kikaichū are positioned or sent to.  
 
 Type: Ninjutsu, Rank C  
-Chakra: 15+4\*X  
+Chakra: 15 \+ 4\*X  
 Upkeep: X  
-Speed: 14+X  
-Seal Speed: 6+3\*X
+Speed: 14 \+ X  
+Seal Speed: 6 \+ 3\*X
 
 Requires: Kikaichu no Jutsu active
 
 Effect:  
-Create X Clones, to a maximum of 3\. The Clones occupy anywhere in the Swarm, with swirling bug Swarms shifting their position. You don't need to track the clone's exact position and they are immune to area of effect attacks. While this Jutsu is maintained, using the Hide Among Clones action restores all Mushi Bunshin for free. If the Swarm is destroyed, this Jutsu ends.
+Create X Clones, to a maximum of 3. The Clones occupy anywhere in the Swarm, with swirling bug Swarms shifting their position. You don't need to track the clone's exact position and they are immune to area of effect attacks. While this Jutsu is maintained, using the Hide Among Clones action restores all Mushi Bunshin for free and the Area of your swarm is reduced by 20\% per clone. If the Swarm is destroyed, this Jutsu ends.
 
-The Clones have the Aburame's Stats as though they were Fatigue 0\. If they advance a Fatigue level, they are destroyed. Clones are created with copies of the items the user had, except for consumables, chakra-infused items, electronic items, and items with complex moving parts. 
+The Clones have the Aburame's Stats as though they were Fatigue 1. If they advance a Fatigue level, they are destroyed. Clones are created with copies of the items the user had, except for consumables, chakra-infused items, electronic items, and items with complex moving parts. 
 
-While one or more Clones are active, the Aburame gain access to the following actions:
-
-*\[Variable AP\] Attack:* The Clone performs a Basic Unarmed Attack, Basic Weapon Attack, a Dual Weapon Attack, or a Multi-Throw. The attack can use any Weapons the Clone has and the attack is modified by Insect Insurrection. This costs half of the total Speed in AP, instead of Insect Insurrection's regular AP cost. Use the Aburame's CHA in place of their STR and Ninjutsu DB in place of their Physical DB. This attack is considered to be Held Back. The Clones can only target someone else who is inside of the Swarm. 
-
-*\[1 AP\] Defend \-* The clone may Dodge or Parry (using any weapon it has or no weapon) any attack aimed at it. This will not defend the Swarm, but it may prevent the clone from becoming dispersed.
-
-*\[Speed 10\] Masquerade* \- With the Aburame’s direct help and guidance, the Swarm condenses down fully into a perfectly you-shaped area or returns to its normal shape. While you-shaped, it gains a \+5 bonus on any rolls to convince other people that it is you. This action can only be used if there is only one clone.
-
- 
+While one or more Clones are active, the Aburame gain access to the following actions:  
+[Variable AP] Attack: The Clone performs a Basic Unarmed Attack, Basic Weapon Attack, a Dual Weapon Attack, or a Multi-Throw. The attack can use any Weapons the Clone has and the attack is modified by Insect Insurrection. This costs half of the total Speed in AP, instead of Insect Insurrection's regular AP cost. Use the Aburame's CHA in place of their STR and Ninjutsu DB in place of their Physical DB. This attack is considered to be Held Back. The Clones can only target someone else who is inside of the Swarm.  
+[1 AP] Defend - The clone may Dodge or Parry (using any weapon it has or no weapon) any attack aimed at it. This will not defend the Swarm, but it may prevent the clone from becoming dispersed.  
+[Speed 10] Masquerade - With the Aburame’s direct help and guidance, the Swarm condenses down fully into a perfectly you-shaped area or returns to its normal shape. While you-shaped, it gains a \+5 bonus on any rolls to convince other people that it is you. This action can only be used if there is only one clone.  
 
 ### **Mushi Kame no Jutsu \- Bug Jar Technique**
 
 A technique capable of protecting against attacks by using kikaichū to fly in a dome shape at high speed. While proving defensive, a sufficient amount of explosive force can break through it.
 
 Type: Ninjutsu, Rank B  
-Cost: None  
 Speed: Variable  
-Requires: Kikaichu no Jutsu active
+Requires: Kikaichu no Jutsu active  
 
 Effect:  
 This is a variable Speed defensive action action declared like a Block. You may declare another variable speed defensive action alongside Bug Jar such as Block, Guard, Full Defense, Defensive Formation, et cetera. While active, the Aburame and any of their allies inside the Swarm may choose to let the swarm defend them when attacked. If they do, they may not apply another defense, but damage is subtracted from the Swarm’s Vitality before the protected person. Attacks that have their damage completely prevented are not considered to have hit their target. Bug Jar will stop non-damaging attacks that need to hit, but it will not stop Genjutsu.
-
- 
-
-### **\-=Aburame Abilities=-**
-
-**Kikaichu Trainer**
-
-In the beginning, the Aburame’s relationship with their Kikaichu is one of the Host tapping into the Kikaichu’s natural instinct: follow chakra, sate your hunger, protect your home. Through discipline, an Aburame can train their Kikaichu to perform more nuanced actions.
-
-Cost: 15  
-Limit: 1  
-Effects:
-
-The Aburame may now use their bugs to make skill checks through their Kikaichu at range. The normal rules for communicating with Kikaichu and how long they can survive apart from the Host apply. Although the duration is increased to a week. Storytellers may apply a penalty of up to \-10 on checks Kikaichu are ill suited for, or even disallow checks that Kikaichu simply could not do. The Aburame still performs any relevant actions and pays any associated cost. Many Aburame make Awareness, Stealth and/or Survival checks to spy, sneak a bug in, or track people. This does not meaningfully deplete the Aburame's Swarm, and Kikaichu no Jutsu does not need to be active to do this. A single Kikaichu can be trivially crushed by anyone who spots it.
-
-**Crouching Mantis, Hidden Centipede**
-
-Discipline has evolved into ingenuity. Your Kikaichu are capable of more subtle approaches.  
-Cost: 20  
-Limit: 1  
-Requires: Kikaichu Training
-
-Effects:  
-The Aburame’s Kikaichu Swarm is now considered a separate character for the purposes of Stealth. Clan Ninjutsu no longer end the Aburame’s Stealth, but will end the Swarm’s. If the Aburame is in Stealth when they use Kikaichu no Jutsu, the Swarm is created with the same Stealth TN. If the Swarm triggers a Chakra roll, its Stealth ends. The Aburame may have Hide and Improve Hiding affect their Swarm instead of themselves.
-
-Additionally, the Aburame gets access to the following actions:
-
-*\[Speed \+10\] Secrete Bugs \-* This action modifies Kikaichu no Jutsu while the Aburame is not in Stealth. The Swarm is created in Stealth 2\.
-
-*\[Speed 0 Interrupt\] Wait* \- You may declare a Kikaichu Swarm in Stealth is waiting. While waiting, the Kikaichu Swarm passively and discretely crawls on opponents, waiting to bite all at once. The Swarm does not cause Chakra rolls (so it does not break Stealth), but may addadds Bugs 1 every 10 IC (10 Minutes out of Combat). Out of combat, this increases Bugs to a maximum of 10\. Out of combat this prompts an Awareness roll from anyone who gets Bugs.
-
- 
 
 **Advanced Host**
 
