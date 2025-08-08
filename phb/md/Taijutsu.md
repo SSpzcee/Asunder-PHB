@@ -176,10 +176,9 @@ Special: \-6 Accuracy
 Tags: 2 Legs
 
 Effects:
-Your damage bonus is doubled for this attack. Even if it misses, the opponent might still be damaged by the shockwave (and destruction to the environment) the kick causes. For every point it misses by, your damage bonus is reduced by 10\%, and its damage is reduced by 1d20.
+Your damage bonus is doubled for this attack. Effects of partial hits for this jutsu are extended and deal 10\% per amount they succeed.  
 
-Should the issue arise, this technique's "shockwave" damage does not work against airborne opponents, including ones who have been rendered so by use of Kage Buyou.
- 
+For example on an accuracy 20 attack a defense of: 15-Full Hit, 16-90\%, 17-80\%, 18-70\%, 19-60\%, 20-50\%, 21-40\%, 22-30\%, 23-20\%, 24-10\%, 25-Fully Defended.  
 
 ### **Souji Reppuu \- Sweeping Gale**
 
