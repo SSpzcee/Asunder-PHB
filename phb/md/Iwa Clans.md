@@ -106,7 +106,7 @@ The world, and Earth Country especially, are full of many unique and wondrous ma
 Type: Ability  
 Cost: 5  
 Scale: 5  
-Limit: Artisan/5, Max 6
+Limit: 1+Artisan/10, Max 6
 
 Effect: For each Rank taken in this Ability, you unlock one of the Wondrous Materials listed below, becoming able to utilize that material in the place of common steel to craft your weapons and armor with. Each Wondrous Material has special properties which change slightly in effect based on whether it's a weapon or armor they're being used for, and a cost modifier that multiplies the final cost of the Weapon or Armor being made. 
 
@@ -117,7 +117,7 @@ You are only ever able to use one specific Wondrous Material for each Weapon or 
 A silvery blue metal named for its miraculous lightness which has been described as "light as a cloud". Although it can be (And often is, by the untrained eye) easily mistaken for common tin ore at a glance in its unworked state, it is anything but. Far lighter than any steel alloy, while being just as durable, allows the Tekketsu to forge Weapons and Armor out of Skysteel that are just as strong as their steel counterparts, while being far lighter. Anything made from this metal has a soft, blue sheen to it. And, with the right forging techniques applied, can even be made to appear as blue as the sky.   
 Weapon Effect: The Delay of Jutsus or Attacks used with the Weapon is halved.  
 Armor Effect: The Armor-Based Immobilization penalty of this Armor is reduced by \-1.  
-Cost Modifier: x2.5
+Cost Modifier: 1.75
 
 #### **Ironheart:**
 
@@ -126,7 +126,7 @@ Few metals are as hard as Ironheart, and of those, none possess the necessary qu
 Weapon Effect: Your weapon cannot break. And it ignores half of target's DR and Armor Absorption, Armor Durability takes three times the Damage it would normally take.
 
 Armor Effect: Increases Armor's Base Durability by 200\.  
-Cost Modifier: x2.5 
+Cost Modifier: 1.75
 
 #### **Voidglass:**
 
@@ -135,14 +135,14 @@ Said to be the byproduct of the meteorites that struck the land now known as Ear
 Weapon Effect: This weapon can Parry Projectile Ninjutsu Attacks. 
 
 Armor Effect: This armor's Absorption is treated as twice its normal value against Ninjutsu Attacks. This armor's Durability only takes half damage against such Attacks.  
-Cost Modifier: x3
+Cost Modifier: 2
 
 #### **Crypstone:**
 
 When thousands of lives are lost upon a battlefield, the embers of the fallen's lifeforce and the anguished emotions of their final moments are absorbed by the earth beneath. Coalescing slowly over the process of many years into the stone until you get what is known as Crypstone. A cursed grey stone that is closely associated with death, and whose presence is often believed by the superstitious to bring ill luck. Even those with no sensitivity to Chakra can sense its maligned nature. Due to these supestitions, and the rarity for the right conditions for its creation to occur, this is one of the rarest materials to acquire. Yet despite its rarity, and the cursed nature of Crypstone that makes the skin of those holding it crawl, the Tekketsu still work with it to forge their arms and armor. As they are able to draw out that cursed energy and refine it to bring that curse of death upon their enemies  
 Weapon Effect: This weapon reduces the Target's Maximum Vitality (Or HP, if Current Vitality is 0\) by 10% of the Attack's Damage, this also affects Wound Thresholds. The reduction to Maximum Vitality/HP does not disappear until an hour has passed.  
 Armor Effect: When this armor is struck with a Melee Attack, and the enemy's Attack's Damage is enough to deal Wound to its Wearer, the enemy also receives a Piercing Minor Wound within the same location.  
-Cost Modifier: x4
+Cost Modifier: 2.5
 
 #### **Angelskin:**
 
@@ -150,8 +150,8 @@ A silvery metal with the consistency and malleableness of dough, Angelskin was o
 
 Weapon Effect: This weapon absorbs half of the highest Bleed Status Condition that the Target is suffering from, and gains a stacking \+1% to its Wounding bonus per Bleed Stack absorbed this way. This bonus lasts until the end of Combat.
 
-Armor Effect: This armor gains a \+1% bonus to its Absorption per every 1 Bleed of the highest Bleed Severity that the armor's wearer is suffering from. This Bonus lasts until the Bleed is gone or reduced, upon which it is reduced by an equal amount.  
-Cost Modifier: x4
+Armor Effect: This armor gains a +1\% bonus to its Absorption every time it’s wearer has their bleed status reduced to a maximum of 25\%. This lasts until the end of the fight. As a Speed 5 action the wearer may give themselves a Bleed status equal to 1 \+ half the \% bonus provided by this armor piece.  
+Cost Modifier: 1.5
 
 #### **Mindglass:**
 
@@ -160,7 +160,7 @@ Not to be mistaken for Voidglass, Mindglass is a translucent crystal which glows
 Weapon Effect: If this weapon strikes somebody that has an Upkeep, then that Target's concentration will be disrupted, causing them to roll a Resistance Check against a TN equal to Target's combined Upkeep value times five. If they fail, then all Upkeeps end prematurely.
 
 Armor Effect: This armor keeps the wearer's mind clear and calm by absorbing the negative mental energy onto itself. Every time the wearer would be affected by a Genjutsu (Before they roll Gen Defense), this armor loses 100 Durability and the wearer becomes able to roll Genjutsu Defense twice and use the higher result.  
-Cost Modifier: x5
+Cost Modifier: 2.25
 
 ### **Sunderer**
 
