@@ -644,10 +644,9 @@ Poison sometimes has special rules in this regard, but they can be found in the 
 ### **Bleed**
 
 Profuse bleeding from an injury. Among other things, this can ruin your clothes; bloodstains absolutely refuse to come out of most fabrics.
+While bleeding, you lose Vitality (or HP) equal to double the severity of the Bleed status every 5 IC the damage taken is increased by 1 for every 100 vitality the target is missing. You also have a penalty to your Chakra Exhaustion rolls equal to half its severity, rounded down. Every 20 IC, you reduce the severity of the status by RES\/40 (after taking the damage), minimum of 1.
 
-While bleeding, you lose Vitality (or HP) equal to double the severity of the Bleed status every 5 IC, and have a penalty to your Stamina rolls equal to half its severity, rounded down. Every 20 IC, you reduce the severity of the status by RES/40 (after taking the damage), minimum of 1\.
-
-Bleeds from the same source do not stack; the higher one overwrites the lower. Bleeds from different sources, however, all do their damage separately, though you still use only the highest Bleed to determine your Stamina penalty from the status.
+Bleeds from the same source do not stack; the higher one overwrites the lower. Bleeds from different sources, however, all do their damage separately, though you still use only the highest Bleed to determine your Chakra Exhaustion penalty from the status.
 
 ### **Burns**
 
@@ -723,17 +722,15 @@ If it ever becomes relevant, closing or opening your eyes is a Speed 0 action--b
 
 ### **Buried**
 
-If you dig a hole to give you the buried status and are not seen this gives you a chance to Hide similar to what a Visibility penalty would.
+Buried Status applies an Immobilization and Visibility penalty equal to its rating. You can be buried up to a rating of ten. At Buried one through five you can attack and be targeted. Higher than this you can not Attack or be targeted. Additionally unless you used a jutsu that says otherwise, you take your Buried*20 as Damage and Suffocation 2 every 10 IC once you have a Buried Status of Severity 5 or higher.
 
-Buried is a Status typically only caused by the usage of doton jutsu or by environmental conditions. You can be buried up to a rating of ten. At Buried one through five you can attack and be targeted. Higher than this you can not Attack or be targeted. Additionally unless you used a jutsu that says otherwise, you take your Buried\*20 as Damage and Suffocation 2 every 10 IC once you have a Buried Status of Severity 5 or higher.
-
-Buried Status applies an Immobilization and Visibility penalty equal to its rating. You can dig yourself out of being buried as an Action with a Speed equal to three times  the Immobilization penalty you take from this Status Condition. Which means buried 4 would require a Speed 12 Action to dig yourself out. But this Action requires at least one hand free.
+Any attack against a target with a different buried status is treated as having a layer of armor (occuring before all other damage calculations including partial attack) with a durability equal to half your chakra and absorption 10% per difference in buried status. So if you had a buried 5 and they had no buried status the ground would provide absorption 50\% with a durability of 2.5 times your CHA. Damage is transferred if you change elevation adjusting the durability accordingly and is only reset after moving at least 10 Yards. The Damage of Raiton Attacks is doubled before all calculations when targeting you in this manner and the Damage of Suiton is halved.
 
 ## **Other Effects**
 
 ### **Ignore Armor**
 
-Some Weapons and Jutsus, have this ability, or have ways to gain this ability. What 'Ignore Armor' does, is it allows any weapon, or effect with it, to bypass any and all positive effects of an Armor. This includes any Absorption, Wound negation, or special ability the armor has. Basically you are treated as having no armor on when hit by this effect\!
+Some Weapons and Jutsus have this ability, or have ways to gain this ability. What 'Ignore Armor' does, is it allows any weapon, or effect with it, to bypass any and all positive effects of an Armor. This includes any Absorption, Wound negation, or special ability the armor has. Basically you are treated as having no armor on when hit by this effect\!
 
 ### **Area of Effect**
 
