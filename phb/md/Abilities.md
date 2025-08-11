@@ -331,16 +331,16 @@ You're good at picking up little details in your environment that aren't quite w
 
 Whatever it is, it gives you a \+1 bonus to defensive Genjutsu rolls per rank.
 
-Cost: 6
-Scale: 1
-Limit: Combined Enhanced Hearing or Enhanced Sight ranks
+Cost: 6  
+Scale: 1  
+Limit: Combined Enhanced Hearing or Enhanced Sight ranks  
 
 ### **Genjutsu Competence**
 Genjutsu is notoriously difficult; very few ninja are able to just 'pick it up' without difficulty. Even being mediocre with genjutsu requires a significant amount of training and practice--which this ability represents.
 
 Each rank gives you a \+1 bonus to your offensive Genjutsu rolls.
 
-Cost: 4
+Cost: 4  
 Limit: (Diplomacy /2) \- 1
 
 ### **Genjutsu Mastery**
@@ -348,8 +348,8 @@ Okay, NOW you've mastered the art of Genjutsu.
 
 Each rank gives you a \+1 bonus to genjutsu rolls.
 
-Cost: 6
-Scale: 4
+Cost: 6  
+Scale: 4  
 Limit: Special
 
 You can have 1 rank in this ability for each rank of genjutsu you know at least one technique from. Thus, if you knew an E\-rank, D\-rank, and B-rank move, you could have 3 ranks of Genjutsu Mastery.
