@@ -82,17 +82,22 @@ The simplest form of attack, this is a catch all for punches, kicks, headbutts, 
 
 This is any ordinary attack with a weapon, from throwing shuriken to swinging oversized swords. The speed is listed with the individual weapon, as is the base damage and Stamina cost.
 
-### **Blocking** 
+### **Defensive Basic Actions** 
 
-(Speed Variable, Defensive Basic Action)
-
-Blocking is bracing yourself for an attack as effectively as possible, and being on guard to do so at a moment's notice. 
-
-As an action, you may declare that you are Blocking and enter a Stand in which so long as you perform no other Actions or Interrupts,you may use the Block defense against any incoming attacks. (Described below under Interrupts).
+As an action, you may declare a Defensive Basic Action in which so long as you perform no other Actions or Interrupts, you gain a benefit such as the use of a unique interrupt. A basic defensive action is not in effect on the IC it is declared on.
 
 You can simultaneously declare up to two Defensive Basic Actions as Stands, provided you have access to them. Some Abilities and some Clans will give more options.
 
-A basic defensive action is not in effect on the IC it is declared on.
+### **Prepare Blocking** 
+
+(Speed Variable, Defensive Basic Action)
+
+Blocking is bracing yourself for an attack as effectively as possible, and being on guard to do so at a moment's notice. While you are Prepare Blocking you may use the following interrupt:
+
+Block (Speed 0, Interrupt)
+Blocking reduces the damage of unarmed and ninjutsu attacks by 50% and weapon damage by 25\%. Additionally, you can choose the location of any wounds inflicted, except when the attack specifically specifies one location (such as certain jutsu or called shots).
+
+However, blocking multiple times in a row becomes predictable and makes it easier to get around. Every time you block your percentage reduction is reduced by 10\% resetting when you gain AP. Wounds increase this reduction depending on severity: 5\% minor, 15\% major, 30\% Severe, 40\% Critical.
 
 ### **Multi-Throw**
 
