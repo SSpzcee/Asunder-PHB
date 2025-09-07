@@ -238,7 +238,7 @@ Unless otherwise noted, any alterations to an action's Speed also affect the Spe
 
 Delay is not, properly speaking, an action in and of itself, but rather a quality certain actions have. For an example of how this might be written, an attack could have "Speed 12, Delay 4". This means that while it would be declared normally on your turn, its effects would take place 4 initiative counts later. The action may be aborted any time up to the last IC of the delay.
 
-For example, using the above attack on IC 10, you would have until IC 14 to abort; on IC 14 itself, so long as you did not abort the attack's effects would be resolved normally, and you would then act again on IC 22\. An action's Speed may not be reduced below its Delay. In addition no AP may be used to reduce Delay as you would the speed of an action under any circumstances.
+For example, using the above attack on IC 10, you would have until IC 14 to abort; on IC 14 itself, so long as you did not abort the attack's effects would be resolved normally, and you would then act again on IC 22\. AP may not be used to reduce Delay under any circumstances.
 
 If a target would exit the range of your attack while it’s delayed you may reduce its delay by paying 2 AP per 1 reduction allowing you to attack instantly as if you and the target were on a simultaneous action.
 
