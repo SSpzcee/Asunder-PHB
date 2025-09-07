@@ -75,10 +75,10 @@ You cannot Hold Back (either of the above effects) with A or B Rank Jutsu, if yo
 
 ## **Recovery**
 
-Minor wounds all heal at the end of the spar they were made in.  
-Major wounds require 6 weeks to heal or 4 while in the hospital.  
-Severe wounds require 12 weeks to heal or 8 while in the hospital.  
-Critical wounds require 25 weeks to heal or 16 while in the hospital.
+Minor wounds all heal at the end of the day (or generally after the scene they were made in ends.
+Major wounds require 5 weeks (8 days ooc) to heal or 3 weeks (5 days) while in the hospital.
+Severe wounds require 8 weeks (14 days) to heal or 5 weeks  (8 days) while in the hospital.
+Critical wounds require 18 weeks (31 days) to heal or 12 weeks (21 days) while in the hospital.
 
 # **Wound Types**
 
@@ -115,27 +115,27 @@ Something hit your leg and now it hurts\! You'll feel better after you walk it o
 
 ### **\- (1 \- 20\) Dazed (Head)**
 
-That one left you reeling. Once you're done seeing stars, you'll be... mostly okay. You lose any AP you currently have, and all effects with Upkeeps (other than Doujutsu) end as you lose your concentration. If you're standing on water or a wall, you'll fall, too.
+That one left you reeling. Once you're done seeing stars, you'll be... mostly okay. Everything seems just a little bit... off, about the world, though you can't quite place what. Sounds are muffled, colors muted, and things keep moving at the edge of your vision. 
 
-Everything seems just a little bit... off, about the world, though you can't quite place what. Sounds are muffled, colors muted, and things keep moving at the edge of your vision. This distraction provides a \-2 penalty to all D20 Rolls.
+You lose any AP you currently have, and all effects with Upkeeps (other than Doujutsu) end as you lose your concentration. If you're standing on water or a wall, you'll fall, too. This distraction provides a \-1 penalty to all D20 Rolls.
 
 ### **\- (21 \- 40\) Collapsed Lung (Torso)**
 
-Your lung quit its day job; unfortunately, that day job was letting you breathe. Your Fatigue rolls have a \-4 penalty; you can live with both lungs collapsed, though that raises the penalty to \-12 (rather than just \-8).
+Your lung quit its day job; unfortunately, that day job was letting you breathe. Your Fatigue rolls have a \-3 penalty; you can live with both lungs collapsed, though that raises the penalty to \-9 (rather than just \-6).
 
 ### **\- (41 \- 60\) Groin Shot (Abdomen)**
 
 If this was a called shot, you should probably having a serious talk with your opponent about what constitutes fair fighting. Even ninja have standards\!
 
-It's a Stun 12, and you probably feel more than a little nauseous. Don't be ashamed about doubling over and whimpering, either\! Until it's healed your Agility stat is considered 20% lower for all purposes. On top of that, you have a \-4 penalty to Resistance rolls until your recovery is complete.
+It's a Stun 8, and you probably feel more than a little nauseous. Don't be ashamed about doubling over and whimpering, either\! Until it's healed your Agility stat is considered 10% lower for all purposes. On top of that, you have a \-4 penalty to Resistance rolls until your recovery is complete.
 
 ### **\- (61 \- 80\) Sprained Arm (Arm)**
 
-Your elbow or wrist was forced to bend in a way it's not meant to by the blow, and sprained in the process. This gives a \-4 penalty to rolls, and Accuracy of attacks, using that arm (such as grapple rolls, grapple TNs, and all two handed weapons). Single-handed weapons held in the other hand, ninjutsu, and taijutsu jutsu which specify they're only kicks suffer only a \-2. It also increases your Seal Speeds by 5\.
+Your elbow or wrist was forced to bend in a way it's not meant to by the blow, and sprained in the process. This gives a \-2 penalty to rolls, and Accuracy of attacks, using that arm (such as grapple rolls, grapple TNs, and all two handed weapons). Single-handed weapons held in the other hand, ninjutsu, and taijutsu jutsu which specify they're only kicks suffer only a \-1. It also increases your Seal Speeds by 5\.
 
 ### **\- (81 \- 100\) Sprained Leg (Leg)**
 
-The muscles and ligaments in your knee or ankle were stretched beyond their capacity. Any time you move, including dodging, the pain leaves your Accuracy and d20 rolls at a \-5 penalty for the next 15 IC.
+The muscles and ligaments in your knee or ankle were stretched beyond their capacity. Any time you move, including dodging, the pain leaves your Accuracy and d20 rolls at a \-2 penalty for the next 15 IC.
 
 ## **Blunt (Severe)**
 
@@ -240,29 +240,29 @@ You got a nasty gash running along your leg. It's not life threatening, but it i
 
 ### **\- (1 \- 20\) Blood in the Eyes (Head)**
 
-Oh no you’re bleeding from the face\! Because fights must be dramatic, the attack has cut in such a way (maybe right across your eyelid, maybe over the forehead) that blood is now dripping into one of your eyes, causing a continual distraction. You take a stacking Bleed 2 and \-1 Visibility Penalty every 10 ICs in combat, stacking up to Bleed 8 and \-4 Visibility ; taking this wound a second time causes the penalty to increase every 5 IC, and increases the cap to Bleed 16 and \-8 Visibility. You can take a (Bleed Severity) Action to wipe away the blood, resetting ONLY the Visibility penalties, but it won’t go away until treated with a first aid kit. This prevents you from accruing any Visibility Penalty from this wound in combat, but applies its own \-3 Visibility Penalty as you have to cover the eye.
+Oh no you’re bleeding from the face! Because fights must be dramatic, the attack has cut in such a way (maybe right across your eyelid, maybe over the forehead) that blood is now dripping into one of your eyes, causing a continual distraction. You take a Bleed 1 and \-1 Visibility Penalty and every 20 ICs in combat you gain it again but increasing both by 1, stacking up to Bleed 4 and \-4 Visibility. After reaching Bleed 4 it stops reapplying but you retain the \-4 visibility penalty. You can take a Speed 5 Action to wipe away the blood, resetting the Visibility penalties (which will return as normal in 15 IC). Using a first aid kit prevents you from accruing any Visibility Penalty from this wound in combat, but applies its own \-2 Visibility Penalty as you have to cover the eye.
 
 ### **\- (21 \- 40\) Armor Tear (Torso)**
 
-Something managed to slice right across your chest, hacking chunks of your flesh and armor right off your body. On top of being a fairly nasty gash which is likely to scar if not given stitches, you’re inflicted with a Bleed 5, and your DR is reduced by 25\. This can potentially take you down to negative values, in which case, the negative DR acts as a static Damage boost any Attack against you will receive. Your Torso armor also takes a \-25% of its maximum Durability to its Current Durability, though your clothing beneath is still intact (Gotta keep things PG 13). 
+Something managed to slice right across your chest, hacking chunks of your flesh and armor right off your body. On top of being a fairly nasty gash which is likely to scar if not given stitches, you’re inflicted with a Bleed 4, and your DR is reduced by 10\. This can potentially take you down to negative values, in which case, the negative DR acts as a static Damage boost any Attack against you will receive. Your Torso armor also takes a \-25% of its maximum Durability to its Current Durability, though your clothing beneath is still intact (Gotta keep things PG 13). 
 
 ### **\- (41 \- 60\) Open Cavity (Abdomen)**
 
 Your abdominal cavity--the part of your body that holds all your abdominal organs in together in a nice, safe environment--has been opened, and it really wasn't meant to be.
 
-You can no longer Rest. Your bonus to Stamina and Chakra Exhaustion rolls based from Fatigue are reduced to \+3 per Fatigue level (rather than \+5). The penalty you incur from passing a Stamina or Chakra Exhaustion roll is (the action's cost)/4, rather than (the action's cost)/5.
+You can no longer Rest and gain an irreducible upkeep 2. Additionally the penalty you incur from passing a Stamina or Chakra Exhaustion roll is increased by 1.
 
 ### **\- (61 \- 80\) Muscle Tear (Arm)**
 
 Your bicep and/or tricep have been partially torn, which tends to make it a lot harder to function effectively in combat, as your arm goes from a dry noodle to a limp one.
 
-You take Bleed 4, and Your STR is reduced by 25%. This affects everything derived from your STR score you're hoping it doesn't (Vitality, Damage Bonus, damage dice with taijutsu, etc).
+You take Bleed 4, and Your STR is reduced by 10%. This affects everything derived from your STR score you're hoping it doesn't (Vitality, Damage Bonus, damage dice with taijutsu, etc).
 
 ### **\- (81 \- 100\) Muscle Tear (Leg)**
 
 Your quadriceps have been torn. Not to fear, the tendon is fine and you haven't been hamstrung, you're not going to be put down like an animal (though this should teach you to treat pets better).
 
-You take Bleed 5, and your AGI is reduced by 25%. This affects everything derived from your AGI score you're hoping it doesn't (Dodge, Initiative, max AP, movement speed).
+You take Bleed 4, and your AGI is reduced by 10%. This affects everything derived from your AGI score you're hoping it doesn't (Dodge, Initiative, max AP, movement speed).
 
 ## **Slashing (Severe)**
 
@@ -375,7 +375,7 @@ You've got a small but fairly deep incision from what struck you. The initial sh
 
 ### **\- (31 \- 60\) Flesh Wound (Abdomen)**
 
-You've been shanked in the gut. It managed to miss your vitals, but it's still going to cause blood to trickle out of you. You take a \-1 to Fatigue Checks. And gain Needling 4
+You've been shanked in the gut. It managed to miss your vitals, but it's still going to cause blood to trickle out of you. You take a Needling 4 and a \-1 to Fatigue Checks for so long as you have any Needling Status.
 
 ### **\- (61 \- 80\) Reflexive Flinch (Arm)**
 
@@ -389,25 +389,23 @@ They struck your quadricep, which is a fairly easy target, all things considered
 
 ### **\- (1 \- 30\) Punctured Cavity (Torso)**
 
-The body has several cavities, areas where specific internal organs are housed and kept together. One of them has been pierced and now has a hole in it, which is filling up with blood, inflicting Needling 5, Stun 5, and \-3 to Fatigue Checks. 
-
-What’s worse is that every injury you take afterward causes your body to naturally tense up, aggravating the injury and causing noticeable pain, causing any future Needling status effect gained while you have this wound to also inflict an equivalent amount of Stun. 
+The body has several cavities, areas where specific internal organs are housed and kept together. One of them has been pierced and now has a hole in it, inflicting Needling 5. What’s worse is that every injury you take afterward causes your body to naturally tense up, aggravating the injury and causing noticeable pain, causing any future Needling status effect gained while you have this wound to also inflict an equivalent amount of Stun. 
 
 ### **\- (31 \- 60\) Organ Hemorrhage (Abdomen)**
 
-Your abdomen happens to have several internal organs all closely packed together. While space-saving, it also happens to mean that if you're hit there, one of them is bound to be injured in some form or fashion, and that's exactly what happened. What that boils down to is that you're bleeding. A lot. You take Needling 6 and Bleed 6, and your Bleed will not be reduced until your Needling Severity reaches 0\.
+Your abdomen happens to have several internal organs all closely packed together. While space-saving, it also happens to mean that if you're hit there, one of them is bound to be injured in some form or fashion, and that's exactly what happened. What that boils down to is that you're bleeding. A lot. You take Needling 6 and Bleed 4, and your Bleed will not be reduced until your Needling Severity reaches 0\.
 
 ### **\- (61 \- 80\) Joint Pierced (Arm)**
 
 One of your arm's joints has been struck and is now filling with blood and becoming inflamed. It makes it much harder to properly manipulate the appendage, on top of the very strange and unnerving sensation you get when you move the arm and can feel the collected blood sloshing around.
 
-You take Needling 4 and Paralysis 1 for so long as you have a Needling Status Condition. From now on, you will have a Paralysis Status Condition of a Severity equal to (Needling/4).
+You take Needling 4 and from now on, you will have a Paralysis Status Condition of a Severity equal to (Needling/5).
 
 ### **\- (81 \- 100\) Joint Pierced (Leg)**
 
 Though they missed fracturing your knee cap, they still managed to pierce the joint itself, and it's now collecting (and leaking) blood which isn't supposed to be there. Like many wounds, on its own it isn't so bad, but when aggravated, it becomes very problematic.
 
-You take Needling 5 and receive a penalty to your movement speed equal to (Needling \* 3)%. Finally, this Wound applies a \-2 penalty to defensive rolls for every 15% it reduces your movement speed.
+You take Needling 5 and receive a penalty to your movement speed equal to (Needling \* 3)%. Finally, this Wound applies a \-1 penalty to defensive rolls for every 15% it reduces your movement speed.
 
 ## **Piercing (Severe)**
 
