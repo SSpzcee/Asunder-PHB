@@ -13,7 +13,7 @@ st.markdown("""
 
 </style>""", unsafe_allow_html=True)
 
-rules, melee, ranged, gear, tags, poison = st.tabs(["Weapon Rules", "Melee Weapons", "Ranged Weapons", "Gear", "Explosive Tags", "Poisons"])
+rules, melee, ranged, gear, tags = st.tabs(["Weapon Rules", "Melee Weapons", "Ranged Weapons", "Gear", "Explosive Tags"])
 
 rulese = open("phb/md/Equipment Rules.md", "r")
 rules.write(rulese.read())
