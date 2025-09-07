@@ -439,7 +439,7 @@ To use an action as a sneak attack, the total Speed that you used your Prepare S
 
 ### **Sneak Attack**
 
-A sneak attack is an improved surprise attack, and as such, all normal rules for surprise attacks apply. Additionally, any Accuracy penalties inherent to the technique or weapon you're using are removed. Penalties from other sources, such as visibility or wounds, are not negated.
+A sneak attack is an improved surprise attack, and as such, all normal rules for surprise attacks apply. Additionally, any Accuracy penalties inherent to the technique or weapon you're using are halved. Penalties from other sources, such as visibility or wounds, are not reduced in any way.
 
 A sneak attack may be used as a special type of Interrupt. You can Interrupt any action, taken by any person, with a sneak attack. They may either complete their action, and be automatically hit by your sneak attack, or call off their action and defend against your attack normally. If they call their action off they do not pay its cost, but their next action is still determined by their action's normal Speed.
 
