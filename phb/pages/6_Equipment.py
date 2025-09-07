@@ -30,6 +30,3 @@ gear.write(geare.read())
 tagse = open("phb/md/Exploding Tags.md", "r")
 tags.write(tagse.read())
 
-poisone = open("phb/md/Poisons.md", "r")
-poison.write(poisone.read())
-
