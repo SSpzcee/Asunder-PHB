@@ -1336,14 +1336,14 @@ If you just want to know how to escape from the 7ft giant choking you out then a
 As a grappler your goal is to gain as much control as you can while dropping your opponents. Step 1) Setup a clinch, Step 2) Use a takedown to pin them, Step 3) Make them suffer. Other grapple jutsu are designed to reduce your opponent's control to make it harder to escape. Once you have them in a pin you can either pummel them with taijutsu attacks or lock them in a hold.
 Certain situations within a grapple may call for a 'grapple roll'. When this happens, the player that triggered the Check rolls Grapple Offense and the other rolls Defense.
 
-[M10] Grapple Off: 1d20 \+ Control \+ STR/10 \+ DEX/20 \+ Any relevant bonuses/penalties
+[M10] Grapple Off: 10 \+ Control \+ STR/10 \+ Any relevant bonuses/penalties
 [M11] Grapple Def: 1d20 \+ Control \+ STR/10 \+ AGI/20 \+ Any relevant bonuses/penalties
 
 Whilst in a clinch, either participant has access to the below actions. Bonuses for consecutive use stacks interchangeably between both so after escaping the pin with a \+4 if your next action is Break Clinch you get a \+6.
 
-Break Clinch (Stamina 5, Speed 5, Control 0) Must be used in a clinch. You make a Grapple Defense roll versus your opponent’s Offense. If you succeed, the grapple ends immediately. Every time you use a Break Clinch action consecutively (without taking a non-Interrupt action between them) you get a stacking \+2 bonus but the Stamina cost increases by 1.
+Break Clinch (Stamina 5, Speed 5, Delay 5, Control 0) Must be used in a clinch. You make a Grapple Defense roll versus your opponent’s Offense. If you succeed, the grapple ends immediately. Every time you use a Break Clinch action consecutively (without taking a non-Interrupt action between them) you get a stacking +2 to the roll, stamina cost, and delay.
 
-Escape Pin (Stamina 7, Speed 5, Control 0) You make a Grapple Defense roll versus your opponent’s Offense. If you succeed, the grapple ends immediately. Every time you use a Break Clinch action consecutively (without taking a non-Interrupt action between them) you get a stacking \+2 bonus but the Stamina cost increases by 1.
+Escape Pin (Stamina 7, Speed 5, Delay 5, Control 0) You make a Grapple Defense roll versus your opponent’s Offense. If you succeed, the grapple ends immediately. Every time you use an Escape Pin action consecutively (without taking a non-Interrupt action between them) you get a stacking +2 to the roll, stamina cost, and delay.
 
 ## **Grapple-Related Tags (also this)**
 
@@ -1375,7 +1375,7 @@ While in a clinch or grapple you are not restricted by what actions you can take
 
 If someone’s Control would be reduced below 0, their opponent instead gains control equal to the amount they would have lost. Additionally, while in a grapple all participants gain the following action:
 
-Reposition (Speed 2 \+ X) You may spend X AP to increase your control by that amount. X has a maximum of your ranks in the pressure ability.
+Reposition (Stamina 5 \+ X\*2, Speed 2 \+ X) You may spend X AP to increase your control by that amount. X has a maximum of your ranks in either the pressure or Escape Artist abilities.
 
 ## **Clinch**
 
