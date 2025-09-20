@@ -1462,7 +1462,7 @@ On use and every 10 IC you maintain this Submission your opponent takes the list
 Being held in place by one person and then punched into submission by all their friends is a pretty exceptionally undignified way for a ninja to go down. Accordingly, ninja are usually taught the basics of how to writhe their way out of all manner of holds.
 
 Stamina: \+ X
-Speed: \+ X, Delay 4\+X
+Speed: \+ X/2, Delay \+X
 
 Effects:
 This is added on to a Break Clinch or Escape Pin. You gain a \+X to the roll and increase the actions stamina and speed by this technique. You may use it retroactively after failing a Break Clinch or Escape Pin roll but the Stamina is increased to \+ 2\*X.
