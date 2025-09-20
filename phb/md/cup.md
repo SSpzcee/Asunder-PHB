@@ -164,12 +164,12 @@ Ninjutsu Incompetence: \-2 Ninjutsu Accuracy, \+4 Seal Speed to Ninjutsu techniq
 
 \-----------------
 
-Genjutsu Specialist: \+3 to Genjutsu rolls, \-4 Seal Speed for Genjutsu techniques, \+2 Bonus to Chakra Exhaustion rolls for Genjutsu techniques 
+Genjutsu Specialist: \+2 to Genjutsu rolls, \-4 Seal Speed for Genjutsu techniques, \+2 Bonus to Chakra Exhaustion rolls for Genjutsu techniques 
 
 * Path of the Mindflayer: The first time a person fails a Genjutsu Defense roll against one of your Jutsu, they receive a Stun 3. This does stack with any Stun the jutsu may already possess and it only works once per Jutsu per day per person. 
 * Path of the Steel Curtain: Whenever you roll your Genjutsu Defense, if you roll below 5, your roll is considered to be 5.
 
-Genjutsu Incompetence: \-3 to Genjutsu rolls, \+4 Seal Speed for Genjutsu techniques and you can only learn Genjutsu Techniques of 1 Rank lower than you normally could
+Genjutsu Incompetence: \-2 to Genjutsu rolls, \+4 Seal Speed for Genjutsu techniques and you can only learn Genjutsu Techniques of 1 Rank lower than you normally could
 
 \-----------------
 
