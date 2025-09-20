@@ -206,7 +206,7 @@ You know just how to hold a person so they’re holding your weight through the 
 Each rank gives you +1 to your Grapple Offense.
 
 Cost: 4
-Limit: Resistance / 2
+Limit: Resistance / 2, After 10 reduced to / 3
 
 ### **Grip Fighting**
 You’re fast with your hands blocking opponents' attempts to gain control while forcing your own.
