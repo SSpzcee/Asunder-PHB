@@ -206,7 +206,7 @@ You know just how to hold a person so they’re holding your weight through the 
 Each rank gives you +1 to your Grapple Offense.
 
 Cost: 4
-Limit: (Resistance /2)\-1
+Limit: Resistance / 2
 
 ### **Grip Fighting**
 You’re fast with your hands blocking opponents' attempts to gain control while forcing your own.
@@ -341,7 +341,15 @@ Genjutsu is notoriously difficult; very few ninja are able to just 'pick it up' 
 Each rank gives you a \+1 bonus to your offensive Genjutsu rolls.
 
 Cost: 4  
-Limit: (Diplomacy /2) \- 1
+Limit: Diplomacy / 2
+
+Genjutsu Expertise
+You have chosen the path of genjutsu, the superior method of fighting. Through training you've developed tricks to improve your ability to land these types of attacks.
+
+This gives you a \+1 bonus to your Genjutsu Offense per rank.  
+Cost: 5  
+Scale: 2  
+Limit: CHA / 40
 
 ### **Genjutsu Mastery**
 Okay, NOW you've mastered the art of Genjutsu.
