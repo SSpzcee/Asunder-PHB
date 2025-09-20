@@ -344,13 +344,13 @@ If the defending character is the randomized target, resolve the defenses declar
 
 Genjutsu's not easy. In fact, genjutsu is really, really hard, even by the standards of other ninja techniques. Taijutsu and ninjutsu are both, after enough shinobi training, slightly intuitive; and, in the case of the latter, every ninja has an elemental affinity they can rely on to help them out even when they struggle overall.  
 Not so with genjutsu. There is no such thing as an 'affinity' for it (though some ninja who seem to have an easier time learning it are occasionally described as such), and it takes a lot work to be able to use it effectively.  
-The requirements for using Genjutsu of a given rank are listed below.
+The requirements for using Genjutsu of a given rank are listed below. Additionally all Genjutsu require the Genjutsu Training ability.
 
 E: Genjutsu Training Ability  
-D: 5 Diplomacy, 5 Research, and 15 (Diplomacy \+ Research), and Genjutsu Training Ability  
-C: 10 Diplomacy, 10 Research, and 25 (Diplomacy \+ Research), and Genjutsu Training Ability  
-B: 20 Diplomacy, 20 Research, and 50 (Diplomacy \+ Research), and Genjutsu Training Ability  
-A: 30 Diplomacy, 30 Research, and 70 (Diplomacy \+ Research), and Genjutsu Training Ability
+D: 5 Diplomacy, 5 Research, and 15 (Diplomacy \+ Research)  
+C: 10 Diplomacy, 10 Research, and 25 (Diplomacy \+ Research)  
+B: 20 Diplomacy, 20 Research, and 50 (Diplomacy \+ Research)  
+A: 30 Diplomacy, 30 Research, and 70 (Diplomacy \+ Research)  
 
 Notably, Jounin rank also gives access to C-rank Genjutsu.
 
