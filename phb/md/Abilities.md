@@ -343,7 +343,7 @@ Each rank gives you a \+1 bonus to your offensive Genjutsu rolls.
 Cost: 4  
 Limit: Diplomacy / 2
 
-Genjutsu Expertise
+### **Genjutsu Expertise**
 You have chosen the path of genjutsu, the superior method of fighting. Through training you've developed tricks to improve your ability to land these types of attacks.
 
 This gives you a \+1 bonus to your Genjutsu Offense per rank.  
