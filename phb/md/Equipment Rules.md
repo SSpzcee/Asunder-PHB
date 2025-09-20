@@ -24,6 +24,14 @@ Any other ranged weapon: Trivial
 Poisons: Trivial  
 Basic equipment/supplies/unlisted: Trivial
 
+## **Restrictions**
+While any ninja can pick up a common sword to wield items of higher power it takes a certain competence. As such the weapons and armor you can utilize are limited by your capabilities:
+
+Weapons: Cannot wield weapon with Artisan points more than Athletics * 2
+Armor: Cannot wear armor with Artisan points more than Resistance * 2
+
+Attempting to use an item you aren’t qualified for reduces your accuracies, offenses, and d20s by 2. You also have your fatigue bonuses and damage bonuses halved.
+
 ## **Weapon-Specific Actions**
 
 ### **Draw Weapon**
