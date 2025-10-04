@@ -644,7 +644,8 @@ Poison sometimes has special rules in this regard, but they can be found in the 
 ### **Bleed**
 
 Profuse bleeding from an injury. Among other things, this can ruin your clothes; bloodstains absolutely refuse to come out of most fabrics.
-While bleeding, you lose Vitality (or HP) equal to double the severity of the Bleed status every 5 IC the damage taken is increased by 1 for every 100 vitality the target is missing. You also have a penalty to your Chakra Exhaustion rolls equal to half its severity, rounded down. Every 20 IC, you reduce the severity of the status by RES\/40 (after taking the damage), minimum of 1.
+
+While bleeding, you lose Vitality (or HP) equal to double the severity of the Bleed status every 5 IC. You also have a penalty to your Chakra Exhaustion rolls equal to half its severity, rounded down. Every 20 IC, you take an additional 1 damage for every 100 vitality the target is missing and then reduce the severity of the status by RES/40, minimum of 1.
 
 Bleeds from the same source do not stack; the higher one overwrites the lower. Bleeds from different sources, however, all do their damage separately, though you still use only the highest Bleed to determine your Chakra Exhaustion penalty from the status.
 
@@ -707,8 +708,7 @@ If an effect says that it extends an existing stun, it means that if a character
 Stun ends when get your next action; if the Stun is removed by some means prior to your next action, the effect the Stun has on your IC is removed, though this cannot bring your next action back to earlier than the  current IC.
 
 ### **Suffocation**
-
-Someone or something is hindering your ability to breathe. Suffocation penalties stack, from different sources or multiple ones. Your suffocation penalty is applied to any Stamina and Chakra Exhaustion rolls you make, and every time its value increases you have to make a Stamina 15 roll. Unlike normal Fatigue-related penalties, suffocation is not reset to 0 when your Fatigue advances. When you stop being suffocated, your suffocation penalty is reduced by 1 every 5 initiative counts.
+Someone or something is hindering your ability to breathe. Suffocation penalties stack, from different sources or multiple ones. Your suffocation penalty is applied to any Stamina and Chakra Exhaustion rolls you make, and every time its value increases you have to make a Stamina roll with a TN equal to 10 /+ 2 /* Suffocation Level. Unlike normal Fatigue-related penalties, suffocation is not reset to 0 when your Fatigue advances. When you stop being suffocated, your suffocation penalty is reduced by 1 every 10 initiative counts.
 
 ### **Visibility**
 
