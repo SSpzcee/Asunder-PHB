@@ -1,4 +1,50 @@
-# **General**
+# **Genjutsu**
+
+## **Requirements**
+
+Genjutsu isn't easy. In fact, genjutsu is really, really hard, even by the standards of other ninja techniques. Taijutsu and ninjutsu are both, after enough shinobi training, slightly intuitive; and, in the case of the latter, every ninja has an elemental affinity they can rely on to help them out even when they struggle overall.
+
+Not so with genjutsu. There is no such thing as an 'affinity' for it (though some ninja who seem to have an easier time learning it are occasionally described as such), and it takes a lot of work to be able to use it effectively.
+
+The requirements for using Genjutsu of a given rank are listed below. Additionally all Genjutsu require the Genjutsu Training ability.
+
+E: Genjutsu Training Ability  
+D: 5 Diplomacy, 5 Research, and 15 (Diplomacy \+ Research)  
+C: 10 Diplomacy, 10 Research, and 25 (Diplomacy \+ Research)  
+B: 20 Diplomacy, 20 Research, and 50 (Diplomacy \+ Research)  
+A: 30 Diplomacy, 30 Research, and 70 (Diplomacy \+ Research)  
+
+Notably, Jounin rank also gives access to C-rank Genjutsu.  
+
+## **Genjutsu Rolls**
+
+When using Genjutsu the caster has their Genjutsu Offense and anyone interacting with it (explained below) must roll Genjutsu Defense to defend against it. Though defense is not always rolled immediately.
+
+[M3] Genjutsu Off: 10 \+ XP/400 + Abilities/Uniques
+[M4] Genjutsu Def: 1d20 \+ XP/200 + Abilities/Uniques
+
+All Genjutsu fall under 3 types. Direct, Indirect, and Area which dictates how the illusion takes hold. Each jutsu has a tag of the corresponding type:
+
+Direct: Genjutsu with this tag directly target an opponent affecting only their perception and are imperceivable to others. Choose a target in range, they must roll their Genjutsu Defense vs your Offense.
+
+Indirect: These jutsu often rely on subtlety and usually affect objects. Each jutsu dictates when Genjutsu Defense is rolled, if at all.
+
+Area: Rather than targeting a specific person or object you use a thin layer of chakra to create a zone designed to fool anyone inside. However, they are more fragile and prone to breaking. Each jutsu dictates when Genjutsu Defense is rolled.
+
+Most Genjutsu have a duration, which is the number of ICs you can maintain before the illusion fades away. Any Genjutsu without a duration can last as long as the upkeep is maintained.
+
+Additionally, each time a genjutsu is successfully used against you in combat, you have a (cumulative) \+3 bonus to defensive rolls against that specific jutsu for the rest of the battle.
+
+## **Breaking Genjutsu**
+
+By their nature, it's hard to realize that one is suffering from the effects of a genjutsu technique. It's possible to be afflicted by a genjutsu that you know and use frequently, with obvious 'tells', and still mistake it for reality--such is the nature of delusions. 
+
+All combat Genjutsu detail when the target realizes they’ve been trapped in a genjutsu (which has a maximum of the Genjutsu duration). The X, if applicable, is equal to the users genjutsu offense - the defenders genjutsu defense roll.
+
+There are three ways to break free from most genjutsu:  
+> All Genjutsu end naturally, either by its duration expiring or its user no longer maintaining its upkeep.  
+> Genjutsu Kai, the D-rank Ninjutsu technique.  
+> If you suffer a Wound of major or higher, all Direct Genjutsu on you end as your mind gets its act back together.
 
 ## **E-rank**
 
