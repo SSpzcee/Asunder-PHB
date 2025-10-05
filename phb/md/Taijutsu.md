@@ -1435,28 +1435,28 @@ The opponent can not use the pinned arm for any jutsu which require it and have 
 You squeeze someone's arm between your knees and pull. This hurts…a lot.
 
 Stamina: 16
-Damage: As Basic Attack + (Your Control)d8  
+Damage: As Basic Attack \+ (Your Control)dX  
 Speed: Variable
 Special: Control 5
 
 Tags: Submission
 
 Effects:
-On use and every 5 IC you maintain this Submission your opponent takes the listed damage (not including speed \* db) and their control is reduced by 1. Your opponent also loses access to the targeted arm, any object held with it is dropped, and their seal speed reduction is halved.
+On use and every 5 IC you maintain this Submission your opponent takes the listed damage (not including speed \* db) and their control is reduced by 2. While using this submission your maximum control is increased by 6. Your opponent also loses access to the targeted arm, any object held with it is dropped, and their seal speed reduction is halved.
 
 ### **Knee Bar**
 
 You squeeze someone's arm between your knees and pull. This hurts…a lot.
 
 Stamina: 16
-Damage: As Basic Attack + (Your Control)d8
+Damage: As Basic Attack \+ (5 \+ Your Control)dX
 Speed: Variable
 Special: Control 5
 
 Tags: Submission
 
 Effects:
-On use and every 10 IC you maintain this Submission your opponent takes the listed damage (not including speed * db) and their control is reduced by 3. Your opponent also loses access to the targeted leg.
+On use and every 10 IC you maintain this Submission your opponent takes the listed damage (not including speed * db) and their control is reduced by 3. While using this submission your maximum control is increased by 10. Your opponent also loses access to the targeted leg.
 
 ### **Escape Grapple**
 
@@ -1624,14 +1624,14 @@ After pinning your opponent they lose 2 control.
 
 A general term for any position where you press a muscle into a bone. This causes immense pain and is likely to leave them needing a trip to the hospital
 Stamina: 26
-Damage: As Basic Attack + (Your Control)d12
+Damage: As Basic Attack + (8 + Your Control)dX
 Speed: Variable
 Special: Control 7
 
 Tags: Submission
 
 Effects:
-Target a specific limb of your opponent’s. On use and every 8 IC you maintain this Submission your opponent takes the listed damage (not including speed \* db). This damage does not inflict wounds, instead take half the total of all dice rolled for this use of Compression Lock. When that total increases past the opponents wound threshold you may reset this counter to 0 and inflict that wound. Depending on the limb targeted you gain the additional benefits of Arm Bar or Knee Bar.
+Target a specific limb of your opponent’s. On use and every 8 IC you maintain this Submission your opponent takes the listed damage (not including speed \* db).  While using this submission your maximum control is increased by 7. This damage does not inflict wounds, instead take half the total of all dice rolled for this use of Compression Lock. When that total increases past the opponents wound threshold you may reset this counter to 0 and inflict that wound. Depending on the limb targeted you gain the additional benefits of Arm Bar or Knee Bar.
 
 ## **Grapple A-rank**
 
