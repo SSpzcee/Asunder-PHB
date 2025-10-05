@@ -22,7 +22,7 @@ Upgrades Into: Cunning
 
 It's hard to track you when you move, almost as if you can turn your own inertia on and off at will\! 
 
-Your movement speed is increased by 20%, and Shunshin has no Chakra Exhaustion cost (though retains its normal Speed). Whenever you successfully dodge, you may move as many yards as if you'd taken a Speed 4 move action.
+Your movement speed is increased by 20%, and Shunshin has no Chakra Exhaustion cost (though retains its normal Speed). Whenever you successfully dodge, you may use the speed of your dodge and move that IC in any direction.
 
 Upgrades Into: Exceptionally Fast
 
