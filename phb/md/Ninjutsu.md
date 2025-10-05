@@ -1637,22 +1637,22 @@ Additionally, if an attack augmented by Blazing Fury inflicts wounds of any sort
 
 The user gathers chakra around them--the 'rising phoenix' actually refers to the visible heat ripples and wisps of flame rising around the ninja performing it-- and unleashes a stream of dark, searingly hot fire at their opponents. The flames of this technique are hot enough to disintegrate most incoming attacks.
 
-Chakra: 20, \+4 when used as an attack
-Damage: 10d20!>16
-Range: CHA
-Speed: 8
-Seal Speed: 22
+Chakra: 24  
+Damage: 10d10!>8  
+Range: CHA  
+Speed: 8  
+Seal Speed: 12  
 
 Tags: Attack, Interrupt, Projectile, Energy
 
 Effects:  
-When used as an Interrupt, Rising Phoenix Blast's damage becomes 10d20!>11 and it receives double your ninjutsu damage bonus. It functions differently when used against a melee attack, or projectile ninjutsu attack, that deals damage:
+When used as an Interrupt, Rising Phoenix Blast's damage becomes 10d10!>6 and it receives double your ninjutsu damage bonus. It functions differently when used against a melee attack, or projectile ninjutsu attack, that deals damage:
 
 Against a melee attack: The user may choose to call off their attack, or press on regardless of the danger. If they do not cancel their attack each of you are automatically hit by each others attacks without a defense. If they choose to defend themselves, their attack is cancelled. They do not pay any Fatigue costs, their IC is advanced only half as much, any other spent resources are lost. Then they defend against Rising Phoenix Blast as a surprise attack, but have a \+3 bonus to any d20 rolls made as part of their defense.
 
-Against a ranged ninjutsu attack: Compare the damage of the two techniques; if the damage of theirs is higher, subtract Rising Phoenix Blast's damage from that technique's damage; that is how much you take. If your technique's damage is higher, it destroys the opponent's technique, and your enemy must defend against your Rising Phoenix Blast. 
+Against a ranged ninjutsu attack: Compare the damage of the two techniques; if the damage of theirs is higher, subtract Rising Phoenix Blast's damage from that technique's damage; that is how much you take. If your technique's damage is higher, it destroys the opponent's technique, and your enemy must defend against your Rising Phoenix Blast and its remaining damage.
 
-Against Fuuton jutsu you may interrupt AOE jutsu. Rising Phoenix Blast's damage is increased by 25% for elements weak to it and reduced by 25% against elements strong against it.
+Against Fuuton jutsu you may interrupt AOE jutsu. Rising Phoenix Blast's damage is increased by 25\% for elements weak to it and reduced by 25\% against elements strong against it.
 
 ## **Katon B-rank**
 
