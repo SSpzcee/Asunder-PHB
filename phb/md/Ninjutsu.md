@@ -2123,19 +2123,21 @@ Even if the target succeeds on their Status Check they gain Paralysis 2 for 20 I
 
 You divert your chakra to surge across your skin, building up something akin to a strong static charge. Unlike actual static electricity, this is incredibly dangerous.
 
-Chakra: 24
-Damage: 4d6*4d4
-Speed: 8
-Seal Speed: 11
-Special: This technique receives only half your damage bonus.
+Chakra: 18  
+Upkeep: 4  
+Damage: 4d6*4d4  
+Speed: 8  
+Seal Speed: 12  
+Special: Paralysis X for 15 IC, This technique receives only half your damage bonus
 
 Tags: Interrupt, Energy
 
 Effects:
+You can use this technique as an Interrupt against any attacks made at NDB range increasings its chakra cost by 6. If you do, your opponent can immediately abort their attack, in which they still pay its cost and it's considered half its actual speed for determining when their next action comes. If they do not abort the attack, then you are hit automatically by their attack (taking its normal damage) and your attacker is also automatically hit by this technique (taking its normal damage). 
 
-You can use this technique as an Interrupt against any attacks made at NDB range, this extends to both Ninjutsu and Taijutsu. If you do, your opponent can immediately abort their attack, in which they still pay its cost and it's considered half its actual speed for determining when their next action comes. If they do not abort the attack, then you are hit automatically by their attack (taking its normal damage) and your attacker is also automatically hit by this technique (taking its normal damage). 
+While maintaining this upkeep you may reactivate the above effect as a Speed 0 Chakra 18 interrupt in response to any attack or damaging jutsu.
 
-If the attacker received any damage from this technique, they suffer a Paralysis of 1 per severity of any wounds their attack inflicts, that lasts for 20 IC (i.e., if their attack inflicted a Minor and a Major wound, they would suffer Paralysis 3).
+X in this technique is the severity of wounds inflicted from both sides of this technique (if they dealt a major and you dealt a minor X would be 3).
 
 ## **Raiton B-rank**
 
