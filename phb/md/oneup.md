@@ -187,3 +187,6 @@ You lose 1 WAP each initiative count until your WAP falls to 0 and for every 5 W
 
 Due to the incredible amount of athleticism this lifestyle requires, your athletics skill cap is raised by 1.
 
+### **Wrestling Prowess**
+
+Upon entering a clinch you may immediately use the reposition action for free. While in a grapple you gain DR equal to your control and have a +3 to grapple rolls and TNs for the reversal jutsu.
