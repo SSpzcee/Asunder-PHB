@@ -3146,6 +3146,36 @@ This cannot be used to ignore Critical wounds.
 [|B-Ranks|](#sealing-b-rank)
 [|A-Ranks|](#sealing-a-rank)
 
+## **E-rank**
+
+### **Basic Seal**
+
+A foundational seal that is designed to be placed on the field rather than on scrolls, making it highly adaptable for all surfaces and terrains. And durable enough that it cannot be removed or stripped off without the aid of an unsealing jutsu. By itself, this seal does nothing, but by linking to other instances of this same jutsu, and applying a central seal, it can perform a variety of effects reliant on channeling chakra into various shapes. This particular use makes it THE ideal way to form and decide the shape of barriers and other such techniques.
+
+Chakra: 15  
+Range: Touch  
+Speed: 12  
+Seal Speed: 30  
+
+Effects:  
+When you perform this Jutsu, you apply a Seal on a fixed object (Such as the ground or a tree) within the square you're standing on. Every time you do so, if there are other Seals created by this Technique on the battlefield, you may assign your Seal to be linked to them. Creating a line between the two Seals that can be turned into one side or wall of a Barrier or other Techniques that require this Jutsu. Each Seal can only be linked to a maximum of two other Seals.
+
+For example, you can create three Seals, link Seal 1 to Seal 2, Seal 2 to Seal 3, and Seal 3 back to Seal 1, thereby creating a triangle shape between the three of them with each Seal acting as one corner/point of the triangle.
+
+The Seals created by this Jutsu cannot be removed or destroyed without an Unsealing Jutsu. You cannot Link two Seals with each other if they are more than your NDB yards apart.
+
+## **Basic Seal**
+
+A foundational seal that is designed to be placed on the field rather than on scrolls, making it highly adaptable for all surfaces and terrains. And durable enough that it cannot be removed or stripped off without the aid of an unsealing jutsu. By itself, this seal does nothing, but by linking to other instances of this same jutsu, and applying a central seal, it can perform a variety of effects reliant on channeling chakra into various shapes. This particular use makes it THE ideal way to form and decide the shape of barriers and other such techniques.
+
+Chakra: 18  
+Range: Touch  
+Speed: 12  
+Seal Speed: 30  
+
+Effects:  
+Roll a chakra control roll vs the 10 + the Chakra Control bonus of the caster of a Basic Seal. On a success you remove a seal made using Basic Seal. You gain a \+3 bonus for every time you’ve attempted this jutsu on a specific Basic Seal. Any Sealing jutsu activated with that seal are maintained as long as at least 1 seal remains.
+
 ## **Sealing D-rank**
 
 ### **Kankin Kanshihon Fuuin \- Confinement Scroll Seal**
