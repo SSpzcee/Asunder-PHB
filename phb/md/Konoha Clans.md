@@ -1005,13 +1005,16 @@ Any Katon or Raiton Technique may be converted to Taiton, with the following eff
 The most sensitive and gifted of the Asashi have learned not only to generate and manipulate light, but to absorb it as well. Consuming the photonic energy and turning it into Chakra to fuel themselves and their brilliant powers. This is technically something all Asashi perform automatically due to their altered biology, in fact, it is the reason why they can perform what they can do. But those skilled enough can absorb some the excess energy produced by the inefficiency of their own Taiton Techniques, that being some of the visible light that makes their attacks visible (Which, had it not existed, their attacks would have been completely invisible, thank the ninja gods they can't control light to THAT extent). After absorbing and digesting this excess light, they release it into a small twinkling star that'll float around them until they use its energy up in another strike.
 
 Type: Ability  
-Cost: 10  
-Scale: 10  
+Cost: 5  
+Scale: 5  
 Limit: CHA/30, max of 3\.
 
-Effects: When you perform a Taiton Ninjutsu Technique, you may choose to absorb some of the excess energy that is released by the Technique, gaining a Twinkling Star. When you perform another Taiton Technique afterwards, you may choose to "absorb" the Twinkling Star, consuming it, and reducing the Chakra Cost of that Taiton Technique by 2\. You may only use one of the above effects per unique jutsu cast.
+Effects: 
+You can store Twinkling Stars up to your ranks in this ability. You may choose to add one of the following when you perform any Taiton Ninjutsu:
 
-Each Rank in this Ability after the first increases how many Twinkling Stars you can have at once by 1\. You may never have more Twinkling Stars than you have Ranks in this Ability. If you try to create more than your cap, another pre-existing Star of your choosing must be released. You may use one, or all of your Twinkling Stars on the same Technique, reducing its Chakra Cost by the total.
+Absorption: Immediately after using a Taiton Ninjutsu you channel the excess energy into a star that hovers around you until spent. It has a rank equal to the jutsu cast. When you gain a star while you are at your cap you may either discard the lowest ranking star or fuse 2 stars of the same rank creating one of the next higher rank.
+
+Infusion: You supplement any Taiton Ninjutsu with the energy stored in a star. Upon declaration you may either reduce the chakra cost of the jutsu by the star’s rank or increase your chakra exhaustion roll by twice the rank of the star.
 
 ### **Bunsan Hikari No Jutsu \- Dispersing Gleam Technique**
 
