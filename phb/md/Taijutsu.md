@@ -1358,7 +1358,7 @@ Ground Fighting X: Requires you to be in a pin, make a grapple roll and on a suc
 
 Submission: Requires you to be in a pin, make a grapple roll and on a success your target receives all effects of the jutsu.
 
-You may only use one trapping or ground fighting jutsu per grapple resetting when it changes category (clinch to pin or vice versa). Regardless of type, all grapple jutsu require all 4 limbs to be free except for Escape Grapple.
+You may only use one trapping or ground fighting jutsu (successfully) per grapple resetting when it changes category (clinch to pin or vice versa). Regardless of type, all grapple jutsu require all 4 limbs to be free except for Escape Grapple.
 
 ## **Control**
 
@@ -1422,10 +1422,10 @@ You are Clinching your opponent. X is the number of times you've successfully in
 A simple move, extending your arm out to force your opponent's dominant hand against their chest and limit its mobility.
 
 Stamina: 10
-Speed: 5
+Speed: 6
 Special: Control 1
 
-Tags: Trapping 3, Ground Fighting 3, 1 Arm
+Tags: Trapping 4, Ground Fighting 4, 1 Arm
 
 Effects:
 The opponent can not use the pinned arm for any jutsu which require it and have their seals increased by 3.
@@ -1434,39 +1434,39 @@ The opponent can not use the pinned arm for any jutsu which require it and have 
 
 You squeeze someone's arm between your knees and pull. This hurts…a lot.
 
-Stamina: 14
-Damage: (Your Control)d12
+Stamina: 16
+Damage: As Basic Attack + (Your Control)d8  
 Speed: Variable
 Special: Control 5
 
 Tags: Submission
 
 Effects:
-On use and every 5 IC you maintain this Submission your opponent takes the listed damage as if it was a speed 3 attack and their control is reduced by 1. Your opponent also loses access to the targeted arm, any object held with it is dropped, and their seal speed reduction is halved.
+On use and every 5 IC you maintain this Submission your opponent takes the listed damage (not including speed \* db) and their control is reduced by 1. Your opponent also loses access to the targeted arm, any object held with it is dropped, and their seal speed reduction is halved.
 
 ### **Knee Bar**
 
 You squeeze someone's arm between your knees and pull. This hurts…a lot.
 
-Stamina: 14
-Damage: (Your Control)d20
+Stamina: 16
+Damage: As Basic Attack + (Your Control)d8
 Speed: Variable
 Special: Control 5
 
 Tags: Submission
 
 Effects:
-On use and every 10 IC you maintain this Submission your opponent takes the listed damage as if it was a speed 3 attack and their control is reduced by 3. Your opponent also loses access to the targeted leg.
+On use and every 10 IC you maintain this Submission your opponent takes the listed damage (not including speed * db) and their control is reduced by 3. Your opponent also loses access to the targeted leg.
 
 ### **Escape Grapple**
 
 Being held in place by one person and then punched into submission by all their friends is a pretty exceptionally undignified way for a ninja to go down. Accordingly, ninja are usually taught the basics of how to writhe their way out of all manner of holds.
 
-Stamina: \+ X
-Speed: \+ X/2, Delay \+X
+Stamina: \+ X/2
+Speed: \+ X/3, Delay \+X/3
 
 Effects:
-This is added on to a Break Clinch or Escape Pin. You gain a \+X to the roll and increase the actions stamina and speed by this technique. You may use it retroactively after failing a Break Clinch or Escape Pin roll but the Stamina is increased to \+ 2\*X.
+This is added on to a Break Clinch or Escape Pin. X has a max of the X on your Break Clinch or Escape Pin action. You gain a +X to the roll and increase the actions stamina and speed by this technique. You may use it retroactively after failing a Break Clinch or Escape Pin roll but the Stamina is increased to \+ 2 \* X.
 
 ## **Grapple D-rank**
 
@@ -1475,26 +1475,26 @@ This is added on to a Break Clinch or Escape Pin. You gain a \+X to the roll and
 You slide your arm underneath your opponents to secure a grip and push upwards to make them lose their balance.
 
 Stamina: 12
-Speed: 6
+Speed: 4
 Special: Control 1
 
-Tags: Trapping 4
+Tags: Trapping 3
 
 Effects:
-This can be stacked up to twice and is incompatible with the Overhook. If an opponent has an Overhook on you then the Speed of this jutsu is halved and Control is reduced to 0.
+This can be stacked up to twice. If an opponent has an Overhook on you then the Speed of this jutsu is halved and Control is reduced to 0.
 
 ### **Overhook**
 
 You slide your arm above your opponents to secure a grip and push downwards to make them lose their balance.
 
 Stamina: 12
-Speed: 6
+Speed: 4
 Special: Control 1
 
-Tags: Trapping 4
+Tags: Trapping 3
 
 Effects:
-This can be stacked up to twice and is incompatible with the Underhook. If an opponent has an Underhook on you then the Speed of this jutsu is halved and Control is reduced to 0.
+This can be stacked up to twice. If an opponent has an Underhook on you then the Speed of this jutsu is halved and Control is reduced to 0.
 
 ### **Single Leg Takedown**
 
@@ -1531,7 +1531,7 @@ Special: Control 2
 
 Tags: Ground Fighting 6, 2 Legs
 
-Effects: 
+Effects:  
 This may only be used while being pinned and you may use your grapple defense bonus \+ 10 in place of your grapple offense. Your speed is reduced to 0 until the grapple changes category.
 
 ### **Reversal**
@@ -1548,35 +1548,35 @@ This is added on to an Escape Pin action and on a success the pin is reversed wi
 
 You slide down to a knee and wrap around their leg with your arms. This gives you a stable position under them to quickly take them down. Don’t wait too long though.
 
-Stamina: 13
+Stamina: 16
 Speed: 8
-Special: Control 2
+Special: Control 4
 
-Tags: Trapping 5
+Tags: Trapping 6
 
 Effects:
-You gain immobility 2 as long as the clinch remains. This may only be used once per clinch.
+You and your opponent gain immobility 2 as long as the clinch remains. This may only be used once per clinch. The control cost is reduced by 1 for every successful Underhook you’ve made.
 
 ### **Front Headlock**
 
 You slide your arm above your opponents to secure a grip and push downwards to make them lose their balance.
 
-Stamina: 15
+Stamina: 18
 Speed: 10
 Special: Control 3
 
 Tags: Trapping 6, Ground Fighting 4
 
 Effects:
-This may be used in a clinch or pin and may be stacked up to 2 times per grapple.
+This may be used after an underhook and in a clinch or pin. The control cost is reduced by 2 after a succefull Overhook.
 
 ### **Guard Pass**
 
-Stamina: 12
+Stamina: 16
 Speed: 4
 Special: Control 1
 
-Tags: Ground Fighting 7, Interrupt
+Tags: Ground Fighting 5, Interrupt
 
 Effects:
 This may be used in reaction to an opponent using the Guard jutsu.
@@ -1587,12 +1587,12 @@ After taking your opponent to the ground you force them onto their back and stra
 
 Stamina: 18
 Speed: 10
-Special: Control 2
+Special: Control 5
 
 Tags: Ground Fighting 10, 2 Legs
 
 Effects: 
-Your speed is reduced to 0. This may only be used once per pin. You cannot use this after using Guard or Mount.
+Your speed is reduced to 0.
 
 ## **Grapple B-rank**
 
@@ -1601,13 +1601,13 @@ Your speed is reduced to 0. This may only be used once per pin. You cannot use t
 You grab your opponent's wrist and wrap your other arm around theirs to create a firm hold. This is extremely versatile and can be used in many different situations.
 
 Stamina: 19
-Speed: 7
+Speed: 10
 Special: Control 2
 
-Tags: Trapping 6, Ground Fighting 6, 2 arms
+Tags: Trapping 4, Ground Fighting 6, 2 arms
 
 Effects:
-The opponent loses access to the targeted arm and gains immobility 2 until this technique ends. 
+The opponent loses access to the targeted arm and gains immobility 2 until this technique ends or the grapple changes category.
 
 ### **Double Leg Takedown**
 
@@ -1623,15 +1623,15 @@ After pinning your opponent they lose 2 control.
 ### **Compression Lock**
 
 A general term for any position where you press a muscle into a bone. This causes immense pain and is likely to leave them needing a trip to the hospital
-Stamina: 22
-Damage: (Your Control)d20
+Stamina: 26
+Damage: As Basic Attack + (Your Control)d12
 Speed: Variable
-Special: Control 5
+Special: Control 7
 
 Tags: Submission
 
 Effects:
-Target a specific limb of your opponent’s. On use and every 5 IC you maintain this Submission your opponent takes the listed damage as if it was a speed 5 attack and their control is reduced by 2. This damage does not inflict wounds, instead take the total of all dice rolled for Compression Lock on that limb this fight. When that total increases past a wound threshold Your opponent also loses access to the targeted arm, any object held with it is dropped, and their seal speed reduction is halved.
+Target a specific limb of your opponent’s. On use and every 8 IC you maintain this Submission your opponent takes the listed damage (not including speed \* db). This damage does not inflict wounds, instead take half the total of all dice rolled for this use of Compression Lock. When that total increases past the opponents wound threshold you may reset this counter to 0 and inflict that wound. Depending on the limb targeted you gain the additional benefits of Arm Bar or Knee Bar.
 
 ## **Grapple A-rank**
 
@@ -1660,7 +1660,7 @@ Special: Control 8
 Tags: Trapping 10, Submission 12, 2 Arms
 
 Effects:
-Your opponent gains immobility 6 and you gain half as much. Every 10 IC you maintain this technique your opponent reduces their control by 5.
+Your opponent gains immobility 6 and you gain half as much. Every 10 IC you maintain this technique your opponent reduces their control by 5. This may allow you to increase your control to double its normal maximum until this jutsu ends.
 
 ### **Mae Hadaka Jime: Guillotine Choke**
 
@@ -1673,7 +1673,7 @@ Special: Control 10
 Tags: Submission
 
 Effects:
-You may use this in a clinch but its control cost is doubled. On use and every 10 IC you maintain this Submission make a grapple roll against your opponent. If you win they gain 1 suffocation, \+1 for every 5 your roll is above theirs and reduces their control for every bonus suffocation.
+You may use this in a clinch but its control cost is increased by 5. On use and every 10 IC you maintain this Submission make a grapple roll against your opponent. If you win they gain 1 suffocation, \+1 for every 5 your roll is above theirs and reduces their control for every bonus suffocation.
 
 ### **Turtle**
 
