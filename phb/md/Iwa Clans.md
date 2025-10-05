@@ -200,8 +200,9 @@ Cost: 5
 Scale: 5  
 Limit: XP/750
 
-Effects: The twins gain a \+1 to Research, Awareness, and Athletics rolls per rank in this Ability due to the second head helping in mental and coordination related tasks. Furthermore, the Base Speed of both the Search (and any actions similar to it, such as Scan) and Rest Actions is lowered by 1 per rank in this Ability, to a minimum of 3\.  
-In addition, every 20 ICs, the Secondary Sibling is able to to momentarily take control over the Twins' body and perform one Action with a Total Speed of (2\*Ranks bought in this Ability) without moving your IC. But any other costs of the Action, such as AP or Fatigue Checks, must still be paid.
+Effects: The twins gain a \+1 to Research, Awareness, and Athletics rolls per rank in this Ability due to the second head helping in mental and coordination related tasks. Furthermore, the Base Speed of Search (and any actions similar to it, such as Scan) is lowered by 1 per rank in this Ability, to a minimum of 3\. 
+
+In addition, every 25 ICs, the Secondary Sibling is able to to momentarily take control over the Twins' body and perform one Action with a Total Speed of (2 \+ Ranks bought in this Ability) without moving your IC. But any other costs of the Action, such as AP or Fatigue Checks, must still be paid.
 
 ### **Tarenken Mo Kogeki \- Multi-Limb Onslaught**
 
@@ -209,12 +210,21 @@ Type: D Rank \- General Ninjutsu
 Chakra: 15  
 Upkeep: X\*1.5 Rounded Up.  
 Speed: 10  
-Effect: X has a maximum of 4\. You may generate X number of Vestigial Limbs in any combination of either Arms, or Legs. These Vestigial Limbs are not dexterous enough to use Weapons in any manner, though they may still carry objects (if they are Arms, at least.). And you may, as a Speed 5 Action while this technique is active, choose to increase or decrease the number of Vestigial Limbs you possess, or outright change some or all from Arms to Legs, or vice versa. Changing your Upkeep accordingly. If X ever becomes 0, this technique ends.   
-Arm: Every Vestigial Arm you have generated provides a \+1 bonus to Grappling rolls and Seal Speed Reductions.  
-Leg: Every Vestigial Leg you have generated provides a \+0.5 bonus to PDB and a 5% Movement bonus.  
-Furthermore, if X is 2 or higher, you unlock a special Multi-Attack ability which functions similarly to Dual Wielding. This Multi-Attack ability can only be used with Unarmed and Combo Jutsus or basic Unarmed attacks. Divide the Final Speed of the Unarmed Taijutsu or basic attack performed by 1+X (Rounding up), these are the amount of instances of this attack you perform,  then combine the divided values again to find the Total Speed used for determining Defense Validation, and how far you're moved in IC. The target(s) only need to defend once against these attack, a successful defense means they avoid all instances. Should you hit with your attack, then you perform 1+X instances of that attack, using the divided Speed for the damage calculations of each instance. And applying that many wounds if applicable. However, any other effects of techniques used do not get applied more than once. Including Combo Counters.   
-For example, if you had X=3 and used Pressure Palm, you would deal damage four times, using (21/4 \= 5.25 rounded up to 6\) Speed for the purpose of each instance's damage calculations, but you'd use (6\*4=24) For the Total Speed of how much you're moved in ICs, and for what defenses are valid against the attack. You'd then apply up to 4 wounds if you reach any thresholds in any damage instance. But you'd only apply the forced Stamina roll once, not four times. You may choose to use less Vestigial Limbs than your max available for the Multi-Attack, reducing the X value for dividing Speed and for determining the amount of attack instances as appropriate.  
-Every rank in the Ability "One Mind, One Body" increases the maximum cap of X by 1 as the enhanced coordination between the Twins allows them to create and maintain more Vestigial Limbs for active use in combat. 
+
+Effect:  
+X has a maximum of 4 plus your ranks in One Mind, One Body. You may generate X number of Vestigial Limbs in any combination of either Arms, or Legs. These Vestigial Limbs are not dexterous enough to use Weapons in any manner, though they may still carry objects (if they are Arms, at least.). And you may, as a Speed 5 Action while this technique is active, choose to increase or decrease the number of Vestigial Limbs you possess, or outright change some or all from Arms to Legs, or vice versa. Changing your Upkeep accordingly. If X ever becomes 0, this technique ends. 
+
+Arm: Every Vestigial Arm you have generated provides a \+1 bonus to Grappling rolls and Seal Speed Reductions  
+Leg: Every Vestigial Leg you have generated provides a \+0.5 bonus to PDB and a 5\% Movement bonus
+
+Furthermore, if X is 2 or higher, you unlock a special Multi-Attack ability. This Multi-Attack ability can only be used with basic Unarmed attacks and allows you, up to a max of X, to strike with 1 + X/2 basic attacks at once and behaves like Dual Wielding with the following changes:
+
+The speed (for damage purposes) for each attack is divided by the number of attacks.
+This attack has a \-1 accuracy penalty per attack that cannot be reduced by Ambidexterous
+The stamina cost is increased by 1/5th the cost of every extra attack rather then 1/3rd
+The opponent makes one defense action but rolls separetely for each individual attack
+The damage dice of the first attack is reduced by 30\% and every subsequent attack has its damage reduced by 10\% more then the previous. (40, 50, etc)
+The speed is increased by 2 per additional attack for IC purposes only 
 
 ### **Tarensoma \- Assault of the Twin Demons**
 
@@ -226,6 +236,7 @@ Speed: 5
 Special: Requires Tarenken Mo Kogeki to be active
 
 Effect: If you miss or only partially hit with an Unarmed or Combo Taijutsu attack, you may perform this technique as an Interrupt before the opponent's defense fully resolves (Ignoring typical Interrupt validity rules). You sacrifice 1 Vestigial Limb as it forcibly creates some form of opening for the rest of your attack to go through, forcing the target(s) of the initial attack to make another Defensive roll of the same type and the same bonuses (though paying no extra cost). If your attack hits this time (Whether partial or not), you deal one less instance of damage, though still use the same divided and Total Speeds as before. And you lower X for Tarenken Mo Kogeki by 1\.  
+
 You may use this technique several times on the same attack until you fully hit, or no longer have any Vestigial Limbs to sacrifice.
 
 ### **Rikon \- Divorce**
@@ -237,14 +248,18 @@ Upkeep: Special
 Speed: Special  
 Special: Requires 2 Vestigial Legs and 2 Vestigial Arms, and 1 Willpower.
 
-Effects: By sacrificing 2 Vestigial Legs and 2 Vestigial Arms,spending 1 Willpower, and ending "Tarenken Mo Kogeki" if it is still active. The Twins Separate from each other in a grotesque fashion. As the Secondary Sibling takes control of those limbs and pulls himself out of the back of the Primary Sibling. Creating a Vestigial Body for them to control and operate. A process that takes a Speed 10, Delay 10 Action, in which the Secondary Sibling is not targetable until the Delay has fully resolved.   
-Once the Secondary Sibling has been fully generated, they essentially become a second Player Character that is controlled by the same PC. They are added on the Initiative 1 IC after the Delay, start at Fatigue 0, have no initial Wounds or Status Effects, and can act without costing any AP unlike Summons or Clones. They possess every Jutsu, Unique, Ability, and Enhancement Talent that the Primary Sibling has. But not Capability Talents. And possess no copies of the Equipment held by the Primary Sibling (Though thanks to ninja magic, they pop out clothed\!). However, this Vestigial Body was never designed to exist for long, the Secondary Sibling has a Special Upkeep of 10 that cannot be reduced in any form, so long as they are separated from the Primary Sibling.
+Effects: 
+By sacrificing 1 Willpower and ending "Tarenken Mo Kogeki" the Twins Separate with the Secondary Sibling taking control of those limbs. This creates a Vestigial Body that cannot act until the delay ends.
 
-When Separating, the Twins halve their Current and Maximum Vitality, HP, and AP pools (Rounding Down). But still share the same Willpower pool and use their unhalved Wounding Thresholds for both Siblings. When they Merge back together, combine their new values once again (Your Maximums for each go back to what they were before being Rounded Down). 
+When Separating, the Twins halve their Current and Maximum Vitality, HP, and AP pools (Rounding Down). But still share the same Willpower pool and use their unhalved Wounding Thresholds \-20\%. When they Merge back together, combine their new values once again (Your Maximums for each go back to what they were before being Rounded Down).
 
-Both the Primary and Secondary Sibling lose access to the "One Mind, One Body" Ability and its benefit, as well as  Tarenken and Tarensoma as these techniques require the direct support of the Secondary Sibling. However, the Twins still retain a very strong bond that goes beyond anything others are capable of even while physically separated. They can convey any plans or general thoughts to each other non-verbally so long as they are within sight of each other (A single gaze is enough for one to tell exactly what the other is thinking). And if one is suffering from a Visibility penalty, but the other one isn't, treat both as if they do not have that particular Visibility penalty. They're just that good at coordinating. Additionally,  Whenever the Twins perform a Simultaneous Action using the same Jutsu, they both gain a \+2 ACC bonus to the technique and increase their Total Damage by 20%.  
-If either Sibling is incapacitated, their body collapses into a gelatinous puddle of flesh and the other loses all the benefits mentioned above, but retains all the penalties until they reach their Sibling's unconscious body and Merge back together. Merging while one of the Siblings is unconscious causes the Twins to receive a Stun 10 which takes effect only once the Delay of the Merge action is fully resolved. However, the unconscious Sibling will wake up immediately after and you regain access to all of your Abilities and Techniques.  
-Either Sibling may perform a Merge if they are within 1 Yard of the other Sibling. This is a Speed 10, Delay 10 Action. During which the Secondary Sibling is still targetable until the Delay fully resolves. Any and all Wounds taken by the Secondary Sibling are downgraded by one category and kept by the Primary Sibling. And any Status Effects the Secondary Sibling had are halved (Rounding Down) and transferred to the Primary Sibling.
+The secondary sibling becomes an identical clone to the original with all the same combat stats and features except for Capability Talents. They are added to the initiative 1 IC after the delay ends and share the same fatigue level and wounds as the main body when it was created. You may transfer any equipment from yourself to this clone as part of it's creation. Additionally the clone also gains the upkeep from this technique.
+
+Both the Primary and Secondary Sibling lose access to all other Soma jutsu and abilities, bit whenever the Twins perform a Simultaneous Action using the same Jutsu, they both gain a \+2 ACC bonus to the technique and increase their Total Damage by 20\%.
+
+Either Sibling may perform a Merge if they are within 1 Yard of the other Sibling. This is a Speed 10, Delay 10 Action. During which the Secondary Sibling is still targetable until the Delay fully resolves. Any wounds and statuses are transfered to the main body.
+
+If either Sibling is incapacitated, their body collapses into a gelatinous puddle of flesh and instantly merge into the other body. Merging while one of the Siblings is unconscious causes the Twins to receive a Stun 20. However, the unconscious Sibling will wake up immediately after and you regain access to all of your Soma jutsu and Abilities.
 
 ## 
 
@@ -360,32 +375,32 @@ Additionally as long as you have any Buried Status for every Rank you have in th
 You begin effortlessly burrowing into the ground with your extremely hard and flat claws and you are still aware of everything that is happening on the surface thanks to your honed tactile senses able to detect even the faintest of vibrations.  
 
 Type: D Rank - Doton Ninjutsu  
-Chakra: 12 \+ X  
+Chakra: 15 \+ X  
 Special Upkeep: 1 \+ X  
 Speed: 3 \+ X\*2  
 
 Tags: Utility, Self, Ground-Based  
 
 Effect:  
-You descend X Yards below the surface of the earth and gain Buried X to a maximum of 5. You may hide for free as part of this jutsu and for the duration of that Stealth Doton Jutsus do not break your Stealth but instead lower your TN by 5.  
+You descend X Yards below the surface of the earth and gain Buried X to a maximum of 5. You may hide for free as part of this jutsu and as an action while you maintain its upkeep. While stealthed in this way Doton Jutsus do not break your Stealth but instead lower your TN by 5. 
 
-While you maintain the Upkeep for this Technique, you are immune to all Ground-Based and Environmental Effects that don't explicitly extend to underground. You cannot move in any way besides the Move Action, which uses your STR instead of AGI. You can ascend or descend Y Yards as a Speed 3 \+ Y, Stamina 8 \+ Y Yards, where Y is the difference between your current depth and your desired depth.  
+While you maintain the Upkeep for this Technique, you are immune to all Ground-Based and Environmental Effects that don't explicitly extend to underground. You cannot move in any way besides the Move Action, which uses your STR instead of AGI. You can ascend or descend Y Yards as a Speed 3 \+ Y, Stamina 8 \+ Y Yards, where Y is the difference between your current depth and your desired depth.
 
-If you end the Upkeep of this Technique, you ascend back up to the nearest unoccupied spot on the surface. The technique also ends if the durability of the ground above you is reduced to 0.  
+If you end the Upkeep of this Technique, you ascend back up to the nearest unoccupied spot on the surface. The technique also ends if the durability of the ground above you is reduced to 0.
 
 ### **Hōkai Meikai No Jutsu \- Collapsing to the Underworld Technique**
 
 You cause the ground beneath the Target to collapse into a tunnel trapping them below the surface with you.  
 
-Type: C Rank \- Doton Ninjutsu  
+Type: C Rank \- Unarmed Taijutsu  
 Chakra: 20  
 Speed: 14  
 Special: Stun 5  
 
 Effect:  
-This is an automatic Sneak Attack. You can only use this Jutsu to target somebody that is directly above you while you are underground. This cannot be Parried or Blocked, only Dodged. If the Target fails, they gain the same amount of Buried Severity as you and you are Clinching your opponent.  
+The first time this is used in a fight it's an automatic Sneak Attack. You can only use this Jutsu to target somebody that is directly above you while you are underground. This cannot be Parried or Blocked, only Dodged. If the Target fails, they gain the same amount of Buried Severity as you and you are Clinching your opponent.
 
-When the grapple ends the opponent may immediately escape through the tunnel and end their buried status.  
+When the grapple ends the opponent may immediately escape through the tunnel and end their buried status.
 
 ### **Yōshoku Damu No Jutsu \- Cultivating Dam Technique**
 
