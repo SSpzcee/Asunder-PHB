@@ -127,6 +127,16 @@ Tags: 1 Arm
 Effects:
 This knocks the victim back (your RES)/10 yards.
 
+### **Flash Step**
+
+Stamina: X / 3  
+Speed: X / 3  
+
+Tags: Utility, Link
+
+Effect:  
+This is used alongside a melee Taijutsu attack, increasing your move with attack X yards to a maximum of the speed of the jutsu.
+
 ### **Throw**
 
 You use leverage, brute force, or a combination of the two to physically throw an enemy, either by flipping them over you, hurling them into a nearby object, slamming them to the ground, or something similar.
