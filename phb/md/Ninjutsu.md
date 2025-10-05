@@ -820,7 +820,7 @@ Seal Speed: 17
 Tags: Utility, Self, Ground-Based
 
 Effects:  
-You gain (CHA/2) Damage Reduction, and increase your Physical Damage Bonus by the same amount. Raiton bypasses all this technique’s effects.
+You gain CHA/3 Damage Reduction, and increase your Physical Damage Bonus by that amount /10. Raiton bypasses all this technique’s effects.
 
 ### **Doryuuheki \- Earth Style Wall**
 
@@ -834,7 +834,7 @@ Seal Speed: 24
 Tags: Defensive, Ground-Based
 
 Effects:  
-You create a wall of earth that blocks up to (50 \+ (ninjutsu damage bonus)\*3 )\*(Speed) damage. It takes 50% extra damage from Raiton, but only half damage from Suiton and Katon.
+You create a wall of earth that blocks up to (50 \+ (ninjutsu damage bonus)\*10 )\*(Speed) damage. It takes 50% extra damage from Raiton, but only half damage from Suiton and Katon.
 
 You may use Action Points to reduce Doryuuheki's (base) Seal Speed, on a 1:1 basis, to as low as 12\. Note that if you are able to use Doryuuheki as an interrupt, you may do so without the need for a roll. Earth Style Wall can only be used against attacks which originated more than 5 yards away from you.  
 Used against area-of-effect attacks, this may protect multiple people, as long as they can all be placed behind the same 15 yard long line.
