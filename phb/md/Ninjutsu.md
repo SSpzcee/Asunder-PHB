@@ -1638,7 +1638,7 @@ Additionally, if an attack augmented by Blazing Fury inflicts wounds of any sort
 The user gathers chakra around them--the 'rising phoenix' actually refers to the visible heat ripples and wisps of flame rising around the ninja performing it-- and unleashes a stream of dark, searingly hot fire at their opponents. The flames of this technique are hot enough to disintegrate most incoming attacks.
 
 Chakra: 24  
-Damage: 10d10!>8  
+Damage: 10d20!>16  
 Range: CHA  
 Speed: 8  
 Seal Speed: 12  
@@ -1646,7 +1646,7 @@ Seal Speed: 12
 Tags: Attack, Interrupt, Projectile, Energy
 
 Effects:  
-When used as an Interrupt, Rising Phoenix Blast's damage becomes 10d10!>6 and it receives double your ninjutsu damage bonus. It functions differently when used against a melee attack, or projectile ninjutsu attack, that deals damage:
+When used as an Interrupt, Rising Phoenix Blast's damage becomes 10d20!>11. It functions differently when used against a melee attack, or projectile ninjutsu attack, that deals damage:
 
 Against a melee attack: The user may choose to call off their attack, or press on regardless of the danger. If they do not cancel their attack each of you are automatically hit by each others attacks without a defense. If they choose to defend themselves, their attack is cancelled. They do not pay any Fatigue costs, their IC is advanced only half as much, any other spent resources are lost. Then they defend against Rising Phoenix Blast as a surprise attack, but have a \+3 bonus to any d20 rolls made as part of their defense.
 
