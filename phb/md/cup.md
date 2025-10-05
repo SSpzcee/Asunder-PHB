@@ -31,9 +31,9 @@ Throwing solid blocks, you've honed your reflexes and worked your bones and tend
 
 You can use the Block defense as a Speed 5 Interrupt. If you're Stunned when you do this, your Block reduces the incoming attack's damage by 25% less than it normally would. 
 
-You reduce the damage you take by RES/5. Additionally anyone hitting you with a non-ranged Taijutsu attack suffers STR/2 DMG.
+You reduce the damage you take by RES/5. Additionally anyone hitting you with a non-ranged attack suffers STR/2 DMG.
 
-When you Block, treat the damage as if it was 20% lower when determining what Wounds you receive. You are considered to be blocking at the Start of combat (as per Defensive Reflexes ability) without incurring any penalties for doing so.
+When you Block, treat the damage as if it was 20\% lower when determining what Wounds you receive. You are considered to be Prepare Blocking at the Start of combat (as per Defensive Reflexes ability) without incurring any penalties for doing so.
 
 ### **Energetic**
 
