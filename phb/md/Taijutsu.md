@@ -1356,7 +1356,7 @@ Takedown: Requires you to be in a clinch, make a grapple roll and on a success y
 
 Ground Fighting X: Requires you to be in a pin, make a grapple roll and on a success reduce the target’s control by X on top of any additional effects provided by the technique.
 
-Submission: Requires you to be in a pin, make a grapple roll and on a success your target receives all effects of the jutsu.
+Submission: Requires you to be in a pin, make a grapple roll and on a success your target receives all effects of the jutsu. When your submission is ended your IC is increased by 5.
 
 You may only use one trapping or ground fighting jutsu (successfully) per grapple resetting when it changes category (clinch to pin or vice versa). Regardless of type, all grapple jutsu require all 4 limbs to be free except for Escape Grapple.
 
