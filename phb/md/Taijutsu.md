@@ -391,7 +391,7 @@ Accuracy: \-5
 Special: Stun 10
 
 Effects:
-Your damage bonus is doubled for this attack. If done while in a grapple the grapple is ended and the damage increases to d20s. If Suplex inflicts a wound, it is dealt to the opponent's head. This technique leaves you and your opponent prone.
+Your damage bonus is doubled for this attack. If done while in a grapple it gains control 5, the grapple is ended, and the damage increases to d20s. If Tiger Drop inflicts a wound, it is dealt to the opponent's head. This technique leaves you and your opponent prone.
 
 ## **Unarmed A-Rank**
 
@@ -1333,17 +1333,20 @@ Grappling comes with a lot of rules detailed below but it can be simplified depe
 
 If you just want to know how to escape from the 7ft giant choking you out then all you need to understand is escape methods and the difference between clinch and pin. Your primary methods of getting out are Break Clinch and Escape Pin. By using them multiple times you keep increasing your bonus until you are finally able to break out. If you are pinned you want to use Escape Pin and if you are in a clinch you want to use Break Clinch. Escape Grapple provides an alternative method for getting out but has higher risk for a higher reward.
 
-As a grappler your goal is to gain as much control as you can while dropping your opponents. Step 1) Setup a clinch, Step 2) Use a takedown to pin them, Step 3) Make them suffer. Other grapple jutsu are designed to reduce your opponent's control to make it harder to escape. Once you have them in a pin you can either pummel them with taijutsu attacks or lock them in a hold.
+As a grappler your goal is to gain as much control as you can while dropping your opponents. Step 1) Setup a clinch, Step 2) Use a takedown to pin them, Step 3) Make them suffer. Other grapple jutsu are designed to reduce your opponent's control to make it harder to escape. Once you have them in a pin you can either pummel them with taijutsu attacks or lock them in a hold.  
+
 Certain situations within a grapple may call for a 'grapple roll'. When this happens, the player that triggered the Check rolls Grapple Offense and the other rolls Defense.
 
 [M10] Grapple Off: 10 \+ Control \+ STR/10 \+ Any relevant bonuses/penalties
 [M11] Grapple Def: 1d20 \+ Control \+ STR/10 \+ AGI/20 \+ Any relevant bonuses/penalties
 
-Whilst in a clinch, either participant has access to the below actions. Bonuses for consecutive use stacks interchangeably between both so after escaping the pin with a \+4 if your next action is Break Clinch you get a \+6.
+While in a grapple all participants gain access to the following actions:
 
-Break Clinch (Stamina 5, Speed 5, Delay 5, Control 0) Must be used in a clinch. You make a Grapple Defense roll versus your opponent’s Offense. If you succeed, the grapple ends immediately. Every time you use a Break Clinch action consecutively (without taking a non-Interrupt action between them) you get a stacking +2 to the roll, stamina cost, and delay.
+Reposition (Stamina 5 \+ X\*2, Speed 2 \+ X) You may spend X AP to increase your control by that amount. X has a maximum of your ranks in either the pressure or Escape Artist abilities.
 
-Escape Pin (Stamina 7, Speed 5, Delay 5, Control 0) You make a Grapple Defense roll versus your opponent’s Offense. If you succeed, the grapple ends immediately. Every time you use an Escape Pin action consecutively (without taking a non-Interrupt action between them) you get a stacking +2 to the roll, stamina cost, and delay.
+Break Clinch (Stamina 5 \+ X/2, Speed 5 \+ X/2, Delay X, Control 0) Must be used in a clinch. You make a Grapple Defense roll versus your opponent’s Offense. If you succeed, the grapple ends immediately. You gain a \+X bonus to the roll. The maximum of X starts at 1 and increases by 1 for every 5 IC the current grapple has lasted.
+
+Escape Pin (Stamina 7 \+ X/2, Speed 6, Delay 10, Control 0) You make a Grapple Defense roll versus your opponent’s Offense. If you succeed, the grapple ends immediately. You gain a \+X bonus to the roll. The maximum of X starts at 1 and increases by 1 for every 5 IC the current grapple has lasted.
 
 ## **Grapple-Related Tags (also this)**
 
@@ -1355,27 +1358,25 @@ Ground Fighting X: Requires you to be in a pin, make a grapple roll and on a suc
 
 Submission: Requires you to be in a pin, make a grapple roll and on a success your target receives all effects of the jutsu.
 
-Regardless of type, all grapple jutsu require all 4 limbs to be free except for Escape Grapple.
+You may only use one trapping or ground fighting jutsu per grapple resetting when it changes category (clinch to pin or vice versa. Regardless of type, all grapple jutsu require all 4 limbs to be free except for Escape Grapple.
 
 ## **Control**
 
-Grappling is all about moving positions to force your opponent into a disadvantageous position. A grappler will use this to progress to stronger holds while their opponent may do everything they can to worm their way out. Each participant in a grapple gains a bonus to any grapple rolls equal to their control.
+Grappling is all about moving positions to force your opponent into a disadvantageous position. A grappler will use this to progress to stronger holds while their opponent may do everything they can to worm their way out. To determine starting control, make opposing grapple checks with the instigator rolling offense and the defender having the choice to roll offense or defense. The winner gains control equal to the amount they beat their opponents roll.
 
-To determine starting control, compare the grapple offense bonus of each participant. The one with the lowest bonus subtracts it from their opponents. Then they add 5 which becomes their control. So if one player had a \+7 while their opponent had a \+10 the opponent would begin with Control 8 and the player would have Control 5.
+If the person with control gains more their amount is added to their total. If the person without control gains some, their opponent's control is reduced to that amount (potentially reducing it back to 0 where any more control would become their positive amount). Each participant has a max Control of 10 \+ half their ranks in Pressure (rounded up).
 
 While in a clinch or grapple you are not restricted by what actions you can take. However, there are many ways for your control to be reduced whether by your actions or your opponents. Below is the list of the most common ways for control to be lost which occurs after the action takes place:
 
 > Any action with a listed control reduces it by that much such as most grapple jutsu and grapple-related actions do. This occurs before the jutsu’s effects.
 
-> Every other action (including interrupts reduces your control in the grapple by half its speed.
+> Every other action (including interrupts reduces your control in the grapple by one-third its speed (rounded down)
 
-> Wounds reduce control by double their severity (Minor 2, Major 4, Sever 6, etc)
+> Receiving damage greater than your RES / 4 reduces your control by 1 
 
-> Status Conditions reduce your control by their severity/5 (minimum of 1)
+> Receiving damage greater than your RES / 4 reduces your control by 1
 
-If someone’s Control would be reduced below 0, their opponent instead gains control equal to the amount they would have lost. Additionally, while in a grapple all participants gain the following action:
-
-Reposition (Stamina 5 \+ X\*2, Speed 2 \+ X) You may spend X AP to increase your control by that amount. X has a maximum of your ranks in either the pressure or Escape Artist abilities.
+> Each unique Status Condition reduces your grapple offense and defense by their severity/4 (minimum of 1)
 
 ## **Clinch**
 
@@ -1383,7 +1384,7 @@ You are clinching and clinched by your opponent. In a clinch, the following effe
 
 > Any movement (such as running, Shushin, knockback) is halved, and moves the other person along with them.
 
-> Any action (including interrupts) have their Speed increased by 2 for the purposes of advancing IC.
+> Any interrupt has its Speed increased by 2 for the purposes of advancing IC.
 
 > If either person is suffering from the Ignite status, both people are treated as having the highest severity present.
 
@@ -1408,13 +1409,13 @@ Set-up (Stamina 10, Speed  5, Control 5) Make an opposed grapple roll. If you su
 
 You grab onto an opponent, with the intent to not let go\! It's not a preferred method of fighting among ninja, but it does have some limited popularity amongst certain taijutsu fighters.
 
-Stamina: 8 if it misses, 12 if it hits  
+Stamina: 8 \+ 2 \* X    
 Damage: None  
 Speed: 12  
 Special: \+2 Accuracy
 
 Effects:  
-You are Clinching your opponent.
+You are Clinching your opponent. X is the number of times you've successfully initiated a grapple in this fight.
 
 ### **Arm Pin**
 
@@ -1427,7 +1428,7 @@ Special: Control 1
 Tags: Trapping 3, Ground Fighting 3, 1 Arm
 
 Effects:
-The opponent can not use the pinned arm for any jutsu which require it and have their seals increased by 3. As you require your other hand to hold this position you can only use this once per clinch.
+The opponent can not use the pinned arm for any jutsu which require it and have their seals increased by 3.
 
 ### **Arm Bar**
 
