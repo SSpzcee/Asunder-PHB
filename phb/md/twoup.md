@@ -24,10 +24,10 @@ Every time you perform a grapple jutsu on an opponent, you increase their stamin
 
 You reduce any damage you take by STR/10. 
 
-You also receive the benefits of the Martial Prowess Unique. 
+You also receive the benefits of either the Martial Prowess or Wrestling Prowess Unique. 
 
-Incomptabile With: Martial Prowess  
-Upgrades From: Martial Prowess
+Incomptabile With: Martial Prowess, Wrestling Prowess  
+Upgrades From: Martial Prowess, Wrestling Prowess  
 
 ### **Chakra Sensor**
 
