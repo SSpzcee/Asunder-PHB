@@ -242,10 +242,10 @@ You may use this technique several times on the same attack until you fully hit,
 ### **Rikon \- Divorce**
 
 Type: B Rank \- General Ninjutsu  
-Chakra: 15  
-Stamina: 15  
-Upkeep: Special  
-Speed: Special  
+Chakra: 20   
+Stamina: 20   
+Upkeep: 10  
+Speed: 15, Delay 20  
 Special: Requires 2 Vestigial Legs and 2 Vestigial Arms, and 1 Willpower.
 
 Effects: 
@@ -253,13 +253,13 @@ By sacrificing 1 Willpower and ending "Tarenken Mo Kogeki" the Twins Separate wi
 
 When Separating, the Twins halve their Current and Maximum Vitality, HP, and AP pools (Rounding Down). But still share the same Willpower pool and use their unhalved Wounding Thresholds \-20\%. When they Merge back together, combine their new values once again (Your Maximums for each go back to what they were before being Rounded Down).
 
-The secondary sibling becomes an identical clone to the original with all the same combat stats and features except for Capability Talents. They are added to the initiative 1 IC after the delay ends and share the same fatigue level and wounds as the main body when it was created. You may transfer any equipment from yourself to this clone as part of it's creation. Additionally the clone also gains the upkeep from this technique.
+The secondary sibling becomes an identical clone to the original with all the same combat stats and features except for Capability Talents. They are added to the initiative 1 IC after the delay ends and share the same fatigue level and wounds as the main body when it was created. You may transfer any equipment from yourself to this clone as part of its creation. Additionally the clone also gains the upkeep from this technique.
 
-Both the Primary and Secondary Sibling lose access to all other Soma jutsu and abilities, bit whenever the Twins perform a Simultaneous Action using the same Jutsu, they both gain a \+2 ACC bonus to the technique and increase their Total Damage by 20\%.
+Both the Primary and Secondary Sibling lose access to all other Soma jutsu and abilities, but whenever the Twins perform a Simultaneous Action using the same Jutsu, they both gain a \+2 ACC bonus to the technique and increase their Total Damage by 20\%.
 
-Either Sibling may perform a Merge if they are within 1 Yard of the other Sibling. This is a Speed 10, Delay 10 Action. During which the Secondary Sibling is still targetable until the Delay fully resolves. Any wounds and statuses are transfered to the main body.
+Either Sibling may perform a Merge if they are within 1 Yard of the other Sibling. This is a Speed 10, Delay 10 Action. During which the Secondary Sibling is still targetable until the Delay fully resolves. Any wounds and statuses are transferred to the main body.
 
-If either Sibling is incapacitated, their body collapses into a gelatinous puddle of flesh and instantly merge into the other body. Merging while one of the Siblings is unconscious causes the Twins to receive a Stun 20. However, the unconscious Sibling will wake up immediately after and you regain access to all of your Soma jutsu and Abilities.
+If either Sibling is incapacitated, their body collapses into a gelatinous puddle of flesh and instantly merges into the other body. Merging while one of the Siblings is unconscious causes the Twins to receive a Stun 20. However, the unconscious Sibling will wake up immediately after and you regain access to all of your Soma jutsu and Abilities.
 
 ## 
 
