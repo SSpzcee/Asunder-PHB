@@ -4,7 +4,7 @@ The core of a ninja's supernatural capabilities comes from their jutsu--meaning,
 These are divided into three broad categories: taijutsu, ninjutsu, and genjutsu.  
 Taijutsu, or body techniques, use the chakra flowing throughout a ninja's body to give them the exceptional speed or strength needed to perform the techniques. They are mostly physical attacks. This includes both unarmed combat, and weapon techniques.  
 Ninjutsu, or ninja techniques, use chakra to accomplish what those unfamiliar with them might call magic. These effects range from changing one's appearance to projecting balls of flame, to summoning water from thin air, to healing grievous injuries.  
-Genjutsu, or illusion techniques, use chakra to either construct illusions in the environment or to directly affect an enemy's mind and confuse their senses. Of the three, they are the most difficult to learn.
+, or illusion techniques, use chakra to either construct illusions in the environment or to directly affect an enemy's mind and confuse their senses. Of the three, they are the most difficult to learn.
 
 ## **Rules**
 
@@ -337,32 +337,6 @@ In the case of getting attacked while you are hidden among your clones there is 
 \-Check to see if a clone is hit or you: one is hit when you do not roll a 1 on a 1dx roll where x is the amount of clones \+1. You having 2 clones would mean you roll a 1d3 and you are hit on a 1  
 If a clone is hit and not the actual PC, both the attacker and defender advance their ic based on actions declared. (In this case you would not have to pay for Stamina or Chakra costs for techniques you intended to use as the defender and those techniques would also not be used. Any AP spent to make the speed a legal defense is still lost)  
 If the defending character is the randomized target, resolve the defenses declared before.
-
-# **Genjutsu**
-
-## **Requirements**
-
-Genjutsu's not easy. In fact, genjutsu is really, really hard, even by the standards of other ninja techniques. Taijutsu and ninjutsu are both, after enough shinobi training, slightly intuitive; and, in the case of the latter, every ninja has an elemental affinity they can rely on to help them out even when they struggle overall.  
-Not so with genjutsu. There is no such thing as an 'affinity' for it (though some ninja who seem to have an easier time learning it are occasionally described as such), and it takes a lot work to be able to use it effectively.  
-The requirements for using Genjutsu of a given rank are listed below. Additionally all Genjutsu require the Genjutsu Training ability.
-
-E: Genjutsu Training Ability  
-D: 5 Diplomacy, 5 Research, and 15 (Diplomacy \+ Research)  
-C: 10 Diplomacy, 10 Research, and 25 (Diplomacy \+ Research)  
-B: 20 Diplomacy, 20 Research, and 50 (Diplomacy \+ Research)  
-A: 30 Diplomacy, 30 Research, and 70 (Diplomacy \+ Research)  
-
-Notably, Jounin rank also gives access to C-rank Genjutsu.
-
-## **Special Rules**
-
-Genjutsu relies upon confusing the senses, which is a powerful tool in the arsenal of someone who relies on subterfuge... or even just a shinobi needing an extra edge in combat.  
-It's quite possible to realize one's under a genjutsu, but that doesn't give any special ability to overcome its effects ("disbelieving the illusion", so to speak, doesn't actually work).  
-On the other hand, it's hard to fool someone again and again with the same trick; each time a genjutsu is successfully used against you in combat, you have a (cumulative) \+3 bonus to defensive rolls against that specific jutsu for the rest of the battle.
-
-There are three ways to break free from most genjutsu: \> Genjutsu Kai, the D-rank Ninjutsu technique. \> If you suffer a Wound of major or higher, all Genjutsu effects applied you end as your mind gets its act back together. \> Many Genjutsu will have upkeeps, durations, or the like. Details will exist in specific jutsu entries.
-
-By their nature, it's hard to realize that one is suffering from the effects of a genjutsu technique. It's possible to be afflicted by a genjutsu that you know and use frequently, with obvious 'tells', and still mistake it for reality--such is the nature of delusions. Most Combat Genjutsu will be discovered after a certain amount of IC after they are used, as detailed in the jutsu themselves.
 
  
 
