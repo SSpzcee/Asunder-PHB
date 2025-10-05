@@ -190,3 +190,6 @@ Due to the incredible amount of athleticism this lifestyle requires, your athlet
 ### **Wrestling Prowess**
 
 Upon entering a clinch you may immediately use the reposition action for free. While in a grapple you gain DR equal to your control and have a +3 to grapple rolls and TNs for the reversal jutsu.
+
+Upgrades Into: Bruiser
+
