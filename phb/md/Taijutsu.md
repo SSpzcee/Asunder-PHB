@@ -1358,7 +1358,7 @@ Ground Fighting X: Requires you to be in a pin, make a grapple roll and on a suc
 
 Submission: Requires you to be in a pin, make a grapple roll and on a success your target receives all effects of the jutsu.
 
-You may only use one trapping or ground fighting jutsu per grapple resetting when it changes category (clinch to pin or vice versa. Regardless of type, all grapple jutsu require all 4 limbs to be free except for Escape Grapple.
+You may only use one trapping or ground fighting jutsu per grapple resetting when it changes category (clinch to pin or vice versa). Regardless of type, all grapple jutsu require all 4 limbs to be free except for Escape Grapple.
 
 ## **Control**
 
@@ -1532,7 +1532,7 @@ Special: Control 2
 Tags: Ground Fighting 6, 2 Legs
 
 Effects: 
-Your speed is reduced to 0. This may be used while being pinned. You cannot use this after using Guard or Mount.
+This may only be used while being pinned and you may use your grapple defense bonus \+ 10 in place of your grapple offense. Your speed is reduced to 0 until the grapple changes category.
 
 ### **Reversal**
 
