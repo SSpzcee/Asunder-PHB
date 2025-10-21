@@ -14,7 +14,9 @@ Upgrades Into: Chakra Sensor
 
 Where others use talent, you rely on practical application of your (probably vast) knowledge to guide you. It's all well and good for someone to be able to spot the vague outline of a hidden opponent, but you, on the other hand, notice the way the bush they're hiding behind has been shifted, as you know that plant only grows facing west. You also know that the plant's name is Rhaphiolepis, a shrubbery that's typically grown for the pink flowers that it blooms. And you know those flowers are great for making tea. And that they're- Yeah.... You're probably kind of a nerd, to be honest. 
 
-You increase the max rank of all non-Research skills by 2. Furthermore, all this attention to detail has the added benefit of making you pretty good at crafting realistic Genjutsu with consistent details. The duration’s multiplier for when somebody realizes they’re trapped in a genjutsu is increased by 2\. For example, if they normally realize it within X\*3 ICs, it becomes X\*5 ICs.
+Your maximum ranks in diplomacy are increased by 2.
+
+You increase the Realize IC and Duration of your Genjutsu by your Max Willpower \+ double the difference in your current WP vs your target’s.
 
 Upgrades Into: Cunning
 
