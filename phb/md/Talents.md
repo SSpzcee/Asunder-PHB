@@ -41,7 +41,7 @@ All of the talents listed in "Capabilities" can be only acquired through other m
 
 All your actions have their Speed reduced by 2\. This functions exactly the same as spending AP to reduce their Speed, and follows all the normal rules for doing so; it can also be combined with AP to lower an action's Speed further.
 
-However, because Celerity takes place automatically, it still applies in situations where you're normally prohibited from spending AP (such as Surprise Attacks). You may choose not to apply this talent, or only partially apply it, to a given action if you wish.
+All your actions have their Speed reduced by 2, but this reduction cannot reduce the speed of interrupts below 3. You may choose not to apply this talent, or only partially apply it, to a given action if you wish.
 
 ### **Generalist**
 
