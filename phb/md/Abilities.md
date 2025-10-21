@@ -107,7 +107,7 @@ Limit: (STR \- 20) /10
 ### **Taijutsu Expertise**
 You have chosen the path of taijutsu, the superior method of fighting. Through training you've developed enough tricks to improve your ability to land these types of attacks.  
 
-This gives you a \+1 bonus to Taijutsu Accuracy per rank.  
+This gives you a \+1 bonus to Taijutsu Accuracy (but not parry) per rank.  
 
 Cost: 5  
 Scale: 2  
@@ -280,7 +280,7 @@ Requires: 80 CHA
 ### **Ninjutsu Expertise**
 You have chosen the path of ninjutsu, the superior method of fighting. Through training you've developed tricks to improve your ability to land these types of attacks.  
 
-This gives you a \+1 bonus to Ninjutsu Accuracy per rank.  
+This gives you a \+1 bonus to Ninjutsu Accuracy (but not parry) per rank.  
 
 Cost: 5  
 Scale: 2  
