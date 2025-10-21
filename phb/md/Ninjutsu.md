@@ -951,7 +951,8 @@ This affects everything in a square of up to 50 yards on a side, centered on its
 
 ## Wind (Fuuton)
 Blocking reduces the damage of Wind techniques by only 25%.
-Using a fan you can rapidly manipulate wind and infuse it with chakra on any technique with the fan tag. This removes the seal speed and adds a Stamina roll with a difficulty of 5 \+ (the difference between your sealing and the seal speed), made at the same time as the normal Chakra roll.
+Using a fan you can rapidly manipulate wind and infuse it with chakra on any technique with the fan tag. This removes the seal speed and adds a Stamina roll with a difficulty of 5 \+ 2 \* (the difference between your sealing and the seal speed), made at the same time as the normal Chakra roll. While dual-wielding you only use half your ninjutsu seal speed for the above calculation.
+
 Oh and if there’s no air or any gasses around (Even water has air in it), then you can’t use Fuuton, but… If you’re in a situation like that then you probably have bigger problems to worry about.
 
 
