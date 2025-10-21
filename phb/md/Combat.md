@@ -353,6 +353,8 @@ Whenever you take an action that enters you into stealth, whether that is the hi
 
 There are three levels of stealth, corresponding to different degrees of being hidden. Each level has limitations on what can be done in it; for example, in Level 2 and Level 3 Stealth, you cannot move. Thus, if you were at Stealth 3, and chose to spend an action moving, you would immediately be dropped to Stealth 1\.
 
+You may use any jutsu with the Self tag, ranged taijutsu, or Genjutsu technique without breaking stealth. Any action used while in stealth reduces your Stealth TN by 5 though a sneak attack will break your stealth as normal.
+
 ### **Stealth, Level 1**
 
 Stealth 1 is as poorly concealed as you can be while still being unseen by your enemies. Your Stealth TN has no bonus at this rank. You may move and perform surprise attacks, as well as using items and performing Handseals you can also freely perform any Genjutsu while being in stealth. Uchihas cannot however use the instant Genjutsu because it requires the opponent to perceive your gaze
@@ -360,8 +362,9 @@ Stealth 1 is as poorly concealed as you can be while still being unseen by your 
  
 
 Actions that break this level of stealth   
-\-Use of Ninjutsu/Taijutsu techniques that aren't self buffing   
-\-Use of surprise attacks and sneak attacks
+\-Use of surprise attacks and sneak attacks  
+\-Any jutsu not mentioned in the Stealth Levels section
+\-Any action that doesn't only affect you
 
  
 
@@ -372,8 +375,6 @@ Stealth 2 corresponds to being fairly well-hidden, having taken the time to adju
  
 
 Actions that break this level of stealth   
-\-Use of Ninjutsu/Taijutsu techniques that aren't self buffing   
-\-Use of surprise attacks and sneak attacks  
 \-Taking the move action reduces your Stealth level to 1 
 
  
@@ -382,13 +383,8 @@ Actions that break this level of stealth
 
 Stealth 3 is as well-hidden as you can be. You are somehow camouflaged, blending into your environment excellently. You may not move or attack, but your Stealth TN has a \+15 bonus.
 
-Animals are natural masters of stealth.
-
- 
-
 Actions that break this level of stealth   
-\-Use of Ninjutsu/Taijutsu techniques that aren't self buffing   
-\-Use of surprise attacks and sneak attacks  
+\-Any action even those explicitly allowed while in stealth reduces you to Stealth level 2
 \-Taking the move action reduces your Stealth level to 1 
 
  
