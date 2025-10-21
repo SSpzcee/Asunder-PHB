@@ -16,7 +16,7 @@ Ranged Weapons will have one or more of the following Tags, these Tags determine
 
 One of the two mainstays of ninja armed combat, the kunai is a small metal knife, shaped like an elongated diamond. On the short end it has a handle just long enough to wrap one's hand around, typically wrapped in cloth to improve the grip, and a metal ring on the end of that.
 
-Cost: 1000  
+Cost: 300  
 Speed: 8  
 Stamina: 8  
 Damage: 2d6  
@@ -29,7 +29,7 @@ Special: When used as Melee Weapons they have the following Tags: Piercing, Slas
 
 The other classic ninja weapon, even more famous than the kunai, shuriken are small, flat four-pointed metal stars thrown at opponents to distract and mildly injure them. Like kunai, shuriken are black, making them less reflective and generally harder to spot in low-light conditions.
 
-Cost: 500  
+Cost: 300  
 Speed: 5  
 Stamina: 5  
 Damage: 1d6  
@@ -41,7 +41,7 @@ Delay: 2
 
 Large metal needles, traditionally used in acupuncture. Rarely, particularly skilled shinobi will use these with devastating efficiency. Frequently, particularly overconfident shinobi will use this with depressing ineptitude.
 
-Cost: 2000  
+Cost: 500  
 Speed: 10  
 Stamina: 5  
 Damage: 1d4  
