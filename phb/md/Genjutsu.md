@@ -39,12 +39,12 @@ Additionally, each time a genjutsu is successfully used against you in combat, y
 
 By their nature, it's hard to realize that one is suffering from the effects of a genjutsu technique. It's possible to be afflicted by a genjutsu that you know and use frequently, with obvious 'tells', and still mistake it for reality--such is the nature of delusions. 
 
-All combat Genjutsu detail when the target realizes they’ve been trapped in a genjutsu (which has a maximum of the Genjutsu duration). The X, if applicable, is equal to the users genjutsu offense - the defenders genjutsu defense roll.
+All combat Genjutsu detail when the target realizes they’ve been trapped in a genjutsu (which has a maximum of the Genjutsu duration). This comes if the form of Realizes X IC. The X, if applicable, is equal to the users genjutsu offense \- the defenders genjutsu defense roll. Until the target realizes the genjutsu cannot be broken even by the methods below (though if it would have been broken the jutsu ends immediately once they realize).
 
-There are three ways to break free from most genjutsu:  
-> All Genjutsu end naturally, either by its duration expiring or its user no longer maintaining its upkeep.  
-> Genjutsu Kai, the D-rank Ninjutsu technique.  
-> If you suffer a Wound of major or higher, all Direct Genjutsu on you end as your mind gets its act back together.
+There are three ways to break free from most genjutsu: 
+> Genjutsu Kai, the D\-rank Ninjutsu technique. 
+>If you suffer a Wound of major or higher, all Direct Genjutsu on you end as your mind gets its act back together.
+> All Genjutsu end naturally, either by its duration expiring or its user no longer maintaining its upkeep. The duration begins after the target realizes they’ve been trapped.
 
 ## **E-rank**
 
@@ -57,14 +57,14 @@ Upkeep: 2
 Area: 25  
 Speed: 8  
 Seal Speed: 7  
-Duration: 100 IC  
+Duration: 70 IC  
 
 Tags: Attack, Direct, Environmental
 
 Effects:  
 This applies a -4 visibility penalty and a -2 to all Genjutsu Defense Rolls.
 
-Realize | X IC
+Realize | 5+X IC
 
 ### **Senpuku no Jutsu \- Concealment Technique**
 
@@ -91,14 +91,14 @@ Chakra: 12
 Upkeep: 2  
 Speed: 8  
 Seal Speed: 12  
-Duration: 50 IC  
+Duration: 40 IC  
 
 Tags: Utility, Area
 
 Effects:  
 This technique inflicts a \-2 penalty to Awareness rolls and halves the bonus for consecutive search actions, rounded up. (so three searches in a row would give a \+3 bonus instead of a \+6).
 
-Realize | X \* 2 IC
+Realize | 10 + X \* 2 IC
 
 
 ## **D-rank**
@@ -193,18 +193,19 @@ You create an illusory effect which can target up to X senses between sight, hea
 This jutsu convinces the victim that they've been grievously injured. Although it causes no actual physical harm, it convinces their mind and all their senses that they've suffered some manner of severe damage.
 
 Chakra: 24  
-Upkeep: 2  
+Upkeep: 2 + 2 \* Y  
 Range: 30  
-Speed: 20  
+Speed: 20   
 Seal Speed: 18  
-Duration: 40 IC  
+Duration: 70 \- 10 \* Y IC  
 
 Tags: Attack, Direct
 
 Effects:  
-Choose a damage type before Genjutsu Defense is rolled. This technique temporarily deals a random wound of that type with the severity determined by how much their Genjutsu Defense failed. Severe if they failed by 10\+ which increases the upkeep to 7, Major if they failed by 5\+ which increases the upkeep to 5, otherwise Minor.
+Choose a damage type before Genjutsu Defense is rolled. This technique temporarily deals a random wound of that type with the severity determined by how much their Genjutsu Defense failed. Severe if they failed by 10\+, Major if they failed by 5\+, otherwise Minor. Y is the Severity of the wound.
 
 They suffer all normal effects of this injury, aside from HP loss or unconsciousness, until the genjutsu is broken. Anything that allows healing or ignoring wounds acts as normal and the costs remain even after the jutsu ends.
+
 Anything that directly applies a status such as bleed or fatigue is removed when the jutsu ends. But anything indirectly causing statuses such as increased damage taken or fatigue penalties causing you to advance a fatigue level do remain. Any effect which would cause you to fall unconcious directly from the wound given does so, but you awaken after the jutsu ends.
 
 As per normal wounds, Brain Destruction wounds can break other genjutsu on the victim as per normal, save for itself, though it will break other instances of Brain Destruction, should multiple be applied.
@@ -272,13 +273,13 @@ Range: 50
 Upkeep: 15  
 Speed: 25  
 Seal Speed: 20  
-Duration: 100 IC  
+Duration: 30 IC  
 Special: Costs 1 Willpower  
 
 Effects:  
 The target is essentially removed from combat for this technique's duration. They cannot take actions besides Genjutsu Kai (after realizing). Additionally, this technique is particularly fragile. If the target senses danger (such as from an incoming jutsu, or planting explosives around them) it'll break in time for them to try to avoid it.
 
-Realizes | X IC
+Realizes | 4 \* X IC
 
 ## **B-rank**
 
@@ -292,7 +293,7 @@ Range: 20
 Special: Immobilize 10  
 Speed: 25  
 Seal Speed: 25  
-Duration: 100 IC  
+Duration: 80 IC  
 
 Tags: Attack, Direct
 
@@ -301,25 +302,26 @@ Every 20 IC which pass, the victim is allowed another genjutsu defensive against
 
 Effects which allow someone to reduce immobilization penalties do not apply against this technique.
 
-Realizes | X / 2 IC 
+Realizes | 10 IC 
 
 ### **Magen: Tetsuotome no Jutsu \- Demonic Illusion: Iron Maiden Technique**
 
 Chains burst from the ground beneath the victim and wrap around their legs, anchoring them in place, followed by two halves of an iron maiden, either on each side of the victim or in front of and behind them. The iron maiden slams shut with them in it, causing excruciating pain and a slew of debilitating injuries.
 
-Chakra: 34  
-Upkeep: 6  
+Chakra: 24  
+Upkeep: 4  
 Range: 30  
-Special: Stun 15  
 Speed: 20  
 Seal Speed: 30  
-Duration: 50 IC  
+Special: Stun 15  
+Duration: 60 IC  
+
 Tags: Attack, Direct  
 
 Effects:  
-This temporarily inflicts a Minor Piercing wound on every location of the opponent's body (torso, abdomen, both arms, both legs, and Slashing on the head). If the genjutsu roll beats their defense by 10 points or more, this is upgraded to a Major wound on every location. These wounds last for the duration of the illusion, though the full Stun will remain even if it's broken early.
+This temporarily inflicts a Minor Piercing wound on every location of the opponent's body (torso, abdomen, both arms, both legs, and Slashing on the head) until the jutsu ends. If the genjutsu roll beats their defense by 10 points or more, this is upgraded to a Major wound on every location, the upkeep increases by 4, the chakra increase by 10, and the duration is reduced by 10.
 
-Realizes: Instantly
+Realizes: 15 IC
 
 ### **Sakki \- Killing Intent**
 
@@ -349,7 +351,7 @@ Range: 30
 Area: 10  
 Speed: 18  
 Seal Speed: 24  
-Duration: 75  
+Duration: 20  
 
 Tags: Attack, Area
 
@@ -358,7 +360,7 @@ This halves (rounding down) all ranks the victims have in Enhanced Hearing and E
 
 They also suffer a \-2 visibility penalty (which stacks with any other visibility penalties they may have). On the other hand, their reduced sensory perception allows them to ignore the penalties of any Minor wounds they may be suffering from.
 
-Realizes: X/2
+Realizes: 10 \+ 2 \* X
 
 ### **Jigyaku no Jutsu \- Time Reversal Technique**
 
@@ -391,7 +393,7 @@ Duration: 50 IC
 Effects:  
 Whenever you take an Action while under this technique's effects, Y is that action's Speed. You suffer from a Paralyze (Y)/2, which lasts for (Y)*2 IC, applied after your Action is resolved. Every time this effect is activated, you roll another genjutsu defense against the original result. Once you succeed, the genjutsu ends.
 
-Realizes: X IC
+Realizes: 5 + X IC
 
 ### **Kokuangyo no Jutsu \- Bringer of-Darkness Technique**
 
@@ -402,14 +404,14 @@ Upkeep: 6
 Range: 40  
 Speed: 15  
 Seal Speed: 30  
-Duration: 30  
+Duration: 0  
 
 Tags: Attack, Direct
 
 Effects:  
-This applies a ]-10 visibility penalty to the victim and negates any doujutsu the victim may possess. While it's in effect, anyone can attempt to hide from them (even if the victim can somehow reduce that penalty below -6).
+This applies a \-10 visibility penalty to the victim and negates any doujutsu the victim may possess. While it's in effect, anyone can attempt to hide from them (even if the victim can somehow reduce that penalty below -6).
 
-Realizes: X/3 IC
+Realizes: 10 \+ 3 \* X IC
 
 ### **Nehan Shouja no Jutsu \- Temple of Nirvana Technique**
 
