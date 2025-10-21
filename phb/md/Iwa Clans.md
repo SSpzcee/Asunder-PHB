@@ -24,7 +24,7 @@ Positive: For every 1 Mass anytime you would be moved, that amount is reduced by
 
 Negative: For every \-1 Mass anytime you would be moved, that amount is increased by 5% (including through the move action). For every \-2 Mass the Speed of all your Actions and Interrupts are decreased by 1 except for Search (And other Actions similar to Search).
 
-The speed of all actions cannot be increased or decreased more than half its base speed (rounded up) through this status effect. If Negative Mass is applied to somebody who already has Positive Mass, their original status would move towards 0 until it reaches the other threshold, and vice versa. Every 25 ICs, your Mass severity is moved towards 0 by two degrees until it equalizes. So if you had Negative Mass of \-3, it becomes \-1. And if you had a Positive Mass of 4, it becomes 2\.
+The speed of all actions cannot be increased or decreased more than half its base speed (rounded up) through this status effect. If Negative Mass is applied to somebody who already has Positive Mass, their original status would move towards 0 until it reaches the other threshold, and vice versa. Every 10 ICs, your Mass severity is moved towards 0 by 1 until it equalizes. So if you had Negative Mass of \-3, it becomes \-1. And if you had a Positive Mass of 4, it becomes 2\.
 
 ### **Mitsushenka \- Density Shift**
 
