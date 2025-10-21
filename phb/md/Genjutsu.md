@@ -56,7 +56,7 @@ Chakra: 14
 Upkeep: 2    
 Area: 25  
 Speed: 8  
-Seal Speed: 7  
+Seal Speed: 10  
 Duration: 70 IC  
 
 Tags: Attack, Direct, Environmental
@@ -290,9 +290,9 @@ This genjutsu makes its unfortunate victim believe that a large tree has suddenl
 Chakra: 32  
 Upkeep: 5  
 Range: 20  
-Special: Immobilize 10  
 Speed: 25  
 Seal Speed: 25  
+Special: Immobilize 10  
 Duration: 80 IC  
 
 Tags: Attack, Direct
