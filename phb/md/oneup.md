@@ -112,7 +112,7 @@ You’re adept at turning a fight into a one-man training montage with your enem
 
 Your Combos are not broken when attacking a new target. 
 
-You gain a \+3 bonus to Counter Combo opposed rolls, and all your Combo jutsu have “Stun 1” added to their Combo Counter line. Additionally, your combos are not broken by a Stun of a severity less than (Combo Counter \+2).
+You gain a \+3 bonus to Counter Combo opposed rolls, and all your Combo jutsu gain Stun 1 or \+1 if the target is already stunned. Additionally, your combos are not broken by a Stun of a severity less than (Combo Counter \+2).
 
 Upgrades Into: Bruiser
 
