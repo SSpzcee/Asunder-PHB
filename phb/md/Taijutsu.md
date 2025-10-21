@@ -1394,7 +1394,7 @@ You are clinching and clinched by your opponent. In a clinch, the following effe
 
 > Any movement (such as running, Shushin, knockback) is halved, and moves the other person along with them.
 
-> Any interrupt has its Speed increased by 2 for the purposes of advancing IC.
+> Any interrupt has its Speed increased by 2.
 
 > If either person is suffering from the Ignite status, both people are treated as having the highest severity present.
 
@@ -1476,7 +1476,7 @@ Stamina: \+ X/2
 Speed: \+ X/3, Delay \+X/3
 
 Effects:
-This is added on to a Break Clinch or Escape Pin. X has a max of the X on your Break Clinch or Escape Pin action. You gain a +X to the roll and increase the actions stamina and speed by this technique. You may use it retroactively after failing a Break Clinch or Escape Pin roll but the Stamina is increased to \+ 2 \* X.
+This is added on to a Break Clinch or Escape Pin. X has a max of the X on your Break Clinch or Escape Pin action all calculations with it are rounded up. You gain a +X to the roll and increase the actions stamina and speed by this technique. You may use it retroactively after failing a Break Clinch or Escape Pin roll but the Stamina is increased to \+ 2 \* X.
 
 ## **Grapple D-rank**
 
