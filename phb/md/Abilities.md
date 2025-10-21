@@ -923,9 +923,10 @@ This ability allows you to focus on a single skill at the expense of your overal
 
 Each rank of Skill Focus increases your rank in the chosen skill by 1. This is an actual increase in rank, for all purposes, not a "bonus". This ignores and does not count against the normal limit on skill ranks. You may take Skill Focus for multiple skills, each time treating it as a different ability with a separate cost scale.
 
-Cost: 2 Skill Points
-Scale: +1 Skill Point every odd-numbered rank
-(Ranks 1 and 2 cost 2 SP; ranks 3 and 4 cost 3 SP; and so forth).
+Cost: 2 Skill Points  
+Scale: +1 Skill Point every odd-numbered rank  
+(Ranks 1 and 2 cost 2 SP; ranks 3 and 4 cost 3 SP; and so forth).  
+Limit: Skill/4  
 
 ### **Specialization**
 You practice extensively with a chosen skill, so that even while you may still make mistakes, you don't make catastrophic ones; even at your worst, you're not terrible. Any time you roll below an 8 on a roll with that skill, your d20 roll is instead considered to be an 8.
