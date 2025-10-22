@@ -498,7 +498,7 @@ Ideally meant to be used after performing Kage Buyo, this is a series of high-sp
 Stamina: 18  
 Damage: Basic Unarmed Attack \+ 2d8  
 Speed: 10  
-Combo Counter: \+1 Accuracy, \-1 Speed
+Combo Counter: \+1/2 Accuracy, \-1 Speed
 
 ### **Reikoku Kagai \- Relentless Assault**
 
