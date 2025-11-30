@@ -367,7 +367,7 @@ You throw out 8 Kunai infused with low or high (chosen on use) frequency vibrati
 
 ## **Yurigami**
 
-**All Yurigami start with 1 less UP and automatically start out with an Affinity for Fuuton, and gain the Fuuton Aptitude for free.**
+**All Yurigami start out with an Affinity for Fuuton, and gain the Fuuton Aptitude for free.**
 
 ### **Paper Control**
 
