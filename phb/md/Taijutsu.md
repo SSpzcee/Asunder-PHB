@@ -222,19 +222,19 @@ This follows the rules for the D-rank Reppuu technique (including its Momentum).
 
 ### **Uchikudakute no Jutsu \- Shattering Hand Technique**
 
+Ninja can perform incredible feats of strength; after years of grueling training, some can literally reduce boulders to gravel for their bare fists. That's a handy trick to have, but most ninja aren't willing to go through the whole 'years of pain and hard work' part, so instead they invented a jutsu which accomplishes a similar effect: by channelling vibrating chakra through their hand at the moment of impact, most solid objects can be shattered with a single blow.
+
 Stamina: 24
 Damage: (STR /8)d20
 Speed: 13
 Delay: 5
 
-Tags: 2 Arms
+Tags: Attack, Blunt, Melee, 2 Arms
 
-Effects:
+Effects:  
 Before wounds or damage are calculated, this completely destroys any armor protecting the location it hits.
 
-It may also be used against objects, or out of battle, by doubling the Speed and Delay. In this case, it destroys up to STR/10 cubic yards of inanimate objects, such as boulders or trees. For this to work, the material must be contiguous; used against a bridge made from wooden planks, only a single plank would shatter, although a wall held together with mortar would count as contiguous. Additionally, it can only target hard, inflexible materials (i.e. things capable of shattering); rocks are fair game, ropes are not. This is a great tool for digging holes and bringing down barriers!
-
-One thing to be aware of when using its secondary function. It doesn't work against objects which have been reinforced with chakra, such as through means of certain sealing jutsu.
+Against objects this jutsu always does its max damage. If the object is not chakra enhanced nor made of chakra you double its speed for the purposes of dealing damage.
 
 ### **Bōshi Riken \- Spinning Backfist**
 
