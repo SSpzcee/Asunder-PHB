@@ -9,7 +9,8 @@ Any Doton or Fuuton technique may be converted to Jūryoton, with the following 
 * \+5 Chakra Cost  
 * Jūryoton always deals blunt damage.  
 * Jūryoton techniques with a Range can be used against targets NDB Yards farther than their normal range.   
-* Jūryoton receives a +(CHA/30) Accuracy Bonus to a max of jutsu rank.   
+* Jūryoton receives a +(CHA/30) Accuracy Bonus to a max of jutsu rank.
+* Jūryoton techniques only deal 75% damage  
 * Whenever you perform a Jūryoton Damage-Dealing Jutsu, choose whether it increases or decreases the Mass of the target before the Attack is defended against. If the attack hits, the Mass of the target is increased/decreased by Rank of Jutsu (1 for E Rank, 3 for C Rank, etc...).  
 * Jūryoton cannot Increase/Decrease a person's Mass beyond 2+(CHA/10).  
 * Doton transformed Jūryoton Techniques do not apply Immobilization or Stun. Instead, they add or increase existing Knockback by a value equal to the highest of the Technique's Stun * 2 or Immobilization * 3. For Ground-Based Techniques, the Knockback instead sends them flying into the air, wherein they begin falling a distance of 3 Yards every 1 IC (which cannot be increased or reduced) until they hit the ground. The Target cannot perform any movement action(such as Shushin or Blink) until they fall back to the ground. Once they hit the ground, they take 5 times the Yards fallen this way in Blunt Damage. Fuuton’s Wind Release Stream can prevent this damage but doubles its duration.    
