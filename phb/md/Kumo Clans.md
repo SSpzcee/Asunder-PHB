@@ -304,7 +304,7 @@ Any Raiton or Fuuton Technique may be converted to Shinton, with the following e
 * Shinton Techniques cannot apply Paralysis. Instead, they apply a Stun equal to twice the Paralysis' Severity.
 * Shinton Damage Dealing Techniques do not gain any bonuses to Wounding from any source. Instead, every 15% extra wounding that would have been applied adds or increases the Technique's Stun by 1.
 * High Frequency Shinton only deals 75% of Final Damage.
-* High Frequency Shinton has +CHA/30 Accuracy bonus.
+* High Frequency Shinton has +CHA/30 Accuracy bonus to a max of jutsu rank.
 * Low Frequency Shinton Damage Dealing Techniques force the target to roll Athletics or Resistance VS your Chakra Control. Failure means they fall prone.
 * Low Frequency Shinton Techniques increase their Area by CHA/30
 * Shinton is weak to Katon, but strong against Raiton and Doton.
