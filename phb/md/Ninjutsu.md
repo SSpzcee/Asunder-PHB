@@ -3159,6 +3159,29 @@ This cannot be used to ignore Critical wounds.
 [|B-Ranks|](#sealing-b-rank)
 [|A-Ranks|](#sealing-a-rank)
 
+## **Requirements**
+Fuuinjutsu, or sealing techniques, are, as the name suggests, techniques which use chakra to form specialized 'seals'. They're difficult to use, and have limited combat viability.
+What makes them useful is that these seals are stable. Normally, any sort of chakra-based effect will expire soon after its user stops applying chakra to it, the energy dissipating back into the world. Seals don't, and depending on the individual seal and the skill of the user some can last for decades if left undisturbed.
+
+The downside is, they're counterintuitive and complicated. To learn fuuinjutsu, you have to meet all the requirements listed for a given rank.
+
+E: Genin
+D: 5 Chakra Control, 5 Research
+C: 12 Chakra Control, 15 Research, Seal Training (talent)
+B: 20 Chakra Control, 25 Research, Seal Training (talent)
+A: 30 Chakra Control, 35 Research, Advanced Seal Training
+
+## **Unsealing Difficulty**
+All unsealing jutsu can remove sealing effects up to their rank automatically, but they can also be used to target sealing effects of higher ranks. For every rank a sealing effect is over an unsealing jutsu it gains 1 level of difficulty.
+
+Level 1: You must roll Chakra Control against the casters Chakra Control skill \+20. On a success you end the targeted seal. You gain a stacking \+2 bonus for every time you’ve attempted this roll.
+
+Level 2: The seal gains a TN of the casters XP / 10. As a Downtime action you may make a chakra control roll reducing the seal’s TN by the amount rolled. Once the seal’s TN is reduced to 0 it is ended.
+
+Level 3: This has the same effects as Level 2 but you gain a \-10 penalty to your chakra rolls. This goes into the negatives and does mean you could end up accidentally increasing the TN, but never above its starting value.
+
+Level 4: This has the same effects as Level 2 but you gain a \-25 penalty to your chakra rolls. This goes into the negatives and does mean you could end up accidentally increasing the TN, but never above its starting value.
+
 ## **E-rank**
 
 ### **Basic Seal**
