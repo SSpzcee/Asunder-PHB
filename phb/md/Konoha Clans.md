@@ -462,12 +462,22 @@ Speed: 10
 Special: Opener
 
 Effects:  
+Tsuga - Passing Fang
+The user spins his body at incredible speeds, the surrounding chakra and air creating the appearance of a long vortex rotating along its axis. The user in this state then rushes to make direct contact with the victim. It can be extremely damaging, as it is capable of ripping through great tree trunks or chakra-reinforced earth barriers.
+
+Type: Taijutsu, Rank D
+Stamina: 10 + Special
+Damage: (STR /6)d10
+Speed: 10
+Special: Opener
+
+Effects:
 This move is melee, but when calculating how far you can move as part of an attack involving this move, you can add up to (AGI/2) yards to how far it moves, but doing so increases the stamina cost of this move by (That amount/5). You do not include the yards you would have moved anyway as part of this attack when calculating how much extra Stamina you have to pay on this move.
 
-This attack’s damage is increased by 1% for every 2 yards you traveled as part of this jutsu. Additionally, unlike normal attacks, you don’t have to stop at your opponent and can continue moving using any remaining movement past your opponent.
+This attack’s damage is increased by 1\% for every 2 yards you traveled as part of this jutsu. Additionally, unlike normal attacks, you don’t have to stop at your opponent and can continue moving using any remaining movement past your opponent.
 
-Opener:  
-The effects of partial hits on your combo attacks in combos where this is the opener are reduced by 10% per combo counter. So, if you had gotten a 40% partial hit, but you had one rank of cadence, you would be 60% damage. At Combo Counter 5, you do full damage even if you hit by just 1 point. In addition to this, combo jutsu, if used alongside your Ninken in Jujin Bunshin, gain the effect that if either you or your Ninken hit your opponent with an attack, whoever rolled the lowest between you gets a bonus to their ACC equal to your cadence rank.
+Momentum: The combo jutsu gains all above effects of Jyuuken with the addition below:
+If used alongside your Ninken in Jujin Bunshin, gain the effect that if either you or your Ninken hit your opponent with an attack, whoever rolled the lowest between you gets a bonus to their ACC equal to your cadence rank.
 
 ### **Jujin Bunshin \- Beast Human Clone**
 
