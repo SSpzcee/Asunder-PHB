@@ -269,7 +269,7 @@ Stamina: 5 \* X
 Speed: \+X
 
 Effects:
-This technique is used alongside a dodge attempt, increasing its Speed by X and providing a \+X bonus to your dodge roll, as well as adding a Stamina cost to your dodge. Your dodge's final speed cannot go lower than X.
+This is used alongside a dodge attempt, increasing its Speed by X and provides it with a \+X bonus. Your dodge's final speed cannot go lower than 2 \+ X.
 
 If combined with the B-rank Leaping Shadow Evasion this technique increases LSE's Stamina cost to (20 \+ 4\*X), which replaces Phantom Step's normal Stamina cost.
 
