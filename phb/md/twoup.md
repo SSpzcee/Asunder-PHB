@@ -217,7 +217,7 @@ Your allies are your life and you will make sure no harm comes to them. Becoming
 
 You add your RES one more time to your Vitality and HP.
 
-Your Take the Hit action automatically succeeds. You are always considered Blocking when performing the Take the Hit action and you can use any valid non-dodge Interrupt to defend from the attack. You cannot however use the Take the Hit action if you are stunned or suffering from an Immobility effect of 10 or higher.
+Your Take the Hit action automatically succeeds if you have the speed to cover the distance. You are always considered Blocking when performing the Take the Hit action and you can use any valid non-dodge Interrupt to defend from the attack.
 
 You also gain the benefits of the Close Ties unique with the following exception: You can designate anyone in the current battle as your Ally even if you have never met them before.
 
