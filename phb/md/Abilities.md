@@ -707,19 +707,20 @@ Requires: Athletics 15
 ### **Ambidextrous**
 You've trained yourself to use your off-hand just as well as your dominant one, or you really are naturally ambidextrous.
 
-Each rank reduces the Accuracy penalty for the Dual Wield Attack action (see below) and derivatives of it such as Centipede Strike by 1. It also gives you a \+1 bonus to parries using those weapons while dual-wielding.
+Each rank reduces the Accuracy penalty for the Dual Wield Attack action (see below) and derivatives of it such as Centipede Strike by 1. It also gives you half that (rounded up) as a bonus to parries using those weapons while dual-wielding.
 
 Cost: 5
 Scale: 2
-Limit: DEX /20, max 5
+Limit: DEX /30, max 3
 
 ### **Dual Wielding**
 You attack with a weapon in each hand! Impractical, but awesome. As might be expected, this allows you to make a basic weapon attack with both weapons simultaneously (or three if you have the capacity to do so). Halve the speed of the weapons you're using (rounding up, as usual). Add those numbers together to get the speed of your "Dual Wield Attack" action. This can't be done with two-handed weapons.
 
-You use the lower of the weapons' Accuracy. This is defended against as a single attack, using its total Speed. The Stamina cost to Dual-Wield is the higher Stamina cost of the weapons, plus one third of the lower Stamina costs.
-If you hit, you deal damage separately for each weapon, using the halved Speed for damage calculations. Weapons specifically marked as "Dual" calculate damage based on their natural Speed, rather than the halved value.
+You use the lower of the weapons' Accuracy. This is defended with a single interrupt but any rolls are rolled against each individual attack. The Stamina cost to Dual-Wield is the higher Stamina cost of the weapons, plus one half of the lower Stamina costs.
 
-Lowering the Speed of a Dual Wield Attack action lowers the effective Speeds (for determining damage) of both component attacks by the same amount.
+If you hit, you deal damage separately for each weapon reduced to 70%, using the halved Speed for damage calculations. Weapons specifically marked as "Dual" calculate damage based on their natural Speed, rather than the halved value.
+
+Lowering the Speed of a Dual Wield Attack action lowers the effective Speeds (for determining damage) of both component attacks by the same amount. Wounds dealt by dual wielding attacks have their severity reduced by 1.
 
 Unfortunately, the Dual Wield Attack action (and derivatives of it such as Centipede Strike) carries with it a \-5 Accuracy penalty.
 
