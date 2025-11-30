@@ -1384,6 +1384,8 @@ Ground Fighting X: Requires you to be in a pin, make a grapple roll and on a suc
 
 Submission: Requires you to be in a pin, make a grapple roll and on a success your target receives all effects of the jutsu. When your submission is ended your IC is increased by 5.
 
+Pummel: While in a grapple this modifies an attack turning it into a grapple jutsu. You may choose to attack as normal or use your grapple offense vs your opponents grapple defense. If the attack has an accuracy penalty your grapple offense gains that penalty. The defender may block if they have the ability to do so. 
+
 You may only use one trapping or ground fighting jutsu (successfully) per grapple resetting when it changes category (clinch to pin or vice versa). Regardless of type, all grapple jutsu require all 4 limbs to be free except for Escape Grapple.
 
 ## **Control**
