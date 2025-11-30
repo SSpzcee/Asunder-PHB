@@ -2421,7 +2421,7 @@ Gallon Requirement: 1 \> 5
 
 Tags: Interrupt, Link, Self
 
-Effects: This is used alongside a Dodge Interrupt, and provides it with a +G bonus. Your dodge's final speed cannot go lower than G.
+Effects: This is used alongside a Dodge Interrupt, and provides it with a \+G bonus. Your dodge's final speed cannot go lower than 2 \+ G.
 
 ### **Haneru \- Splash**
 
