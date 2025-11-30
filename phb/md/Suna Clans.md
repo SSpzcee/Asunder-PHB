@@ -32,9 +32,10 @@ Scale: 5
 Limit: 1 + RES /30
 
 Effects:
-You regenerate 1 point of Vitality per rank each Initiative Count, and twice that amount of HP.
+You regenerate 1 point of Vitality per rank each Initiative Count. If you are missing HP you instead heal twice that amount of HP.
+
 In a given day, you can only heal your maximums of each. Thus, if you had 1000 Vitality you could only regenerate 1000 Vitality in a given day.
-Finally, you divide the total healing time necessary to recovery from any wound that doesn't involve injured bones by 1+(0.5 * rank). Medical attention cannot reduce it further; however, you can recover as if you had medical attention, even if you do not, thanks to your regeneration.
+Finally, you divide the total healing time necessary to recovery from any wound that doesn't involve injured bones by 1\+(0.5 \* rank). Medical attention cannot reduce it further; however, you can always recover as if you were in the hospital, even if you are not.
 
 
 ### **Organ Mobility**
@@ -99,7 +100,7 @@ Any Katon or Fuuton Technique may be converted to Shakuton, with the following e
 
 * \+5 Chakra cost  
 * Shakuton cannot be Blocked, ignores half of the target's DR, and ignores Armor.  
-* Shakuton Techniques receive \+(CHA/30) Accuracy Bonus.  
+* Shakuton Techniques receive \+(CHA/30) Accuracy Bonus to a max of jutsu rank.  
 * Shakuton only deals 75% damage, but gains a \+100% Wounding modifier (Which is applied after the damage reduction).  
 * Whenever a Shakuton Damage Dealing Technique hits a target, it applies a Dehydration status of severity (1 per Rank of the jutsu) \+ CHA / (80 \- 10\*Rank). In other words, for an E-Rank this is 1+CHA/70, for a D-Rank it is 2+CHA/60, and so on, up to 5+CHA/30 for A-rank techniques  
 * Dehydration may not be increased past 3+CHA/8.  
