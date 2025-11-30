@@ -684,21 +684,16 @@ If this is blocked by an effect which halts its progress (such as Earth Shore Re
 
 Slamming both hands into the ground, the user can cause a large rectangle wall of earth to pop up in front up them, covering whatever attack someone may be directing at them.
 
-Chakra: 16, \+6 if destroyed
+Chakra: 20, +4 if not targeting yourself 
 Range: 16  
-Special: Interrupt  
 Speed: 8  
-Seal Speed: 8
+Seal Speed: 8  
 
-Tags: Interrupt, AoE
+Tags: Interrupt
 
 Effects:  
-This creates a wall 4 yards wide and 3 yards high that takes the hit from an attack. This wall absorbs 200 \+ 10\* (Ninjutsu damage bonus) damage. If destroyed, any remaining damage carries on to you (in which case you cannot defend against it further) or whoever else you used this to protect (in which case, they can).
-
-As implied up there, this can be used to protect anyone in range. However, Earth Shore Return can't be used against melee attacks, or ranged attacks originating 5 yards or less away from you. After having all its HP depleted, or at the end of the IC it was used on, the wall crumbles into dirt and gravel.  
-
-This wall takes double damage from Raiton, and half  
-damage from Suiton. The Wall is considered to be Blocking for any relevant interactions (such as Fuuma Shuriken).
+You parry an attack against anyone in range with a +3 bonus. Earth Shore Return can't be used against attacks originating 5 yards or less away from its target. 
+This works against elements that are weak to it up to A rank, elements that are strong to it up to C-rank, and all other Jutsu (including Taijutsu that begin more than 5 Yards away) up to B-rank.
 
 ### **Kaigeki Chite \- Crushing Earth Hand**
 
@@ -856,18 +851,16 @@ You gain CHA/3 Damage Reduction, and increase your Physical Damage Bonus by that
 
 The most powerful direct Doton-based defense, the user either manipulates the surrounding terrain or generates (using chakra\!) and spits out an prodigious amount of flowing earth which forms a wall and solidifies. Either way, this creates a barrier coated with chakra that will stop most attacks totally.
 
-Chakra: 34  
-Special: Interrupt  
-Speed: 20  
-Seal Speed: 24
+Chakra: 32  
+Speed: 12  
+Seal Speed: 16  
 
-Tags: Defensive, Ground-Based
+Tags: Utility, Interrupt, Environmental
 
 Effects:  
-You create a wall of earth that blocks up to (50 \+ (ninjutsu damage bonus)\*10 )\*(Speed) damage. It takes 50% extra damage from Raiton, but only half damage from Suiton and Katon.
+You create a wall of earth with an HP of (50 \+ (ninjutsu damage bonus)\*50 ) damage. It takes half damage from elements that are weak to it and 50\% extra damage from elements that are strong against it. This lasts for 100 IC or until its HP is reduced to 0.
 
-You may use Action Points to reduce Doryuuheki's (base) Seal Speed, on a 1:1 basis, to as low as 12\. Note that if you are able to use Doryuuheki as an interrupt, you may do so without the need for a roll. Earth Style Wall can only be used against attacks which originated more than 5 yards away from you.  
-Used against area-of-effect attacks, this may protect multiple people, as long as they can all be placed behind the same 15 yard long line.
+Earth Style Wall can only be used against attacks which originated more than 5 yards away from you. Used against area-of-effect attacks, this may protect multiple people, as long as they can all be placed behind the same 15 yard long line.
 
 ### **Iwa Bunshin \- Rock Clone**
 
@@ -1203,12 +1196,9 @@ Seal Speed: 8
 Tags: Interrupt
 
 Effects:  
-This may be used to parry any ranged attack. X is 1 per the technique’s rank above D.
+This may be used to parry any ranged attack with a bonus depending on the element used (see below). X is 1 per the technique’s rank above D.
 
-Against Raiton and ranged taijutsu attacks, you receive a +6 bonus to your Accuracy rolls. And even if they hit, the effect of partial defense is doubled (the attack deals only 10% damage per point it hits by). 
-Against nonKaton projectile ninjutsu, your bonus is instead \+4. For all others, you receive no bonus.
-
-Against Katon: If a technique bypasses Wind Turtle's Shell you receive no benefit from partial defense, and the technique has its damage (against you) increased by 25%.
+This works against elements that are weak to it up to A rank with a +6 bonus, elements that are strong to it up to C-rank with no bonus, and all other Jutsu up to B-rank with a +4 bonus.
 
 ### **Tobu Choyaku no Jutsu \- Vaulting Leap Technique**
 
@@ -1317,17 +1307,17 @@ Every IC, everyone in the technique's radius is pushed CHA/40 yards away from yo
 
 One of the more reliable defensive measure Fuuton users are capable of deploying, this creates a sphere of whipping winds around them. Aside from dramatically tossing their hair, causing loose clothes to flap about, and knocking up loose terrain, this makes a sufficiently skilled user virtually impervious to most long-range assaults.
 
-Chakra: 26  
+Chakra: 32  
 Upkeep: 5  
-Speed: 8  
-Seal Speed: 16
+Speed: 12  
+Seal Speed: 16  
 
 Tags: Utility, Self
 
 Effects:  
-The jutsu automatically parries any attack with the projectile tag with a \+5 bonus against raiton and ranged taijutsu. This technique uses your base Accuracy for a B-rank Fuuton, unmodified by status, wounds, temporary bonuses, and so on, though penalties from Fatigue do apply. Because it is considered to be the technique parrying incoming attacks, and not you, you cannot modify its accuracy further (such as with Willpower or AP).
+The jutsu automatically parries any attack with the projectile tag with a \+5 bonus against ranged taijutsu and ninjutsu weak to it. This technique uses your base Accuracy for a B-rank Fuuton, unmodified by status, wounds, temporary bonuses, and so on, though penalties from Fatigue do apply. Because it is considered to be the technique parrying incoming attacks, and not you, you cannot modify its accuracy further (such as with Willpower or AP).
 
-Additionally, you get a \+5 bonus to all grapple rolls.
+Additionally, you get a \+5 bonus to all grapple defense rolls.
 
 ### **Fuuton: Higashikaze no Me \- Wind Release: Eye of the East Wind**
 
@@ -1664,26 +1654,20 @@ The damage dice of all Unarmed and combo jutsu become !o>3 for d4s, !o>5 for d6s
 
 Additionally, if an attack augmented by Blazing Fury inflicts wounds of any sort, it also causes an Energy wound of one category lower, to a minimum of minor (a punch that inflicted a Minor Blunt wound would also inflict a Minor Energy wound).
 
-### **Katon: Joushou Ootori \- Fire Release: Rising Phoenix Blast**
+### **Hi no Tatsumaki no Jutsu - Fire Tornado Technique**
 
-The user gathers chakra around them--the 'rising phoenix' actually refers to the visible heat ripples and wisps of flame rising around the ninja performing it-- and unleashes a stream of dark, searingly hot fire at their opponents. The flames of this technique are hot enough to disintegrate most incoming attacks.
+The user shoots a burst of flame coiling around them into a swirling orb of fire surrounding them.
 
 Chakra: 24  
-Damage: 10d20!>16  
-Range: CHA  
 Speed: 8  
-Seal Speed: 12  
+Seal Speed: 8  
 
-Tags: Attack, Interrupt, Projectile, Energy
+Tags: Interrupt
 
-Effects:  
-When used as an Interrupt, Rising Phoenix Blast's damage becomes 10d20!>11. It functions differently when used against a melee attack, or projectile ninjutsu attack, that deals damage:
+Effects: 
+You parry an incoming attack. If you successfully defend, this immediately acts as an attack at no extra cost, using the results of your parry roll as its Accuracy and its speed. This attack deals 10d10!>5 damage and has an Area of NDB. For every point your parry beat the attack's accuracy this deals an additional d10.
 
-Against a melee attack: The user may choose to call off their attack, or press on regardless of the danger. If they do not cancel their attack each of you are automatically hit by each others attacks without a defense. If they choose to defend themselves, their attack is cancelled. They do not pay any Fatigue costs, their IC is advanced only half as much, any other spent resources are lost. Then they defend against Rising Phoenix Blast as a surprise attack, but have a \+3 bonus to any d20 rolls made as part of their defense.
-
-Against a ranged ninjutsu attack: Compare the damage of the two techniques; if the damage of theirs is higher, subtract Rising Phoenix Blast's damage from that technique's damage; that is how much you take. If your technique's damage is higher, it destroys the opponent's technique, and your enemy must defend against your Rising Phoenix Blast and its remaining damage.
-
-Against Fuuton jutsu you may interrupt AOE jutsu. Rising Phoenix Blast's damage is increased by 25\% for elements weak to it and reduced by 25\% against elements strong against it.
+This works against elements that are weak to it up to A rank, elements that are strong to it up to C-rank, and all other Jutsu (including Taijutsu that begin more than 5 Yards away) up to B-rank.
 
 ## **Katon B-rank**
 
@@ -1757,6 +1741,26 @@ X is your Cremation upkeep which has a max of 16. As X is 2 or greater, Instant 
 
 For example, if you had used Instant Cremation three times, you would have an Upkeep 6, and your next use of it would deal 6d20\!\>14 damage.
 
+### **Katon: Joushou Ootori \- Fire Release: Rising Phoenix Blast**
+
+The user gathers chakra around them--the 'rising phoenix' actually refers to the visible heat ripples and wisps of flame rising around the ninja performing it-- and unleashes a stream of dark, searingly hot fire at their opponents. The flames of this technique are hot enough to disintegrate most incoming attacks.
+
+Chakra: 28, \+4 if it becomes an attack
+Damage: 15d20!>16  
+Range: CHA  
+Speed: 8  
+Seal Speed: 12  
+
+Tags: Attack, Interrupt, Projectile, Energy
+
+Effects:  
+When used as an Interrupt, Rising Phoenix Blast's damage becomes 15d20!>11. It functions differently when used against a melee attack, or ninjutsu attack, that deals damage:
+
+Against a melee attack: The user may choose to call off their attack, or press on regardless of the danger. If they do not cancel their attack each of you are automatically hit by each other's attacks without a defense. If they choose to defend themselves, their attack is cancelled. They do not pay any Fatigue costs, their IC is advanced only half as much, any other spent resources are lost. Then they defend against Rising Phoenix Blast as a surprise attack, but have a \+3 bonus to any d20 rolls made as part of their defense.
+
+Against a ninjutsu attack: Compare the damage of the two techniques; if the damage of theirs is higher, subtract Rising Phoenix Blast's damage from that technique's damage; that is how much you take. If your technique's damage is higher, it destroys the opponent's technique, and your enemy must defend against your Rising Phoenix Blast and its remaining damage.
+
+Against jutsu weak to it damage is increased by 30\% and reduced by 30\% against elements strong against it.
 
 ## **Katon A-rank**
 
@@ -2150,25 +2154,18 @@ Tags: Attack, Melee
 Effects:  
 Even if the target succeeds on their Status Check they gain Paralysis 2 for 20 ICs.
 
-### **Raiton: Fukushuu Kaminarikami \- Lightning Release: Avenging Lightning God**
+### **Faraday Kēji no Jutsu - Faraday Cage Technique**
+Named after the legendary lightning style user who created it, this technique distributes a powerful electric charge in a box shape around them. This defense begins relatively weak compared to similar techniques but grows in strength with repeated use.
+Chakra: 16 \+ X \*2
+Speed: 8
+Seal Speed: 8
 
-You divert your chakra to surge across your skin, building up something akin to a strong static charge. Unlike actual static electricity, this is incredibly dangerous.
+Tags: Interrupt
 
-Chakra: 18  
-Upkeep: 4  
-Damage: 4d6*4d4  
-Speed: 8  
-Seal Speed: 12  
-Special: Paralysis X for 15 IC, This technique receives only half your damage bonus
+Effects: 
+You parry an incoming attack with a X\*2 Bonus. X begins at 1 and increases by 1 for every time you cast this jutsu to a max of 4. X resets after you move more than 5 Yards from where you first used it, use any jutsu beside a lightning technique, or take an interrupt besides this one. 
 
-Tags: Interrupt, Energy
-
-Effects:
-You can use this technique as an Interrupt against any attacks made at NDB range increasings its chakra cost by 6. If you do, your opponent can immediately abort their attack, in which they still pay its cost and it's considered half its actual speed for determining when their next action comes. If they do not abort the attack, then you are hit automatically by their attack (taking its normal damage) and your attacker is also automatically hit by this technique (taking its normal damage). 
-
-While maintaining this upkeep you may reactivate the above effect as a Speed 0 Chakra 18 interrupt in response to any attack or damaging jutsu.
-
-X in this technique is the severity of wounds inflicted from both sides of this technique (if they dealt a major and you dealt a minor X would be 3).
+This works against elements that are weak to it up to A rank, elements that are strong to it up to C-rank, and all other Jutsu, up to B-rank.
 
 ## **Raiton B-rank**
 
@@ -2292,6 +2289,26 @@ This has an Accuracy bonus equal to the severity of Paralysis its target is suff
 
 Anyone struck by this technique has their Paralysis status raised by 1, and its duration increased by 5 iC. A person can only be hit by a single use of this technique once.  
 The maximum number of targets a single activation of Chain Lightnin can hit is equal to your Ninjutsu Damage Bonus.
+
+### **Raiton: Fukushuu Kaminarikami \- Lightning Release: Avenging Lightning God**
+
+You divert your chakra to surge across your skin, building up something akin to a strong static charge. Unlike actual static electricity, this is incredibly dangerous.
+
+Chakra: 24, \+8 if used as an interrupt  
+Upkeep: 4  
+Damage: 2d8dl\*2d6dl\*2d4dl  
+Speed: 12  
+Seal Speed: 16  
+Special: Paralysis X for 15 IC  
+
+Tags: Utility, Interrupt, Energy
+
+Effects:  
+You can use this technique as an Interrupt against anyone targeting you with an action (including AOEs) within NDB range. If you do, your opponent can immediately abort their attack, in which they still pay its cost and it's considered half its actual speed for determining when their next action comes. If they do not abort the attack, then you are hit automatically by their attack (taking its normal damage) and your attacker is also automatically hit by this technique (taking its normal damage). 
+
+While maintaining this upkeep you may reactivate the above effect as a Speed 0 Chakra 24 interrupt in response to any action targeting you.
+
+This technique gains a +50% bonus to wounding. X in this technique is the severity of wounds inflicted from both sides of this technique (if they dealt a major and you dealt a minor X would be 3).
 
 ## **Raiton A-rank**
 
@@ -2723,7 +2740,7 @@ To maintain the water prison, you must keep one hand on it. Dodging requires you
 
 A derivative of a more advanced technique, this was created to help teach up-and-coming suiton users the foundations of that jutsu, and help keep them alive until they were skilled enough to learn it. It creates a circular barrier of water around you, which surges up to protect you from... well, whatever convinced you that you'd need to use this technique.
 
-Chakra: 6 \+ G \* 1.5
+Chakra: 12 \+ G
 Speed: 8
 Seal Speed: 8
 Gallons Requirement: 6 \> 12
@@ -2731,7 +2748,9 @@ Gallons Requirement: 6 \> 12
 Tags: Interrupt
 
 Effects:
-You parry an incoming attack with a Bonus of +(G/2). This works against Katon up to A rank, Doton up to C-rank, and all other Jutsu (including Taijutsu) up to B-rank.
+You parry an incoming attack with a Bonus of +(G/2). 
+
+This works against elements that are weak to it up to A rank, elements that are strong to it up to C-rank, and all other Jutsu, up to B-rank.
 
 ## **Suiton B-rank**
 
@@ -2774,17 +2793,16 @@ Upkeep: 6
 Chakra: 26
 Area: 5
 Speed: 12
-Seal Speed: 12
-Requires: 16 gallons of water or \+8 chakra cost
+Seal Speed: 16
+Requires: 10 gallons of water or \+6 chakra cost
 
-Tags: Interrupt, Environmental
+Tags: Utility, Interrupt, Environmental
 
 Effects:  
-If using Suijinheki as an interrupt: Make an accuracy roll against the attack's accuracy, with a \+6 bonus; if you succeed, this stops the attack entirely.
-
+Roll a parry with a \+6 bonus. Using Suijinheki as an interrupt this parry the below effects apply to the incoming attack.
 Once Suijinheki has been deployed, it lasts for your damage bonus in initiative counts--it automatically defends all attacks using your initial parry roll. You may also end it early, if you need to move or attack through it.
 
-This technique protects you and anyone within its area from any Doton up to B-rank, and all other techniques (including taijutsu) up to A-rank.
+This technique protects you and anyone within its area from any jutsu weak to it up to B-rank, and all other jutsu up to A-rank.
 
 ### **Suiton: Bakusui Shouha \- Water Release: Exploding Water Shockwave**
 
