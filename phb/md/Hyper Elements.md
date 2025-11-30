@@ -48,7 +48,6 @@ Whilst these irreducible, un-extinguishable flames at first seem as if they coul
 Any damage dealing Katon ninjutsu can be modified into a Blaze ninjutsu, doing so increases the cha cost by 5 and gives the following effect:
 
 Blaze:
-
 This can be added onto any damage dealing Katon ninjutsu; It inflicts blaze equal to (the chakra cost of the jutsu used / 5)+1, not counting the increase to Blaze ninjutsu’s chakra cost from Blaze. Blaze functions identically to ignite, except that it does not reduce when it does damage, instead remaining for a duration of 20 IC. Repeated applications of Blaze stack with each other for severity, but not for duration. Ie, if a Blaze user inflicted a Blaze of 3 on someone for 20ic, then inflicted the same amount again. It does not become Blaze 6 for 25 more IC, but rather Blaze 6 for the same 20 IC as the first Blaze.
 
 When the duration of Blaze finishes, add together all the damage the target took from ticks of the Blaze status effect, and compare that value vs their wounding thresholds. The target gains an energy wound of the highest severity that number meets. Roll 1d100 for location.
@@ -56,8 +55,6 @@ When the duration of Blaze finishes, add together all the damage the target took
 This does mean that if someone has both Blaze and Ignite on them, and the ignite is of higher severity, even if the Blaze is not doing any damage, you still need to track how much damage it would have done for the purpose of any Blaze wound inflicted.
 
 It is perfectly possible for a jutsu to apply ignite, and Blaze, at the same time, but you still only apply the damage from whichever has a highest rank at any given time.
-
-Blaze Ninjutsu costs 1 talent point and can only be taken if you have an affinity in Katon.
 
 ## **Abyss Release**
 
@@ -67,15 +64,12 @@ He dove so deep that when he, days later, rose up from the depths he reported th
 
 The techniques he developed over the few remaining years of his life were inspired by those heavy, oppressive, and uncaring waters he found at the bottom of the ocean. Simply invoking one of his techniques could cause the sun to dim and candles to flicker out, and even the slightest contact with them would cause the oxygen to be drawn straight out of your blood through your skin. He called these techniques “Abyss”.
 
-Effects:
-
+Effects:  
 Any damage dealing Suiton Ninjutsu can be converted into an Abyss technique by increasing its chakra cost by 5\. If you hit with an Abyss Ninjutsu and cause a wound, then the recipient is given a suffocation status, or has their existing suffocation status increased by 1 for each rank of the wound caused. Suffocation is added one after the other, not all at once. So if someone received a severe wound from an Abyss ninjutsu, they would gain suffocation 1, make the relevant stamina roll, gain suffocation 2, make another stamina roll, and then gain suffocation 3, for a third and final stamina roll. If an Abyss Ninjutsu hits someone, but they are not wounded, their stamina penalty increases by 1\.
 
 Suffocation from Abyss Ninjutsu remains until you’ve rested, out of combat, for an hour, to give your blood cells a chance to recover from the invasive process of having the oxygen torn out of them.
 
 The first time an Abyss jutsu is used in a battle, the weather conditions are changed to “Dusk/Dawn” if it had been “Daytime” before, or to “Daytime” if it had been “Glaring Sunlight” before.
-
-Abyss Ninjutsu costs 1 talent point and can only be taken if you have an affinity in Suiton.
 
 ## **Plasma Release**
 
@@ -91,8 +85,6 @@ You can change any damage dealing Raiton ninjutsu into a Plasma ninjutsu. When y
 
 Plasma Ninjutsu have their chakra costs increased by 5, or by the current “Oxidized” value/20 (Rounded down), whichever is currently higher.
 
-Plasma Ninjutsu costs 1 talent point and can only be taken if you have an affinity in Raiton.
-
 ## **Crystal Release**
 
 Crystal Ninjutsu is separate from most ninjutsu techniques in that it was not actually developed by a ninja. Crystal Ninjutsu was the result of an aspiring entrepreneur not affiliated with any of the major villages experimenting with the effects of chakra on certain types of compounds in an attempt to turn lead to gold, or otherwise mundane objects into valuable ones.
@@ -102,28 +94,24 @@ Crystal Ninjutsu is the result of his experimentation, at first glance it seems 
 This didn’t prevent the entrepreneur from running a notorious sequence of famous and incredibly profitable scams, using his newly developed technique, the spree lasting for a whole ten years until the Ninja Villages stepped in to hunt him down. Seeing the use of Crystal Ninjutsu on the battlefield, the man was eventually let go in exchange for teaching the ninja that caught him how to use his techniques.
 
 Effects:
-
-Any Doton Ninjutsu can be changed to a Crystal Ninjutsu by adding \+5 to its chakra cost, and has the following effects:
-
-* If the Jutsu has a number of uses and/or degrades over time, these uses/time degradation are doubled.  
-* If a Jutsu has an upkeep, its effects last for 20 IC after dropping it.  
-* If a Jutsu crafts a construct with some HP value, this value is increased by 50%.  
-* Crystal Ninjutsu inflict slashing wounds, unless the specific jutsu specifies otherwise.  
-* Anyone hit by a Crystal Ninjutsu of any type gets a status of “Crystals” equal to the CHA cost of the jutsu/5. “Crystals” fully stacks with itself.
+Any Doton Ninjutsu can be changed to a Crystal Ninjutsu by adding +5 to its chakra cost, and has the following effects:
+If the Jutsu has a number of uses and/or degrades over time, these uses/time degradation are increased by 1 or 10 IC..
+If a Jutsu has an upkeep, its effects last for 20 IC after dropping it.
+If a Jutsu crafts a construct with some HP value, it gains a Rank * 20 DR.
+Crystal Ninjutsu always inflict slashing wounds
+Anyone hit by a Crystal Ninjutsu of any type gets a status of “Crystals” equal to the CHA cost of the jutsu/5. “Crystals” fully stacks with itself.
 
 Crystals:
-
-When somebody is hit by Crystal Ninjutsu, crystals start growing on them as well as everything around them. Track when you first take any ranks of Crystal, 30 IC from the IC you take your first rank of Crystal on, a shatter occurs.
+When somebody is hit by Crystal Ninjutsu, crystals start growing on them as well as everything around them. Track when you first take any ranks of Crystal, 50 IC from the IC you take your first rank of Crystal on, a shatter occurs.
 
 Shatter:
+When a Crystal Ninjutsu reaches the end of its duration, uses all of its limited uses, or is destroyed, a “Shatter” occurs. When a “Shatter” occurs, it causes a chain reaction, shattering all Crystal Ninjutsu within 1,000 Yards. Each shatter occurs separately, calculating defenses and damages accordingly but interrupts used to defend shatter don’t increase your IC.
 
-When a Crystal Ninjutsu reaches the end of its duration, uses all of its limited uses, or is destroyed, a “Shatter” occurs. When a “Shatter” occurs, it causes a chain reaction, shattering all Crystal Ninjutsu on the battlefield. All Crystal Ninjutsu and all ranks of “Crystals” are removed from anyone who has them. For every person who had any ranks of “Crystals” on them, everyone within (Your NDB) range of that person (Including that person) is targeted by an attack using your Ninjutsu Accuracy. For the Target that actually had the Crystal Status Effect on them that Shattered, they 
+All Crystal Ninjutsu and all ranks of “Crystals” are removed from anyone who has them. For every person who had any ranks of “Crystals” on them, everyone within (Your NDB) range of that person (Including that person) is targeted by an attack using your Ninjutsu Accuracy. For the Target that actually had the Crystal Status Effect on them that Shattered, they immediately take half the damage and can defend the other half normally.
 
-The attack has an area of (NDB \* 1.5), and it does (Ranks of Crystal)d10, and counts as (Ranks of Crystal \* 2\) speed for Damage and Interrupt purposes. The Damage Type is Slashing.
+Structures and other Crystal Ninjutsu creations created by Crystal Ninjutsu but don't actually hit anyone explode as if they had Crystal ranks equal to 1\+CHA cost/5
 
-Structures and other Crystal Ninjutsu creations created by Crystal Ninjutsu but don't actually hit anyone explode as if they had Crystal ranks equal to 1+CHA cost/4
-
-Crystal Ninjutsu costs 1 talent point and can only be taken if you have an affinity in Doton.
+The attack has an area of (NDB \* 1.5), and it does (Ranks of Crystal)d20 Slashing damage and is treated as speed 10 for the purposes of defending.
 
 ## **Tempest Release**
 
@@ -135,15 +123,9 @@ Unfortunately, the earlier years of Shinobi were filled with violence and much k
 
 Today, Tempest Release is now widespread once more, the secrets shared or rediscovered all over again all over the world, but none can yet match the glory of the old ways just yet
 
-Tempest Release
+Any Fuuton Ninjutsu can be changed to a Tempest Ninjutsu by adding \+5 to its chakra cost. It also has its damage reduced by 50\%.
 
-Any Fuuton Ninjutsu can be changed to a Tempest Ninjutsu by adding \+5 to its chakra cost, and has the following effects:
+After the jutsu you create a Tempest with an Area of Chakra Cost/2 and is centered on the Target's square. This remains for 20 ICs. 
 
-* Choose whether the Jutsu's Tempest spins Clockwise or Counterclockwise.  
-* The Jutsu gains both a Line Area and a Circle Area if it didn't have one before and the appropriate Tags. The Line Area has a Width of (Chakra Cost/5)  and a Length equal to the distance between the user and the Target's square, to a max of the Jutsu's normal Range. Whilst the Circle Area has a Radius of (Chakra Cost/2) and is centered on the Target's square.  
-* The Circle Area of the Jutsu remains even after the Jutsu resolves, remaining for 10 ICs in the shape of a Tempest on the battlefield that will either Push people away from the center of the Tempest if it's Clockwise, and Pull them into the center if its Counterclockwise. This applies a continuous Knockback Effect of 0.5+(Chakra Control/10) per IC to everybody within its Area towards the appropriate direction.  
-* Anybody within the Tempest takes 10% of the original Jutsu's Damage every IC they spend in the Tempest.  
-* If a Jutsu had either a Line Area or a Circle Area, then it has its Area increased by (Chakra Cost/5).
-
-Tempest Ninjutsu costs 1 talent point and can only be taken if you have an affinity in Fuuton.
+Choose whether the Jutsu's Tempest spins Clockwise or Counterclockwise. This deals 10% of the jutsus damage every IC they spend in the Tempest and applies a continuous Knockback Effect of Chakra Control/15 per IC to everybody within its Area, Clockwise pushes targets away from the center and Counterclockwise pulls targets towards the center.
 
