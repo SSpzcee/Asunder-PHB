@@ -44,13 +44,15 @@ Scale: 0
 Limit: XP/1000, max of 3
 
 Effect:  
-So long as you have been using a particular Sword for over 1 IC month, and the total Artisan Points used in the crafting of the Sword are less than 10+(XP/200), you may infuse a part of your soul into it through a hidden ritual. Once this is achieved, you permanently lose 1 maximum Willpower and become connected to your Sword in a way far deeper than anything achievable in the physical realm. As your own dedication and soul coalesce into the steel to give it a nascent soul of its own. You can only use this Ability and its benefits on a single Sword (And it must be a Sword, it cannot be any other type of Weapon), and once you choose which Sword it is, the decision cannot be changed.
+So long as you have been using a particular Sword for over 1 IC month, you may infuse a part of your soul into it through a hidden ritual. Once this is achieved, you permanently lose 1 maximum Willpower and become connected to your Sword in a way far deeper than anything achievable in the physical realm. As your own dedication and soul coalesce into the steel to give it a nascent soul of its own. You can only be bonded to one Sword at a time and can end your bond with a sword (regaining your WP) as a Downtime Action.
 
-Your Sword will begin to slowly evolve and grow in strength with you, something impossible for a normal blade. Your Sword will always be considered to have 10+(XP/200) Artisan Points which you may spend to gain any number of additional Traits/Features/Properties suitable for the Sword from the Weapon Crafting Section, but any of the Traits that the Sword had before this Ability was applied cannot be changed and take away from point total that you have. You cannot take Special Properties through this Ability. Any Traits that you choose cannot be changed.
+Your Sword has its Artisan Points increased to a total cap of 5\+(XP/200) Artisan Points which you may spend following the same rules as reforging. It also gains the following:
 
-Perhaps the most perplexing part is that your Sword will attain some form of a basic "personality", it is not rare to hear a skilled swordsman describe their blade as "moody" or "bloodthirsty" or even "joyful". This "personality" is more than just swordsmen being weird, it represents a very tangible manifestation of the strongest evolution that the Sword undertakes, developing a soul. The second and third Ranks taken in this Ability grant your Sword a Personality Aspect (Listed below), a semblance of the semi-sentience which your blade has developed and which grants you one Active and one Passive power.
+You always know the distance and direction to your Sword
+While you have any hp remaining, your sword cannot be destroyed
+Whenever your Sword is held by anybody but you, it loses all features from this ability
 
-No matter what else you pick, you always know where your Sword is thanks to this supernatural bond you’ve developed with it, in terms of distance and direction. It could be on the other side of the world, and given enough time, you'd be able to track it down. It also becomes indestructible, any Effects or Jutsus which would normally destroy Weapons would have no effect on this Sword. Additionally, even the most temperamental of blades have an unshakeable "loyalty" to their owner. Whenever your Sword is held by anybody but you, the Sword is only treated as possessing its Structure Traits, and nothing else. With them benefiting from none of its other Traits, Special Properties, or Personality Aspects.
+At second rank your Sword gains a Personality Aspect (Listed below), a semblance of the semi-sentience which your blade has developed granting you an Active and a Passive power. At third level you may replace either the active or the passive effect with another of the same type given by a different personality.
 
 ### **Personality Aspects**
 
@@ -60,42 +62,42 @@ This blade craves blood and violence, it grows sharper the more pain it inflicts
 
 Bloodthirsty cannot be taken alongside Aloof.
 
-- **Active:** The Swordsman may elect to feed the bloodlust of their blade, entering a berserk state where only murder and blood could calm them down. As a Speed 6 Action, you enter a "Bloodthirst" Mode where the Passive benefits of this Personality Aspect is doubled Every time it is your turn, you must perform a Weapon Attack against a viable Target (no, a tree isn't viable, nor is the squirrel ON the tree. No bag of rats shenanigans are allowed) within range including move with attack. If there are no allies or enemies within range, then you will perform a Move Action or a movement Jutsu towards the nearest Target and then Attack them. No other Actions can be taken except for those relating to removing some sort of penalty (Such as a Grab's Break Grapple Action or the Action to remove Clay Bullet's Immobilization Penalty) until you have killed a Target, upon which you finally get the urges of your Sword under control. You will still receive the penalties of this Mode, but may perform the Speed 0 Action to finally leave it whenever you wish during your turn. You may also reach this state of control without the need of ending a life by attempting to subjugate the will of your Sword; roll a Resistance Check against a TN of 15+(XP/200), if you succeed then you may leave this Mode as previously stated. But if you fail, then you lose 1 Willpower point as if you had spent it. You may attempt this Check multiple times and at any point in the Initiative, but only once per every 20 ICs. If you no longer have Willpower points, failure will lead to you increasing by 1 Fatigue level, up to a max of the last Fatigue but once you enter this mode, you cannot exit it (which is a Speed 0 Action) until you have performed a Coup De Grace on an Target.  
-- **Passive:** Whenever this Sword deals Damage, it gains a stacking (Damage dealt/100)% boost to any future Damage until it is sheathed again.
+- **Active:** You may feed the bloodlust of your blade, entering a berserk state where only murder and blood can calm you down. As a Speed 6 Action, you enter a "Bloodthirst" Mode where the Passive benefit of this Sword is doubled. Every time it is your turn, you must perform a Weapon Attack against a living combatant within range including move with attack. If there are no allies or enemies within range, then you will perform a Move Action or a movement Jutsu towards the nearest Target and then Attack them. No other Actions can be taken until you have killed a Target, upon which you finally get the urges of your Sword under control. You will still receive the penalties of this Mode, but may perform the Speed 0 Action to finally leave it whenever you wish during your turn. You may also reach this state of control without the need of ending a life by attempting to subjugate the will of your Sword. By spending a Willpower you can roll a Resistance Check against a TN of 20\+(XP/200) with a stacking +2 bonus for subsequent rolls, if you succeed then you may leave this Mode as previously stated. You may attempt this roll once every 20 IC.  
+- **Passive:** Whenever this Sword deals Damage, it gains a stacking 1\% \+ 0.5\% per severity of wounds inflicted boost to any future Damage until it is sheathed again.
 
 #### **Aloof**
 
 This blade somehow carries no "presence" even when it's held or swung, as if its somehow immaterial. It cuts through the air, yet makes no sound. It can cut through all defenses, yet it feels weightless. Its shape an utter blur when in motion, making it difficult for any would-be victims to ever detect its lethal bite. Truly worthy of a sword that feels “out of this world”.
 
-- **Active:** The swordsman may elect to give in to the void that exists deep within both their Sword, and themselves. By doing so, as a Speed 8 Action, their own actions become hollow, detached from the very significance of their deeds. Such detachment means no perceivable intentions that an enemy could utilize to predict the swordsman's strikes. As if they are simply another part of the world. You may only use Melee Weapon Attacks, the Damage of this Sword is reduced by 20% as you are simply unable to put your all into any of your strikes, but the Target's Defensive Actions or Interrupts against this Sword's Attacks count as double theirs Speed for the purpose of moving their IC only.  
-- **Passive:** This Sword's Damage ignores the Target's DR and Armor, deals full Damage even during Partial Defense, and cannot be Blocked. 
+- **Active:** The swordsman may elect to give in to the void that exists deep within both their Sword, and themselves. By doing so, as a Speed 8 Action, their own actions become hollow, detached from the very significance of their deeds. Such detachment means no perceivable intentions that an enemy could utilize to predict the swordsman's strikes. As if they are simply another part of the world. You may only use Melee Weapon Attacks, the Damage of this Sword is reduced by 20\% as you are simply unable to put your all into any of your strikes, but the Target's Defensive Actions or Interrupts against this Sword's Attacks count as double theirs Speed for the purpose of moving their IC only.  
+- **Passive:** This Sword's Damage ignores the Target's Armor, half their DR, and the damage of partial defense is increased by 10\%. So if they failed by 2 you would deal 50\% instead of 40\%.
 
 #### **Cruel**
 
 Even if this blade doesn't have serrated edges, it still feels like it. For reasons completely beyond the physical, this blade is capable of inflicting the most unimaginable pain with even the smallest of cuts that will linger with the victim, constantly reminding them of the blade that had cut them.
 
-- **Active:** By increasing the Stamina Cost of this Sword's Attack by 5, you apply one additional Wound in the same Location of one Severity lower, minimum of Minor.  
-- **Passive:** This Sword reduces the Target's Maximum Vitality (Or HP if Damage is applied to HP) by a value equal to one fourth of the Damage applied to Current Vitality (Or Current HP). This reduces Wounding Thresholds by 10% of the value that Maximum Vitality was reduced by.
+- **Active:** By increasing the Stamina Cost of this Sword's Attack by 5, you apply one additional Wound in the same Location of one Severity lower.  
+- **Passive:** This Sword reduces the Target's Maximum Vitality (Or HP if Damage is applied to HP) by a value equal to one fourth of the Damage applied to Current Vitality (Or Current HP). This reduction lasts for 50 IC or until the next time you hit them with this Sword.
 
 #### **Compassionate**
 
 A rare trait for a blade to possess, such blades cause no pain when they are cut, and indeed it can be hard to even tell when one is cut by such a blade. Truly, they are "kind" swords. And yet, even kindness can kill.
 
-- **Active:** You may choose to lower your Sword's Damage for an Attack by \-10% for the purpose of Wounding, to a maximum of \-30%. For every 50-(X\*5), Damage you deal, where X is the amount of times you took the 10% reduction, your Sword applies an additional 2 Bleed that stacks with any Bleed that already gets applied by the Sword.  
+- **Active:** You may choose to lower your Sword's Damage for an Attack by -10%, to a maximum of -30\%. For every 10\% reduction, your Sword applies Bleed 1 \+ 1 per severity of wound that stacks with any Bleed that already gets applied by the Sword.  
 - **Passive:** You are able to lower the Severity of your Wounds by one additional step, to a minimum of no Wound. And whenever you lower the Severity of a Wound, the Target takes half of their Threshold for that initial Wound Severity as additional Damage. This extra Damage cannot, in of itself, cause another Wound, and it can be mitigated by Armor and DR.
 
 #### **Proud**
 
 This blade carries an air of majesty and pride, emboldening the one who holds or gazes at it with an unyielding spirit.
 
-- **Active:** By automatically increasing your Fatigue level by 1, you lift up your Sword high as a Speed 8 Action, and  cause every ally within the battlefield to ignore one Wound they had for the remainder of the fight as they are emboldened by the sight and aura of the Sword.  
-- **Passive:** For every 50 ICs spent holding this Sword, you regain 1 Willpower that you had spent, if your Willpower is at max, then you do not benefit from this.
+- **Active:** By automatically increasing your Fatigue level by 1, you lift up your Sword high as a Speed 8 Action, and cause every ally within the battlefield to either regain 100\% of their max hp up to 50% of their maximum or ignore one Wound they had for the remainder of the fight as they are emboldened by the sight and aura of the Sword.  
+- **Passive:** For every 50 ICs spent holding this Sword, you gain 1 temporary Willpower (to a max of 1) which can only be used in actions involving your sword.
 
 #### **Gloomy**
 
 Something just feels "off" about this blade. It's unsettling even for its owner, as if something deeply malicious inhabited this blade. Just gazing at it sends a chill down one's spine, let alone coming in contact with its edge.
 
-- **Active:** As a Speed 10 Action, this Sword will release its malicious aura outwards, sapping the lifeforce of all around it, including the holder of the blade. Everybody in a 5 Yard Radius alongside the holder of this blade must make a Stamina OR Chakra Check (their choice) of 10+(Gloom Counters they have). Using this Action resets any Gloom Counters that the Targets had.  
+- **Active:** As a Speed 10 Action, this Sword will release its malicious aura outwards, sapping the lifeforce of all around it, including the holder of the blade. Everybody in a 5 Yard Radius alongside the holder of this blade must make a Stamina OR Chakra Check (your choice) of 10\+(2\*Gloom Counters they have). Using this Action resets any Gloom Counters that the Targets had.  
 - **Passive:** Whenever this Sword strikes a Target, it inflicts them with a "Gloom Counter", once the Gloom Counters have reached 10, the Target loses one Willpower Point and the Counter resets. Wounds will give additional Gloom Counters according to their Severity (Minors: 1, Major: 2, etc...). If the Target has no Willpower left, then they will receive a Stun of 10 instead.
 
 # **Terumi**
