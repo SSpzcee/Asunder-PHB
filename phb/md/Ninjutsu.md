@@ -283,6 +283,7 @@ Requires: Triggered Detonation
 
 Effects:  
 This technique cannot be used in combat, as it takes a few minutes to set up appropriately. You place four exploding tags at the corner of a square or rectangle, facing inwards; they can be hidden if you have the Tag Concealment ability.  
+
 Each side of the square they form can be up to double the Area of the tags you're using in length. When someone moves to leave the area (meaning if they travel in any direction from the center, or get part way in and then turn around), the tags will detonate 10 IC later. Anyone who hasn't escaped the area (or otherwise defended themselves) by then will take the combined damage of three exploding tags, regardless of their location within the boundary.  
 Notably, anyone outside the 'barrier' is unharmed; part of this technique is that it directs all the explosive force inwards.  
 Directional defenses (such as Earth Shore Return) are insufficient to protect against this, a the explosion originates from multiple directions.
@@ -684,7 +685,21 @@ If this is blocked by an effect which halts its progress (such as Earth Shore Re
 
 Slamming both hands into the ground, the user can cause a large rectangle wall of earth to pop up in front up them, covering whatever attack someone may be directing at them.
 
-Chakra: 20, +4 if not targeting yourself 
+Chakra: 16, \+X\*2 if destroyed
+Range: 16
+Speed: 6 \+ X
+Seal Speed: 8 \+ X\*2
+
+Tags: Interrupt
+
+Effects:  
+This creates a wall that absorbs 100 \+ 20\* (Ninjutsu damage bonus) damage. If destroyed, any remaining damage carries on to you (in which case you cannot defend against it further) or whoever else you used this to protect (in which case, they can). X can have a max of 5 and increases your ninjutsu damage bonus by X \* 10% for the purposes of calculating the wall's hp.
+
+### **Deiryū no Henkō - Mud Flow Deflect**
+
+The user quickly raises a panel 
+
+Chakra: 24 
 Range: 16  
 Speed: 8  
 Seal Speed: 8  
@@ -692,7 +707,8 @@ Seal Speed: 8
 Tags: Interrupt
 
 Effects:  
-You parry an attack against anyone in range with a +3 bonus. Earth Shore Return can't be used against attacks originating 5 yards or less away from its target. 
+You parry an attack with a +3 bonus. Earth Shore Return can't be used against attacks originating 5 yards or less away from its target. 
+
 This works against elements that are weak to it up to A rank, elements that are strong to it up to C-rank, and all other Jutsu (including Taijutsu that begin more than 5 Yards away) up to B-rank.
 
 ### **Kaigeki Chite \- Crushing Earth Hand**
@@ -1748,8 +1764,8 @@ The user gathers chakra around them--the 'rising phoenix' actually refers to the
 Chakra: 28, \+4 if it becomes an attack
 Damage: 15d20!>16  
 Range: CHA  
-Speed: 8  
-Seal Speed: 12  
+Speed: 12  
+Seal Speed: 16  
 
 Tags: Attack, Interrupt, Projectile, Energy
 
