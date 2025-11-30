@@ -231,6 +231,17 @@ Seal Speed: 12
 
 Effects: So long as this technique's upkeep is maintained, you have a \+4 bonus to defensive genjutsu rolls. This genjutsu does not end when you're wounded. You may declare Iron Curtain as an Interrupt when targeted with genjutsu, following the normal rules for defensive interrupts and giving you its bonus for that defensive genjutsu roll. Iron Curtain does remain active (as if activated normally) after being used this way.
 
+### **Chakra no Busan - Chakra Dispersal**
+
+By channeling chakra to a specific section (usually the hands) you can counter simple projectile attacks by cutting their core causing the chakra to disperse. This process takes considerable chakra control and perfect timing.
+
+Chakra: 19  
+Speed: 6  
+Tags: Interrupt  
+
+Effects:  
+This may be used to parry any C-rank or lower projectile ninjutsu originating over 5 yards away. The speed of this interrupt cannot be reduced below 3.
+
 ## **General B-rank**  
 
 ### **Shoushagan no Jutsu \- Vanishing Facial Copy Technique**
@@ -3142,6 +3153,7 @@ This cannot be used to ignore Critical wounds.
 
 # **Sealing**
 
+[|E-Ranks|](#sealing-e-rank)
 [|D-Ranks|](#sealing-d-rank)
 [|C-Ranks|](#sealing-c-rank)
 [|B-Ranks|](#sealing-b-rank)
@@ -3154,190 +3166,204 @@ This cannot be used to ignore Critical wounds.
 A foundational seal that is designed to be placed on the field rather than on scrolls, making it highly adaptable for all surfaces and terrains. And durable enough that it cannot be removed or stripped off without the aid of an unsealing jutsu. By itself, this seal does nothing, but by linking to other instances of this same jutsu, and applying a central seal, it can perform a variety of effects reliant on channeling chakra into various shapes. This particular use makes it THE ideal way to form and decide the shape of barriers and other such techniques.
 
 Chakra: 15  
-Range: Touch  
-Speed: 12  
+Range: 15  
+Speed: 15  
 Seal Speed: 30  
 
-Effects:  
-When you perform this Jutsu, you apply a Seal on a fixed object (Such as the ground or a tree) within the square you're standing on. Every time you do so, if there are other Seals created by this Technique on the battlefield, you may assign your Seal to be linked to them. Creating a line between the two Seals that can be turned into one side or wall of a Barrier or other Techniques that require this Jutsu. Each Seal can only be linked to a maximum of two other Seals.
-
-For example, you can create three Seals, link Seal 1 to Seal 2, Seal 2 to Seal 3, and Seal 3 back to Seal 1, thereby creating a triangle shape between the three of them with each Seal acting as one corner/point of the triangle.
-
-The Seals created by this Jutsu cannot be removed or destroyed without an Unsealing Jutsu. You cannot Link two Seals with each other if they are more than your NDB yards apart.
-
-## **Basic Seal**
-
-A foundational seal that is designed to be placed on the field rather than on scrolls, making it highly adaptable for all surfaces and terrains. And durable enough that it cannot be removed or stripped off without the aid of an unsealing jutsu. By itself, this seal does nothing, but by linking to other instances of this same jutsu, and applying a central seal, it can perform a variety of effects reliant on channeling chakra into various shapes. This particular use makes it THE ideal way to form and decide the shape of barriers and other such techniques.
-
-Chakra: 18  
-Range: Touch  
-Speed: 12  
-Seal Speed: 30  
+Tags: Mark
 
 Effects:  
-Roll a chakra control roll vs the 10 + the Chakra Control bonus of the caster of a Basic Seal. On a success you remove a seal made using Basic Seal. You gain a \+3 bonus for every time you’ve attempted this jutsu on a specific Basic Seal. Any Sealing jutsu activated with that seal are maintained as long as at least 1 seal remains.
+When you perform this Jutsu, you apply a Seal on a fixed object (Such as the ground or a tree) in melee distance. At any point someone with access to this jutsu may link a seal to any other seal in range as a Speed 5 Chakra 10 action. While casting this jutsu you may link it to other seals at no other cost. The Seals created by this Jutsu cannot be removed or destroyed without an Unsealing Jutsu. You cannot Link two Seals with each other if they are more than your NDB yards apart.
 
-## **Sealing D-rank**
+Additionally, you may enter combat with up to your chakra control ranks number of seals pre-inscribed on small objects. These do not function like seals placed on fixed points and can only be used for the Speed-Cast section of Barrier jutsu.
 
-### **Kankin Kanshihon Fuuin \- Confinement Scroll Seal**
+## **Basic Unseal**
 
-This technique requires a blank scroll and something to write with. A series of symbols are written on the scroll, various items are placed on top of it, and the user performs the proper handseals. The items will vanish, stored inside the seal until they're released. This can be done repeatedly, with each item corresponding to a separate symbol on the scroll.  
-Items can be sealed and released all at once, or one at a time.
+The most common method of removing seal, accessible 
 
 Chakra: 10  
-Speed: 8  
-Seal Speed: 10
-
-Effects:  
-This stores solid objects up to 100 Storage Points, which is an abstract value meant to take in both the weight and volume of an object into account. Releasing any number of items is a Chakra 5, Speed 5 action, which can be done by anyone who knows this technique. If used to release a weapon, it takes a separate action to 'draw' (grab and properly grasp) that weapon.
-
-### **Soshoryu \- Twin Rising Dragons**
-
-This requires two storage scrolls with projectile weapons stored inside of them. When this technique is used both the scrolls are launched into the air (giving the technique its name). The user can then jump up between them, grabbing and throwing various projectiles.
-
-Stamina: Variable.  
-Chakra: 10+X  
-Range: As weapons used.  
-Speed: Variable  
-Seal Speed: 8  
-Requires: Two scrolls with thrown weapons sealed inside them.
-
-Effects:  
-You unseal and throw weapons. This is a regular multi-throw, but you add CHA/4 to your DEX when determining how many weapons you can throw with X being the number of weapons added by this jutsu. Notably, this can't be done with Senbon.  
-While Soshoryu itself is (obviously) a ninjutsu technique, the multi-throw attack you perform as part of it is a ranged taijutsu attack.
-
-### **Sougu: Baku Ryuusei \- Manipulated Tools: Attached Meteor**
-
-Large, elongated sections of chains with weighted ends shoot out of a scroll and are directed toward an opponent. They spiral around and surround the victim before the slack is removed, binding the opponent and restricting movement. It does minimal damage on its own, but is useful as a setup for a more potent attack.
-
-Chakra: 16  
+Range: Touch  
 Speed: 10  
-Seal Speed: 8  
-Range: 12
+Seal Speed: 15  
+Requires: 7 Chakra Control  
+
+Tags: Unseal
 
 Effects:  
-You make a Ranged Taijutsu Attack. If you hit, this deals no damage but restrains the opponent by wrapping chains around their limbs to prevent them from utilizing them. The target is considered to be in a clinch with the chains. Then you may choose arm or leg and they receive the penalties of either the Arm Lock or Leg Lock grapple jutsu.
-
-The chains themselves are still attached to the scroll, and therefore sufficient movement on the part of the victim will end the effect. The scroll is anchored to the spot where the target was originally hit by this jutsu. Once the user has moved a number of yards equal to your ranks in Chakra Control from that spot they break free and this jutsu ends. Alternatively, they can try to just wrestle free as a Speed 6 action, rolling 1d20+STR/5 against your 1d20+CHA/5. They gain a penalty to this roll equal to their grapple penalty.
-
-You may use this against a target already affected by Manipulated Tools: Attached Meteor in which case its speed and chakra cost is halved. You may choose arm or leg and add another application of Arm or Leg Lock. When the original Manipulated Tools: Attached Meteor ends this one ends as well.
+Roll a chakra control roll vs 10 + the Chakra Control bonus of the caster of a Basic Seal. On a success you remove a seal made using Basic Seal. On a failure the seal has its TN permanently reduced by 3. Any Sealing jutsu activated with that seal are maintained as long as at least 1 seal remains.
 
 ### **Shikoku Fuuin \- Finger Engraving Seal**
 
 Concentrating chakra into your fingertip, this allows you to 'write' on any surface you please. On solid objects, this will cause a slight depression on the surface and stain it black. On flesh, this will cause slight discomfort and leave a scar, which is initially ink-black and lightens over the next few weeks to regular scar tissue.
 
 Chakra: 15  
-Speed: 1 per word  
+Speed: 1 per 10 characters  
 Seal Speed: 15  
 Requires: 10 Chakra Control
+
+Tags: Mark
 
 Effects:  
 You can write on any surface. With chakra\! This lasts a number of minutes equal to your ranks in chakra control.
 
-## **Sealing C-rank**
+### **Kankin Kanshihon Fuuin \- Confinement Scroll Seal**
+
+This technique requires a blank scroll and something to write with. A series of symbols are written on the scroll, various items are placed on top of it, and the user performs the proper handseals. The items will vanish, stored inside the seal until they're released. This can be done repeatedly, with each item corresponding to a separate symbol on the scroll.  
+Items can be sealed and released all at once, or one at a time.
+
+Chakra: 13  
+Speed: 8  
+Seal Speed: 18
+
+Tags: Utility
+
+Effects:  
+This stores solid objects up to 100 Storage Points. At any point someone with access to this jutsu can release any number of items is a Chakra 5 + X/5, Speed 10 action where X is the number of Storage points of items. If used to release a weapon, it takes a separate action to 'draw' (grab and properly grasp) that weapon.
+
+## **Sealing D-rank**
 
 ### **Teisō Kaifū \-  Lesser Unseal**
 
 The user focuses chakra through their fingers to break the structure of the targeted seal, usually with a forceful thrust. The lowest tier of unsealing jutsu capable of ending the effects of only the most basic of sealing jutsu.
 
-Chakra: 20  
-Range: Touch  
-Speed: 10  
+Chakra: 15    
+Speed: 13  
 Seal Speed: 20
 
+Tags: Unseal
+
+Effects:
+This ends a single D-rank or lower seal on an object or person.
+
+### **Soshoryu \- Twin Rising Dragons**
+
+This requires two storage scrolls with projectile weapons stored inside of them. When this technique is used both the scrolls are launched into the air (giving the technique its name). The user can then jump up between them, grabbing and throwing various projectiles.
+
+Chakra: 10 \+ X \* 2  
+Upkeep: 3  
+Seal Speed: 10 \+ X  
+Requires: Two scrolls with thrown weapons sealed inside them  
+
+Tags: Link
+
 Effects:  
-You can target a single D-rank or lower seal on an object or person. That seal is removed and all of its effects are ended. This can also remove seals created by the Sealing Fulfillment Technique.
+X has a maximum of Chakra Control / 5. This is added on to a multi-throw with any weapon but senbon increasing the number of weapons thrown by X without increasing the speed. This jutsu ends automatically if the scrolls used in this technique run out of weapons.
+
+### **Sougu: Baku Ryuusei \- Manipulated Tools: Attached Meteor**
+
+Large, elongated sections of chains with weighted ends shoot out of a scroll and are directed toward an opponent. They spiral around and surround the victim before the slack is removed, binding the opponent and restricting movement. It does minimal damage on its own, but is useful as a setup for a more potent attack.
+
+Chakra: 18  
+Speed: 8  
+Seal Speed: 8  
+Range: 12  
+
+Tags: Attack, Projectile
+
+Effects:  
+You make a Ranged Taijutsu Attack targeting an arm or leg. On a hit the target is chained to their current location providing them with immobility 2 and all forms of movement (besides ones already reduced by immobility) are reduced by 20\%. Once the user has moved a number of yards equal to your ranks in Chakra Control from that spot they break free and this jutsu ends. Alternatively, they can try to just wrestle free as a Speed 6 action, rolling 1d20 \+ STR/5 \- Immobility against your 1d20 \+ CHA/5.
+
+You may use this against a target already affected by Manipulated Tools: Attached Meteor in which case its speed is halved, its chakra cost is reduced by 5, and its effects stack up to a maximum of 4 times. When the original Manipulated Tools: Attached Meteor ends this one ends as well.
 
 ### **Fuukoku Houin \- Dark Sealing Method**
 
 A once-specialized technique that's been adapted to see broader use, the Dark Sealing Method is used when a simple lock just isn't reliable enough. The user takes several paper tags, writes the appropriate seals on them in their own blood, and then applies them to the edge of the doorframe, lid, or other appropriate edge of what's being sealed. After that, the handseals are performed and chakra is applied.
 
-Chakra: 30  
+Chakra: 20  
 Speed: 15  
-Seal Speed: 30
+Seal Speed: 18  
+
+Tags: Mark
 
 Effects:  
-The door or container the paper tags are placed upon cannot be opened so long as this seal is in place; no amount of physical force can overcome it. That said, it gives no special properties to what has been sealed; if you apply Fuukoku Houin to a rickety wooden door, most people would have minimal trouble breaking a hole in the center of that door.  
-The tags themselves are virtually indestructible until the technique ends.  
-When you apply this seal, you may specify a certain time for it to end, such as "two days from now". The seal will last until the designated time arrives, or it's removed by some method (such as the B-rank Tier 2 Unseal). The person who placed this seal can simply peel the tags away from the sealed surface, destroying the seal in the process.
+You attach a virtually indestructible sealing tag onto an object where it remains connected to whatever it was placed on. If used on a door, container, etc it cannot be opened while the jutsu remains active. These cannot be overcome with brute force. However, this does not protect the object itself so a container could be smashed or a hole created through a door. You may choose a duration up to a week for this seal to remain.
+
+### **Karasu - Glass Pane**
+By connecting two or more Basic Seals you create a rectangular field of chakra which disrupts chakra passing through it. This can completely block weaker jutsu or reduce the power of stronger techniques.
+
+Chakra: 13  
+Speed: 8  
+Seal Speed: 18  
+
+Tags: Barrier
+
+Effects:  
+You conjure a barrier between the chosen fixed seals with a height of 3 Yards. It affects any jutsu that passes through this area. Attacks are immune to this barrier if they are ground based, originate from 5 Yards or higher, or have an Area which completely encompasses the barrier’s area. 
+
+This automatically parries any jutsu of D-Rank or lower that attempts to pass through. Any jutsu of C or B-Rank has its rank reduced by 1 for the purposes of defending and reduces the damage by 50\%, after which the barrier is destroyed. A-Rank jutsu are unaffected by this barrier and automatically destroy it. After being destroyed the barrier is regenerated after 30 IC or after the jutsu is recast.
+
+Speed Cast (Speed 6, Chakra 15, Interrupt, Seals 4)
+By quickly throwing 4 pre-inscribed seals you conjure the chakra pane between them to defend any projectile ninjutsu originating from 5 Yards or more from its intended target. Make a ninjutsu parry with a \-1 per rank of the jutsu. On a success the jutsu is disrupted by the above effects of the Karasu \- Glass Pane.
+
+## **Sealing C-rank**
+
+### **Chūsō Kaifū \-  Medium Unseal**
+
+The user focuses chakra through their fingers to break the structure of the targeted seal, usually with a forceful thrust. The middling tier of unsealing jutsu capable of ending a wider range of effects. 
+
+Chakra: 25  
+Speed: 16  
+Seal Speed: 25  
+
+Tags: Unseal
+
+Effects:  
+This ends a single C-rank or lower seal on an object or person.
 
 ### **Sougu: Tensasai \- Manipulated Tools: Heavenly Chain of Destruction**
 
 An advanced form of Twin Rising Dragons, the user throws a scroll into the air and activates it. In midair the weapons inside the scroll are released and projected by the user's chakra, allowing them to guide far more weapons than they would be able to by hand. It gets its name from the speed of its most proficient practitioners, who can propel their weapons so fast they appear as rays of light.
 
-Chakra: 15 \+ X  
-Damage: As Multi-Throw   
+Chakra: 13 \+ X/5  
 Area: 25  
-Speed: 12  
-Seal Speed: 8  
-Requires: Minimum of 25 Projectiles of a single Type
+Speed: 15  
+Seal Speed: 15  
+Requires: Minimum of 25 Projectiles of a single Type in a scroll
 
-Effects:
+Tags: Utility
 
-X is the amount of Projectiles thrown in each Shower. Your Scroll is launched into the air, where it remains stationary. Every 10 IC afterwards, for 50 IC, the scroll showers each Target in its Area with one type of Throwing Weapon Projectiles chosen beforehand (Shuriken, Kunai, Senbon).
-
-Each 'Projectile Shower' is a Multi-Throw Attack that strikes everybody in its Area, a certain amount of Projectiles each shower decided when initially performing this Jutsu. You must load the full number of Projectiles this technique will use into it ahead of time; if it runs out of Projectiles early, it stops.
-
-For example, if the Scroll was firing 10 Senbon per Shower at 4 Targets, you'd need a total of 10  \* 4 \* 5 \= 200 Senbon loaded in the Scroll to make the full 5 Attacks.
-
-Targets may defend against these attacks as if they're Speed 5 \+ X/2. And you use that same Speed value for the purpose of Damage Calculations.
-
-This technique uses your base Accuracy for an C-Rank Weapon Taijutsu modified by the Accuracy bonus of the Projectile, and unmodified by status, wounds, temporary bonuses, and so on, though penalties from Fatigue do apply. and if you had Senbon User and used Senbon then these Showers gain that \+1 Accuracy Bonus.
-
-It uses your Ninjutsu Damage Bonus at the time you initially launched the Scroll. And you receive the benefits of your Weapon Focus for the Projectile should you use it. However, because the Attacks are made by the Scroll, and not you, you cannot modify them further (such as with Willpower or AP).
+Effects:  
+X is the amount of Projectiles in the thrown scroll. Your Scroll is launched high into the air, where it remains stationary. Every 10 IC afterwards, for 50 IC, you automatically make a Multi-Throw Attack using X/5 for the number of projectiles, 5 \+ X/10 for the speed, and the following changes:
+- It is unmodified by temporary status, wounds, and so on
+- It gains an area equal to this technique 
+- It does not increase your IC
+- You cannot use Willpower or AP
 
 ### **Netetsuki no Jutsu \- Sleeping Moon Technique**
 
 An exceptionally useful technique, as it approaches the much yearned-for concept of a "smart" seal; one that can be deactivated easily without requiring extensive time and effort to then replace it.  
 This is not actually a seal itself, but a large number of specific modifications which can be applied to almost any advanced sealing technique; less complicated sealing jutsu are too simple to incorporate these alterations.
 
-Chakra: \+15 \+ X \* 3  
-Seal Speed: \+10 \+ X \* 5
+Chakra: \+ X\*3  
+Seal Speed: \+10 + X\*5  
+
+Tags: Link
 
 Effects:  
-This is used to supplement another sealing technique of rank C or higher. When you apply it, specify an activation condition and a deactivation condition.  
-Possible triggers include:  
-\> Someone passes within (up to 10\) yards of it.  
-\> There is nobody within (up to 10\) yards of it.  
-\> A certain word is said or noise is made.  
-\> Someone touches the seal.  
-\> A specific person touches the seal (see below).  
-If keyed to touch-activation or \-deactivation by specific people, you can specify up to X people, where X is (Research ranks)/5, who the seal will recognize by chakra signature; all of those people must be present when you apply the seal.  
-When the activation condition occurs, the seal is activated.  
-When the deactivation condition occurs, the seal becomes dormant; none of its effects apply until it's reactivated, though it remains visible.  
-Removing the seal augmented by Sleeping Moon Technique also removes this portion of the seal. Alternately, the Sleeping Moon seal could be removed, leaving the original seal in place but uncontrollable.
+This is used to supplement another sealing technique with the Mark or Barrier tags. X is the rank of the jutsu. While using this jutsu you can specify up to (Research Ranks)/5 people within the sensing range who the seal will recognize by chakra signature. By default the sealing jutsu is dormant and only activates when a condition you specify within 10 Yards occurs.
+
+Alternatively you may select an elemental jutsu to supplement. This follows the same rules as above but it uses your base stats (such as acc and damage bonus) at the time of casting.
+
+For example you can have a barrier activate when you step inside its area or have a Mark target the first ninja to walk within 10 Yards of it. When the activation condition occurs, the seal is activated as if you had used it.
 
 ### **Tsuiseki Fuuin \- Tracking Seal**
 
 A very useful seal, though one which suffers from a number of limitations. When applied to a person, the seal vanishes almost immediately, becoming invisible and virtually undetectable, even to shinobi capable of seeing chakra (such as the Hyuuga and Uchiha). Afterwards, whoever applied the seal will be able to get a vague idea of the location of the sealed individual, allowing them to be tracked across any distance.
 
-Chakra: 20, raised to 30 if it hits  
-Accuracy: \-6  
-Range: Touch  
+Chakra: 20, \+10 if it hits  
+Accuracy: -6  
 Speed: 25  
-Seal Speed: 20
+Seal Speed: 20  
+
+Tags: Attack, Melee, Mark  
 
 Effects:  
-Used as an attack, you are allowed an Espionage roll with a \+5 bonus against the opponent's. If you succeed, they think you struck a glancing blow with a close-range attack; if you fail, they realize you used some sort of jutsu on them, though not what its effect was.  
-Once applied, the seal is invisible and undetectable. It will only be discovered by a sealing expert who knows to look for it. These seals have been known to go undetected for years, as a result.  
-You may only have one Tracking Seal applied at a time (though one person can have multiple Tracking Seals placed on them); if you use it on another person, your link to the other seal is broken, and that seal unravels harmlessly.  
-By forming a handseal and concentrating for several seconds you know the direction and approximate distance from your current location of the person you're tracking. This does not provide any bonuses in combat; while it lets you know your target is nearby, it lacks enough precision at such short distances to help you discover an opponent hidden in stealth. There is no limit on how often you may activate a Tracking Seal, though you have to stop and concentrate each time (and so cannot do it while moving).
+Once applied, the seal is invisible and undetectable. It will only be discovered by a sealing expert who knows to look for it (someone who knows at least 1 C\-rank or higher sealing jutsu). You may only have one Tracking Seal applied at a time (though one person can have multiple Tracking Seals placed on them); if you use it on another person, your link to the other seal is broken, and that seal unravels harmlessly.
 
-### **Fūinrikō No Jutsu \- Sealing Fulfillment Technique**
+While you have a target marked by Tsuiseki Fuuin - Tracking Seal you gain the following action:
 
-A foundational seal that is designed to be placed on the field rather than on scrolls, making it highly adaptable for all surfaces and terrains. And durable enough that it cannot be removed or stripped off without the aid of an unsealing jutsu. By itself, this seal does nothing, but by linking to other instances of this same jutsu, and applying a central seal, it can perform a variety of effects reliant on channeling chakra into various shapes. This particular use makes it THE ideal way to form and decide the shape of barriers and other such techniques.
-
-Chakra: 15  
-Range: Touch  
-Speed: 8  
-Seal Speed: 15
-
-Effects:  
-When you perform this Jutsu, you apply a Seal on a fixed object (Such as the ground or a tree) within the square you're standing on. Every time you do so, if there are other Seals created by this Technique on the battlefield, you may assign your Seal to be linked to them. Creating a line between the two Seals that can be turned into one side or wall of a Barrier or other Techniques that require this Jutsu. Each Seal can only be linked to a maximum of two other Seals.
-
-For example, you can create three Seals, link Seal 1 to Seal 2, Seal 2 to Seal 3, and Seal 3 back to Seal 1, thereby creating a triangle shape between the three of them with each Seal acting as one corner/point of the triangle.
-
-The Seals created by this Jutsu cannot be removed or destroyed without an Unsealing Jutsu. You cannot Link two Seals with each other if they are more than your Ranks in Chakra Control apart
+Seek (Speed 20, Delay 10, Chakra 15)
+You learn the direction and approximate distance to the person you're tracking. In combat this allows you to make a free search action that ignores any external awareness penalties affecting you with a \+10 bonus.
 
 ### **Kensetsu Kabe \- Construction Wall**
 
@@ -3345,59 +3371,46 @@ The Seals created by this Jutsu cannot be removed or destroyed without an Unseal
 
 Chakra: 19  
 Area: Special  
-Speed: 10  
-Seal Speed: 16
+Speed: 10, Delay 10  
+Seal Speed: 16  
 
-Effects:   
-This Jutsu can be used if there is two or more Linked Seals created by the Sealing Fulfillment Jutsu. This Jutsu must be placed somewhere alongside one of the lines Linking the Seals. Once this is done, a 10 Yard tall Barrier is erected in the shape formed by the Linked Seals, and the Linked Seals become impossible to remove even through Unsealing Jutsus . This Barrier has (NDB \* 20\) HP and (Research Ranks \* 5\) DR and is completely impassable. 
-
-Any Attacks (Even Non-Damage Dealing) whose path must pass through a square taken up by a part of this Barrier will instead be blocked by it, dealing Damage to the Barrier. If an Attack takes this Barrier down to 0 HP, then the leftover Damage (but no other Effects) will pass through to their intended Target. AoE Attacks which originate from one side of the Barrier and whose Area is meant to reach the other side of the Barrier, do not hit that other side and are instead blocked by the Barrier.
-
-Successfuly performing an Unsealing Jutsu of a sufficient enough Rank on the spot where Construction Wall's Seal was performed causes it to be removed, and the Linked Seals forming the shape of its Barrier to be removed and wiped away as well. 
-
-### **Shiroheisa Shigeto \- Castle Closing Four Gates**
-
-(Flavor Text)
-
-Chakra: 24  
-Area: Special  
-Speed: 16  
-Seal Speed: 20
+Tags: Barrier  
 
 Effects:  
-This Jutsu can only be used if there is an Area encased by four Linked Seals created by the Sealing Fulfillment Jutsu. This Jutsu must be placed somewhere within the bounds of the encased Area. Once this is done, a 10 Yard tall Barrier is erected, and the Linked Seals become impossible to remove even through Unsealing Jutsus . Any physical objects that attempt to pass through the Barrier will very quickly disintegrate. This Barrier can deal (Research Ranks) \* 100 Damage before it's rendered inert and goes away on its own.
+You conjure a barrier between the chosen fixed seals with a height of 15 Yards and a thickness of 1 Yard in diameter. This acts as a wall that has (NDB \* 50) HP and (Research Ranks \* 5) DR and is completely impassable. Attacks are immune to this barrier if they are ground based or originate from 20 Yards or higher. 
 
-Any Taijutsu Projectile Attacks that must pass through one of the bounds of the Barrier are instantly destroyed, never reaching their Target. Any non-Energy Ninjutsu Projectile Attacks that pass through one of the bounds of the Barrier have their Damage halved, but maintain any other Effects as normal. Neither case counts for the amount of Damage the Barrier can deal before it’s inert.
+If an Attack takes this Barrier down to 0 HP, then the leftover Damage (but no other Effects) will pass through to their intended Target. After being destroyed the barrier is regenerated after 50 IC or after the jutsu is recast.
 
-If a person attempted to pass through the bounds of the Barrier, then they will receive (Research Ranks) \*  (NDB) Energy Damage, at this point, they are allowed to perform a Speed 2 Interrupt to cancel their movement and stop at the edge of the Barrier on the side they were already on, ceasing from taking that Damage. If they were pushed through the Barrier (Such as through a Knockback Effect), then they are allowed to make an Athletics Check against a TN of (15+Knockback Severity) to immediately end the Knockback Effect at the edge of the Barrier, taking no Damage. The same applies if they are being dragged across the Barrier during a Grapple, except that it's an Opposed Athletics Check instead.
-
-Successfuly performing an Unsealing Jutsu of a sufficient enough Rank on the spot where Shiroheisa Shigeto's Seal was performed causes it to be removed, and the Linked Seals forming the shape of its Barrier to be removed and wiped away as well.
+Speed Cast (Speed 12, Chakra 23, Seals X)
+By throwing pre-inscribed seals you conjure a miniature version of the above barrier with (NDB \* 25) HP and (Research Ranks \* 3) DR. Each point of the barrier requires 2 seals (so a triangle pattern would need 6). If used to surround a target they may defend as if this was a ranged taijutsu attack and an area of NDB. If parried the jutsu fails, and if dodged the target escapes to any adjacent location outside the area of the barrier. 
 
 ## **Sealing B-rank**
 
-### **Chūsō Kaifū \-  Medium Unseal**
+### **Kōsō Kaifū \-  Greater Unseal**
 
 The user focuses chakra through their fingers to break the structure of the targeted seal, usually with a forceful thrust. The highest tier of generalist unsealing jutsu able to end all but the most powerful sealing jutsu. 
 
-Chakra: 30  
-Range: Touch  
-Speed: 10  
-Seal Speed: 25
+Chakra: 35  
+Speed: 19  
+Seal Speed: 30  
+
+Tags: Unseal
 
 Effects:  
-This can target a single C-rank or lower seal on an object or person. That seal is removed and all of its effects are ended.
+This ends a single B-rank or lower seal on an object or person.
 
 ### **Keiyaku Fuuin \- Contract Seal**
 
 Implemented on a summoner, this removes any control the summoner has over their summoned creature, and in most cases will temporarily nullify the contract altogether.
 
-Chakra: 40  
-Range: Touch  
+Chakra: 40   
 Speed: 16  
-Seal Speed: 25
+Seal Speed: 20
+
+Tags: Attack, Melee, Mark  
 
 Effects:  
-Any summoning contracts the victim possesses are considered null and void until this seal is removed. In most cases, this will forcibly de-summon anything they've already summoned. Defensive Summoning techniques used against this automatically fail.
+This temporarily severs the contract between a summoner and their summon forcibly de-summoning anything they've already summoned.
 
 ### **Tsuyome Fuuin \- Strengthening Seal**
 
@@ -3407,11 +3420,12 @@ Chakra: 45
 Speed: 20  
 Seal Speed: 40
 
+Tags: Mark
+
 Effects:  
-This may be applied to any surface up to (CHA /10) square yards, and no thicker than (CHA /10) inches. You may divide the area by any whole number to multiply the thickness limitation by that much. For example, you could make it (CHA /10)/2 square yards, and in exchange apply the seal to a surface (CHA /10)\*2 inches thick.  
-The seal is visible, though only on the side it's applied to (so if it's on the inside of a wall, you would not see it on the outside). Similarly, it can only be removed from that side. It may only be applied to a contiguous object: if you wanted to apply Strengthening Seal to a boat, each plank would require a separate seal.  
-The surface this seal is on is virtually indestructible. It gains (user's CHA)\*10 HP, and has a damage reduction of (user's CHA), which cannot be bypassed or reduced.  
-This seal can only be applied to flat surfaces, such as walls.
+This may be applied to any flat surface with a surface area up to Chakra yards. The seal is visible on the side it's applied to and can only be unsealed from that side. It may only be applied to a single continuous object (for example if you wanted to protect a boat, each plank would require a separate seal).
+
+The surface this seal is on is virtually indestructible. It gains CHA\*10 HP, and has a DR of CHA, which cannot be bypassed or reduced. On the back of the object (opposite side of where the mark was applied) the DR is reduced by 1\% for every inch thick the object is.
 
 ### **Shinsei Chinmoku Fuuin \- Sacred Silence Seal**
 
@@ -3419,47 +3433,48 @@ Often used as a form of so-called 'loyalty seal', this has seen moderate popular
 
 Chakra: 30  
 Accuracy: \-4  
-Range: Touch  
 Speed: 20  
 Seal Speed: 18
 
-Effects:  
-When you apply this seal to a person, specify a topic. This may be as broad ("anything involving Sand village") or as narrow ("the new jutsu you saw me use") as you wish.  
-The victim may not attempt to communicate about that topic in any way, be it through speech, writing, or other methods. Intent is what matters here; if they think they're giving information about the subject, they are unable to.  
-The same restrictions apply regarding this seal itself. That said, it's not particularly inconspicuous. While the seal itself prevents the from showing it off, it takes the form of a hexagram on their Tongue.  
-You may, when applying this seal, also specify one exception to its restrictions. For example, you could say "other Leaf nin"--in which case the person with this seal could talk to other Leaf nin about the sealed topic, but nobody else.  
-This seal trumps any genjutsu short of the Poison Truth Technique.
+Tags: Attack, Melee, Mark
 
-### **Jinshikyū Tojikomeru \- Life Entrapping Womb**
+Effects:  
+When you apply this seal to a person, specify a topic. This may be as broad ("anything involving Sand village") or as narrow ("the new jutsu you saw me use") as you wish. The victim is unable to communicate about that topic or the presence of this seal in any way, be it through speech, writing, or other methods. Intent is what matters here; if they think they're giving information about the subject, they are unable to.
+
+You may, when applying this seal, also specify one exception to its restrictions. For example, you could say "other Leaf nin"--in which case the person with this seal could talk to other Leaf nin about the sealed topic, but nobody else.
+
+### **Fuuja Houin \- Evil Sealing Method**
+
+Not all seals can be removed easily. This circumvents that by suppressing fuuinjutsu, or any sort of chakra-based markings, on a person. The technique's greatest failing is its dependence upon the recipient to provide some of the strength behind it, meaning they can overcome its effects at will, making it useless for offensive applications.
+
+Chakra: 36  
+Speed: 10  
+Seal Speed: 20  
+
+Tags: Mark
+
+Effects:  
+Choose one Fūinjutsu affecting the target. When the jutsu is cast or any time they enter combat they may spend a WP to have this seal suppress that Fūinjutsu for the remainder of that combat. They may also spend this out of combat to suppress the Fūinjutsu for 1 hour.  
+
+### **Shiroheisa Shigeto \- Castle Closing Four Gates**
 
 (Flavor Text)
 
 Chakra: 32  
-Area: Special  
-Speed: 20  
-Seal Speed: 24
-
-Effects:
-
-This Jutsu can only be used if there is an Area encased by four Linked Seals created by the Sealing Fulfillment Jutsu. This Jutsu must be placed somewhere within the bounds of the encased Area. Once this is done, a 10 Yards tall Barrier is erected and the Linked Seals become impossible to remove even through Unsealing Jutsus . Non-Chakra based objects can freely pass through this Barrier, however, any Jutsus or objects made with Chakra passing through the Barrier are mitigated, oftentimes to nothingness. Projectile Ninjutsu Attacks of C Rank or lower are completely nullified, while B Ranks have their Damage halved and lose any other Effects they had, and A Ranks remain completely unaffected. Clones of any kind besides Shadow Clones are also instantly destroyed. People and Summons can pass through completely fine, however, any Upkeeps they had are instantly ended.
-
-It is also impossible to Target somebody with a purely Line of Sight Jutsu (Such as Genjutsu) if they are on the other side of the Barrier. 
-
-Successfully performing an Unsealing Jutsu of a sufficient enough Rank on the spot where Life Entrapping Womb's Seal was performed causes it to be removed, and the Linked Seals forming the shape of its Barrier to be removed and wiped away as well.
-
-## **Sealing A-rank**
-
-### **Kōsō Kaifū \-  Greater Unseal**
-
-The user focuses chakra through their fingers to break the structure of the targeted seal, usually with a forceful thrust. The highest tier of generalist unsealing jutsu able to end all but the most powerful sealing jutsu. 
-
-Chakra: 40  
-Range: Touch  
-Speed: 12  
-Seal Speed: 30
+Speed: 16  
+Seal Speed: 20  
 
 Effects:  
-This can target a single B-rank or lower seal on an object or person. That seal is removed and all of its effects are ended.
+You conjure a barrier between four seals with an enclosed area and a height of 20 Yards. Attacks are immune to this barrier if they originate from 30 Yards or higher, or have an Area which completely encompasses the barrier’s area. The barrier is separated into its four sides and after being destroyed a side is regenerated after 100 IC or after the jutsu is recast.
+
+This automatically parries any ranged taijutsu or jutsu of C-Rank or lower, that attempts to pass through. Any jutsu of B or A-Rank has its rank reduced by 1 for the purposes of defending and reduces the damage by 200 or 50\% (whichever is higher). If 50\% is used that side of the barrier is destroyed. 
+
+If a person would pass through the bounds of the barrier they may make a Speed 2 Interrupt to stop just outside the barrier. If the movement was forced they must make an Athletics check against a TN of 15\+Knockback. Choosing to pass through the barrier deals (Research Ranks) \* (NDB) Energy Damage to the target and destroys that side of the barrier.
+
+Speed Cast (Speed 14, Chakra 34, Interrupt, Seals 8)
+By quickly throwing 8 pre-inscribed seals you conjure a side of the above barrier to defend any attack against you originating from 5 Yards or more from you. Make a ninjutsu parry with a \-1 per rank of the jutsu. On a success the jutsu is disrupted by the above effects of the Shiroheisa Shigeto \- Castle Closing Four Gates. The barrier remains for 10 IC or until it’s destroyed and does not regenerate.
+
+## **Sealing A-rank**
 
 ### **Gogyou Fuuin \- Five Elements Seal**
 
@@ -3467,43 +3482,58 @@ This jutsu produces a powerful seal that disrupts the flow of chakra in the targ
 
 Chakra: 50  
 Accuracy: \-5  
-Range: Touch  
 Speed: 15  
 Seal Speed: 50
 
+Tags: Attack, Melee, Mark
+
 Effects:  
-The unfortunate victim has a \-25 penalty to all Chakra Exhaustion rolls, and has their Chakra Control skill ranks reduced by 15, which can also temporarily lower their ranks in abilities (such as Water Walking). Any jutsu with Upkeeps they have activated end immediately due to the disruption of their chakra.  
+Any jutsu with Upkeeps they have activated end immediately due to the disruption of their chakra. While the mark remains the unfortunate victim has a \-25 penalty to all Chakra Exhaustion rolls, and has their Chakra Control skill ranks reduced by 15, which can also temporarily lower their ranks in abilities (such as Water Walking).
+
 If they fail a Chakra Exhaustion roll, they fail to use the jutsu they were trying to (but still advance a Fatigue category as normal). Furthermore, even if they succeed they must pass a Chakra Control check against the technique's Chakra cost or fail anyway.
 
-### **Fuuja Houin \- Evil Sealing Method**
+## **Sharin Musaboru Uzu - Wheel Devouring Vortex**
 
 Not all seals can be removed easily. This circumvents that by suppressing fuuinjutsu, or any sort of chakra-based markings, on a person. The technique's greatest failing is its dependence upon the recipient to provide some of the strength behind it, meaning they can overcome its effects at will, making it useless for offensive applications.
 
-Chakra: 40  
-Range: Touch  
-Speed: 10  
-Seal Speed: 20
+Chakra: 45  
+Accuracy: -8  
+Speed: 16  
+Seal Speed: 30  
+
+Tags: Attack, Projectile, Mark
 
 Effects:  
-This suppresses any seal in this section of the PHB, and many which are not. While the seal won't be removed, it won't activate or have any of its normal effects as long as the Evil Sealing Method remains in place.  
-This technique is dependent upon the recipient's willpower.  
-All a person has to do is focus and the Evil Sealing Method will be disabled, until they spend 1 Willpower to reactivate it.  
-The technique's quite useful. Virtually any long-term chakra-based effect (even ones that aren't actually fuuinjutsu) can be suppressed by it. Even the effects and abilities of bloodlines can be sealed.
+This suppresses any kekkei genkai or bloodline related abilities the target possesses. While it remains they cannot receive any effects or use any jutsu provided by their clan. Due to its delicate nature this mark naturally erodes over time and ends after 1 minute.
 
 ### **Tsute Fuuin \- Influence Seal**
 
 This seal was originally created and placed upon servants of the Immortal Water Diamyo, ensuring those closest to them could not spy or sabotage the feudal lords. Over time, shinobi adapted to suit their own needs, which naturally meant that it found a usage in combat.
 
-Chakra: 40  
-Range: Touch  
+Chakra: 30 \+ X  
 Speed: 14, \+10 if it hits  
-Seal Speed: 20
+Seal Speed: 20  
+
+Tags: Attack, Melee, Mark
 
 Effects:  
-You use your Accuracy for an unarmed Taijutsu attack, and if you hit, you roll opposed Espionage (Partial Defense does not apply). If you succeed in your Espionage roll, the seal is placed without the target knowing.  
-As part of this technique, you may either make a basic unarmed taijutsu attack or use the E-rank Grab technique (if you know it), at no additional Speed or Stamina cost.  
-The seal is inactive by default, but as a Speed 10, Chakra 10 \+ X action, you can create a temporary form of paralysis which turns their own Chakra against them, preventing them from taking any non-Interrupt actions. They declare their intended action along with its Accuracy and Speed, but roll a Chakra X\*2. If they fail, they are not fatigued and do not roll the Chakra or Stamina rolls associated with their action.  
-Their IC is not advanced by the action's Speed, but they suffer a Stun 5 which cannot be reduced or negated.  
-When applying this seal, "X" has a maximum value of your current bonus to Chakra Exhaustion rolls, including Fatigue bonuses but ignoring any non-Upkeep penalties.  
-Every time that a victim has previously had to roll against this seal's effects, they gain a \+3 to their Chakra Exhaustion roll to overcome its effects. After they've succeeded against even one of these rolls, the seal is forced into remission, and will not affect them any more; it cannot be reapplied or reactivated for the rest of that fight.  
-Once the seal is subdued, it is, as far as the victim can tell, gone entirely, its effects having been broken. However, after 24 hours have passed the seal can be reactivated by its user, per the normal rules. An expert in sealing jutsu will be able to, if they know someone has had this seal applied to them, find and remove it using the A-rank Five Elements Unseal technique.
+X has a maximum of your CHA/10. As a Speed 10, Chakra 15 \+ X action, you can activate this seal disrupting the flow of chakra within their body. For the next 100 IC every time they declare an action they must roll a CE with a TN of X\*2. On a success they take no fatigue penalties and may perform their jutsu as normal. If they fail they do not advance fatigue, but their action is cancelled and they gain Stun 5.
+
+### **Jinshikyū Tojikomeru \- Life Entrapping Womb**
+
+(Flavor Text)
+
+Chakra: 15 \+ X\*5  
+Range: 10  
+Speed: 20  
+Seal Speed: 24  
+
+Tags: Barrier
+
+Effects:  
+You conjure an oval shaped barrier completely enveloping an area encircled by X seals with a minimum of 5. Nothing is able to pass through this barrier except its caster who can enter/exit as a Speed 5 action. This wall has a single hit point but a DR equal to your CHA \* X that cannot be reduced in any way (even damages that normally can’t be reduced).
+
+If an Attack takes this Barrier down to 0 HP, then the leftover Damage (but no other Effects) will pass through to their intended Target. 
+
+Speed Cast (Speed 20, Chakra 40, Seals 5)
+By throwing 5 pre-inscribed seals you conjure a miniature version of the above barrier with X as 5 but after 100 IC its destroyed automatically.
