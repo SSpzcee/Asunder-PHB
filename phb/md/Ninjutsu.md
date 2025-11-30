@@ -407,30 +407,49 @@ Speed: (Special)
 Seal Speed: 16
 
 Effects:  
-One shuriken must be thrown each time this jutsu is used. X additional shuriken are created in mid-flight, and vanish after this technique is resolved. X has a maximum value of your CHA.  
-Two things must be determined: the attack's strength, and its number of targets.  
-You may direct up to (DEX+CHA)/12 shuriken at any single target. Its Speed and Damage are determined following the normal rules for multi-throws. Determine what a normal Stamina cost would be for a multi-throw using that many shuriken; that becomes the "Special" portion of Shuriken Shadow Clone's Chakra cost.  
-You may attack any number of targets that way, using up to a maximum of X+1 shuriken. This is selective, meaning you may choose to hit or ignore people as you wish within the targeted area. Area-of-Effect dodge penalties do apply normally, however.  
-This is treated as a ranged taijutsu multi-throw using shuriken, and does receive the normal \+2 Accuracy from shuriken. No matter how many people are targeted, this is treated as a single attack, with one Accuracy and one damage roll.  
-Shuriken Shadow Clone Technique cannot be used with poisoned weapons.
+One shuriken must be thrown each time this jutsu is used. X additional shuriken are created in mid-flight, and vanish after this technique is resolved. X has a maximum value of your CHA.
+Two things must be determined: the attack's strength, and its number of targets.
 
-technique. If it fails, it applies a Stun 10\.  
+You may direct up to (DEX+CHA)/12 shuriken at any single target. Its Speed and Damage are determined following the normal rules for multi-throws. Determine what a normal Stamina cost would be for a multi-throw using that many shuriken; that becomes the "Special" portion of Shuriken Shadow Clone's Chakra cost.
+
+You may attack any number of targets that way, using up to a maximum of X\+1 shuriken. This is selective, meaning you may choose to hit or ignore people as you wish within the targeted area. Area-of-Effect dodge penalties do apply normally, however.
+
+This is treated as a ranged taijutsu multi-throw using shuriken, and does receive the normal \+2 Accuracy from shuriken. No matter how many people are targeted, this is treated as a single attack, with one Accuracy and one damage roll. Shuriken Shadow Clone Technique cannot be used with poisoned weapons.
+
 Once someone is trapped, seals can be applied to the Cloth Bind, with varying effects. Any Accuracy penalties normally associated with these techniques do not apply; instead, they receive a \+6 Accuracy bonus. Note that these seals are applied to the cloth bind itself, not the individual (and as such, escaping would end all the effects)--indeed, it is impossible to apply seals to someone trapped inside Cloth Binding, as the cloth disrupts the delicate chakra frameworks needed.
 
-*Five Elements Seal:*  
-The victim cannot spend Chakra in any way, and all Upkeeps they have (including Upkeep 0\) end immediately and cannot be reestablished.
+### **Nunoshibari no Jutsu - Cloth Binding Technique**
 
-*Sacred Silence Seal:*  
+Chakra: 40  
+Upkeep: 12  
+Range: 20  
+Accuracy: \-8  
+Speed 20, Delay 10  
+
+Requires: 50 yards of cloth
+
+Effects:  
+Using this against a target without a \-4 or greater Immobilization penalty causes its Accuracy penalty to be doubled (to \-16), and explicitly prevents that penalty from being removed (such as by performing this as a Sneak Attack) or reduced. While the cloth is thrown from a distance (and guided by chakra), it's relatively slow-moving and very obvious.
+
+If this hits, the target is immediately placed at a \-10 immobilization penalty, which cannot be reduced or negated without breaking free of this technique. The person trapped inside is unable to take any non-Interrupt action other than struggling to escape. Additionally, they cannot use equipment or perform any task which would require the use of their hands or arms. This is a Speed 0 action, in which the defender rolls 1d20+STR/10 against 1d20+CHA/10 from the shinobi who used this technique. If it fails, it applies a Stun 10.
+
+Once someone is trapped, seals can be applied to the Cloth Bind, with varying effects. Any Accuracy penalties normally associated with these techniques do not apply; instead, they receive a \+6 Accuracy bonus. Note that these seals are applied to the cloth bind itself, not the individual (and as such, escaping would end all the effects)--indeed, it is impossible to apply seals to someone trapped inside Cloth Binding, as the cloth disrupts the delicate chakra frameworks needed.
+
+Five Elements Seal:  
+The victim cannot spend Chakra in any way, and all Upkeeps they have (including Upkeep 0) end immediately and cannot be reestablished.
+
+Sacred Silence Seal:  
 The target becomes unable to produce noise; any sounds they would make are muted (even without their mouth being covered). Additionally, their chakra, and that of the cloth bind, cannot be seen or sensed (by doujutsu, chakra sensors, or natural chakra). If they have any of those senses, they are similarly disabled.
 
-*Influence Seal:*  
+Influence Seal:  
 It is impossible for the victim to perform any sort of taijutsu.
 
-*Evil Sealing Method:*  
+Evil Sealing Method:  
 If the Upkeep used to pay for the technique is ended, the person who originally paid it has 20 IC to resume the Upkeep (a Speed 10 action) before the Cloth Bind's effects ends; if they do so, the cloth bind remains intact and functioning normally.
 
-If all four of those seals are applied, the cloth bind no longer has an upkeep and becomes effectively permanent. At this point it is also possible for someone who knows Nemurihane (the B-rank Genjutsu) to apply a Rune-Inscribing Technique to the Cloth Bind. This will allow the victim to be placed in, and woken from, a state of suspended animation at will.  
-A total of 1000 or more damage will destroy the cloth bind, freeing the trapped individual; the cloth takes damage from anything targeting them before they do. It is also impossible to target the victim with medical ninjutsu or genjutsu while they are still trapped inside the cloth. If the user puts a strengthening seal on the cloth, then it effectively becomes indestructible, which means there is no hope for the trapped individual to ever escape.  
+If all four of those seals are applied, the cloth bind no longer has an upkeep and becomes effectively permanent. At this point it is also possible for someone who knows Nemurihane (the B-rank Genjutsu) to apply a Rune-Inscribing Technique to the Cloth Bind. This will allow the victim to be placed in, and woken from, a state of suspended animation at will.
+A total of 1000 or more damage will destroy the cloth bind, freeing the trapped individual; the cloth takes damage from anything targeting them before they do. It is also impossible to target the victim with medical ninjutsu or genjutsu while they are still trapped inside the cloth. If the user puts a strengthening seal on the cloth, then it effectively becomes indestructible, which means there is no hope for the trapped individual to ever escape.
+
 The victim can be freed by anyone able to remain in melee, as a Speed 20 Delay 20 action. After the cloth bind has been escaped (by any means), all seals on it dissipate and the cloth itself becomes useless.
 
 \--------------------------------------------------------------------------------------------------------
