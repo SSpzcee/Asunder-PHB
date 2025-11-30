@@ -8,7 +8,7 @@ Shortly after a member of the Aburame Clan is born they have their body sacrific
 
 The Aburame have formed a symbiotic bond with their Kikaichu. The insects gain easy access to food from the host's chakra; and shelter inside the host's body. In return, the insects obey the Aburame's commands and serve as a potent ally.
 
-**Aburame start with 1 less Unique Point and Kikaichu no Jutsu at no cost, ignoring the requirements**.
+**Aburame start with Kikaichu no Jutsu at no cost, ignoring the requirements**.
 
  
 
