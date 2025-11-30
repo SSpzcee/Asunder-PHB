@@ -46,8 +46,12 @@ Speed: 7
 Accuracy: \-1
 Special: Control 1
 
-Effect:
-If this is used while in a pin it automatically hits. This always deals a head wound and you must take the final wounding damage, if that would cause you a wound then you gain a head wound of that severity.
+Tags: Attack, Melee, Blunt
+
+Effect:  
+This always deals a head wound and you must take the final wounding damage, if that would cause you a wound then you gain a head wound of that severity.
+
+When used while in a grapple this jutsu gains: Pummel, Control 1
 
 ## **Unarmed D-rank**
 
@@ -129,13 +133,23 @@ This knocks the victim back (your RES)/10 yards.
 
 ### **Flash Step**
 
-Stamina: X / 3  
-Speed: X / 3  
+Stamina: \+X/3  
+Speed: \+ X/3  
 
 Tags: Utility, Link
 
 Effect:  
 This is used alongside a melee Taijutsu attack, increasing your move with attack X yards to a maximum of the speed of the jutsu.
+
+### **Irimiseme - Entering Attack**
+Rather then a direct attack this jutsu involves stepping into close range with an opponent and deflecting a weapon or jutsu by targeting their wrist or elbow.
+
+Stamina: 12
+Speed: 4
+Tags: Interrupt
+
+Effects:
+This may be used to parry any weapon attack or attack ninjutsu performed in melee range. The speed of this interrupt cannot be reduced below 2.
 
 ### **Throw**
 
@@ -304,10 +318,10 @@ Speed: 15
 Accuracy: \-3
 Special: Control 5
 
-Tags: 2 Arms
+Tags: Attack, Melee, Blunt
 
-Effects:
-If done while in a grapple, the accuracy penalty is removed, the grapple is ended, and the damage increases to d12s. If Suplex inflicts a wound, it is dealt to the opponent's head.
+Effects:  
+When used while in a grapple this jutsu gains: Pummel, Control 3
  
 
 ## **Unarmed B-rank**
@@ -385,10 +399,10 @@ Stamina: 33
 Damage: (STR /3)d12
 Speed: 18
 Accuracy: \-5
-Special: Control 7
 
-Effects:
-Kurokumaken requires the use of both arms. If this Technique deals a wound, then it applies 2 to the Arms instead of just a single Wound.
+Tags: Attack, Melee, Blunt
+
+If this Technique deals a wound, then it applies 2 to the Arms instead of just a single Wound. When used while in a grapple this jutsu gains: Pummel, Control 5, and the and the damage increases to d20s.
 
 ### **Tora Rakka - Tiger Drop**
 
@@ -400,8 +414,10 @@ Speed: 9
 Accuracy: \-5
 Special: Stun 10
 
-Effects:
-Your damage bonus is doubled for this attack. If done while in a grapple it gains control 5, the grapple is ended, and the damage increases to d20s. If Tiger Drop inflicts a wound, it is dealt to the opponent's head. This technique leaves you and your opponent prone.
+Effects:  
+Your damage bonus is doubled for this attack. If Tiger Drop inflicts a wound, it is dealt to the opponent's head. This technique leaves you and your opponent prone.
+
+When used while in a grapple this jutsu gains: Pummel, Control 5, the grapple is ended, and the damage increases to d20s. 
 
 ## **Unarmed A-Rank**
 
