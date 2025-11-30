@@ -8,23 +8,22 @@ Any Doton or Fuuton technique may be converted to Jūryoton, with the following 
 
 * \+5 Chakra Cost  
 * Jūryoton always deals blunt damage.  
-* Jūryoton techniques with a Range have their Range increased by NDB, which counts as the new Base Range for the Enhanced Range Ability.  
-* Jūryoton techniques have a subtle gravitational pull which makes them harder to avoid, granting a \-(CHA/20) penalty to Dodge rolls against the attack.   
+* Jūryoton techniques with a Range can be used against targets NDB Yards farther than their normal range.   
+* Jūryoton receives a +(CHA/30) Accuracy Bonus to a max of jutsu rank.   
 * Whenever you perform a Jūryoton Damage-Dealing Jutsu, choose whether it increases or decreases the Mass of the target before the Attack is defended against. If the attack hits, the Mass of the target is increased/decreased by Rank of Jutsu (1 for E Rank, 3 for C Rank, etc...).  
 * Jūryoton cannot Increase/Decrease a person's Mass beyond 2+(CHA/10).  
-* Doton transformed Jūryoton Techniques do not apply Immobilization or Stun. Instead, they add or increase existing Knockback by a value equal to the highest of the Technique's Stun or Immobilization multiplied by 3\. For Techniques that are Ground-Based such as Tremor or Split Earth Turnaround Palm, the Knockback instead sends them flying into the air, wherein they begin falling a distance of 3 Yards every 1 IC until they hit the ground. The Target cannot perform the normal Move Action, Shunshin, Vaulting Leap, or Racing Thunder until they fell back to the ground. Once they hit the ground, they take triple the Yards fallen this way in Blunt Damage. Fuuton’s Wind Release Stream can negate this Damage  
+* Doton transformed Jūryoton Techniques do not apply Immobilization or Stun. Instead, they add or increase existing Knockback by a value equal to the highest of the Technique's Stun * 2 or Immobilization * 3. For Ground-Based Techniques, the Knockback instead sends them flying into the air, wherein they begin falling a distance of 3 Yards every 1 IC (which cannot be increased or reduced) until they hit the ground. The Target cannot perform any movement action(such as Shushin or Blink) until they fall back to the ground. Once they hit the ground, they take 5 times the Yards fallen this way in Blunt Damage. Fuuton’s Wind Release Stream can prevent this damage but doubles its duration.    
 * Fuuton transformed Jūryoton Techniques cannot be used with a fan.  
-* Jūryoton is weak to Katon, but strong against Raiton and Suiton.
 
 ### **Mass**
 
 You have been infused with the paradoxical chakra of the Kidōsei, which greatly alters your connection to the gravitational pulls of the world, either weakening the world's pull on you, or strengthening it. Mass starts at 0 (Which technically everybody is normally at) and can be decreased or increased beyond that value, becoming Negative Mass or Positive Mass providing the effects below:
 
-Positive: For every 1 Mass anytime you would be moved, that amount is reduced by 5% (including through the move action). For every 2 Mass the Speed of all your Actions and Interrupts are increased by 1 except for Search (And other Actions similar to Search). 
+Positive: For every 1 Mass your damage bonuses are increased by 0.5 for the purposes of dealing damage.  For every 2 Mass movements (including through forced movement like knockback), that amount is reduced by 5\%. For every 3 Mass the Speed of all your Actions and Interrupts are increased by 1 except for Search (And other Actions similar to Search). 
 
-Negative: For every \-1 Mass anytime you would be moved, that amount is increased by 5% (including through the move action). For every \-2 Mass the Speed of all your Actions and Interrupts are decreased by 1 except for Search (And other Actions similar to Search).
+Positive: For every \-1 Mass your damage bonuses are decreased by 0.5 for the purposes of dealing damage.  For every 2 Mass movements (including through forced movement like knockback), that amount is increased by 5%. For every 3 Mass the Speed of all your Actions and Interrupts are increased by 1 except for Search (And other Actions similar to Search). 
 
-The speed of all actions cannot be increased or decreased more than half its base speed (rounded up) through this status effect. If Negative Mass is applied to somebody who already has Positive Mass, their original status would move towards 0 until it reaches the other threshold, and vice versa. Every 10 ICs, your Mass severity is moved towards 0 by 1 until it equalizes. So if you had Negative Mass of \-3, it becomes \-1. And if you had a Positive Mass of 4, it becomes 2\.
+The speed of all actions cannot be increased more than half its base speed (rounded up) through this status effect. If Negative Mass is applied to somebody who already has Positive Mass, their original status would move towards 0 until it reaches the other threshold, and vice versa. Every 15 ICs, your Mass severity is moved towards 0 by 1 until it equalizes.
 
 ### **Mitsushenka \- Density Shift**
 
@@ -37,8 +36,9 @@ Speed: 8
 Seal Speed: 10
 
 Effects: X has a maximum of CHA/10. You Increase or Decrease your own Mass from 0 by X when you perform this technique, acquiring the appropriate effects for your final Mass status. You may perform a Speed 5, Chakra Y \* 2 Action to change your Mass once again, where Y is the difference between your Current and New Mass , changing your Upkeep depending on how much above or below 0 your new Mass is. However, as a Kidosei, your body is naturally attuned to the forces holding the world together, and experiences far stronger changes than others.   
-For every stack of Positive Mass you possess, your body becomes more Dense, and far harder to break. You receive your (Positive Mass \* 5\) in DR. If your Positive Mass becomes 5 or greater through this technique, then you become so Dense that you attain your own gravitational pull. Everybody within CHA/2 yards of you is dragged (Positive Mass/3) yards towards you every IC they are within range.  
-For every stack of Negative Mass you possess, your body becomes less Dense, and far easier to maneuver with. You receive your (Negative Mass/2) as a Bonus to Dodge. If your Negative Mass becomes  \-5 or greater through this technique, then your Density has been lowered to such an extent that your atoms begin to freely move away from each other. You begin to Hover 1 yard off the ground (And all liquids) as you become as light as air, this gives you immunity to any ground based effects such as Syrup Capture Field and any external Immobilization penalties.  You can phase and pass through any non-chakra reinforced stationary object that is 1 foot thick or less. Attacks, however, do not count, they move too fast for your atoms to get out of the way.
+For every stack of Positive Mass you possess, your body becomes more Dense, and far harder to break. You receive your (Positive Mass \* 5) in DR. If your Positive Mass becomes 5 or greater through this technique, then you become so Dense that you attain your own gravitational pull. Everybody within CHA/2 yards of you is dragged (Positive Mass/4) yards towards you every IC they are within range.  
+
+For every stack of Negative Mass you possess, your body becomes less Dense, and far easier to maneuver with. You receive your (Negative Mass/3) as a Bonus to Dodge. If your Negative Mass becomes  \-5 or greater through this technique, then your Density has been lowered to such an extent that your atoms begin to freely move away from each other. You begin to hover 1 yard off the ground (And all liquids) as you become as light as air, this gives you immunity to any ground based environmental effects such as Syrup Capture Field.  You can phase and pass through any non-chakra reinforced stationary object that is less than 1 foot thick.
 
 ### **Tsunagu Kūsho \- Tether to the Void**
 
