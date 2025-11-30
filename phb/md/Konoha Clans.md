@@ -586,8 +586,8 @@ Jyuuken uses your Ninjutsu Damage Bonus, instead of your Physical Damage Bonus, 
 Momentum: The combo jutsu gains all above effects of Jyuuken with the additions below
 
 * The Stamina Cost is replaced with a Chakra Cost, \+5 (if it has both, add them together as a singular Chakra cost, without adding the normal \+5).  
-* On hit, the Sealed Tenketsu increases by 1 per Rank of the Jutsu above E (D \= \+1, C \= \+2, etc).
-* Each damage dice of the attack is replaced with a d4.
+* On hit, the combo jutsu inflicts 1 Sealed Tenketsu per Rank of the Jutsu.
+* Each damage dice of the attack has its size reduced by 4.
 
 ### **Hakke Kuushou \- Eight Trigrams Empty Palm**
 
