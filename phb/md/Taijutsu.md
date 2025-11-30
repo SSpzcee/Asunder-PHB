@@ -1701,7 +1701,7 @@ Special: Control 10
 Tags: Submission
 
 Effects:
-You may use this in a clinch but its control cost is increased by 5. On use and every 10 IC you maintain this Submission make a grapple roll against your opponent. If you win they gain 1 suffocation, \+1 for every 5 your roll is above theirs and reduces their control for every bonus suffocation.
+You may use this in a clinch but its control cost is increased by 5. Your opponent is pinned and on use and every 10 IC you maintain this Submission have your opponent roll grapple defense vs your offense. Regardless if they pass they gain 1 suffocation, +1 for every 10 they failed by.
 
 ### **Turtle**
 
