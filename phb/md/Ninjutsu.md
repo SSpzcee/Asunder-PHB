@@ -643,7 +643,7 @@ Requires: 10 Chakra Control
 Tags: Utility, Ground-Based, Self
 
 Effects  
-This gives you a \+3 bonus to all your grapple rolls whilst either pinning an opponent, or being pinned by one.
+This gives you a +3 bonus to your grapple TN.
 
 ## **Doton C-rank**
 
