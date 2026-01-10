@@ -673,7 +673,7 @@ Special: Finisher
 Requires: Byakugan active  
 Combo Bonus: \+4d4 damage, \+2 Stun, \+2 Sealed Tenketsu, \+1 Immobilize
 
-Effects: This attack uses your NDB and inflicts Sealed Tenketsu 4, reduces Blocking’s effectiveness by 25%, ignores armor, bypasses half of an opponent’s DR, and deals Piercing wounds. This attack may not be converted with Jyuuken.
+Effects: This attack uses your NDB and inflicts Sealed Tenketsu 4, reduces Blocking’s effectiveness by 25%, ignores armor, bypasses half of an opponent’s DR, and deals Piercing wounds. This attack may not be converted with Jyuuken. The immobility fr4om this technique ends when the targets stun condition goes away.
 
 ### **Hakke Hyaku Nijuuhachi Shou \- Eight Trigrams One Hundred Twenty-Eight Palms**
 
@@ -685,7 +685,7 @@ Special: Finisher
 Requires: Byakugan active  
 Combo Bonus: \+8d4 damage, \+4 Stun, \+4 Sealed Tenketsu, \+1.5 Immobilize
 
-Effects: This attack uses your NDB and inflicts Sealed Tenketsu 8, reduces Blocking’s effectiveness by 25%, ignores armor, bypasses half of an opponent’s DR, and deals Piercing wounds. This attack may not be converted with Jyuuken.
+Effects: This attack uses your NDB and inflicts Sealed Tenketsu 8, reduces Blocking’s effectiveness by 25%, ignores armor, bypasses half of an opponent’s DR, and deals Piercing wounds. This attack may not be converted with Jyuuken. The immobility fr4om this technique ends when the targets stun condition goes away.
 
 ### **Sealed Tenketsu**
 
