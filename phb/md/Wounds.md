@@ -526,7 +526,7 @@ You have Burn 6 and take an additional 20% Total Damage when hit, after all norm
 
 Whatever hit you managed to more or less burn away what covered your midriff and had enough power behind it to significantly heat up your internal organs. This is not good, as your organs can be pretty sensitive about that kind of thing.
 
-You are afflicted with a Burn 6 and Stun 8, and have your current and maximum Hit Points and Vitality reduced by your RES until this has healed.
+You are afflicted with a Burn 3 and Stun 6, and have your current and maximum Hit Points and Vitality reduced by your RES until this has healed.
 
 ### **\- (61 \- 80\) Second Degree Burn (Arm)**
 
