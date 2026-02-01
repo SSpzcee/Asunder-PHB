@@ -153,11 +153,9 @@ Skills represent broad, generic things ninja do, and how well your character can
 
 Your skills all have a limit of 5 \+(your total XP)/200 Ranks. A lot of them benefit from practical application and general worldliness. Actually increasing your skills up to that limit, however, requires you to spend skill points.
 
-You get 1 Skill Point for every 25 XP you gain; this happens automatically, for free, and you cannot buy more skill points.
+You get 1 Skill Point for every 20 XP you gain until you reach 1000. It is then increased to 25 and then to 30 at 3000; this happens automatically, for free, and you cannot buy more skill points.
 
 A single skill point raises a single skill by one rank.
-
-Clanless characters gain an additional skill point for every 100 XP.
 
 For example, if you had 600 XP you would have a total of (600 /20 \=) 30 skill points, and you could raise any of your skills up to rank (5 \+ 600/200 \= ) 8\. You could use this to raise your Stealth to rank 8, your Awareness to 4, Chakra Control to 6, Resistance to 5, and Survival to 1 (8 \+ 4 \+ 6 \+ 5 \+ 1 \= 24). A skill roll is 1d20 \+ (your ranks in the skill). Even if you haven't raised a skill beyond zero, you may still make a plain 1d20 roll when attempting to perform a task that would call for that skill.
 
