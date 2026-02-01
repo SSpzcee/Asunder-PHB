@@ -160,15 +160,13 @@ Upgrades Into: Jutsu Master, Single-Handed Seals
 
 ### **Weapon Master**
 
-You know your weapons. You know how to use them, and how to change them to suit your style. 
+You know your weapons. You know how to use them, and how to change them to suit your style. You gain the following benefits:
 
-You may draw and sheath Weapons as a Speed 0 Action.
+You may draw and sheath Weapons as a Speed 0 Action.  
+You may draw a small weapon as part of an Interrupt.  
+Your Weapon Focus ability applies to all weapons, only needing to be taken once, and it only increases Stamina costs by 2.5 (rounded down) per rank.  
 
-You may draw a small weapon as part of an Interrupt.
-
-Your Weapon Focus ability applies to all weapons, only needing to be taken once, and it only increases Stamina costs by 2 per rank. 
-
-Additionally, that ability's limit is changed to (DEX \-30)/20, maximum 4\. If you take this after creation, you may refund your extra Weapon Focus.
+Additionally, that ability's limit is changed to (DEX \- 30)/20. If you take this after creation, you may refund your extra Weapon Focus.
 
 ### **Weight Trainer**
 
