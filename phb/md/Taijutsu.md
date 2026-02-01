@@ -467,43 +467,111 @@ X has a maximum of STR/10.
 
 # **Combo**
 
+## **Combo Tags**
+
+Opener: If it hits, this jutsu begins a combo on the target (expanded on below). Note most Openers are located in the Unarmed section. It includes the Attack tag.  
+Combo: The jutsu is treated as a combo jutsu (expanded on below). It includes the Attack tag. By default these jutsu are treated as links to a Basic Attack and modify those amounts (meaning you can choose how much Power Attack to use). For jutsu with this tag dD is the die size of your unarmed attack.  
+Finisher X: This must be used at the end of a combo with a counter X or greater. It includes the Attack tag.  
+
+## **Combos**
+
+When you enter a Combo you begin tracking a Combo Counter (or CC) against that specific target starting at 0. Every time you hit that target with a jutsu that has the Combo tag, your CC increases by 1. Every Combo jutsu has a Cadence which has its effect multiplied by your CC and applied to the attack. For example a Combo Counter: +1dX Dice, -1 Speed would do nothing at CC 0, deal an extra dice of damage and reduce the speed by 1 at CC 1, and deal 3 extra dice of damage and reduce the speed by 3 at CC 3.
+
+Every Opener has a “Momentum” section which is an effect that grants some sort of benefit to the user until the combo is ended. Momentum can only be applied to jutsu with the Combo tag (so no Finishers). If your CC would go below 0 your combo ends.
+
+## **Switching Combos**
+
+At any point during a Combo Sequence, you can opt to use a new Opener to change the momentum bonus of the combo. The new Opener will receive the momentum bonus of the previous Opener just as if it was a Combo Jutsu at 1 combo counter. This attack does not advance your combo counter.
+
+## **Breaking a Combo Sequence**
+When a combo is broken, your Combo Counter is immediately set back to 0, you may not continue using combo moves, and all accrued combo counter bonuses are lost. Combo breaking occurs if any of the following things happen:
+
+You make any action without the Combo Tag  
+You use any interrupt requiring seals.  
+You execute a Finisher.  
+You attack a new Target.  
+You are Stunned.  
+Hitting a clone of your intended target does not break your combo, but it does not increase your combo counter.  
+
+
 [|D-Ranks|](#combo-d-rank)
 [|C-Ranks|](#combo-c-rank)
 [|B-Ranks|](#combo-b-rank)
 [|A-Ranks|](#combo-a-rank)
 
-## **Combo D-Rank**
+## **Combo E-Rank**
 
 ### **Rendan \- Combo**
 
 Not so much a proper technique as a catch-all term for any series of attacks made in rapid succession, without breaking one’s flow or allowing an opponent time to retreat.
 
-Stamina: 12  
-Damage: Basic Unarmed Attack \+ 1d6  
-Speed: 10  
-Combo Counter: \+1d6 damage, \-1 Speed
+Combo Counter: \+2dD damage, \-1 Speed, \+1 Stamina
+
+Tags: Combo
 
 ### **Yaburi Yashi \- Smashing Palm** 
 
 Usually considered a rude thing to do to someone, the user slams their open hand into their opponent's stomach at an upward angle, knocking the air from their lungs if done properly.
 
-Stamina: 16  
-Damage: Basic Unarmed Attack \+ 3d\*  
-Speed: 15  
-Special: Finisher, \-2 Accuracy  
-Combo Bonus: \+1 to Target’s Stamina Penalty.
+Stamina: \+2  
+Damage: \+ 5dD  
+Speed: 10  
+Combo Bonus: \+1 to Target’s Stamina Penalty, \+1 Stamina  
 
-Effects: This is an automatic called shot to the abdomen. If it’s blocked, the accrued Stamina Penalty is halved
+Tags: Finisher 1  
+
+Effects:  
+This is an automatic called shot to the abdomen. If it’s blocked, the accrued Stamina Penalty is halved.
+
+## **Combo D-Rank**
+
+### **Hebi Rendan - Snake Combo**
+
+A tricky attack designed to slip around defenses.
+
+Stamina: \+ 1  
+Damage: \+ 2d10  
+Speed: \-2  
+Combo Counter: \-1 to parry this jutsu, \+1 Stamina
+
+Tags: Combo
+
+### **Shoushitsu \- Rising Knee**
+
+The user gets in close and slams their knee into the midsection of their opponent. While not complex, the pain experienced is enough to make them double over in pain, leaving them vulnerable for a few seconds.
+
+Stamina: 14  
+Damage: Basic Unarmed Attack \+ 4dD  
+Speed: 12  
+Special: Finisher  
+Combo Bonus: \+1dD, \+2 Stun, \+1 Stamina
+
+Tags: Finisher 2
+
+### **Asshou \- Pressure Palm**
+
+You deliver a powerful, downwards palm blow to an opponent's stomach or the small of their back, brutally knocking the wind from them and dazing them--repeated use of this can bruise a person's solar plexus, which pretty much hurts more than anything has any right to, for weeks.
+
+Stamina: 19  
+Damage: (STR/5)d12  
+Speed: 15  
+Special: Stun 12, Finisher  
+Requires: Target to be Prone.  
+Combos Bonus: Target makes a Stamina Check of (5 \* Combo Counter)  
+
+Tags: Finisher 3
 
 ### **Gekido Denka \- Furious Charge**
 
 The basis of combos in battle is maintaining one’s momentum, striking one blow before the opponent’s fully recovered from the one before it. In many cases, all one needs is a few seconds to get away from their opponent and catch their breath to escape an otherwise merciless beating. You, however, just love to beat people mercilessly. Though it’s taxing, you can keep your adrenaline up, and keep your blows coming rapidly and rhythmically, even after being forced to chase after your victims.
 
 Stamina: 15  
-Upkeep: 1  
-Speed: 6
+Upkeep: 2   
+Speed: 6  
+Tags: Utility, Interrupt  
 
-Effects: So long as you maintain Furious Charge, taking Move actions will not break your combos. Using movement based jutsu (such as Shunshin), however, will.
+Effects:  
+You may use this jutsu in response to entering a combo as a Speed 0 interrupt, increasing its Stamina by 5.
 
 ## **Combo C-Rank**
 
@@ -511,55 +579,49 @@ Effects: So long as you maintain Furious Charge, taking Move actions will not br
 
 Ideally meant to be used after performing Kage Buyo, this is a series of high-speed punches and kicks.
 
-Stamina: 18  
-Damage: Basic Unarmed Attack \+ 2d8  
-Speed: 10  
-Combo Counter: \+1/2 Accuracy, \-1 Speed
+Stamina: \+2  
+Damage: \+2d10  
+Speed: \+2  
+Combo Counter: \+1/2 Accuracy (rounded down), \+1 Stamina  
+
+Tags: Combo
 
 ### **Reikoku Kagai \- Relentless Assault**
 
 You get in close to your opponent and begin beating on them\! Doing so for a prolonged period of time can easily overwhelm all but the strongest defenses.
 
-Stamina: 16  
-Damage: Base Unarmed Attack \+ 4d8  
-Special: \-2 Accuracy  
+Stamina: \+3  
+Damage: \+ 4d8  
+Accuracy: \-2  
 Speed: 8  
-Combo Counter: Blocking is 5% less effective, \+10 damage
+Combo Counter: Blocking/DR is 5\% less effective, \+15 damage
 
-### **Shoushitsu \- Rising Knee**
-
-The user gets in close and slams their knee into the midsection of their opponent. While not complex, the pain experienced is enough to make them double over in pain, leaving them vulnerable for a few seconds.
-
-Stamina: 15  
-Damage: Basic Unarmed Attack \+ 4d\*  
-Speed: 16  
-Special: Finisher  
-Combo Bonus: \+2 Stun, \+1d\*.
+Tags: Combo
 
 ### **Shishi Danmaku \- Lion Barrage**
 
 A popular way to end the similarly-named combo-assault, the Lion Barrage was is often taught to students along with Lion Combo itself. Advanced taijutsu users, however, have been known to appreciate the flexibility and fluidity that comes from separating the techniques. The Lion Barrage is simply a series of fast, strong fist and knee strikes.
 
-Stamina: 25  
-Damage: Basic Unarmed Attack \+ 6d\*  
+Stamina: 22  
+Damage: \+ 6dD  
 Speed: 14  
-Special: Finisher, \+4 Accuracy  
-Combos Bonus: \+2d\*
+Accuracy: \+4  
+Combos Bonus: +2dD  
 
-### **Asshou \- Pressure Palm**
+Tags: Finisher 3
 
-You deliver a powerful, downwards palm blow to an opponent's stomach or the small of their back, brutally knocking the wind from them and dazing them--repeated use of this can bruise a person's solar plexus, which pretty much hurts more than anything has any right to, for weeks.
+### **Bunka-ken \- Splintering Fist**
 
-Stamina: 24  
-Damage: (STR/8)d8  
-Speed: 21  
-Special: Stun 12, Finisher  
-Requires: Target to be Prone.  
-Combos Bonus: Target makes a Stamina Check of (5 \* Combo Counter)
+A powerful blow that smashes through defenses. Your attack carries an almost concussive force behind it, enough to overcome all but the most resilient of enemies.
 
-Effects:
+Stamina: \+7  
+Speed: \+4  
+Combo Bonus: Ignore 10% of DR, Enemy gains -2 DR for the rest of the fight
 
-This may only be used against an opponent who is prone (as from the E-rank Unarmed Jutsu “Trip”).
+Tags: Finisher 5, Link
+
+Effects:  
+This is added on to a Basic Unarmed Attack. Your base unarmed dice are treated as rolling their maximum on each dice.
 
 ### **Hangeki Rendan \- Counter Combo**
 
@@ -569,19 +631,10 @@ Stamina: 20
 Speed: 8  
 Requires: A Target with an active Combo Counter.
 
-Effects: You and your opponent both make Parry rolls. If your result is higher, you immediately break their Combo and can execute any Opener you know as an Interrupt, with a starting Combo Counter equal to whatever your opponent’s was when you used this technique. If you fail, your opponent may immediately use any Combo Jutsu they know against you as an Interrupt. Their Attack automatically hits.
+Tags: Utility
 
-### **Bunka-ken \- Splintering Fist**
-
-A powerful blow that smashes through defenses. Your attack carries an almost concussive force behind it, enough to overcome all but the most resilient of enemies.
-
-Stamina: \+7  
-Speed: \+4  
-Damage: Basic Unarmed Attack, Maximized  
-Special: Finisher  
-Combo Bonus: Ignore 10% of DR, enemy takes \+2 damage from all Attacks for the rest of the battle
-
-Effects: This is applied as an addition to a Basic Unarmed Attack, increasing its Stamina and Speed accordingly and turning it into a Finisher. The ‘d’ in the damage calculation is replaced with ‘\*’, dealing the maximum possible damage rather than rolling. The lasting bonus damage from this technique is applied after all reductions (and after the Scorched Chest energy wound, if the opponent has it), but before determining if wounds are suffered from the attack. Multiple Splintering Fists on the same target stack the bonus damage normally.
+Effects:  
+You and your opponent both make Parry rolls. If your result is higher, you immediately break their Combo and can execute any Opener you know as an Interrupt, with a starting Combo Counter equal to whatever your opponent’s was when you used this technique. If you fail, your opponent may immediately use any Combo Jutsu they know against you as an Interrupt.
 
 ## **Combo B-Rank**
 
@@ -589,105 +642,124 @@ Effects: This is applied as an addition to a Basic Unarmed Attack, increasing it
 
 The user of this technique launches into a sequence of strikes designed to alternately wind, disorient, and daze their opponent, combining those effects to prevent their adversary from fighting back effectively for as long as possible.
 
-Stamina: 10  
-Damage: Basic Unarmed Attack \+ 2d10  
 Speed: 4  
-Special: Opener. This action’s Speed may not be reduced.  
-Combo Counter: \+2d10 damage, \+2 Stamina, \+1 Accuracy
+Combo Bonus: \+1dD damage, \+2 Stamina, \+2 Speed
 
-Effects: Each time this technique is used consecutively (with no other non-interrupt actions between uses), its base Speed increases by 2, its Stamina increases by 4, and it gives an additional 1 Combo Counter. This stacks; the fourth Lotus in a sequence would be Speed (4 \+ 2 \* 3\) 10, give (1 \+ 1 \* 3\) 4 Combo Counters, and have a Stamina cost of 22 (before Combo Counter effects). Additionally, Lotus Combo can extend existing stuns: If a target hit by Lotus Combo is Stunned, the duration of that Stun is increased by X \* 2, with X being the length of the current Lotus sequence. Thus, hitting someone with four Lotus Combos in a row would extend their stun by (2+4+6+8) 20\.
+Tags: Combo, Interrupt
+
+Effects:  
+This may be used as an interrupt after missing a combo jutsu. This jutsu becomes an attack gaining that attack’s Combo Bonus (On a hit it only increases your CC by 1).
 
 ### **Hokuto no Ken \- Fist of the North Star**
 
 Delivering a precise, rapid, and powerful series of blows to vital points on an opponent’s body, this causes their blood vessels to spontaneously rupture, resulting in both internal hemorrhaging and dramatic external bleeding, sometimes even resulting in a brief spray of blood immediately after its use.
 
 Stamina: 28  
-Damage: Basic Unarmed Attack \+ 9d\*  
-Speed: 20  
-Special: Finisher, \+2 Accuracy  
-Combo Bonus: \+1d\* damage to Base Attack, \+2 Bleed
+Damage: \+ 9dD  
+Speed: 18  
+Accuracy: \+2  
+Combo Bonus: \+1dD, \+3 Bleed  
 
-Effects: Even if Hokuto no Ken is parried, it still inflicts its Bleed.
+Tags: Finisher
+
+Effects:  
+Even if Hokuto no Ken is parried or blocked, it still inflicts its full Bleed.
 
 ### **Shougekishou \- Upwards Attacking Palm**
 
 A difficult attack to connect with, the shinobi brings their palm from waist height and strikes upwards to full extension. This makes it exceptionally difficult to connect with, though if the user does hit they'll send their opponent flying away.
 
-Stamina: 34  
+Stamina: 30  
 Damage: Basic Unarmed Attack \+ 5d20  
 Speed: 16  
 Accuracy: \-6  
-Special: Finisher  
-Combo Bonus: \+2 Stun, \+1 Yard Knockback
+Special: Finisher 0  
+Combo Bonus: \+2 Stun, \+3 Knockback
 
-Effects: If you are in a clinch, the Accuracy penalty is negated. The clinch is ended if this technique hits. After being hit the opponent is knocked back (STR/20) yards and left prone, as if they'd been hit with the E-rank Trip move.
+Tags: Finisher
 
-If this Technique was performed as a Finisher and you would take your next non-interrupt action before your target performs any non-interrupt action of their own, you can immediately perform another Finisher of Rank C or below so long as you can cover the distance. This Finisher receives all the same benefits as Shougekishou did, including the same Combo Counter.
+Effects:  
+If you are in a clinch, the Accuracy penalty is negated. The clinch is ended if this technique hits. After being hit the opponent is knocked back (STR/20) yards and left prone.
+
+If no enemy has acted since you executed this Finisher you may use any Finisher of Rank C against the target. This Finisher is treated as if you had 1 less CC as before using Upwards Attacking Palm.
 
 ### **Aragami no Jutsu \- God of Battle Technique**
 
 Rather than waiting for your opponents to give you openings and then capitalizing upon them, you make openings. When that doesn’t work, you break through your opponent’s defenses anyway, attacking even when it seems fruitless, until finally something gives.
 
-Stamina: 20  
-Upkeep: 0  
-Speed: 6
+Stamina: 25  
+Upkeep: 4  
+Speed: 6  
 
-Effects: Whenever you hit with a technique that raises your Combo Counter, your Combo Counter increases by 1 more, and Aragami’s Upkeep also increases by 2\. When your combo is broken, Aragami’s Upkeep is reset to 0\. If you end Aragami, your Combo Counter is immediately set to 0\.
+Tags: Utility
+
+Effects:  
+After your first attack in a combo you increase your CC by \+1 every time you hit with a Combo jutsu, to a maximum of 6. This does not stack with the bonus from Combo Master.
 
 ### **Mouretsu Tora no Jutsu \- Furious Tiger Technique**
 
 You break off your combo with an abrupt transition back into more traditional taijutsu techniques, taking advantage of the momentum and rhythm you’ve built up to deliver one devastating blow.
 
-Stamina: \+10  
-Speed: \+6  
-Special: Finisher  
-Combo Bonus: \+0.5 Accuracy, \+5% damage
+Stamina: \+3  
+Combo Bonus: \+1/2 Accuracy (rounded up), \+\5% damage, \+2 Stamina  
+Tags: Finisher 0, Link  
 
-Effects: This finisher is used by combining it with any Unarmed Taijutsu Technique, increasing its Stamina cost appropriately. The Combo Bonuses are applied to that Technique, modifying it appropriately
+Effects:  
+This is added on to any Unarmed Taijutsu granting it this jutsu’s Combo Bonuses and the Finisher Tag.
 
 ## **Combo A-Rank**
 
 ### **Nanto Rendan \- South Star Combo**
 
-Stamina: 10  
-Damage: Basic Unarmed Attack \+ 7d\*.Extra(“\*”-4)  
+Stamina: \+2  
+Damage: \+ 3dD!o>(D/2)   
 Speed: 10  
-Combo Counter: \+2d\*.Extra(“\*”-4), \+1 Paralysis that lasts for 10 ICs
+Combo Counter: \+2dD!o>(D/2), \+1 Paralysis reducing by 1 every 10 IC, \+2 Stamina
 
-Combo: This attack gains \+1 Die per Cadence Rank and Paralysis 1\. The Paralysis lasts for 10 IC.
+Tags: Combo  
+
 
 ### **Akuma no Isoi \- Devil’s Rush**
 
 A technique that requires extreme speed and toughness, and a considerable disregard for one’s own health. Most shinobi learn first-hand in the academy what ‘chakra burns’ are: burns, typically found on the hands (where chakra is typically focused), caused by poorly forcing too much of one’s chakra through their body’s “chakra pores”. This technique takes a common mistake among academy students and weaponizes it, forcibly overwhelming one’s own chakra circulatory system in the arms and hands, superheating their body. That, combined with the high-speed blows delivered by this technique, results in what appear to be literally flaming punches. This can actually be delivered in kicks as well, and the general consensus is that a ‘burning’ leg is more visually impressive. Most ninja, however, prefer punches, because they hate fun.
 
-Stamina: 20  
-Damage: Basic Unarmed Attack \+ 6d6.open(6)  
-Speed: 10  
-Combo Counter: \+1d6 damage, \+1 Ignite
+Stamina: \+6  
+Damage: \+ 6d6!>6  
+Speed: \-2  
+Combo Counter: \+2d6!>o damage, \+2 Ignite  
 
-Effects: If you hit, your target rolls Resistance against your Athletics. On a success, the severity of the Ignite is halved. You suffer Burns with a severity equal to the Ignite you inflict.
+Tags: Finisher 1, Link
+
+Effects:  
+This is added on to a Basic Attack. If you hit, your target rolls Resistance against your Athletics. On a success, the severity of the Ignite is halved. You suffer Burns with a severity equal to the Ignite you inflict.
 
 ### **Taiyou Douyou no Jutsu \- Solar Agitation Technique**
 
 For once, the name actually has a basis in reality\! This technique is a single, devastating blow to the opponent’s solar plexus, knocking the wind from their lungs and temporarily debilitating them in the aftermath.
 
 Stamina: 30  
-Damage: Basic Unarmed Attack \+ 10d20  
+Damage: (STR/5)d20  
 Speed: 18  
-Special: Finisher, \+2 Accuracy  
-Combo Bonus: \+3 Stun, \+1 to target’s Stamina penalty, \+1d20 damage
+Accuracy: \+2  
+Combo Bonus: \+3 Stun, \+1 to target’s Chakra penalty, \+1d20 damage, \+2 Stamina  
 
-Effects: This has an additional feature if used against an opponent who was performing handseals. If the total Stun from Solar Agitation is greater than the Speed of their Perform Handseals action, the victim automatically Aborts their Perform Handseals action (as if they had failed the Chakra Control roll against the attack’s damage dealt), and must make a Chakra Exhaustion roll against the technique aborted.
+Tags: Finisher 5
+
+Effects:  
+This has an additional feature if used against an opponent who was performing handseals. If the total Stun from Solar Agitation is greater than the Speed of their Perform Handseals action, the victim automatically Aborts their Perform Handseals action (as if they had failed the Chakra Control roll against the attack’s damage dealt), and must make a Chakra Exhaustion roll against the technique aborted.
 
 ### **Senkagami no Jutsu \- God of War Technique**
 
 The greatest of hand-to-hand combatants are able to dispatch enemies one after another in the midst of battle, their momentum never lagging, their blows not showing the slightest hint of hesitation. If you’ve mastered this technique, you are officially one of them\! Congratulations\!
 
-Stamina: \+5  
-Upkeep: 0  
-Speed: \+0
+Stamina: 10 \+ 5\*X  
+Upkeep: X\*2  
+Speed: \+3  
 
-Effects: This is used alongside a Finisher. Using that Finisher does not end your combo; instead, your Combo Counter is halved, but you may continue your combo, make another finisher, or so forth. If your Finisher missed and you activated Senkagami, your Combo Counter does not decrease at all. After using a finisher with Senkagami applied, you gain an Upkeep of 5 from Senkagami; each subsequent use increases Senkagami’s Upkeep by 5 (10 after the second use, 15 after the third, and so forth). When your combo is broken, Senkagami’s Upkeep ends; similarly, if you end Senkagami’s Upkeep, your combo ends automatically.  
+Tags: Utility, Interrupt
+
+Effects:  
+This is used in response to missing a Finisher with X being your CC prior to using that attack.. Your combo is not broken, instead your Combo Counter is reduced by 1. When your combo is broken, Senkagami’s Upkeep ends; similarly, if you end Senkagami’s Upkeep, your combo ends automatically.
 
 \--------------------------------------------------------------------------------------------------------
 
