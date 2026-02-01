@@ -16,7 +16,7 @@ Where others use talent, you rely on practical application of your (probably vas
 
 Your maximum ranks in diplomacy are increased by 2.
 
-You increase the Realize IC and Duration of your Genjutsu by your Max Willpower \+ double the difference in your current WP vs your target’s.
+You increase the Realize IC and Duration of your Genjutsu by your Max Willpower \* 2
 
 Upgrades Into: Cunning
 
