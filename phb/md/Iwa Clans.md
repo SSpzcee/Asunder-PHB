@@ -81,96 +81,44 @@ Your manipulation of graviton particles has lots of potential uses\! All of the 
 
 The Tekketsu are a clan that had long settled in the area that is now known as Iwagakure much like the Kidosei and were even drawn to the same impact event they were. The Tekketsu are a clan with much more mundane, but no less extraordinary artisan prowess and tradition whose works are sometimes lauded as divine. Even from birth a Tekketsu is gifted in the sense of construction, academy children able to rival adults in engineering and metalcraft and thus they don't really specialize in their trade. For they are all as easy as the next. Additionally as a consequence of working with metal so much, the Tekketsu gravitated towards weapons as their main martial art. Their warrior tradition was simple, but it heavily emphasized the connection between a weapon and its maker. Tekketsu wielding their own blades often have a supernatural proficiency with them, despite there being little difference in ability or power when wielded by a layman.
 
-**Tekketsu start with the Elemental Aptitude and Elemental Affinity for Doton.**
+**Tekketsu start with the Elemental Aptitude and Elemental Affinity for Doton. They also gain specialization in crafting both weapons and armor.**
 
 ### **Living Furnace**
 
 The fame and legend of Clan Tekketsu comes primarily from their mystical connection to metal, raw or manufactured. And their unmatched ability to shape it into arms and armor of peerless quality. The  actual truth regarding their talent, however, is a guarded secret (Though one that many of those with real power across the Ninja World have, more or less, figured out). That truth being that those born of the Tekketsu bloodline are able to absorb minerals into their body, and manipulate them to a limited degree within themselves. This allows them to purify metals, shape them, and turn them into a worked product all inside their body, without the help of a proper forge. Producing results that can even surpass that of most traditional craftsmen.  
-Type: Ability  
-Cost: 25  
-Scale: 0  
-Limit: 1
 
-Effect: You can store up to (RES/2) KGs of rocks, minerals, and crystals within your body without any visible evidence that you are carrying anything as a Speed 15, Delay 15\. The added weight will not affect you at all either. Nor will anybody ever be able to notice you are carrying these minerals (Even through special sensory capabilities).  
-Additionally, so long as MOST of a weapon, gear, or piece of armor is made of worked metal (Too much wood or cloth and the such causes you terrible indigestion issues), you can absorb and store any object you touch or are carrying/wearing within yourself as a Speed 5, Delay 5 Action. You may only have a combined total of (RES/20) Weapons and/or Armor stored within you, and an additional storage of (RES/4) for metal Throwing Weapons and Arrows, and other metallic Gear. When you wish to, you may instantly eject the object from within you as a Speed 0 Action and hold it in your hand. This may also be used alongside an Interrupt, allowing you to produce and hold any Weapon or object you had stored as part of an Interrupt.
+Type: Ability    
+Cost: 20  
+Scale: 10  
+Limit: 1 \+ Artisan/10, max 4  
 
-You may craft Weapons and Armor without the aid of any tools or a forge. Additionally, so long as a piece of armor is stored inside of you, it will naturally regenerate 20% of its Maximum Durability every OOC day. And a broken Weapon will naturally repair itself after 7 OOC days.
+Effect:  
+You can store up to (RES/2) KGs of rocks, minerals, and crystals within your body without any visible evidence that you are carrying anything as a Speed 15, Delay 15. The added weight will not affect you at all either or be visible to the naked eye. Alternatively you may use a KG to store 3 Storage Points worth of weapon or armor. Using the same action allows you to expel any amount of things stored within you, automatically equipping any weapons or armor.
 
-### **Prodigious Smith**
-
-Due to their long held secret techniques, traditions and natural aptitude as craftsmen, Tekketsu automatically gain both the Weaponsmithing and Armorsmithing specializations when they put a Skill Point in the Artisan Skill for the first time. And their Ranks in Artisan counts for both specializations. 
-
-### **Advanced Metallurgy**
-
-The world, and Earth Country especially, are full of many unique and wondrous materials hidden deep beneath the earth. But few are ever able to beat these special rocks and metals into something usable, fewer still are truly able to capitalize on their unique properties. And only the Tekketsu, with their nearly supernatural connection to the forge, are able to strengthen those properties to create weapons and pieces of armor worthy of legend. The Tekketsu jealously guard the techniques they use to forge these incredibly rare metals, and rarely ever trade a finished product outside of the Clan. If they ever do, then it is done as a gesture of love and goodwill meant only for the closest people to the Tekketsu, in such cases, the armor or weapon is rarely exchanged for money and is typically handed out for free as a symbol of the Tekketsu's wish for that particular individual to remain safe and protected. Lucky few are the ones so beloved by a Tekketsu. While the clan typically frowns on selling works created with their specially harvested materials and secret techniques, such symbolic gestures are deeply respected and accepted by the Clan.
-
-Type: Ability  
-Cost: 5  
-Scale: 5  
-Limit: 1+Artisan/10, Max 6
-
-Effect: For each Rank taken in this Ability, you unlock one of the Wondrous Materials listed below, becoming able to utilize that material in the place of common steel to craft your weapons and armor with. Each Wondrous Material has special properties which change slightly in effect based on whether it's a weapon or armor they're being used for, and a cost modifier that multiplies the final cost of the Weapon or Armor being made. 
-
-You are only ever able to use one specific Wondrous Material for each Weapon or Armor you create. And note that Wondrous Materials can never be used to create Mobile Armor, as that type of armor does not utilize much metal. Only Protective and Encased Armor can benefit from this Ability. 
-
-#### **Skysteel:**
-
-A silvery blue metal named for its miraculous lightness which has been described as "light as a cloud". Although it can be (And often is, by the untrained eye) easily mistaken for common tin ore at a glance in its unworked state, it is anything but. Far lighter than any steel alloy, while being just as durable, allows the Tekketsu to forge Weapons and Armor out of Skysteel that are just as strong as their steel counterparts, while being far lighter. Anything made from this metal has a soft, blue sheen to it. And, with the right forging techniques applied, can even be made to appear as blue as the sky.   
-Weapon Effect: The Delay of Jutsus or Attacks used with the Weapon is halved.  
-Armor Effect: The Armor-Based Immobilization penalty of this Armor is reduced by \-1.  
-Cost Modifier: 1.75
-
-#### **Ironheart:**
-
-Few metals are as hard as Ironheart, and of those, none possess the necessary qualities to forge usable Armor or Weapons. They're either too brittle, too heavy, can't maintain an edge, etc. Yet no such shortcomings exist with Ironheart, an incredibly dense and dark metal that is used to craft some of the toughest Weapons and Armor known in the world. Its hardness has obvious benefits when it comes to making protective gear, yet even for weaponry there is use as Ironeart is so hard that it can easily cut or break through anything softer than itself (which is nearly everything).
-
-Weapon Effect: Your weapon cannot break. And it ignores half of target's DR and Armor Absorption, Armor Durability takes three times the Damage it would normally take.
-
-Armor Effect: Increases Armor's Base Durability by 200\.  
-Cost Modifier: 1.75
-
-#### **Voidglass:**
-
-Said to be the byproduct of the meteorites that struck the land now known as Earth Country, whose alien qualities caused the birth of the Kidosei Clan (Supposedly), and therefore, the birth of Iwagakure as a whole. These ethereal shards of violet obsidian possess mystical properties that interact with any current of Elemental Chakra which comes in contact with it, disrupting and absorbing it.
-
-Weapon Effect: This weapon can Parry Projectile Ninjutsu Attacks. 
-
-Armor Effect: This armor's Absorption is treated as twice its normal value against Ninjutsu Attacks. This armor's Durability only takes half damage against such Attacks.  
-Cost Modifier: 2
-
-#### **Crypstone:**
-
-When thousands of lives are lost upon a battlefield, the embers of the fallen's lifeforce and the anguished emotions of their final moments are absorbed by the earth beneath. Coalescing slowly over the process of many years into the stone until you get what is known as Crypstone. A cursed grey stone that is closely associated with death, and whose presence is often believed by the superstitious to bring ill luck. Even those with no sensitivity to Chakra can sense its maligned nature. Due to these supestitions, and the rarity for the right conditions for its creation to occur, this is one of the rarest materials to acquire. Yet despite its rarity, and the cursed nature of Crypstone that makes the skin of those holding it crawl, the Tekketsu still work with it to forge their arms and armor. As they are able to draw out that cursed energy and refine it to bring that curse of death upon their enemies  
-Weapon Effect: This weapon reduces the Target's Maximum Vitality (Or HP, if Current Vitality is 0\) by 10% of the Attack's Damage, this also affects Wound Thresholds. The reduction to Maximum Vitality/HP does not disappear until an hour has passed.  
-Armor Effect: When this armor is struck with a Melee Attack, and the enemy's Attack's Damage is enough to deal Wound to its Wearer, the enemy also receives a Piercing Minor Wound within the same location.  
-Cost Modifier: 2.5
-
-#### **Angelskin:**
-
-A silvery metal with the consistency and malleableness of dough, Angelskin was originally only used for extremely rare and valuable jewelry due to its beautiful sheen and its almost feather-like texture (Which is where the name came from). That is, until the Daimyo's wife of Lightning Country accidentally cut a finger while tending to her rose garden, and blood from the cut trailed over the Angelskin ring she was wearing, causing it to absorb the crimson life force as it suddenly hardened and constricted painfully around her finger. Turning from its beautiful silvery sheet to an abyssal black that reflected no light whatsover. For the next hour, all attempts to remove the ring ended in failure, even the special cutting properties of the Raiton techniques utilized by the Daimyo's Shinobi bodyguard were no match for the now hardened Angelskin. Yet, just when the Daimyo's wife thought she might end up losing a finger, the ring suddenly returned to its normal color and became incredibly soft again, the blood having fully vaporized by that point and separated from the metal. From that day on, the strange properties of Angelskin became widely known, making it as valued as it was feared and despised. The Tekketsu actually do not make full arms and armor out of Angelskin, they only include small veins of the substance into an alloy with regular steel, imparting to the steel these mystical and ominous properties.
-
-Weapon Effect: This weapon absorbs half of the highest Bleed Status Condition that the Target is suffering from, and gains a stacking \+1% to its Wounding bonus per Bleed Stack absorbed this way. This bonus lasts until the end of Combat.
-
-Armor Effect: This armor gains a +1\% bonus to its Absorption every time it’s wearer has their bleed status reduced to a maximum of 25\%. This lasts until the end of the fight. As a Speed 5 action the wearer may give themselves a Bleed status equal to 1 \+ half the \% bonus provided by this armor piece.  
-Cost Modifier: 1.5
-
-#### **Mindglass:**
-
-Not to be mistaken for Voidglass, Mindglass is a translucent crystal which glows with swirling multi-colored hues when put under light. It is only found in extremely small quantities at the bottom of oceans in regions known for their extreme volcanic activity, making it perhaps the hardest and rarest mineral to harvest in the world. And yet, many individuals still risk life and limb to acquire it because select groups like the Tekketsu Clan are willing to pay several times its weight in gold for its mystical effects on the mind when one's body is in close proximity to enough of the substance. In its base crystalized form, it simply causes a tingling sensation within one's mind upon touching it, but with the right forging techniques which are only known to the Tekketsu, one is able to refine that property to either reinforce one's mental faculties, or disrupt them entirely.
-
-Weapon Effect: If this weapon strikes somebody that has an Upkeep, then that Target's concentration will be disrupted, causing them to roll a Resistance Check against a TN equal to Target's combined Upkeep value times five. If they fail, then all Upkeeps end prematurely.
-
-Armor Effect: This armor keeps the wearer's mind clear and calm by absorbing the negative mental energy onto itself. Every time the wearer would be affected by a Genjutsu (Before they roll Gen Defense), this armor loses 100 Durability and the wearer becomes able to roll Genjutsu Defense twice and use the higher result.  
-Cost Modifier: 2.25
+Additionally, for each Rank taken in this Ability, you unlock one of the Wondrous Materials from the Master Artisan talent, becoming able to utilize that material in the place of common steel to craft your weapons and armor with.
 
 ### **Sunderer**
 
-Type: Ability  
-Cost: 10  
-Scale: 15  
-Limit: Artisan/10, Max 3
+Type: Ability
+Cost: 30  
+Limit: 1  
 
-Effect: Whenever the Tekketsu performs a Melee Weapon Attack against an armored Target (And hits an armored location), after the Armor's Absorption reduces the Damage received by the target, multiply the damage that the Armor is meant to take to its Durability by \+100% per Every Rank in this Ability
+Effect:   
+You may use Artisan for determining what equipment you can wield instead of Athletics. Additionally, for every Artisan Point a piece of equipment is below what you can hold it gains \+1% Durability.
+
+### **Armorer**
+
+(Flavor Text)
+
+Type: D Rank - General Ninjutsu  
+Chakra: 12  
+Speed: \+2  
+
+Tags: Interrupt, Link  
+
+Effect:   
+This jutsu is added onto any block action (including from weapons). Your armor doubles its absorption against that attack, but any damage the armor suffers is increased by 25\%.
+
 
 ### **Tetsue \- Iron Diet**
 
@@ -181,9 +129,15 @@ Chakra: 16
 Speed: 5  
 Requires: Living Furnace Ability
 
-Effect: The Speed of this Jutsu can't be reduced below a 4 by any means. This Jutsu may only be used against Doton and metal/stone Weapon Attacks, Roll your Taijutsu Parry with a \+3 Bonus. If you succeed your Parry Check, then you proceed to successfully absorb the Attack.   
-For Doton, you negate any Effects the Attack had and reduce the Total Damage you'd have taken by 75%. This counts as absorbing (NDB of enemy's Jutsu) KGs of rocks and minerals for the sake of the Living Furnace Ability, if you ever end up possessing more stored rocks and minerals than you can absorb, then you automatically fail to absorb that particular Doton Jutsu, no matter the result of the Parry Check.  
-In the case of a Weapon Attack, you proceed to Absorb the weapon of the enemy itself, you take only 50% of the Attack's Total Damage and negate any additional effects of the Attack. If the enemy's Weapon is Melee instead of a Projectile. Then the enemy's weapon only becomes partially absorbed into your body, and both of you must roll a Contested Resistance vs their Athletics Check. If you fail, then they quickly pull their weapon out and maintain hold of it. If you succeed, then you successfully proceed to disarm them and absorb their weapon into your body. 
+Tags: Interrupt
+
+Effect:  
+The Speed of this Jutsu can't be reduced below a 4 by any means. This Jutsu may only be used against Doton and metal/stone Weapon Attacks, Roll your Taijutsu Parry with a \+3 Bonus and on a success:
+
+For Doton, you negate any Effects the Attack had and reduce the Total Damage you'd have taken by 75\%. This counts as absorbing (NDB of enemy's Jutsu) KGs of rocks and minerals for the sake of the Living Furnace Ability, if you ever end up possessing more stored rocks and minerals than you can absorb, then you automatically fail to absorb that particular Doton Jutsu, no matter the result of the Parry Check.
+
+For Weapons, you proceed to Absorb the weapon of the enemy itself, you take only 50\% of the Attack's Total Damage and negate any additional effects of the Attack. If it was a melee weapon roll Resistance vs their Athletics.. If you succeed, the weapon is absorbed into your body. On a fail, they are able to pull it out quick enough but it immediately increases by 1 Damage Level.
+
 
 # **Soma** 
 
