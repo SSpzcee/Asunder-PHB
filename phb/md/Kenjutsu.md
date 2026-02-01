@@ -58,7 +58,7 @@ A somewhat unique stance where you point the weapon at your target and hold it o
 Broken Stance: 
 Your rigorously practiced stance has been broken, and now you find yourself with an unsteady sense of balance, your weapon in an odd angle, and your body completely open to any attacks. You have a \-2 to Accuracy and Defensive Rolls while in this Stance, and if you receive a Minor or higher Wound from an Attack, you automatically fall Prone (As per the Status Condition).
 
-# **Melee Kenjutsu**
+# **Melee-Kenjutsu**
 
 [|E-Ranks|](#melee-kenjutsu-e-rank)
 [|D-Ranks|](#melee-kenjutsu-d-rank)
