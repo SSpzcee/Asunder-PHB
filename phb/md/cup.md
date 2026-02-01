@@ -148,7 +148,7 @@ Choose a Specialty and a Path between Taijutsu, Ninjutsu, or Genjutsu and an Inc
 
 Taijutsu Specialist: \+2 Taijutsu Accuracy, \+10% Damage with Taijutsu techniques, \+2 Bonus to Stamina rolls for Taijutsu techniques.
 
-* Path of the Elemental Blademaster: You automatically learn one Weapon Ninjutsu for the element for which you have Elemental Affinity for (choose one if you have more than one). This jutsu has its Chakra cost reduced by 5 and its Upkeep by 1 (if it has any).  
+* Path of the Elemental Blademaster: Choose a weapon creation jutsu reducing its Base Speed by 4, Chakra cost by 3, and its Upkeep by 1.  
 * Path of the Thousand Styles: When declaring an Unarmed Taijutsu attack, you can decide what type of damage your attack deals between Blunt, Piercing or Slashing.
 
 Taijutsu Incompetence: \-2 Taijutsu Accuracy, \+10% Damage received from Taijutsu techniques and you can only learn Taijutsu techniques of 1 Rank lower than you normally could.
