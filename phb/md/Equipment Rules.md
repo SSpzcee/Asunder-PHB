@@ -77,3 +77,32 @@ Small weapons cannot disarm Large weapons, and Large weapons lack the finesse to
 Item modifications made before the transfer are retained-thus, if you poisoned a kunai and handed it over, the kunai would still be poisoned.
 
 Both parties must agree to the Transfer for Transfer Item to function.
+
+## **Weapon Durability**
+All weapons have a durability which represents how overuse of a weapon without properly caring for it can cause it to dull, rust, or degrade in any other form. In extreme cases a weapon could even break while in use.
+
+Each weapon you wield has a Weapon Damage Pool (WDP) which has a maximum of your weapon’s durability /+ Dexterity/10. Your WDP begins at 0 at the start of each scene.
+ 
+When you hit with a weapon jutsu or are parried the STM is added to your WDP and Parrying or Blocking an attack with your weapon increases your WDP by the fatigue cost of the attack defended. Once your WDP surpasses your weapons Durability, its Damage Level increases by 1 (see below) and your WDP is reset to 0. The penalties for each level stack additively with each level below it. At the end of a scene the weapons damage level reduces by 2 to a minimum of 0 or its damage level at the beginning of the scene.
+
+## **Damage Levels**
+
+**1** | -1 Damage Dice
+
+**2** | -5% Wounding
+
+**3** |  -1 Parry
+
+**4** | -2 Damage Dice
+
+**5** | -5% Wounding
+
+**6** | +1 Stamina Cost
+
+**7** | Die size reduced by 2, -10% Wounding
+
+**8** | -1 Acc, -1 Parry
+
+**9** | +2 Speed
+
+**10** | The weapon breaks. A broken weapon may be used to perform attacks as the original but has 0 Artisan Points and uses the base stats of 1 size smaller (small weapons cannot be used in this way).
