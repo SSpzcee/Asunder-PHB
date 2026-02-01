@@ -159,27 +159,15 @@ Sometimes you may need to close the distance and attack an opponent all at once.
 
 Movement is unique, in that you cannot use Action Points to reduce its Speed. Your distance traveled is determined by the actual number of ICs spent on movement.
 
-### **Take The Hit**
+### **Wait**
 
-(Speed 6, Interrupt)
+(Speed Variable)
 
-Taking the hit is the glorious move the stronger person or sensei uses to protect their weaker ally\! You make a dodge roll with a \+5 bonus; if successful, you've leapt in the way of an attack aimed at your ally. If you fail, your ally takes 20% of the damage per point you failed by. (For example: If you fail by 2 points, you'd take 60% damage, and your ally 40% damage). If you are more than one yard away from the person you are attempting to take the hit for, you may take penalties to your take the hit roll. To determine if you do or not, take the attack's Speed, and determine how far you could move (see 'Actions') in that time. If that distance is greater than the distance between you and the person you are attempting to take the hit for, then congratulations, you can take the hit normally. If not, you have a \-2 penalty to your take the hit roll per yard you're short by. "The Nimble" ability reduces this penalty at the same rate it reduces area of effect dodge penalties.
-
-You may use interrupts to defend yourself, up to a maximum Speed of how many points your Take The Hit roll beated the opponent's accuracy, with the exception of Dodge. If your last non-interrupt action before Take The Hit was Blocking (see below) you can use the Block action vs this attack.
-
-Take the hit works as normal vs AOE attacks. You do not take damage twice if both you and the person you are taking the hit for are both in the AOE, however.
-
-You cannot perform a Take The Hit action if you are Stunned or if you are suffering from an immobilization penalty of 10 or more. After you successfully use a take the hit action, you are moved into melee range with the person you used take the hit on.
+You wait for any number IC. This counts as an action and its speed can not be increased or decreased.
 
 ## **Interrupts**
 
 Interrupts are typically Actions taken outside of your own Turn in reaction to or as a trigger to something that has occurred. There are two types of Interrupts: Defensive Interrupts, and Offensive Interrupts. Offensive Interrupts allow you to retaliate against an enemy outside of your own turn in some form or another, such as cutting them down after parrying their own sword strike. Defensive Interrupts are the actual defenses taken to mitigate an attack. You can only ever use one Defensive Interrupt against a given attack unless otherwise specified.
-
-### **Block (Speed 0, Interrupt)**
-
-Under normal circumstances this action can only be granted by the Blocking action (see above).
-
-Blocking reduces the damage of unarmed and ninjutsu attacks by 50%. However, weapon damage is only reduced by 25%; while it's all well and good to keep a punch away from your vitals, a sword cut is nasty business no matter where it lands.
 
 Additionally, you can choose the location of any wounds inflicted, except when the attack specifically specifies one location (such as certain jutsu or called shots).
 
@@ -198,6 +186,18 @@ The above is the standard parry option but there are more parry options listed e
 ### **Jutsu (Speed Variable, Interrupt)**
 
 Some Jutsu can be used as interrupts to Defend against an Attack. Or, just as frequently, allowing you to retaliate in some shape using an Offensive Interrupt, in fact, Jutsus represent the bulk of Offensive Interrupts in the game. Follow all rules in a Jutsu’s entry to resolve when and how you can use their Interrupt. Jutsu used as an Interrupt still follows all normal rules for using Jutsu.
+
+### **Take The Hit**
+
+(Speed 6, Interrupt)
+
+Taking the hit is the glorious move the stronger person or sensei uses to protect their weaker ally\! You make a dodge roll with a \+5 bonus; if successful, you've leapt in the way of an attack aimed at your ally. If you fail, your ally takes 20% of the damage per point you failed by. (For example: If you fail by 2 points, you'd take 60% damage, and your ally 40% damage). If you are more than one yard away from the person you are attempting to take the hit for, you may take penalties to your take the hit roll. To determine if you do or not, take the attack's Speed, and determine how far you could move (see 'Actions') in that time. If that distance is greater than the distance between you and the person you are attempting to take the hit for, then congratulations, you can take the hit normally. If not, you have a \-2 penalty to your take the hit roll per yard you're short by. "The Nimble" ability reduces this penalty at the same rate it reduces area of effect dodge penalties.
+
+You may use interrupts to defend yourself, up to a maximum Speed of how many points your Take The Hit roll beated the opponent's accuracy, with the exception of Dodge. If your last non-interrupt action before Take The Hit was Blocking (see below) you can use the Block action vs this attack.
+
+Take the hit works as normal vs AOE attacks. You do not take damage twice if both you and the person you are taking the hit for are both in the AOE, however.
+
+You cannot perform a Take The Hit action if you are Stunned or if you are suffering from an immobilization penalty of 10 or more. After you successfully use a take the hit action, you are moved into melee range with the person you used take the hit on.
 
 # **Attacking**
 
@@ -270,11 +270,19 @@ Alternatively, you may choose to Abort as part of an Interrupt--for example, abo
 
 ### **Partial Success**
 
-Just because you failed to evade a shuriken or deflect a sword slash doesn't mean they struck a vital area. When you make a defensive roll to avoid an attack, for each point you fail by, you take 20% damage. Any status effects that are part of the technique, however, will apply normally.
-
-That can be confusing, so, it's example time\! So you roll a 14 on your dodge, against an Accuracy 15 attack. You failed by 1 point, so you take 20% of the attack's normal damage. Had you rolled a 12, you would take 60% damage. And, if you had rolled a 7 (failing by 8 points), you would take the full 100% damage.
+Just because you failed to evade a shuriken or deflect a sword slash doesn't mean they struck a vital area. When you make a defensive roll (such as a dodge or parry) against an attack, for each point you fail by, you take 20% of its effects including statuses (rounded up). This still counts as a failed defense.
 
 With regards to defensive jutsu: Partial success typically applies to any jutsu which works similar to a dodge or parry. That is, you make a d20 roll, and if successful the attack you are defending against does not hit you. However, if the technique has another effect (such as making a d20 roll, and if you succeed you reduce the attack's damage by a set amount), partial success does not apply. Exceptions to this will be noted otherwise in the individual technique's description.
+
+That can be confusing, so, it's example time! So for an Accuracy 15 attack, 14 would deal 20% of its effects, 13 deals 40%, etc. Even though failing by 5 points would still deal 100%, it counts as a partial success for anything that cares about it (such as Substitution) but a 9 would not count as a partial success.
+
+### **Partial Success Adjustments**
+
+Some abilities can modify Partial Success by increasing/decreasing the percentage or shifting the base:
+
+When the percentage is increased (or decreased) it adjusts the damage dealt per amount failed. For example, if an attack has its percentage increased to 25% for an Accuracy 15 attack, 14 would deal 25% of its effects, 13 deals 50%, 12 deals 75%, and 11 deals 100% (and is still treated as a partial).
+
+When the base is shifted it changes the number used to calculate for partial success. For example if an attack has an Accuracy of 15 and has its base shifted by +3, 17 would deal 20% of its effects, 16 deals 40%, etc down to a 13 for 100% damage.
 
 ### **Damage Reduction**
 
@@ -608,6 +616,16 @@ Trained ninja can survive things that would kill or maim lesser humans, but some
 ### **Fatigued**
 
 This is the result of (over)exerting oneself in battle. Rules for Fatigue, including how it's gained and the effects it has, are found in the 'Fatigue' section.
+
+### **Prone**
+
+You’ve fallen and you can’t get up…at least right away. A prone person has -3 Accuracy, -2 to defensive actions, and moves at half speed. Standing back up is a Speed 2 action.
+
+### **Rocky Terrain**
+
+Something has destroyed the ground below you and it’ll take you a bit to recover your footing. When this status is applied to an area everyone inside gains an immobility penalty equal to its severity, which is then halved (rounded down) after they find their footing. After escaping the area or expending Yards of movement equal to the Rocky Terrain’s area you find your footing. Anyone entering the area after it’s applied or who succeeded in defending the attack that applied the Rocky Terrain automatically finds their footing.
+
+Anyone who gains the prone condition automatically loses their footing.
 
 ### **Incapacitated**
 
