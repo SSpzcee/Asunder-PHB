@@ -157,7 +157,7 @@ Limit: DEX /20, max 5
 ### **Combo Master**
 You have mastered the art of Combo Taijutsu. Your Combos are more lethal and go farther.
 
-Your maximum Combo Counter increases by 1.
+The first time you hit a combo target in a combo your CC is increased by half your ranks in this ability (rounded down).
 
 Cost: 6
 Scale: 2
@@ -169,7 +169,7 @@ You can have 1 rank in this ability for each rank of combo jutsu you know at lea
 ### **Shadowboxer**
 Even when people hide from you, you manage to look for them without losing steam for a while.
 
-By reducing your Combo Counter by 1 point, you can perform a single Search action without breaking your Combo. This cannot be done if lowering your Combo Counter would bring it to 0.
+By reducing your Combo Counter by 1 point, you can perform a single Search action without breaking your Combo.
 
 Cost: 10
 Requires: Combo Master 1
@@ -177,27 +177,27 @@ Requires: Combo Master 1
 ### **Momentum Sprinter**
 You have trained to keep your eyes on the ball, even if you need to chase it all around the field you never lose momentum.
 
-You may take the Move Action without breaking your current Combo.
+You may take up to Combo Counter x 4 IC of Move Action without breaking your current Combo. This does not have to be continuous so you could move for 5 IC attack, then move for another IC.
 
 Cost: 10
-Requires: Combo Master 2
+Requires: Combo Master 3
 
 ### **Somatic Caster**
 Sometimes you need to kick it up a notch in the middle of a sequence, perhaps your attacks are not strong enough or there’s a particular defense you can’t get around. Luckily Ninjutsu is there to solve your problems.
 
-You can use one non-interrupt Ninjutsu technique at any point during your current Combo without breaking it.
+You can use one non-interrupt Ninjutsu technique at any point during your current Combo. This reduces your CC equal to the rank of the jutsu used.
 
 Cost: 10
-Requires: Combo Master 3
+Requires: Combo Master 5
 
 ### **Signature Move**
 You've trained yourself to be deadly efficient with one specific finisher.
 “I had to give him the three piece … with the soda” - Old Ninja proverb.
 
-Choose one unarmed finisher taijutsu you know. When you use “Sudden Attack” alongside that finisher, instead of reducing your damage by 10\% per rank of sudden attack used, it reduces your damage by 10\-(Combo Counter)\% per rank of sudden attack used.
+Choose one jutsu you know with the Finisher tag. Every time you use that finisher the damage penalty from using Sudden Attack is reduced by 10% per CC you have to a minimum of 0.
 
 Cost: 20
-Requires: STR 60
+Requires: STR 80
 
 ## **Grapple**
 
