@@ -42,7 +42,8 @@ tai.markdown("<a href='#grapple'>Grapple</a>", unsafe_allow_html=True)
 taij = open("phb/md/Taijutsu.md", "r")
 tai.write(taij.read())
 
-ken.markdown("<a href='#weapon'>Weapon</a>", unsafe_allow_html=True)
+ken.markdown("<a href='#melee kenjutsu'>Melee Kenjutsu</a>", unsafe_allow_html=True)
+ken.markdown("<a href='#specialized kenjutsu'>Specialized Kenjutsu</a>", unsafe_allow_html=True)
 
 kenj = open("phb/md/Kenjutsu.md", "r")
 ken.write(kenj.read())
