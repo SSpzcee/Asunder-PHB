@@ -8,7 +8,7 @@ st.markdown("""
 <style>
 
 	.stTabs [data-baseweb="tab-list"] {
-		gap: 150px;
+		gap: 100px;
     }
 
 </style>""", unsafe_allow_html=True)
