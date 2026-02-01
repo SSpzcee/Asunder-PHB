@@ -58,7 +58,7 @@ A somewhat unique stance where you point the weapon at your target and hold it o
 Broken Stance: 
 Your rigorously practiced stance has been broken, and now you find yourself with an unsteady sense of balance, your weapon in an odd angle, and your body completely open to any attacks. You have a \-2 to Accuracy and Defensive Rolls while in this Stance, and if you receive a Minor or higher Wound from an Attack, you automatically fall Prone (As per the Status Condition).
 
-# **Melee-Kenjutsu**
+# **Melee Kenjutsu**
 
 [|E-Ranks|](#melee-kenjutsu-e-rank)
 [|D-Ranks|](#melee-kenjutsu-d-rank)
@@ -435,3 +435,457 @@ Also on a success this jutsu gains Stance Shift: Any (trumping any Stance Shift 
 
 \--------------------------------------------------------------------------------------------------------
 
+# **Specialized Kenjutsu**
+
+[|D-Ranks|](#specialized-kenjutsu-d-rank)
+[|C-Ranks|](#specialized-kenjutsu-c-rank)
+[|B-Ranks|](#specialized-kenjutsu-b-rank)
+[|A-Ranks|](#specialized-kenjutsu-a-rank)
+
+## **Specialized Kenjutsu D-rank**
+
+### **Iajutsu - Quick Draw**
+
+Unleashing a blade from its sheathe in the blink of an eye with a sudden slash. A practiced move designed to catch enemies unaware and cut them before they have a chance to counter.
+
+Stamina: \+5  
+Damage: \+4dS  
+
+Tags: Sword  
+
+Effects:  
+Provided your weapon is sheathed, the first time in battle you use this jutsu it gains Stance Shift: Heaven, the delay is reduced to 0, and the attack's speed is halved, though for the purpose of damage calculations it's treated as its regular speed. Every subsequent use reduces the attacks speed by X and increases its delay by X where X has a max of 5.
+
+### **Uneru Nami - Rolling Waves**
+
+The technique itself is simply a strong upward strike utilizing the weapon’s weight to add more leverage to the attack, either by starting from the ground, or bouncing the weapon off of a different surface (such as a wall, to every bricklayer's dismay) in order to bring it back up with speed. This is especially effective as a counter from an enemies attack.
+
+Stamina: \+6  
+Damage: \+6dS 
+Speed: 12 \+ (Weapon’s Speed/2)  
+Delay: \+4  
+Requires: Earth Stance  
+
+Tags: Club
+
+Effect:  
+If your opponent attacked you in the past 10 IC any Accuracy penalty from your Weapon or Stance is negated for this Technique. For every \-1 Accuracy Penalty removed, this Jutsu gains a \+2 increase to its Damage Bonus.
+
+Stance Shift: Wrath Stance
+
+### **Puño Tsuki - Fist Strike**
+
+When an opponent enters into their guard a skilled polearm user can twist their weapon to strike the opposite end to regain their distance.
+
+Stamina: \-2  
+Speed: \-2  
+Delay: \-2  
+Reach: \-1  
+
+Tags: Polearm
+
+Effects:  
+The die size of your weapon is reduced by 2 for this attack. On a hit you may push your opponent up to 1 \+ the max reach of your weapon.
+
+Stance Shift: Steel
+
+### **Ichi no Hoshi - One Star**
+
+By unfolding their fan only a third of the way, the user creates a small but biting gust of wind that is useful for its capacity to strike at targets far away while wielding a weapon.
+
+Chakra: As Weapon + 3
+Damage: As Weapon
+Speed: As Weapon
+Delay: As Weapon
+Range: CHA/4
+
+Tags: Fan
+
+Effects:
+This attack uses your ninjutsu accuracy and damage bonus, rather than taijutsu and is treated as a Ninjutsu for the purposes of defending.
+
+### **Kuro Budounoki - Black Vines**
+
+A technique popularized by a Nara who liked to utilize a black-painted Kusari-Gama to strike from the shadows with a weapon when his opponents waited for them to move, you channel a small amount of chakra within your weapon and temporarily disconnect portions of it in order to extend its range beyond what an opponent would expect, grabbing hold and forcibly pulling them back to you for a follow-up strike.
+
+Stamina: + 10  
+Range: (Weapon) + NDB * 2  
+Speed: 10 + (Weapon)/2  
+
+Type: Chain  
+
+Effects:  
+Make a Grab attempt with your weapon; if successful, you then begin a Grapple with your opponent and immediately pull them toward you until they are at Distance 0 with you. You can put them on any ‘side’ of you besides your back (Opposite of the side you attacked towards), if you wish, as part of this process.
+
+Afterward you make a Basic Weapon Attack: If you’re holding two weapons, this can be with either one, using its normal Speed with a bonus of +Xd*, where X is the number of yards you pulled them toward you, to a maximum of double your weapon’s base dice. If you manage to wound your target with this, they take a -2 to their Grapple rolls against you per severity of the Wound (-2 for Minor, -4 for Major, etc), which lasts until the Grapple is broken.
+If something prevents their movement toward you (such as being grappled by someone else who resists their movement, being tied up to a tree, or stuck in an Immobility 10 effect), then this technique has no effect other than establishing a grapple (which might end automatically, if they are beyond your normal grapple range).
+
+AP spent to lower this Technique’s speed lowers both the speed you perform it at, Which is used for both the Grab and Attack to determine Valid Interrupts, and the speed for the damage of the Weapon Attack performed.
+
+### **Kage Shuriken no Jutsu - Shadow Shuriken Technique**
+
+The user throws multiple Shuriken at the same time, positioning them in such a way that one or more weapons can hide within the shadow of another in flight, making the lower one(s) virtually invisible.
+
+Stamina: 22  
+Speed: 22  
+
+Tags: Fuuma Shuriken
+
+Effects:  
+You throw two Fuuma Shuriken, each doing their normal base damage, and using half this technique's Speed to determine how much they benefit from your damage bonus.
+
+If this hits and partial defense does not apply, combine the damage of the two weapons. If it hits and partial defense does apply, one misses entirely and the other does full damage (not reduced by partial defense).
+
+### **Fukumikuchi Hari - Hidden Mouth Needles**
+
+The user is able to summon needles from within their mouth and spit them at their opponents with force comparative to have been thrown. It's useful at point-blank range for catching the opponent by surprise, but becomes predictable with repeated use.
+
+Stamina: \+3  
+Chakra: 10 \+ X\*5  
+Speed: \-2  
+
+Tags: Senbon
+
+Effects:  
+X is the number of times you have previously used this technique in the same battle. This is added to a multi-throw with senbon (which does require you to be able to multi-throw senbon) and becomes an automatic Surprise Attack.
+
+### **Omo Hoshiga - Double Star Fang**
+
+Several enemies running at an archer and getting in close could mean the end for an archer, but luckily you can fend them off! Quickly drawing several arrows out, you load them all into your bow and fire them off in different directions. This would be hard for most people, but luckily you're a ninja.
+
+Stamina: \+ 4\*X  
+Damage: \+3dS  
+Speed: (As Weapon) \+ 3\*X  
+
+Tags: Bow
+
+Effects:  
+This is added to a bow attack allowing you to attack X targets to a max of 3. This jutsu uses half your physical damage bonus.
+
+## **Specialized Kenjutsu C-rank**
+
+### **Hirameku Yaiba - Flash Blade**
+
+Using the principles of Iaijutsu, the user takes up a readied stance and, using a surge of chakra, rushes their opponent to take them by surprise, redrawing the weapon and striking in one quick movement.
+
+Stamina: \+5  
+Damage: \+7dS  
+Speed: \+4  
+Requires: Neutral/Earth Stance  
+
+Tags: Melee, Sword 
+
+Effects:  
+Make an Initiative Roll, opposed by your opponent's; they have a cumulative \+2 bonus for each time you've used this (successfully or not) in this battle. If you fail, you perform a Basic Weapon Attack attack.
+
+If you succeed, your attack receives the benefits of the Iaijutsu Ability, even if you've used that earlier in battle.
+
+Stance Shift: Heaven Stance
+
+### **Kashiwa no Hishou - Oak Flight**
+
+Circling your weapon over your head over your head, you slam it into your opponent after a few rotations (often after leaping absurd distances into range) and completely daze them. A powerful enough strike put in the right place makes it hard for the enemy to focus on you, or even gives them a bit of double-vision.
+
+Stamina: \+5  
+Speed: \+ X/2  
+Delay: \+3  
+Special: Stun X/5  
+
+Tags: Club  
+
+Effects:  
+X is the number of yards moved as part of this attack and your move while attacking is determined using double its usual amount. This attack deals X extra dice of damage +1 per every 3 yards of move with attack remaining.
+
+### **Mawarisuto - Rotation Strike**
+
+Extending out a polearm, you hold one end with both hands then commence whirling and spinning the polearm around yourself in large circles! If it has a blade of some sort, this is even better!!
+
+Stamina: +8  
+Damage: +8dS  
+Speed: +10  
+
+Tags: Polearm  
+
+Effects:  
+You may attack anyone you choose within range 3. If you choose to target only one person with this attack it has \+2 Accuracy.
+
+### **Ni no Hoshi - Two Star**
+
+Opening the fan two-thirds of the way for this attack, the user lets out a strong gust of wind, hopefully blowing their opponents away!
+
+Chakra: \+3 \+ X  
+Speed: \+2  
+Delay: Weapon  
+
+Tags: Fan, Link
+
+Effects:  
+This is added onto a Fuuton jutsu casted with a fan with X being the rank of the jutsu. Choose Heaven or Earth. Prior to the attack you shift into the chosen stance and remain in that stance until your next action, treating all instances of melee weapon in the stance description as Fuuton. The Chakra Cost of this jutsu modified is dealt to the durability of the weapon as if it were Stamina.
+
+### **Chain Dance**
+
+You begin spinning your weapon in a series of practiced moves all around you, an effective maneuver for warding off enemies and defending from projectiles. 
+
+Stamina: \+5  
+Upkeep: 4 \+ X  
+Speed: Variable  
+
+Tags: Chain  
+
+Effects:  
+This jutsu requires both hands even if your weapon can be used with less normally. You begin spinning your weapon and gain the following effects:  
+You may Parry incoming Ranged Taijutsu Attacks as a Speed 0 Interrupt with a +3 bonus.  
+Melee attacks against you have their Speed increased by 4  
+Every (3 + Weapon’s Delay) IC you can perform a Basic Weapon Attack without advancing your IC and move 3y (you can move before or after the attack). X is the number of times you’ve made this attack.  
+Steel Wall attacks (even without a target) have Stance Shift: Steel  
+
+Stance Shift: Steel
+
+### **Itowotoosu - Thread the Needle**
+
+Attaching Ninja Wire to the end of an arrow, the shinobi fires and uses chakra to alter the course of the arrow in mid-flight. This makes the shot extremely hard to avoid, at the cost of leaving a wire leading back to the point of origin.
+
+Stamina: \+8  
+Chakra: 18  
+Damage: \+(X/2)dS  
+Accuracy: \+X/10  
+Speed: \+8  
+
+Tags: Bow
+
+Effects:
+This is added on to any Bow attack. X is the distance between you and your target and costs X Yards of Ninja Wire. After this attack is resolved, you are automatically removed from stealth (if you were hidden to begin with).
+
+### **Soushuriken no Jutsu - Manipulated Shuriken Technique**
+
+You connect a thin, nearly invisible wire to shuriken or kunai when throwing them so that you can redirect them mid-air, or even attack people around corners or behind trees!
+
+Stamina: 15  
+Speed: 5  
+
+Tags: Ninja Wire, Kunai/Shuriken
+
+Effects:  
+This may be activated after you miss with a thrown attack using Kunai or Shuriken. You force your opponent to attempt their defense a second time but the speed of the attack is halved for damage calculations.
+
+This jutsu requires you to have Ninja Wire equal to the range at which you make this attack, multiplied by the number of weapons thrown. This wire become unusable for the rest of combat.
+
+## **Specialized Kenjutsu B-rank**
+
+### **Omae wa Mou Shindeiru - You are Already Dead**
+
+By cutting so fast you can slash a target multiple times before an enemy can even perceive the attack. Then like the sick swordsman you are, you return your blade to its sheathe and watch as all their limbs are cut off. Its name is presumably a reference to some great master who perfected this technique but the name has been lost to time.
+
+Stamina: \+5  
+Speed: \+2  
+Requires: Iajutsu  
+
+Tags: Sword 
+
+Effects:  
+You gain Iai points equal to the delay of this attack. You may use those Iai points to increase the delay of any weapon attack by any amount (including this attack). Any attack that has its delay increased by half its delay or more gains the following benefits:
+
+Attack gain Stance Shift: Wrath (on top of existing stance shifts)  
+When the target moves out of range every two AP reduces the delay of all your attacks by 1  
+Fatigue rolls for your attacks are delayed until the end of consecutive attacks (So if you had attacks occurring on IC 20, 21, and 25. If there are no actions or interrupts from you or your target that occur in that timeframe, you do not roll fatigue for all 3 jutsu until IC 25).
+
+Stance Shift: Wrath
+
+### **Back Breaker**
+
+Taking a low stance you spin 1-20 times (some people just like to be a bit extra) and slam your weapon into a target smashing through whatever is in its way. Breaking buildings, armor, and especially people.
+
+Stamina: \+7  
+Speed: 15 \+ (Weapon Speed)/2  
+Delay: \+10  
+
+Tags: Club
+
+Effects:  
+
+Choose one or both:  
+If this targets a construct (or someone behind a construct such as Earth Shore Return) first deal the total damage of this attack to that construct. Then the attack's normal damage applies immediately after.
+
+If the target is wearing armor, first deal the total damage of this attack to that armor. Then the attack's normal damage applies immediately after.
+
+Stance Shift: Broken Stance
+
+### **Vlad’s Impalement**
+
+Not exactly the best jutsu to use in a friendly spar. A brutal technique to insert your weapon into a target…and leave it there. Often practitioners carry multiple weapons for this explicit purpose turning their opponent into an improvised weapons rack.
+
+Stamina: \+10  
+Speed: \+10  
+Delay: \+10  
+Accuracy: \-5  
+Requires: Void Stance  
+
+Tags: Polearm
+
+Effects:  
+This jutsu always deals piercing wounds and increases the severity of wounds it inflicts by 1. After using it you let go of your weapon leaving it in the opponent granting an immobility 2 (which stacks with repeated applications). This can be removed as a Speed 10, Delay 10 action which deals a quarter of the original attack's damage and applies Bleed 8. Until it is removed the needling from wounds it applies are not reduced (but reduce AP gain as normal).
+
+### **San no Hoshi - Three Star**
+
+Opening the fan two-thirds of the way for this attack, the user lets out a strong gust of wind, hopefully blowing their opponents away!
+
+Stamina: 12 \+ 3\*X  
+Chakra: \+X\*2  
+Speed: \+4  
+Delay: \+X  
+
+Tags: Fan, Link
+
+Effects:  
+X has a Max of CHA/40. This is added onto any attacking Fuuton jutsu casted with a fan. Take the multiplier in the attack's damage and increase it by X. For example: X is 3, 4d8\*5 becomes 4d8\*8. The Chakra Cost of this jutsu modified is dealt to the durability of the weapon as if it were Stamina.
+
+### **Haganekabe - Swan’s Ascent**
+
+An (according to some) excessively flashy maneuver where you fling your chain at an opponent to feint while jumping into the air. This perfectly positions yourself to recover your chain for a devastating follow up as you come back down, usually involving many spins.
+
+Stamina: \+5 \+ X\*2  
+Speed: \-X  
+Delay: \+ X  
+Accuracy: \+2  
+Range: \+10  
+
+Tags: Chain
+
+Effects:  
+X has a max of half your weapons speed. As part of this jutsu you jump 5 Yards in the air. For 10 IC or until your next attack, you are immune to any ground-based attacks and environmental effects. Chain attacks made while in the air gain \+10 Range.
+
+Stance Shift: Wrath
+
+### **Haruichiban - First Storm of Spring**
+
+The user of this technique throws multiple oversized
+shuriken in quick succession, pausing just long enough between each throw to correct for their opponent's movements.
+
+Stamina: 14 \+ X \* 8  
+Damage: (STR/12)d12  
+Accuracy: \-3  
+Range: STR/3  
+Speed: 12 \+ X \* 5  
+
+Tags: Fuuma Shuriken
+
+Effects:  
+You throw X Fuuma Shuriken, max of STR/40. If this hits normally, its damage is increased by (X\*20)\%. If your attack misses, lower X by 1, its Speed for damage calculations by 6, and raise its Accuracy by 2. Repeat this until Haruichiban hits or X is 0.
+
+### **Tentai-ite no Jutsu - Celestial Archer Technique**
+
+Every once in a while a shinobi gets it into their head that it would be a good idea to use a bow as their primary method of fighting. This rarely ends well, but the shinobi flair for the dramatic is often powerful enough to override both their good judgement, and any good advice they may receive. This technique was developed by those sorts of shinobi, in an attempt to make their weapon of choice less painfully impractical.
+The user concentrates chakra in their arms, speeding up their draw speed and allowing them to subconsciously correct their aim in an instant. The downside is that they sacrifice a great deal of power when doing this--but, as many users of it will assert, the technique is "way too awesome" for that to be a serious concern.
+
+Stamina: 15  
+Upkeep: 2 \+ X/2 (rounded up)  
+Speed: 6  
+
+Tags: Utility Bow
+
+Effects:  
+One bow you are wielding reduces its Accuracy penalty by X to a max of its Accuracy Penalty. The base Speed of your bow is also reduced by X/2.
+
+## **Specialized Kenjutsu A-rank**
+
+### **Mikazuki no Mai - Crescent Moon Dance**
+
+Originally developed in Kiri, the technique has since been
+imitated and reconstructed in other villages. The user attacks at high speed, using a pair of clones to attack the target's blind spots; this actually consists of several strikes in quick succession, the user changing location after each and losing themselves among their clones. Understandably, this makes an effective defense against the technique difficult to come up with.
+
+Ideally, this technique is performed using Shadow Clones; other varieties of clones work, though are less effective, and in a pinch a ninja can briefly create the necessary clones as part of the technique, though doing so is draining on their chakra, and the clones disappear immediately afterwards.
+
+Stamina: 30 \+ (Weapon)  
+Damage: Four times the normal amount of dice rolled by your weapon.  
+Chakra: 30 \- 15 \* X  
+Speed: 20  
+Delay: 15 \- 5 \* X  
+
+Tags: Sword
+
+Effects:  
+X is the number of Shadow Clones you have armed with weapons which can be used with this technique, up to a maximum of 2. Crescent Moon Dance is always considered a surprise attack, and defending against it must be done as if it was half its actual Speed (if you used 5 AP to reduce it to Speed 15, it would count as Speed 8; this would require a Speed 4 or lower Interrupt to defend against Crescent Moon Dance).
+
+Clones used with this technique must have the same weapon you do and be capable of attacking and dealing damage. If you have two or more such clones that aren't shadow clones (such a Rock or Water Clones), X is considered to be 1; X cannot go above without using actual Shadow Clones.
+
+Attempting to parry Crescent Moon Dance requires the defender to roll 2d20.takeLowest(1) in place of 1d20. Ninjutsu-based defenses do not suffer from this limitation.
+Crescent Moon Dance cannot benefit from Iaijutsu (or, as a result, Flash Blade), and the wounds it deals are reduced by one category.
+Crescent Moon Dance may not have its Speed reduced below its Delay.
+
+### **Meteor Slam**
+
+Circling your weapon over your head over your head, you slam it into your opponent after a few rotations (often after leaping absurd distances into range) and completely daze them. A powerful enough strike put in the right place makes it hard for the enemy to focus on you, or even gives them a bit of double-vision.
+
+Stamina: \+ 5 \+ X/10  
+Damage: 2 \* (Weapon \+ X)  
+Area: X/5  
+Speed: \+ X/7  
+Delay: \+ X/7  
+Requires: Wrath Stance  
+
+Tags: Club
+
+Effects:
+X has a maximum of your Strength. The effectiveness of partial defense is halved against this technique: for every 1 point it misses by, it deals only 10\% less damage. The entire area of this attack becomes rough terrain X/20.
+
+### **Soragui Mikansei - Incomplete Sky Eater**
+
+A rudimentary version of a technique fabled to have been developed by a ninja who reached the peak of the world, only rivaled by the Earth and the Heavens themselves. The user holds their polearm by the end behind theirs and swings it downward with its maximum leverage. The goal of all practitioners is to gain the power and skill to cut the sky itself in half.
+
+Stamina: \+20  
+Speed: \+10  
+Delay: \+5  
+Accuracy: \-2  
+Range: Strength/2  
+Requires: Wrath Stance  
+
+Tags: Polearm
+
+Effects:  
+This jutsu increases the dice rolled by your PDB. This attack applies 2 wounds on different locations.
+
+### **Kadou Kikan - Vortex Engine**
+
+Spinning their fan like a staff user would, this doesn't create an impenetrable defense, instead the fan is twisted to use all that force to create massive wind gusts.
+
+Stamina: 30  
+Upkeep: 10  
+Area: CHA  
+
+Tags: Fan
+
+Effects:  
+While you maintain this upkeep every attacking Fuuton jutsu has its range increased to the Area of this jutsu and gains Stance Shift: Random (rolling 1d10, 1 Broken, 2, Neutral, 3 Heaven, 4 Earth, 5 Wrath, 6 Void, 7 Steel, 8 Paper, 9 Choice of 1-4, 10 Choice of 5-8), treating all instances of melee weapon in the stance description as Fuuton and basic as D-rank or lower.
+
+Additionally, every time you use a Fuuton jutsu you apply knockback equal to the Chakra Cost /5 and the Heavy Winds weather condition is applied in its area for IC equal to its chakra cost. Multiple applications don’t stack and only the longest duration remains.
+
+### **Hidden Chain Duplication**
+
+The user hides their chain (generally within their sleeves) and duplicates it as they send 5 chains careening at their opponent to wrap around their neck and each limb. Another application is to send the various chains spread across multiple targets. 
+
+Stamina: \+15  
+Upkeep: 2 \* X  
+Speed: \+12  
+Delay: \+6  
+Range: \+5  
+
+Tags: Chain
+
+Effects:  
+The first time this is used in a fight it is treated as an automatic surprise attack. Choose up to 5 total arms, legs, and necks from any number of targets in range with no duplicate limbs/neck targeted. Each location is defended individually but you only advance IC for the highest speed defense declared. For every hit that location is wrapped and takes 25\% of this attack's base damage with a \+50% wounding bonus. 
+
+As a Speed 5 action anyone can attempt to free a wrapped limb (including someone elses) by rolling a contested athletics check. You gain a \+3 for every chain wiped around that target and they gain a +2 bonus for every time they’ve attempted this check.
+
+You may still make attacks using the chain but only against targets with at least 1 location wrapped. Every jutsu cast is split into 5 separate attacks using the rules above, except a wrapped location cannot be defended. Attacks using wrapped chains lose any area if the jutsu had it.
+
+### **Sanjuu Hayate - Three-fold Gale**
+
+With this technique, several shots are fired in rapid succession. With each arrow fired, the archer takes note of the effects of drag and wind speed, as well as their opponent's reaction, and compensates before launching the next arrow. In addition to requiring an incredible degree of focus, this technique is quite taxing to perform.
+
+Stamina: \+ X\*4
+Speed: \+15
+
+Tags: Bow
+
+Effects:
+This is added on to a Bow Attack and X has a max of 5. You make X attacks rolling Accuracy rolls for each attack. If the opponent chooses to defend they must roll against each separate attack but they only pay the cost for it once. The Speed is divided equally between each attack and each attack has its dice halved.
