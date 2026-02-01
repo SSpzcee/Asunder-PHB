@@ -573,17 +573,21 @@ Effects: The Immobilization penalty fades by 1 every 15 initiative counts. Someo
 
 You hold out your hands or similarly grab some nearby rock and create a large, blunt object from it\! This is often a hammer or staff, but also could be stylized however you see fit. As we all know, getting hit with rocks hurts, so this is rather painful.
 
-Chakra: 12  
-Upkeep: 1  
-Speed: 8  
-Seal Speed: 10
+Chakra: 8 \+ X  
+Upkeep: 1 \+ X/5 (Rounded Up)  
+Speed: 10  
+Seal Speed: 10  
 
 Tags: Utility, Self, Creation
 
-Effects:  
-You acquire a Club from the standard Club options in the Equipment section. You may then upgrade it using Artisan points equal to your Chakra Control \- 5. You may choose to double the Base Speed and Upkeep of this Technique to create a second Club in your other hand during the activation of this Technique. Both weapons gain the dual property (for free) but the artisan points must be split between the 2 weapons.
-When using it, you add a Stun 4 (or increase its existing Stun by 3) effect to it.This Club lasts until you let go of it or end this Technique’s Upkeep. You may perform Handseals while holding Earth Clubs, but doing so increases the Seal Speed by 4 for one Club, and 6 for two Clubs.
+Effects: 
+You craft a Club upgrading it using X Artisan Points up to your Chakra Control \- 5. You may choose to double the Base Speed and Upkeep of this Technique to create a second Club in your other hand during the activation of this Technique and both weapons gain the dual property.
+The Club(s) gains the following effects:
 
+Missing an attack makes the ground underneath the target become Rocky Terrain 1  
+The Club lasts until you let go of it or end this Technique’s Upkeep  
+You may perform Handseals for Doton jutsu by increasing the Seal Speed by 4 per weapon  
+The weapon has half its normal Durability  
 
 ### **Shinjuu Zanshu no Jutsu \- Double Suicide Decapitation Technique**
 
@@ -1048,16 +1052,15 @@ This technique's damage is considered 75% higher for determining whether or not 
 
 You gather the wind in your hands into the shape of a ranged weapon, plating it with your chakra to be hard as iron and sharp as steel. Scholars still argue to this day whether the popular ranged taijutsu weapon was named after this technique, or this technique was named after the popular ranged taijutsu weapon.
 
-Chakra: 10  
-Upkeep: 1  
-Speed: 5  
-Seal Speed: 10
+Chakra: 6 \+ X/2  
+Upkeep: 1 \+ X/6 (Rounded Up)  
+Speed: 10  
+Seal Speed: 10  
 
-Tags: Utility, Creation
+Tags: Utility, Self, Creation
 
 Effects:
-
-You create a Fuuma, or up to as many small Ranged weapons (Kunai, Senbon, Shuriken) as you could throw in a multithrow, with stats as per the Equipment section of the PHB. These items gain double their normal thrown range. These weapons have a 20% bonus to wounding if they would otherwise not have a bonus to wounding normally (melee fuuma, shuriken, Kunai) Though these disappear when thrown, if your very next non-interrupt action is to use this Jutsu again after throwing them, your SS is 0 (but not removed), and the Spd of the jutsu is 0\.
+You create X Kunai or Shuriken up to your Multithrow Limit [L23]. Alternatively you may make any other ranged weapon in which case X becomes 12 for Exotic weapons or 8 for any other. These items increase their range by 10 and have \+20% wounding. After throwing these weapons you may immediately recast this jutsu at no IC cost.
 
 ### **Fuuton: Hineri Dangan \- Wind Release: Twister Shot**
 
@@ -1142,17 +1145,20 @@ This technique is used alongside a Dodge interrupt and increases the yards you c
 
 You form your wind condensing it around your hand. Not exactly a fan but this serves a similar function to one being able to reduce fuuton seal speeds and act as a fan for all intents and purposes.
 
-Chakra: 12
-Upkeep: 1
-Speed: 8
-Seal Speed: 10
+Chakra: 8 \+ X  
+Upkeep: 1 \+ X/5 (Rounded Up)  
+Speed: 10  
+Seal Speed: 10  
 
 Tags: Utility, Self, Creation
 
-Effects:  
-You acquire a Fan from the standard Fan options in the Equipment section. You may then upgrade it using Artisan points equal to your Chakra Control \- 5. You may choose to double the Base Speed and Upkeep of this Technique to create a second Fan in your other hand during the activation of this Technique. Both weapons gain the dual property (for free) but the artisan points must be split between the 2 weapons.
+Effects: 
+You craft a Fan upgrading it using X Artisan Points up to your Chakra Control - 5. You may choose to double the Base Speed and Upkeep of this Technique to create a second Fan in your other hand during the activation of this Technique and both weapons gain the dual property.
+The Fan(s) gains the following effects:
 
-When using it, your weapon gains a \+25% Wounding Bonus and Fuuton jutsu cast with it have their seal speeds reduced to 0. This Fan lasts until you let go of it or end this Technique’s Upkeep. You may perform Handseals while holding Wind Fans, but doing so increases the Seal Speed by 4 for one Fan, and 6 for two Fans.
+Weapon jutsu gain \+25% wounding  
+The Fan lasts until you let go of it or end this Technique’s Upkeep  
+The weapon has half its normal Durability  
 
 ## **Fuuton C-rank**
 
@@ -1526,17 +1532,20 @@ Your opponent is covered in the flammable saliva for 30 IC. During so, the first
 
 This jutsu creates a polearm out of pure flame, which the user can hold unharmed (and without lighting their clothes on fire). Konoha once tried to have a treaty passed to ban the use of this technique, though nobody else quite understands what all the fuss is about.
 
-Chakra: 12  
-Upkeep: 1  
-Speed: 5  
-Seal Speed: 10
+Chakra: 8 \+ X  
+Upkeep: 1 \+ X/5 (Rounded Up)  
+Speed: 10  
+Seal Speed: 10  
 
 Tags: Utility, Self, Creation
 
 Effects:  
-You acquire a Polearm from the standard Sword options in the Equipment section. You may then upgrade it using Artisan points equal to your Chakra Control \- 5. You may choose to double the Base Speed and Upkeep of this Technique to create a second Sword in your other hand during the activation of this Technique. Both weapons gain the dual property (for free) but the artisan points must be split between the 2 weapons. 
+You craft a Polearm upgrading it using X Artisan Points up to your Chakra Control - 5. You may choose to double the Base Speed and Upkeep of this Technique to create a second Polearm in your other hand during the activation of this Technique and both weapons gain the dual property.The Polearm(s) gains the following effects:
 
-It uses your ninjutsu rather than physical damage bonus. This weapon persists until you let go of it. Whenever someone is struck by your weapon they must pass a status roll or suffer burns equal to half its number of rolled dice. You may form handseals for Katon jutsu while holding this weapon.
+Weapon jutsu apply Ignite 1 or \+1 to Ignite from this weapon  
+The Polearm lasts until you let go of it or end this Technique’s Upkeep  
+You may perform Handseals for Katon jutsu by increasing the Seal Speed by 4 per weapon  
+The weapon has half its normal Durability  
 
 ### **Katon: Houyoku \- Fire Release: Phoenix Wings**
 
@@ -2036,21 +2045,25 @@ Your AGI is treated as 25% higher for the purposes of movement. Additionally, so
 
 Blink: You may choose to declare a Speed X Move Action, where X has a max of AGI/5. Unlike normal movement (which is handled on an IC-by-IC basis), the movement for this action is resolved immediately. However, moving this way has a Stamina cost equal to X. You may not reduce this Action's Speed by spending AP.
 
-### **Kaminari no Yaiba \- Lightning Blade**
+### **Kaminari no Hoippu  \- Lightning Whip**
 
 You mold your chakra into a cackling weapon made entirely of lightning energy that extends from your hand. This weapon’s cutting power can bypass almost any defense, though it’s harder to control than a solid weapon would be.
 
-Chakra: 15  
-Upkeep: 2  
-Speed: 5  
-Seal Speed: 10
+Chakra: 8 \+ X  
+Upkeep: 1 \+ X/5 (Rounded Up)  
+Speed: 10  
+Seal Speed: 10  
 
-Tags: Energy, Weapon, Utility
+Tags: Utility, Self, Creation
 
 Effects:  
-You acquire a Chain from the standard Chain options in the Equipment section. You may then upgrade it using Artisan points equal to your Chakra Control \- 5. You may choose to double the Base Speed and Upkeep of this Technique to create a second Chain in your other hand during the activation of this Technique. Both weapons gain the dual property (for free) but the artisan points must be split between the 2 weapons.
+You craft a Chain upgrading it using X Artisan Points up to your Chakra Control - 5. You may choose to double the Base Speed and Upkeep of this Technique to create a second Chain in your other hand during the activation of this Technique and both weapons gain the dual property.
+The Chain(s) gains the following effects:
 
-When using it, you reduce any DR by 50% when dealing damage (or 100% against DR sources that are weak to Raiton). This Club lasts until you let go of it or end this Technique’s Upkeep. You may perform Handseals while holding Lightning Whips, but doing so increases the Seal Speed by 4 for one Whip, and 6 for two Whips.
+You reduce any DR by 50% (doubled to elements weak to it)  
+The Chain lasts until you let go of it or end this Technique’s Upkeep  
+You may perform Handseals for Raiton jutsu by increasing the Seal Speed by 4 per weapon  
+The weapon has half its normal Durability  
 
 ### **Taiyouken \- Solar Flare**
 
@@ -2507,18 +2520,22 @@ You fire G number of projectiles and can direct them at a single target or split
 
 Originally developed by the Hidden Waterfall village, this technique has since spread into wider use. The first half of the name is generally dropped, though some choose to keep it out of respect. The jutsu creates a blade out of water, kept as strong as most metals by the chakra infusing it.
 
-Chakra: 6 \+ G  
-Upkeep: 1  
-Speed: 4  
-Seal Speed: 8  
-Gallon Requirement: 3 \> 6
+Chakra: 8 \+ X  
+Upkeep: 1 \+ X/5 (Rounded Up)  
+Speed: 10  
+Seal Speed: 10  
+Gallon Requirement: 0 \> Chakra Control/2  
 
 Tags: Utility, Self, Creation
 
 Effects: 
-You acquire a Sword from the standard Sword options in the Equipment section. You may then upgrade it using Artisan points equal to your Chakra Control \- 5. You may choose to double the Base Speed and Upkeep of this Technique to create a second Sword in your other hand during the activation of this Technique. Both weapons gain the dual property (for free) but the artisan points must be split between the 2 weapons.
+You craft a Sword upgrading it using X Artisan Points up to your Chakra Control - 5. You may choose to double the Base Speed and Upkeep of this Technique to create a second Sword in your other hand during the activation of this Technique and both weapons gain the dual property.
+The Sword(s) gains the following effects:
 
-Any Swords created gain a static damage value added alongside the dice roll which is equal to (G \* 5). This Sword lasts until you let go of it or end this Technique’s Upkeep. You may perform Handseals while holding water swords, but doing so increases the Seal Speed by 4 for one blade, and 6 for two blades.
+Its Damage Dice is increased by G \* 5  
+Its Sword lasts until you let go of it or end this Technique’s Upkeep  
+You may perform Handseals for Suiton jutsu by increasing the Seal Speed by 4 per weapon  
+The weapon has half its normal Durability  
 
 ### **Kirigakure no Jutsu \- Hidden Mist Technique**
 
