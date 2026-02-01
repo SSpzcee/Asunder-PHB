@@ -18,7 +18,7 @@ If you don't have a particular concept, that's okay\! Feel free to just make it 
 
 Every village is also home to several ninja clans. Clans are largely formed by blood or by covenant, and have special techniques tied either to their bloodline, or their other closely-guarded secrets. These techniques are forbidden to outsiders, and one cannot "join" a clan; you are either born into one, or you are not. There are exceptions, but such exceptions must be discussed with a GM, just to make sure.
 
-Choosing a clan is not mandatory, and clanless ninja have their own benefits: a bonus 10% XP, 1 Extra Unique Point, and an extra XP/100 Skill Points. These benefits are further explained in later pages.
+Choosing a clan is not mandatory, and clanless ninja have their own benefits: a bonus 10\% XP, 1 Extra Unique Point, and an extra 5\+XP/200 Skill Points. And They also begin with 30 instead of 25 additional points to distribute when Determine Attributes These benefits are further explained in later pages.
 
 \--------------------------------------------------------------------------------------------------------
 
