@@ -4,7 +4,7 @@
 
 You have near-limitless reserves of chakra. Things that should tire people out simply don't have that effect on you. 
 
-You have a \+3 bonus to your Chakra Exhaustion rolls, and whenever you acquire a Chakra Exhaustion penalty from using a jutsu, that penalty is reduced by 1\.
+You have a \+3 bonus to your Chakra Exhaustion rolls, and whenever you acquire a Chakra Exhaustion penalty from using a jutsu, that penalty is reduced by 1 (to a minimum of 1)\.
 
 The Upkeeps of all your jutsu are reduced by 1\.
 
@@ -109,7 +109,7 @@ Upgrades From: Elementally Gifted
 
 You don't get tired. It's just not something you do. 
 
-Whenever your Stamina penalty increases, it increases by 1 less. 
+Whenever your Stamina penalty increases, it increases by 1 less (to a minimum of 1). 
 
 The first time in a battle you fail a Stamina roll, you advance one less Fatigue category. 
 
