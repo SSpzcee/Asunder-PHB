@@ -4,9 +4,9 @@
 
 ### **Roleplay**
 
-Roleplay is interacting with others while playing as your character. Do note that this does have to be with other people; playing with yourself may be fun, but claiming you should be rewarded for it is just silly. People who are in a spar or fight are not considered to be interactable for the purpose of claiming xp.
+Roleplay is interacting with others while playing as your character. Do note that this does have to be with other people; playing with yourself may be fun, but claiming you should be rewarded for it is just silly. People who are in a spar or fight are not considered to be interactable for the purpose of claiming xp. Scenes have a minimum length of 30 minutes to grant xp.
 
-Every half hour of in-character activity awards 2 XP. You must remain reasonably active throughout this. Thus, if you were playing for an hour and a half, but had to take a twenty minute break in the middle for whatever reason, you would get 4 XP, counting only the hour and ten minutes during which you were actually RPing.
+Every 10 minutes the scene lasts grants 1 XP. You must remain reasonably active throughout this. Thus, if you were playing for an hour and a half, but had to take a twenty minute break in the middle for whatever reason, you would get 4 XP, counting only the hour and ten minutes during which you were actually RPing.
 
 When in doubt, use common sense.
 
@@ -14,7 +14,7 @@ When in doubt, use common sense.
 
 As highly-trained (well, in theory), supernaturally-powered fighters, ninja can learn a lot from combat, testing their abilities against one another. Most of the time this is (semi-)friendly practice rounds, or spars. Sometimes it's, well... not.
 
-You get 2 XP for every 30 minutes the fight lasts, though you do not accumulate RP XP during that time. Additionally, you may receive bonus XP for your fight depending on how things went. Consult the lists below\!
+You get 1 XP for every 10 minutes the fight lasts, though you do not accumulate RP XP during that time. Additionally, you may receive bonus XP for your fight depending on how things went. Consult the lists below\!
 
 Bonuses: \+1 per Fatigue level you end the battle at, to a maximum of \+5 \+2 for every Major wound you acquire \+4 for every Severe wound you acquire \+6 for every Critical wound you acquire.
 
