@@ -51,6 +51,21 @@ Delay: 3
 
 Special: Ignore armor. Cannot be used in Multi Throw (See Abilities).
 
+## **Medium**
+
+### **Boomerang [Blunt, Thrown]**
+
+A mysterious weapon discovered in underground caves with proficient users seemingly always able to have it return to them. There has to be some ninja magic involved…probably.
+
+Cost: 2500
+Speed: 10
+Stamina: 10
+Damage: 8d8
+Range: 5 \+ STR/3
+Delay: 5
+
+Special: After throwing this weapon it always returns to your hand 5 IC later. If you have no weapons to catch it the boomerang simply flies off lost until you retrieve it after the battle.
+
 ## **Large**
 
 ### **Fuuma Shuriken \[Slashing, Thrown, Melee\]**
