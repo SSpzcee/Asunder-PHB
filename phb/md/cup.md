@@ -134,7 +134,7 @@ On the other hand, your small stature makes you quite frail compared to the ordi
 
 While you don't excel in combat, you're able to grasp the fundamental skills and concepts important to being a ninja. 
 
-You have an extra XP/75 Skill Points to spend, and your skill maximums are increased by 1\. 
+You gain 1 + (XP/1000) to all skills, and your skill maximums are increased by 1.  
 
 However, you have a \-1 Accuracy penalty.
 
