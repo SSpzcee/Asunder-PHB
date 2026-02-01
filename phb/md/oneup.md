@@ -64,7 +64,7 @@ Upgrades Into: Elementalist
 
 Chakra flows readily through your body and into your jutsu, allowing you to effortlessly mold it into techniques. 
 
-The Chakra costs for all your jutsu are reduced by 1 \+ 1 per rank (2 for E-rank, 3 for D-rank), and your ninjutsu damage bonus is increased by half that amount (1 for E-rank, 1.5 for D-rank, and so forth).
+You have a \+1 bonus to your Chakra Exhaustion rolls per rank of the jutsu you're using (\+1 for E-rank, \+2 for D-rank, etc.), and your ninjutsu damage bonus is increased by half that amount \+0.5 (1 for E-rank, 1.5 for D-rank, and so forth).
 
 Upgrades Into: Boundless Chakra
 
