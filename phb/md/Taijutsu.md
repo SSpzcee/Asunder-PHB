@@ -883,13 +883,13 @@ You squeeze someone's arm between your knees and pull. This hurts…a lot.
 
 Stamina: 16
 Damage: As Basic Attack \+ (Your Control)dX  
-Speed: Variable
+Speed: 10
 Special: Control 5
 
 Tags: Submission
 
 Effects:
-On use and every 5 IC you maintain this Submission your opponent takes the listed damage (not including speed \* db) and their control is reduced by 2. While using this submission your maximum control is increased by 6. Your opponent also loses access to the targeted arm, any object held with it is dropped, and their seal speed reduction is halved.
+After applying this submission every consecutive use automatically hits and does not reduce your control. Your opponent takes the listed damage (not including speed \* db) and their control is reduced by 1. While consecutively using this submission your maximum control is increased by 6. Your opponent also loses access to the targeted arm, any object held with it is dropped, and their seal speed reduction is halved.
 
 ### **Knee Bar**
 
@@ -897,13 +897,13 @@ You squeeze someone's arm between your knees and pull. This hurts…a lot.
 
 Stamina: 16
 Damage: As Basic Attack \+ (5 \+ Your Control)dX
-Speed: Variable
+Speed: 10
 Special: Control 5
 
 Tags: Submission
 
 Effects:
-On use and every 10 IC you maintain this Submission your opponent takes the listed damage (not including speed * db) and their control is reduced by 3. While using this submission your maximum control is increased by 10. Your opponent also loses access to the targeted leg.
+After applying this submission every consecutive use automatically hits and does not reduce your control. Your opponent takes the listed damage (not including speed \* db) and their control is reduced by 3. While consecutively using this submission your maximum control is increased by 10. Your opponent also loses access to the targeted leg.
 
 ### **Escape Grapple**
 
@@ -960,13 +960,13 @@ Even if you fail this grapple roll your opponent is left at immobility 4 until t
 You wrap a limb or flexible material around their neck. While ninja have stronger lungs than most people, if deprived of air for long enough anyone will lose consciousness.
 
 Stamina: 20
-Speed: Variable
+Speed: 10
 Special: Control 9
 
 Tags: Submission
 
 Effects:
-On use and every 10 IC you maintain this Submission your opponent gains +1 suffocation and their control is reduced by 2. 
+After applying this submission every consecutive use automatically hits, it does not reduce your control. Your opponent gains +1 suffocation and their control is reduced by 2. 
 
 ### **Guard**
 
@@ -1061,7 +1061,7 @@ The opponent loses access to the targeted arm and gains immobility 2 until this 
 You bring up both of your opponents legs and slam them to the ground. This is a more powerful but riskier alternative to the Single Leg Takedown.
 
 Stamina: 18
-Speed: 8
+Speed: 12
 Special: Takedown (duh), Control 7, Stun 8
 
 Effects:
@@ -1072,13 +1072,13 @@ After pinning your opponent they lose 2 control.
 A general term for any position where you press a muscle into a bone. This causes immense pain and is likely to leave them needing a trip to the hospital
 Stamina: 26
 Damage: As Basic Attack + (8 + Your Control)dX
-Speed: Variable
+Speed: 14
 Special: Control 7
 
 Tags: Submission
 
 Effects:
-Target a specific limb of your opponent’s. On use and every 8 IC you maintain this Submission your opponent takes the listed damage (not including speed \* db).  While using this submission your maximum control is increased by 7. This damage does not inflict wounds, instead take half the total of all dice rolled for this use of Compression Lock. When that total increases past the opponents wound threshold you may reset this counter to 0 and inflict that wound. Depending on the limb targeted you gain the additional benefits of Arm Bar or Knee Bar.
+Target a specific limb of your opponent’s. After applying this submission every consecutive use automatically hits and does not reduce your control. Your opponent takes the listed damage (not including speed \* db). While using this submission your maximum control is increased by 7. This damage does not inflict wounds, instead take half the total of all dice rolled for this use of Compression Lock. When that total increases past the opponents wound threshold you may reset this counter to 0 and inflict that wound. Depending on the limb targeted you gain the additional benefits of Arm Bar or Knee Bar (not the control effects).
 
 ## **Grapple A-rank**
 
@@ -1114,13 +1114,13 @@ Your opponent gains immobility 6 and you gain half as much. Every 10 IC you main
 A powerful chokehold from the front encircling your opponents neck like a guillotine (huh like the name). This cuts off their airflow and can be used from a standing position.
 
 Stamina: 28
-Speed: Variable
+Speed: 12
 Special: Control 10
 
 Tags: Submission
 
 Effects:
-You may use this in a clinch but its control cost is increased by 5. Your opponent is pinned and on use and every 10 IC you maintain this Submission have your opponent roll grapple defense vs your offense. Regardless if they pass they gain 1 suffocation, +1 for every 10 they failed by.
+You may use this in a clinch but its control cost is increased by 5. Your opponent is pinned and after applying this submission every consecutive use you maintain this Submission this does not reduce your control. Your opponent rolls grapple defense vs your offense. Regardless if they pass they gain 1 suffocation, +1 for every 10 they failed by.
 
 ### **Turtle**
 
