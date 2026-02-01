@@ -13,9 +13,10 @@ st.markdown("""
 
 </style>""", unsafe_allow_html=True)
 
-rules, nin, tai, gen = st.tabs(["Jutsu Rules", "Ninjutsu", "Taijutsu", "Genjutsu"])
+rules, nin, tai, ken, gen = st.tabs(["Jutsu Rules", "Ninjutsu", "Taijutsu", "Kenjutsu", "Genjutsu"])
 
 rules.markdown("<a href='#taijutsu'>Taijutsu</a>", unsafe_allow_html=True)
+rules.markdown("<a href='#kenjutsu'>Kenjutsu</a>", unsafe_allow_html=True)
 rules.markdown("<a href='#ninjutsu'>Ninjutsu</a>", unsafe_allow_html=True)
 rules.markdown("<a href='#genjutsu'>Genjutsu</a>", unsafe_allow_html=True)
 
@@ -36,11 +37,15 @@ nin.write(ninj.read())
 
 tai.markdown("<a href='#unarmed'>Unarmed</a>", unsafe_allow_html=True)
 tai.markdown("<a href='#combo'>Combo</a>", unsafe_allow_html=True)
-tai.markdown("<a href='#weapon'>Weapon</a>", unsafe_allow_html=True)
 tai.markdown("<a href='#grapple'>Grapple</a>", unsafe_allow_html=True)
 
 taij = open("phb/md/Taijutsu.md", "r")
 tai.write(taij.read())
+
+ken.markdown("<a href='#weapon'>Weapon</a>", unsafe_allow_html=True)
+
+kenj = open("phb/md/Kenjutsu.md", "r")
+ken.write(kenj.read())
 
 gen.markdown("<a href='#e-rank'>E-Rank</a>", unsafe_allow_html=True)
 gen.markdown("<a href='#d-rank'>D-Rank</a>", unsafe_allow_html=True)
