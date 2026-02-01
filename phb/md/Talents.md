@@ -112,9 +112,10 @@ This allows you to learn C- and B-rank Sealing ninjutsu.
 
 ### **Master Artisan**
 
-When an Artisan advances beyond the realm of mere proficiency and takes their first steps to mastery, they can finally begin to call themselves a true novice in their craft.Through a combination of natural gifts and the right education (even if self-taught), your talents as an artisan have been brought to a level that surpasses the limits of the everyday tradesman. You’ve become a master of your craft allowing you to create true works of art (Alongside actually useful things, of course).
+When an Artisan advances beyond the realm of mere proficiency and takes their first steps to mastery, they can finally begin to call themselves a true novice in their craft.Through a combination of natural gifts and the right education (even if self-taught), your talents as an artisan have been brought to a level that surpasses the limits of the everyday tradesman. You’ve become a master of your craft allowing you to create true works of art (Alongside actually useful things, of course). Your mastery allows you to work with some of the rarest and most valuable materials in the world using the most advanced of techniques. Materials and techniques that other artisans wouldn’t dare to touch or attempt. 
 
-Your mastery allows you to work with some of the rarest and most valuable materials in the world using the most advanced of techniques. Materials and techniques that other artisans wouldn’t dare to touch or attempt. This comes in the form of giving you access to exclusive and special features within your chosen specialty.
+Choose mastery of 2 Wondrous Materials from the following list: Skysteel, Ironheart, Voidglass, Crypstone, Angelskin, Mindglass. You gain the ability to use special properties when creating weapons (including through ninjutsu). When using the Downtime action to craft you can use any Wondrous Materials you have mastered.
+
 
 ### **Hyper Elements**
 
