@@ -374,3 +374,122 @@ Anything currently present in the Area is shifted to the outer edge of it, but a
 While you are underground and proceed to dig through the earth through Techniques such as Moving Underground as if Swimming or Tunnel Burrowing Rodent Technique, every 1 Yard of earth that you dig through to move is mystically transported as 1 Rock into the Dam, filling it up.  
 
 Once 30 ICs have passed or the Dam is completely filled up, the Dam's walls crack before quickly crumbling apart, causing all Rocks stored within to descend onto the battlefield in a destructive avalanche. This attack uses your Ninjutsu Accuracy at the time that the Dam was originally created, has an area of Cube: X \+ 10, deals Xd20 damage, and does not deal any additional (Speed \* DB) Damage. It cannot be Parried even by Nin Parries due to the sheer mass of the avalanche of rock. Anybody that has something which allows them to ignore Ground-Based Conditions automatically avoids this Attack. Anybody that is hit by this Attack takes the Buried Status of a Severity of X\/5.
+
+# **Tosusaibo** 
+
+### **Keijō Henka - Shape Change**
+
+Tosusaibo are able to morph portions of their bodies into objects allowing for great utility in and out of combat.
+
+Effects:  
+As a Speed 6 action you can transmute up to one of your limbs at a time into a variety of weapons and objects. These objects are restricted to fitting within a 1 Yard Cube.
+In Combat this allows you to increase your level of the power attack ability by 1 per rank in this ability until your next attack. Additionally, your Unarmed or Combo attacks can deal Blunt, Slashing, or Piercing damage. At the second level you can also choose energy.
+Out of combat you can morph your limbs into any object that you can clearly picture. For any skill roll related items (like lockpicks) you gain a \+2 bonus per rank in this ability.
+
+Cost: 20  
+Limit: CHA / 40, max 3
+
+### **Kassokuken - Piston Fist**
+
+By subtly modifying their arm the Tosusaibo can fashion it into a piston charging an additional devastating attack.
+
+Type: E Rank - Taijutsu  
+Stamina: As Basic Attack \+ X  
+Damage: As Basic Attack + XdS  
+Speed: As Basic Attack / 2  
+
+Tags: Attack, Melee, Blunt, Arm 1
+
+Effects:  
+This jutsu may be activated immediately after you hit with a Basic Attack or any jutsu with the Arm tag (except for this one). X has a maximum of your levels of power attack. 
+
+### **Masakari - Weapon Form**
+
+Tosusaibocan shift their weapon into an object more suitable for combat. This can come in the form of swords, spears, chain whips, and broadaxes.
+
+Type: D Rank - Taijutsu  
+Chakra: 12  
+Upkeep: 1  
+Speed: 6  
+Seal Speed: 8  
+
+Tags: Utility, Creation
+
+Effects:   
+You acquire any single handed weapon from the Equipment section. You may then upgrade it using Artisan points equal to your Athletics \- 5. Whenever you take damage the next attack made with this weapon is increased by 1\% for every 1\% of vitality or hp lost.
+
+### **Jet Booster**
+
+The Tosusaibouses their transformation to grow jet booster-like arms that increase their attacking power, speed, and even allowing them to fire blasts of chakra out of.
+
+Type: C Rank - Taijutsu  
+Chakra: 15  
+Special Upkeep: 4  
+Speed: 8  
+
+Tags: Utility
+
+Effects:  
+Using Shape Change, you create a jet-like appendage which emits bursts of chakra allowing you to dash around the battlefield and empower your attacks with more momentum. These may be created attached to one of your limbs or on your back. While you have a limb transformed into a Jet Booster you gain access to the following actions:
+
+Burst (Delay \+4, Link) \- You reduce the base speed of any Taijutsu attack by 4 to a minimum of 3, but use the original speed for determining damage calculations. You may also treat the attack as being +10 Speed for determining attack while moving.
+
+Jump (Speed 3, Chakra 10, Link) \- You instantly move in any direction (including up) with a burst of chakra up to your ninjutsu damage bonus in yards which cannot be reduced in any way. This may be added as a link to a dodge increasing its speed by 3.
+
+Lotus Cannon (Speed 10, Delay 5, Chakra 15) \- X has a maximum of your Chakra Control. You fire a high density projectile of pure chakra. This deals damage equal to your basic attack and has a range of 40.
+
+
+### **Saibō Kyūin - Cellular Regeneration Absorption**
+
+The Tosusaiboextends a long needle-like protuberance from the palm of their hand and uses it to stab into an opponent and absorb their flesh and blood to restore your stamina and flesh.
+
+Type: B Rank - Taijutsu  
+Stamina: 24  
+Damage: (STR /5)d10  
+Speed: 12  
+
+Tags: Submission, Control 5
+
+Effects:  
+On use and every 10 IC you maintain this Submission your opponent takes the listed damage as if it was a speed 5 attack and you regain 1% of that damage as HP every IC for the next 10 IC (or until the pin is broken).
+
+### **Saibō Kyūin - Cellular Regeneration Ejection**
+
+Similar to the absorption version but instead of taking life force the Tosusaiboprovides them with some of their own.
+
+Type: B Rank - Taijutsu  
+Chakra: 24  
+Speed: 10  
+Delay: 10  
+
+Tags: Utility
+
+Effects:  
+This can only be used on a willing target. For the next 10 IC you lose 1\% of your max HP every IC and the target regains that much.
+
+### **Senninka - Sage Transformation**
+
+Unlike traditional sages who meditate and dedicate years to learn how to manipulate Senjutsu, Tosusaiboare seemingly able to utilize it at will. Their control is nowhere near as perfect but this lets them supercharge your other abilities into much more powerful forms.
+
+Type: A Rank - General Ninjutsu  
+Chakra: 20  
+Special Upkeep: 10  
+Speed: 10  
+Delay: 10  
+
+Tags: Link
+
+Effects:   
+Passively over the course of a fight your body gathers a raw form of Sage Chakra or SC which have a max cap equal to your Current Willpower. The X in this jutsu’s cost is equal to the amount of SC you have at any given time. If your SC ever falls to 0 this jutsu ends. Your body produces 1 SC every 20 IC which occurs whether you have used this jutsu in the fight or now. While maintaining this jutsu you instead gain 1 SC every 10 IC which you may spend to use one of the upgraded forms below:
+
+Weapon Form | X SC
+Your weapon form gains an extra X \* 4 artisan points and every time you make an attack with it you lose 1 SC.
+
+Jet Booster (Burst) | Rank of Jutsu /2 SC (rounded up)
+This supplements your regular boost action and causes it to halve the base speed of the attack but follows all the other rules.
+
+Jet Booster (Jump) | 1 SC
+This increases the speed of your jump action by X and the chakra cost by 3 \* X where X has a max of your current SC. You jump X times and while moving you become immune to any Ground-Based effects. You may also choose to add a delay of up to X in between each jump.
+
+Jet Booster (Lotus) | X SC
+You fire X lotus cannons in a row. The total speed becomes X \* 5 but each individual attack is treated as being Speed 0 for the purposes of damage calculation. You roll Chakra for each shot individually but its cost is reduced to 10.
