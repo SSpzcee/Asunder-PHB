@@ -699,7 +699,7 @@ Limit: DEX /30
 ### **En-Guard**
 Heightening your reflexes with weaponry you’re now able to prepare your battle stance at a moment's notice.
 
-After gaining this Ability, whenever you start or enter a Combat encounter, you may choose to start in either the Heaven, Earth, or Void Stances instead of the Neutral Stance.
+After gaining this Ability, whenever you start or enter a Combat encounter, you may choose to start in either the Heaven or Earth instead of the Neutral Stance.
 
 Cost: 15
 Requires: Athletics 15
@@ -725,7 +725,7 @@ Lowering the Speed of a Dual Wield Attack action lowers the effective Speeds (fo
 Unfortunately, the Dual Wield Attack action (and derivatives of it such as Centipede Strike) carries with it a \-5 Accuracy penalty.
 
 Cost: 25
-Requires: 40 DEX
+Requires: 60 DEX
 
 ### **Monkey Grip**
 By using extreme strength, chakra-based powers, and a cheerful disregard for physics, you are able to use two handed weapons in one hand! Notably, this means they no longer benefit from their 50% increase in your damage bonus. To change from wielding a two handed weapon in two hands to one hand or back to two hands, you must take a speed 0 non-interrupt action to make the change in hand placement. In this case, if you chose to hold the two handed weapon in one hand, you could use an item with that one hand or do other actions that require one hand. This change is a non-interrupt action meaning if you are holding the weapon with both hands you would not be able to use an item or jutsu as part of a defense.
@@ -737,62 +737,55 @@ Scale: 10
 Limit: STR /50, max 2
 
 ### **Weapon Focus: (Weapon)**
-You’ve trained yourself specifically with a single type of weapon. Choose one of the weapon shapes from the Equipment chapter (such as Sword, or Club). You have \+1 Accuracy and \+1 to your damage bonus when using that weapon to make an attack, per rank. Weapon focus cannot be applied to defensive rolls, nor to any other use that have no associated stamina cost. You may take this ability for different weapons, counting as a different ability (with a separate cost, number of ranks, etc.) each time. Any attack which benefits from your Weapon Focus has its Stamina cost increased by 3 per rank; you may choose to use less than your full ranks of Weapon Focus on a given attack if you wish.
+You’ve trained yourself specifically with a single type of weapon. Choose one of the melee weapon shapes from the Equipment chapter (such as Sword, or Club). You have \+1 Accuracy and \+1 to your damage bonus when using that weapon to make an attack, per rank. Weapon focus cannot be applied to defensive rolls, nor to any other use that have no associated stamina cost. You may take this ability for different weapons, counting as a different ability (with a separate cost, number of ranks, etc.) each time. Any attack which benefits from your Weapon Focus has its Stamina cost increased by 3 per rank; you may choose to use less than your full ranks of Weapon Focus on a given attack if you wish.
 
 Cost: 6
 Scale: 2
-Limit: (DEX \- 30) /30, max 3
+Limit: (DEX \- 30) /30, max 5
 
-### **Blunt: Stun**
-Your attacks stagger an opponent, club them upside the head, knock the wind out of them, or otherwise keep them from recovering.
+### **Size Specialty**
+You’ve trained yourself with a specific heft to your weaponry. Whether small concealable weapons or ones the size of a tree trunks one size just feels right in your hand.
 
-Your blunt weapon attacks gain Stun 1 per rank, or increase their existing Stun by 1 per rank.
+Effects:  
+Choose one of the following sizes. Whenever you use a weapon of that size you gain the relevant bonus to all attacks made with that weapon:  
 
-Cost: 5
-Scale: 2
-Limit: STR /20
-
-### **Large/Extreme: Momentum**
-You turn one of the greatest enemies of shinobi--physics--to your own ends.
-Each rank gives a \-1 penalty to any enemy's attempts to parry your weapon.
+Small: Consecutive attacks reduce their Speed by 1, this stacks up to your ranks  
+Medium: Each rank allows you to increase or decrease your attack’s delay by 1 to a max change of half its base delay.  
+Large: Each rank gives a -1 penalty to any enemy's attempts to parry your weapon  
+Extreme: Your weapon gains 1 Area per rank  
 
 Cost: 4
 Scale: 2
-Limit: STR /20, max 5
+Limit: Ranks in Weapon Focus
 
-### **Slashing: Perfect Cut**
-Normally, when partial defense applies you would deal 20\% of your attack's damage per point you hit by. With this ability you do 25\% per point you hit by, up to full damage if you hit by 4 points.
+### **Damage Specialty**
+Your fighting style consists of specific sequences that bring out the true potential of your preferred weapons. This can come in the form of unexpected angles, proper edge alignment, or hard hitting moves to leave your opponents reeling.
 
-Cost: 20
-Requires: 50 DEX
+Effects:  
+Choose one of the following damage types. Whenever you use a weapon and choose to deal that damage type you gain the relevant bonus to all attacks made with that weapon:
 
-### **Piercing: Penetrate**
-Your piercing weapons gain 'Ignore Armor' which allow them to bypass any armor your opponent is wearing!
-
-Cost: 20
-Requires: 50 STR
-
-### **Polearm: Trip**
-You sweep with the blunt end (or one of the blunt ends) of your weapon, knocking your opponent's feet out from beneath them. This allows you to use Trip (the E-rank Unarmed Taijutsu technique) as a Weapon Taijutsu, as long as you know it.
-
-Cost: 10
-
-### **Small: Flurry**
-Most of the small weapons rely on something other than overpowering force to deal their damage; accordingly, a dozen quick strikes is often preferable to six slow, powerful ones.
-
-Each time you make an attack with a Small weapon, the total Speed of your next attack with that weapon is reduced by 1. This stacks for consecutive attacks; if you make three attacks with your weapon, without taking any non-Interrupt action in between, the next attack would have -3 total Speed.
-
-As a reminder, total Speed cannot go below half of base Speed. The maximum reduction is your number of ranks in this ability.
-
-Cost: 4
-Scale: 2
-Limit: DEX /20
-
-### **Sword: Iaijutsu**
-If you attack with a sword you have to draw (meaning it hasn't been used for parries or jutsu since it was sheathed or hasn't been used in combat yet) the attack's Speed is halved, though for the purpose of damage calculations it's treated as its regular speed. This may only be done once per battle, even if you have more than one sword.
+Blunt: You can increase your attacks knockback by 2 per rank. You may direct which direction they move and colliding with an object or person cause both to take 1d8 per yard moved. Multiple targets being knocked in the same direction allows them to collide with each other but only once.  
+Slashing: Your attacks gain +10% wounding per active slashing wound on the target to a max of ranks \* 10%.  
+Piercing: Your attacks increase their damage by \+2% per every Needling the target has to a max of 8 * Ranks in Damage Specialty  
 
 Cost: 20
-Requires: 80 DEX, 70 AGI
+Limit: Ranks in Weapon Focus
+
+### **Weapon Mastery**
+You have truly devoted yourself to mastering a style of weapon and know how to bring out its full potential.
+
+Swords: Partial defense deals 25% per point you hit by instead of 20%, up to full damage if you hit by 4 points. So if their defense is 2 below yours they take 50% damage instead of 40%.
+
+Polearms: When attacking, with this weapon you may "dual-wield" it with itself as if you were holding 2 different one-handed weapons.
+
+Clubs: The die size of your Clubs are increased by 2.
+
+Fans: Immediately after using this fan to cast a Fuuton jutsu you may make a basic attack or use the One Star jutsu without increasing your IC.
+
+Chains: Once per attack when a target successfully parries or dodges, you can pay the Stamina Cost of the Jutsu or Basic Attack again and force them to defend a second time.
+
+Cost: 30
+Requires 4 Ranks in Weapon Focus
 
 ## **Weapons, Ranged**
 
@@ -836,7 +829,7 @@ Requires: Enhanced Sight 3
 ### **Senbon User**
 You're a person who uses senbon in combat. This is rare, but not unheard of; it takes a lot of effort to get results out of them, but a weapon that allows the degree of precision they do can certainly be rewarding.
 
-This ability removes their inherent \-2 Accuracy penalty, and allows you to use your DEX, rather than STR, to determine your damage bonus with senbon. Finally, damage dealt by senbon is increased by 200\% for the purposes of calculating wounds.
+This ability removes their inherent \-2 Accuracy penalty, and allows you to use your DEX, rather than STR, to determine your damage bonus with senbon.
 
 Cost: 15
 Requires: 45 DEX, Medicine 5
@@ -845,17 +838,14 @@ Requires: 45 DEX, Medicine 5
 You can multi-throw needles, just like you can normally multi-throw shuriken and kunai.
 
 Cost: 15
-Requires: 60 DEX, Athletics 10
+Requires: 70 DEX, Athletics 10
 
 ### **Combat Acupuncture**
-You can throw senbon to target vital points on an opponent's body. Whenever making a called shot with senbon, if you deal damage you inflict a \-1 immobilization penalty on your foe.
-
-Using this on somebody already suffering from it increases the Immobilization penalty by 1 each time. Its effects end entirely 20 IC after the last time you hit with a senbon called shot. The maximum penalty is your ranks in Combat Acupuncture.
+You can throw senbon to target vital points on an opponent's body. For every rank your senbon attacks gain \+25% Wounding
 
 Cost: 2
 Scale: 2
-Limit: DEX /10, Medicine /2, Max 10
-Requires: Doctor 1, Medical Training Talent
+Limit: Medicine /3, Max 10
 
 ### **Surgical Precision**
 When you wound an enemy with a senbon attack, you have a 10\% chance per rank for the wound to be upgraded to the next-highest rank. If you don't wound them, this is replaced by a 10\% chance per rank to cause a minor wound, so long as your attack did any damage. Every rank of this ability also raises the attack's Stamina cost by 1; you can choose whether or not to use it, and to what extent, when you attack.
@@ -865,7 +855,7 @@ If used on a multi-throwing attack with senbon, this is applied before the one-r
 Cost: 2
 Scale: 2
 Limit: DEX/10, Medicine /2, max 10
-Requires: Doctor 2, Medical Training Talent
+Requires: Medical Training Talent
 
 # **Advanced Training**
 
